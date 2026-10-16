@@ -1,10 +1,24 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-16T19:32:33.582447+00:00",
-  "last_success_at": "2026-10-16T19:32:33.582447+00:00",
+  "last_checked_at": "2026-10-16T19:33:34.298205+00:00",
+  "last_success_at": "2026-10-16T19:33:34.298205+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "ff632fd2f257fa44",
+      "title": "TSE define regras para canais de WhatsApp durante a campanha",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: tSE define regras para canais de WhatsApp durante a campanha. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-define-regras-para-canais-de-whatsapp-durante-campanha",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-16T19:27:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "0444fcd4aa3ff456",
       "title": "Justiça condena empresários por desviar quase meio milhão de hospital em MS",
@@ -133,8 +147,8 @@
     },
     {
       "id": "81609d45b2ec841d",
-      "title": "Globo recebe Flávio para almoço antes desabatina, e campanha de Lula protesta",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: globo recebe Flávio para almoço antes desabatina, e campanha de Lula protesta. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Globo recebe Flávio para almoço antes de sabatina, e campanha de Lula protesta",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: globo recebe Flávio para almoço antes de sabatina, e campanha de Lula protesta. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/globo-recebe-flavio-para-almoco-antes-desabatina-e-campanha-de-lula-protesta.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-16T19:17:00+00:00",
@@ -1462,20 +1476,6 @@
       "archive": false
     },
     {
-      "id": "0d07402b6b0de5fe",
-      "title": "Ministro do TSE proíbe Meta de limitar alcance de conteúdo político e favorecer Lula ou Flávio por ferramenta de IA - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: ministro do TSE proíbe Meta de limitar alcance de conteúdo político e favorecer Lula ou Flávio por ferramenta de IA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOeDJEZ3RuWldCOGljVV9RVE5KZDdyMXJ5OWRWQkFuczRsWVlHM1FSelFvd0ppRHZEVlJqbU51TnlVR3U1UDRXc202T2dKVnZjNTJ4akgwUHRoUWJfUFhKeGJHZjFuVXdWVERkaENJZl80dmRtSGNGTElkMHBUS1NKdkE4RzJLb1U5SkNTMGtTVm1QYk1JYktTa0tLNkN5azBManJSS1ZQR2ZfNU5HZ0JCTk5OTXJvNXpiTWNTRjBFQWtmVFcxTFFSZ0VwT01XbWc0VERFd2dqRTVJMmp3UU1IVHVVa3RfbTFyM1BDRW9ZdFJTTjc1cWRIc0hWWGlkLThEelN0LWJzVGlaWUJVYUpTYXN5cS03U03SAaYCQVVfeXFMTlZZMjZwSXJ4U291NFotOUpBbVAtNlh4bUE4VkFsUXRSb1V3Wm1YZzNmZFlRODdkWlppalJ3TnBtRGlaUEZ2SXdnTERIOS1pRkhRN3JwRlVOSzBsbkJoWGdOYnpmWE03aVUwb1JTQkFJTDJjWU8wNmtXa3liVHlyQ2FZTG1tX1QyN3NRMEk0cUhtdVhvVHFPb2lOc1c1REFSV3FMQWg1OHVnMHdwOVI5WUd5QS0yT09mWi1SYVRNSjRpYlZEbnNJdDlKQk84bXBIdHRMclFuTDVMSVhKajUtNGVlbjYyaS1IbWV3SXZqaHR4NTlfa1dNcG9vbTRxSWRIaC1yenIwd2FJWkhBUmNkOGNjOGdFc1VNN2FrWnFiQTRYU0pvX3Bn?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-15T22:28:31+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "dfe307e631ffd239",
       "title": "MEC libera novas formações online para professores",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: mEC libera novas formações online para professores. Consulte a reportagem para contexto, dados e declarações.",
@@ -1605,7 +1605,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 32
+      "items": 31
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1645,7 +1645,7 @@
     },
     "Agência Brasil · Justiça": {
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     "Agência Brasil · Internacional": {
       "status": "ok",
@@ -1665,11 +1665,11 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 35
+      "items": 34
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 44
+      "items": 43
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1681,11 +1681,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 59
+      "items": 58
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 51
+      "items": 52
     }
   },
   "notes": [
