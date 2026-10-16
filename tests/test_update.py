@@ -57,3 +57,41 @@ class TopicTest(unittest.TestCase):
         a={**base,'title':'PEC da Segurança avança no Senado'}
         b={**base,'title':'PEC da Segurança retirada da pauta','published_at':'2026-10-16T13:00:00+00:00','url':'https://teste.org/news/2'}
         self.assertEqual([x['title'] for x in u.consolidate([a,b])],['PEC da Segurança retirada da pauta'])
+
+class RegressionTest(unittest.TestCase):
+    def _feed(self, title, default=None):
+        from xml.sax.saxutils import escape
+        rss=f'''<rss><channel><item><title>{escape(title)}</title>
+        <link>https://exemplo.org/materia/123</link>
+        <pubDate>{u.NOW.strftime('%a, %d %b %Y %H:%M:%S +0000')}</pubDate>
+        </item></channel></rss>'''
+        return u.parse_feed(rss.encode(),('G1','https://exemplo.org/rss',default,False))
+    def test_entertainment_not_classified_as_politics(self):
+        self.assertEqual(self._feed('As fantasias das celebridades em baile de Halloween em São Paulo'),[])
+        self.assertEqual(self._feed('Quem era jovem que morreu em acidente de moto em Palmas'),[])
+    def test_actual_civic_news_remains(self):
+        items=self._feed('Senado retira PEC da Segurança da pauta')
+        self.assertEqual(len(items),1)
+        self.assertEqual(items[0]['category'],'Câmara e Senado')
+    def test_not_candidate_statement_by_third_party(self):
+        t='Líder do PT no Senado diz ter avisado Lula sobre apoio a proposta que reduz maioridade penal'
+        self.assertIsNone(u.election_slot(t,u.election_candidate(t)))
+    def test_not_candidate_support_based_on_mention(self):
+        t='Pacheco no STF tem apoio na corte, mas aliados de Lula temem discussão na eleição'
+        self.assertIsNone(u.election_slot(t,u.election_candidate(t)))
+    def test_candidate_proposals_and_speech(self):
+        cases=[('Lula promete passe livre nos fins de semana','lula','Proposta'),
+               ('Flávio Bolsonaro discute proposta para mudar jornada','flavio','Proposta'),
+               ('Flávio diz que participará do debate','flavio','Fala'),
+               ('Lula negocia apoio de governadores','lula','Articulação'),
+               ('Governador declara apoio a Lula no segundo turno','lula','Apoiador')]
+        for title,candidate,expected in cases:
+            with self.subTest(title=title):
+                self.assertEqual(u.election_candidate(title),candidate)
+                self.assertEqual(u.election_slot(title,candidate),expected)
+    def test_cross_candidate_campaign_law_not_collapsed(self):
+        template={'published_at':u.NOW.isoformat(),'category':'Eleições','source':'Fonte',
+                  'election_type':'Proposta'}
+        a={**template,'candidate':'lula','title':'Lula defende fim da escala 6x1','url':'https://a.test/1'}
+        b={**template,'candidate':'flavio','title':'Flávio propõe escala 6x1 alternativa','url':'https://a.test/2'}
+        self.assertEqual(len(u.consolidate([a,b])),2)
