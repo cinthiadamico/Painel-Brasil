@@ -44,7 +44,16 @@ jobs:
           git add site/data/news.json
           if ! git diff --cached --quiet; then
             git commit -m "chore: atualizar Painel Brasil [skip ci]"
-            git push
+            for tentativa in 1 2 3; do
+              git pull --rebase origin main
+              if git push; then
+                break
+              fi
+              if [ "$tentativa" -eq 3 ]; then
+                exit 1
+              fi
+              sleep "$tentativa"
+            done
           fi
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
