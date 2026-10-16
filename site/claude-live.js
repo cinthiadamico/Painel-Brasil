@@ -202,7 +202,7 @@
   function normalizeSource(str) {
     return String(str||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]/g,'');
   }
-  function renderPortals(items) {
+  function renderPortals(items,sourceHealth={}) {
     const sec=node('section','cat');sec.dataset.cat='portais';
     sec.append(sectionTitle('Portais de notícias','--accent',PORTALS.length));
     const grid=node('div','card-grid');
@@ -211,6 +211,15 @@
       const matches=sortedRecent(items.filter(i=>normalizeSource(i.source)===normalizeSource(name)));
       const n=matches.length;
       card.append(node('p','',`${description}. ${n} ${n===1?'matéria recente':'matérias recentes'} na edição atual.`));
+      const health=sourceHealth[name];
+      if (health) {
+        const status=health.status==='erro'
+          ? 'Falha temporária na coleta deste veículo'
+          : (name==='O Globo'||name==='Estadão'
+             ? 'Manchetes consultadas via Google Notícias'
+             : 'Feed de notícias respondendo');
+        card.append(node('p','portal-feed-status',status));
+      }
       const links=node('ul','portal-news');
       matches.slice(0,3).forEach(i=>{
         const li=node('li'); const a=node('a','',i.title||'Abrir matéria');
@@ -337,12 +346,19 @@
     const note=node('div','live-summary');
     const checked=dateOf(payload.last_checked_at);
     note.append(node('strong','', 'EDIÇÃO ATUAL · MANCHETES AUTOMÁTICAS'),node('span','', `${allItems.length} notícias · checagem: ${checked} (Brasília)`));
-    if(payload.status!=='atualizado') note.append(node('span','caution',payload.status==='parcial'?'Cobertura parcial: algumas fontes estão indisponíveis.':'Coleta sem novidades confirmadas. Consulte a data da última coleta válida.'));
+    if(payload.status!=='atualizado') {
+      const failures=Object.entries(payload.source_health||{})
+        .filter(([,v])=>v&&v.status==='erro').map(([name])=>name);
+      const message=failures.length
+        ? 'Coleta parcial: falha em '+failures.join(', ')+'. Outras fontes podem continuar atualizadas.'
+        : 'Coleta sem novidades confirmadas. Consulte a data da última coleta válida.';
+      note.append(node('span','caution',message));
+    }
     const archiveTotal=[...historical.values()].reduce((n,c)=>n+c.length,0)+
       historicElection.lula.length+historicElection.flavio.length+historicElection.general.length+
       historicStreets.lula.length+historicStreets.flavio.length+originalHighlights.length;
     note.append(node('span','historical-summary',`${archiveTotal} registros históricos do Claude, separados por editoria`));
-    live.append(note,highlights(allItems),renderPortals(allItems),electionSection(allItems));
+    live.append(note,highlights(allItems),renderPortals(allItems,payload.source_health||{}),electionSection(allItems));
     CATEGORIES.forEach(([cat,name,color])=>{
       if(cat==='ruas'){live.append(streetSection(allItems));return;}
       const list=allItems.filter(i=>classification(i)===cat).slice(0,15);
