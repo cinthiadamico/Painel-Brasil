@@ -51,7 +51,7 @@ SOURCES = [
     ('Agência Brasil · Justiça', 'https://agenciabrasil.ebc.com.br/rss/justica/feed.xml', 'STF e Justiça', False),
     ('Agência Brasil · Internacional', 'https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml', 'Internacional', False),
     ('Agência Câmara', 'https://www.camara.leg.br/noticias/rss/ultimas-noticias', 'Câmara e Senado', False),
-    ('Agência Senado', 'https://www12.senado.leg.br/noticias/feed/todasnoticias', 'Câmara e Senado', False),
+    ('Agência Senado', 'https://www12.senado.leg.br/noticias/rss.xml', 'Câmara e Senado', False),
     ('O Globo', news_query('site:oglobo.globo.com OR site:oglobo.globo.com.br when:4d'), None, True),
     ('Estadão', news_query('site:estadao.com.br when:4d'), None, True),
     ('G1 · Busca alternativa', news_query('site:g1.globo.com when:4d'), None, True),
@@ -251,7 +251,20 @@ def item_from_entry(node: ET.Element, name: str, default_cat: str | None, via: b
 
 
 def parse_feed(xml_bytes: bytes, source: tuple) -> list[dict]:
-    root=ET.fromstring(xml_bytes)
+    try:
+        root=ET.fromstring(xml_bytes)
+    except ET.ParseError as exc:
+        # Alguns feeds publicam entidades HTML como &nbsp; em XML (Atom/RSS).
+        # Converte apenas entidades nomeadas inválidas no XML.
+        if 'undefined entity' not in str(exc):
+            raise
+        raw=xml_bytes.decode('utf-8-sig', errors='replace')
+        def fix_entity(match: re.Match) -> str:
+            token=match.group(0)
+            decoded=html.unescape(token)
+            return decoded if decoded != token else '&amp;'+match.group(1)+';'
+        raw=re.sub(r'&([A-Za-z][A-Za-z0-9]+);', fix_entity, raw)
+        root=ET.fromstring(raw)
     entries=[n for n in root.iter() if n.tag.rsplit('}',1)[-1] in ('item','entry')]
     result=[]
     for node in entries:
@@ -262,14 +275,23 @@ def parse_feed(xml_bytes: bytes, source: tuple) -> list[dict]:
 
 def fetch(source: tuple) -> tuple[str,list[dict],str | None]:
     name,url,_,_=source
-    try:
-        req=Request(url,headers={'User-Agent':USER_AGENT,'Accept':'application/rss+xml, application/atom+xml, text/xml, application/xml;q=0.9','Accept-Language':'pt-BR,pt;q=0.9'})
-        with urlopen(req,timeout=16) as response:
-            content=response.read(3_500_000)
-        items=parse_feed(content,source)
-        return name,items,None
-    except Exception as exc:
-        return name,[],f'{type(exc).__name__}: {str(exc)[:130]}'
+    # O Senado mantém canais Atom e RSS diretos. Não tratar HTML como feed.
+    addresses=[url]
+    if name=='Agência Senado':
+        addresses.append('https://www12.senado.leg.br/noticias/RSS')
+    errors=[]
+    for address in addresses:
+        try:
+            req=Request(address,headers={'User-Agent':USER_AGENT,'Accept':'application/rss+xml, application/atom+xml, text/xml, application/xml;q=0.9','Accept-Language':'pt-BR,pt;q=0.9'})
+            with urlopen(req,timeout=16) as response:
+                content=response.read(3_500_000)
+            items=parse_feed(content,source)
+            if items or address==addresses[-1]:
+                return name,items,None
+            errors.append('Feed válido, sem matérias recentes')
+        except Exception as exc:
+            errors.append(f'{type(exc).__name__}: {str(exc)[:110]}')
+    return name,[],'; '.join(errors)[-300:]
 
 
 def similarity(a: dict,b: dict) -> float:
