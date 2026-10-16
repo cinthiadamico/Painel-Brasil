@@ -1,10 +1,38 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-16T16:24:03.774087+00:00",
-  "last_success_at": "2026-10-16T16:24:03.774087+00:00",
+  "last_checked_at": "2026-10-16T16:24:59.269026+00:00",
+  "last_success_at": "2026-10-16T16:24:59.269026+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "43dedabee3014dca",
+      "title": "Cueva rejeita pedido de Flávio para restringir atuação de sindicatos e estudantes",
+      "summary": "O veículo G1 publicou uma atualização sobre: cueva rejeita pedido de Flávio para restringir atuação de sindicatos e estudantes. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/16/cueva-rejeita-pedido-de-flavio-para-restringir-atuacao-de-sindicatos-e-estudantes.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-16T16:23:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5766b10604fe43d5",
+      "title": "Temporal deixa mais de 100 casas danificadas em São Raimundo Nonato, diz prefeito",
+      "summary": "O veículo G1 publicou uma atualização sobre: temporal deixa mais de 100 casas danificadas em São Raimundo Nonato, diz prefeito. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/16/temporal-sao-raimundo-nonato-1.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-16T16:18:09+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "c1f124e77b60c518",
       "title": "O curioso caso da cidade no Rio onde os eleitores também votarão para prefeito",
@@ -279,20 +307,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-16T15:47:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0fffecb1e8dbd7c8",
-      "title": "Criminosos roubam US$ 90 milhões em criptomoedas com dispositivos adulterados",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: criminosos roubam US$ 90 milhões em criptomoedas com dispositivos adulterados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/criminosos-roubam-us-90-milhoes-em-criptomoedas-com-dispositivos-adulterados.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T15:46:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -636,20 +650,6 @@
       "archive": false
     },
     {
-      "id": "51ed2b43fd3c0a10",
-      "title": "Aulão gratuito para o Enem acontecerá em cinema de Santos; veja como participar",
-      "summary": "O veículo G1 publicou uma atualização sobre: aulão gratuito para o Enem acontecerá em cinema de Santos; veja como participar. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/santos-regiao/educacao/noticia/2026/10/16/aulao-gratuito-para-o-enem-acontecera-em-cinema-de-santos-veja-como-participar.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T14:29:07+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b4b78b966bcb3704",
       "title": "Polícia de SP não emitiu alerta sobre ataque do PCC a embaixadas e delegacias - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: polícia de SP não emitiu alerta sobre ataque do PCC a embaixadas e delegacias. Consulte a reportagem para contexto, dados e declarações.",
@@ -671,20 +671,6 @@
       "source": "VEJA",
       "published_at": "2026-10-16T14:22:55+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8646c10f972652f4",
-      "title": "Alerta para dengue: monitoramento aponta alto risco de Aedes aegypti em três bairros de Nova Friburgo",
-      "summary": "O veículo G1 publicou uma atualização sobre: alerta para dengue: monitoramento aponta alto risco de Aedes aegypti em três bairros de Nova Friburgo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/16/alerta-para-dengue-monitoramento-aponta-alto-risco-de-aedes-aegypti-em-tres-bairros-de-nova-friburgo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T14:15:59+00:00",
-      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1154,6 +1140,20 @@
       "archive": false
     },
     {
+      "id": "82a27008382f70a7",
+      "title": "Vamos enterrar de vez a tabela SUS, diz Padilha sobre modelo que vigora há quase 30 anos na Saúde",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vamos enterrar de vez a tabela SUS, diz Padilha sobre modelo que vigora há quase 30 anos na Saúde. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/vamos-enterrar-de-vez-a-tabela-sus-diz-padilha-sobre-modelo-que-vigora-ha-quase-30-anos-na-saude.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-16T07:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "f13a2a3398c4eddf",
       "title": "Na contramão do PT, Lula defende reduzir maioridade penal em crime hediondo - UOL Notícias",
       "summary": "O veículo UOL Notícias publicou uma atualização sobre: na contramão do PT, Lula defende reduzir maioridade penal em crime hediondo - UOL Notícias. Consulte a reportagem para contexto, dados e declarações.",
@@ -1535,7 +1535,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 25
+      "items": 27
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1555,7 +1555,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 8
+      "items": 7
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1608,7 +1608,7 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 44
+      "items": 45
     },
     "Eleições · Lula": {
       "status": "ok",
