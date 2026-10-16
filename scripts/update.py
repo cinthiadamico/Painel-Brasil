@@ -38,10 +38,10 @@ def news_query(query: str) -> str:
     return 'https://news.google.com/rss/search?' + urlencode({'q':query, 'hl':'pt-BR','gl':'BR','ceid':'BR:pt-419'})
 
 SOURCES = [
-    ('G1', 'https://g1.globo.com/rss/g1/', 'Política', False),
+    ('G1', 'https://g1.globo.com/rss/g1/', None, False),
     ('G1 · Economia', 'https://g1.globo.com/rss/g1/economia/', 'Economia', False),
     ('Folha de S.Paulo', 'https://feeds.folha.uol.com.br/emcimadahora/rss091.xml', None, False),
-    ('VEJA', 'https://veja.abril.com.br/feed/', 'Política', False),
+    ('VEJA', 'https://veja.abril.com.br/feed/', None, False),
     ('The New York Times', 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'Internacional', False),
     ('Agência Brasil', 'https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml', None, False),
     ('Agência Brasil · Política', 'https://agenciabrasil.ebc.com.br/rss/politica/feed.xml', 'Política', False),
@@ -61,7 +61,7 @@ SOURCES = [
     ('Eleições · Flávio', news_query('"Flávio Bolsonaro" "eleições 2026" proposta apoio articulação when:7d'), 'Eleições', True),
 ]
 
-NOISE = re.compile(r'\b(videos?|ao vivo|fotos?|horoscopo|novela|loteria|futebol|bbb)\b',re.I)
+NOISE = re.compile(r'\b(videos?|fotos?|horoscopo|novela|loteria|futebol|bbb|reality|celebridades|halloween|look|lookbook|fofoca|moda|shows?|receita|culinaria|entretenimento|televisao|filmes?|series?|musica)\b',re.I)
 TAG = re.compile(r'<[^>]*>')
 SPACE = re.compile(r'\s+')
 URL_ACCEPTED = {'http','https'}
@@ -133,23 +133,69 @@ def category(title: str, fallback: str | None) -> str:
     return fallback if fallback in CATEGORY_ORDER else 'Política'
 
 
-def election_candidate(title: str, description: str, forced: str | None=None) -> str | None:
-    t=normalize(title+' '+description[:150])
-    fl=bool(re.search(r'flavio\s+(?:bolsonaro|nas eleicoes)|senador flavio',t))
-    lu=bool(re.search(r'\blula\b|luiz inacio',t))
-    # Reportagens comparativas não são atribuídas a nenhum dos lados.
-    if fl and lu:return None
-    if fl:return 'flavio'
-    if lu:return 'lula'
-    return None
+# Notícias gerais precisam ter relação explícita com assuntos cívicos;
+# não transforme qualquer item de um feed generalista em "Política".
+CIVIC = re.compile(
+    r'\b(politic\w*|eleic\w*|govern\w*|presiden\w*|congresso|senad\w*|'
+    r'deputad\w*|minister\w*|prefeit\w*|vereador\w*|stf|tse|tribunal|'
+    r'justic\w*|direit\w*|lei|leis|pec|votac\w*|plenario|impost\w*|'
+    r'divid\w*|deficit|juros|selic|inflac\w*|pib|econom\w*|mercado|'
+    r'empreg\w*|salari\w*|industr\w*|comerc\w*|exportac\w*|'
+    r'importac\w*|escol\w*|educac\w*|enem|universid\w*|professor\w*|'
+    r'saude|sus|vacin\w*|hospital|dengue|doenc\w*|epidemi\w*|'
+    r'polici\w*|crim\w*|facc\w*|seguranc\w*|violenc\w*|'
+    r'ambient\w*|energia|transporte|moradia|saneamento|indigen\w*|'
+    r'diplomac\w*|embaix\w*|guerra|russia|ucrania|israel|china|'
+    r'eua|estados unidos|onu|mercosul|acord\w*|tarif\w*|flavio|lula|bolsonaro)\b'
+)
 
+def is_relevant(title: str, fallback: str | None) -> bool:
+    normalized=normalize(title)
+    if NOISE.search(normalized) and not re.search(r'\b(elei|campanha|candidat|congresso|govern)\w*',normalized):
+        return False
+    if fallback in ('Câmara e Senado','Educação','Economia','Saúde','Internacional','STF e Justiça','Segurança','Endividamento','Eleições'):
+        return True
+    return bool(CIVIC.search(normalized))
 
-def election_slot(title: str) -> str | None:
+CAND_NAME = {
+    'lula': r'\blula\b|\bluiz inacio\b',
+    'flavio': r'\bflavio(?: bolsonaro)?\b'
+}
+
+def election_candidate(title: str, description: str='', forced: str | None=None) -> str | None:
+    # Apenas o título identifica o ator; menções incidentais na descrição do feed
+    # não são evidência de proposta, fala ou apoio do candidato.
     t=normalize(title)
-    if re.search(r'\b(proposta|programa|plano de governo|promete|propoe|defende medida|pretende|quer criar|quer ampliar)\b',t):return 'Proposta'
-    if re.search(r'\b(apoio|apoia|endossa|apoiadores?|declara apoio|com apoio de|recebe apoio)\b',t):return 'Apoiador'
-    if re.search(r'\b(articula|articulacao|negocia|reuniao|alian[çc]a|partido|diretorios|coligacao|governadores|campanha se reuniu)\b',t):return 'Articulação'
-    if re.search(r'\b(diz|afirma|declara|discursa|critica|defende|responde|fala|anuncia|promete|sustenta|comenta|discute)\b',t):return 'Fala'
+    fl=bool(re.search(CAND_NAME['flavio'],t))
+    lu=bool(re.search(CAND_NAME['lula'],t))
+    return 'flavio' if fl and not lu else 'lula' if lu and not fl else None
+
+
+def election_slot(title: str, candidate: str | None=None) -> str | None:
+    """Atribui apenas ação/apoio explicitamente relacionado ao candidato.
+
+    Um economista falando de Lula NÃO é uma fala de Lula; um líder citando
+    Lula NÃO equivale a Lula ter apresentado uma proposta. Se houver dúvida,
+    a posição eleitoral fica vazia em vez de inventar autoria.
+    """
+    t=normalize(title)
+    if not candidate or candidate not in CAND_NAME:return None
+    name=CAND_NAME[candidate]
+    agent=rf'(?:{name})'
+    subject=rf'{agent}(?:\W+\w+){{0,5}}\W+'
+    support=(rf'\b(?:declara|anuncia|oficializa|confirma|manifesta|recebe|ganha|amplia)\W+'
+             rf'(?:\w+\W+){{0,3}}apoio\W+(?:a|ao|para|de|a candidatura de)\W+{agent}'
+             rf'|\bapoio\W+(?:a|ao|para|de)\W+{agent}'
+             rf'|{subject}(?:recebe|ganha|obtem)\W+apoio'
+             rf'|\b(?:governador|deputado|senador|presidente de partido)\W+(?:\w+\W+){{0,5}}apoia\W+{agent}\b')
+    if re.search(support,t):return 'Apoiador'
+    if re.search(subject+r'(?:promete|propoe|propoes|apresenta|defende|planeja|pretende|quer|anuncia)\b',t) or (re.search(subject+r'discute\b',t) and re.search(r'\bproposta\b',t)):
+        return 'Proposta'
+    if re.search(rf'\b(?:proposta|programa|plano)\W+(?:de governo\W+)?(?:de|do)\W+{agent}\b',t):return 'Proposta'
+    if re.search(subject+r'(?:articula|negocia|reune|conversa|busca|costura|se alia|faz reuniao)\b',t):return 'Articulação'
+    if re.search(rf'\b(?:campanha|partido|alianca|coligacao)\W+(?:de|do)\W+{agent}\W+(?:articula|negocia|busca|reune|fecha)\b',t):return 'Articulação'
+    if re.search(subject+r'(?:diz|afirma|declara|critica|responde|comenta|rebate|admite|nega|discursa|defende|sustenta|avisa|ironiza)\b',t):return 'Fala'
+    if re.search(rf'\b(?:diz|afirma|declara|critica|responde)\W+{agent}\b',t):return 'Fala'
     return None
 
 
@@ -182,9 +228,9 @@ def item_from_entry(node: ET.Element, name: str, default_cat: str | None, via: b
     if via and provider==name and ' · ' in name:provider=name.split(' · ')[0]
     if via and provider=='Veículo via Google Notícias' and name=='Eleições · Lula':pass
     if not via and ' · ' in name:provider=name.split(' · ')[0]
-    if NOISE.search(title) and not re.search(r'(congresso|governo|eleic)', normalize(title)):return None
+    if not is_relevant(title,default_cat):return None
     candidate=election_candidate(title,description)
-    slot=election_slot(title) if candidate else None
+    slot=election_slot(title,candidate) if candidate else None
     election_keywords=re.search(r'\b(eleic|candidat|segundo turno|campanha|presidenc)\w*', normalize(title+' '+description[:120]))
     if candidate and slot and (default_cat=='Eleições' or election_keywords):
         cat='Eleições'
@@ -194,7 +240,7 @@ def item_from_entry(node: ET.Element, name: str, default_cat: str | None, via: b
     if cat!='Eleições' and age_hours>MAX_HOURS:return None
     # Links RSS via Google são identificados como via agregador.
     is_aggregator=via or urlsplit(link).netloc.endswith('news.google.com')
-    if is_aggregator and urlsplit(link).netloc.endswith('news.google.com') is False:
+    if is_aggregator and not urlsplit(link).netloc.endswith('news.google.com'):
         is_aggregator=False
     return {'id':hashlib.sha256((canonical(link)+'|'+(candidate or '')+'|'+(slot or '')).encode()).hexdigest()[:16],
             'title':title[:240], 'summary':short_summary(title,provider), 'url':link,
@@ -241,8 +287,10 @@ def topic_key(item: dict) -> str | None:
     t=normalize(item['title'])
     if re.search(r'\bpec (?:da |de )?seguranca\b|\bpec 18[/\-]2025\b',t):
         return 'pec-seguranca'
-    if re.search(r'\b(escala )?6 ?[x×] ?1\b|\bfim da escala seis por um\b',t):
-        return 'escala-6x1'
+    if (item.get('category')=='Câmara e Senado' and
+        re.search(r'\b(escala )?6 ?[x×] ?1\b|\bfim da escala seis por um\b',t) and
+        re.search(r'\b(vota|aprov|promulg|retir|adiad|pauta|sancion)\w*',t)):
+        return 'tramitacao-escala-6x1'
     m=re.search(r'\b(?:pec|plp|pl)\s*(?:n[ºo.]\s*)?(\d{1,5})[/\-](20\d{2})\b',t)
     if m:return 'projeto-'+m.group(1)+'-'+m.group(2)
     return None
@@ -262,7 +310,7 @@ def consolidate(items: list[dict]) -> list[dict]:
         if (u,group) in seen_urls or (norm,group) in seen_titles:continue
         key=topic_key(item)
         # Atualizações de uma mesma PEC conhecida não coexistem com estágios antigos.
-        if key and any(topic_key(k)==key for k in out):continue
+        if key and item.get('category')!='Eleições' and any(topic_key(k)==key and k.get('category')==item.get('category') for k in out):continue
         # Sustenta novas versões sobre mesmo tema: as antigas não aparecem juntas.
         if any((group == ((k.get('candidate'),k.get('election_type')) if k.get('category')=='Eleições' else (k.get('category'),)) and
                 similarity(item,k)>=0.60) for k in out):continue
@@ -309,7 +357,7 @@ def run():
         last_success=old.get('last_success_at')
     else:
         # Uma pane geral NÃO deve transformar o arquivo inicial em notícia recente.
-        items=old.get('items',[])
+        items=[]
         status='arquivo_inicial' if old.get('status')=='arquivo_inicial' else 'erro_de_coleta'
         last_success=old.get('last_success_at')
     payload={'schema_version':1,'status':status,'last_checked_at':NOW.isoformat(),
