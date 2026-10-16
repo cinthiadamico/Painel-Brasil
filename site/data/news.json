@@ -1,10 +1,24 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-16T15:38:41.514155+00:00",
-  "last_success_at": "2026-10-16T15:38:41.514155+00:00",
+  "last_checked_at": "2026-10-16T15:43:18.130215+00:00",
+  "last_success_at": "2026-10-16T15:43:18.130215+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "f722ba2f868cd126",
+      "title": "As fantasias das celebridades em baile de Halloween em São Paulo",
+      "summary": "O veículo VEJA publicou uma atualização sobre: as fantasias das celebridades em baile de Halloween em São Paulo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/cultura/as-fantasias-das-celebridades-em-baile-de-halloween-em-sao-paulo/",
+      "source": "VEJA",
+      "published_at": "2026-10-16T15:42:59+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "1d946539767c15d1",
       "title": "Flávio Bolsonaro nega ida a dois eventos do Lide, de João Doria, na mesma semana",
@@ -90,6 +104,20 @@
       "archive": false
     },
     {
+      "id": "d36f40e8fee07760",
+      "title": "Bar do Ceará preserva reduto clássico da boemia paulistana",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: bar do Ceará preserva reduto clássico da boemia paulistana. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/bar-do-ceara-preserva-reduto-classico-da-boemia-paulistana.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-16T15:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "69e0727391853ddd",
       "title": "Trabalhadores que morreram soterrados em Maripá de Minas são sepultados nesta sexta",
       "summary": "O veículo G1 publicou uma atualização sobre: trabalhadores que morreram soterrados em Maripá de Minas são sepultados nesta sexta. Consulte a reportagem para contexto, dados e declarações.",
@@ -152,34 +180,6 @@
       "url": "https://g1.globo.com/al/alagoas/noticia/2026/10/16/maceio-tem-cinco-praias-improprias-para-banho-aponta-ima-veja-condicoes.ghtml",
       "source": "G1",
       "published_at": "2026-10-16T15:25:44+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e488a7b41fc7ea4a",
-      "title": "Primeiro show solo de Renner após morte de Rick será no interior de SP; confira detalhes",
-      "summary": "O veículo G1 publicou uma atualização sobre: primeiro show solo de Renner após morte de Rick será no interior de SP; confira detalhes. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/16/show-solo-de-renner.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T15:23:14+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "988bd71595112db9",
-      "title": "Como foi a audiência da sabatina de Lula com Renata Lo Prete na Globo",
-      "summary": "O veículo VEJA publicou uma atualização sobre: como foi a audiência da sabatina de Lula com Renata Lo Prete na Globo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/cultura/como-foi-a-audiencia-da-sabatina-de-lula-com-renata-lo-prete-na-globo/",
-      "source": "VEJA",
-      "published_at": "2026-10-16T15:22:57+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -503,6 +503,20 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-16T14:15:00+00:00",
       "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6167a7150bdbc13d",
+      "title": "Cinco pessoas são presas em operação contra venda ilegal de armas ligada a homicídio no ES",
+      "summary": "O veículo G1 publicou uma atualização sobre: cinco pessoas são presas em operação contra venda ilegal de armas ligada a homicídio no ES. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/16/policia-faz-operacao-contra-contra-venda-ilegal-de-armas-ligada-a-homicidio-no-es.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-16T14:14:59+00:00",
+      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1154,20 +1168,6 @@
       "archive": false
     },
     {
-      "id": "66d6c9f70ef485e3",
-      "title": "TSE atende a Lula e manda Meta dar a ele tratamento igual ao de Flávio sob pena de multa de R$ 500 mil - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tSE atende a Lula e manda Meta dar a ele tratamento igual ao de Flávio sob pena de multa de R$ 500 mil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaW82dzVrU09WWmlIWE9Ga29VUVNVMzB6ZGxuclVXUDdQWWlfYWxfOTV4Vmh0bTRjenJFQjVmZUlfWkVXQWxZZkl5Znp6LVNSaEItbG94eldyQVNzUlNYWldub0lzb3JyV3k1d3liZC1hY2loYjJzTlFUbFo5T0tqTHR3UkdweExiZmdhM05jUW53N0ttakVzT0RFb2VMSllhVUJKUHhPaGphZXItY0oycVNwUkl5WlRUN2hpckFVWDZFY3hSYW9mdGlFUlFzN2FqYXRUSTB3V2UzMFlUSTdWMktVbFNmVEVMdVJ4Wk1YTzJtUQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-15T22:29:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "8022cb5a93d95b68",
       "title": "Ministro do TSE proíbe Meta de limitar alcance de conteúdo político e favorecer Lula ou Flávio por ferramenta de IA - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: ministro do TSE proíbe Meta de limitar alcance de conteúdo político e favorecer Lula ou Flávio por ferramenta de IA. Consulte a reportagem para contexto, dados e declarações.",
@@ -1434,6 +1434,20 @@
       "archive": false
     },
     {
+      "id": "08de69777dc89cbf",
+      "title": "Associação de juristas protocola hoje pedido de suspeição do ministro Nunes Marques no TSE após atuação contra o canal 'Exército do Lula' - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: associação de juristas protocola hoje pedido de suspeição do ministro Nunes Marques no TSE após atuação contra o canal 'Exército do Lula'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNY1loVFVJeUdyUTNZR0tidXE4VjVQd1IwNHV6MGJBZnlwN2pWX2YtQjVLbGNWcjFZSy1WVTJwdGRTSFZheDdzX0cwWk5hekhrbEtVTGVvN3dRVXZxY3hmcmdiT0xQNy1zVndxejlSLXRoSlAtSF9MVHJ3RXlXMmY3VklJaUJya0U2Y2pDT1ByRV80Y2VEQkg2Mm9scVZuN0lMc0ZIemJ5UkhVMGdaUzYwQm5hQzJQV2FIMTVoelN0VXRRelBlVjd6azJHZ3ZXOUl2UklHam5FS214STJLV2FEYmNUMGloRjFVc0NVVkVFanJDby12UXVzTnBpOUcxclQwRDBGdFBsREhreFRKZHp5Y1k4TjZkb216OWdUdlVmMzFnZTRkd21NbtIBtwJBVV95cUxPaWo5VERFWVVmUGNONy1DN3ZubklubEEtcVExdUhlWHhFMk1MU2huM1k2dHh3ZjNHYzFzV3hLeHkzbnNRRTA2TkhWdTR1U2lRbjlrTUkxQVNaSnp5VExFQ2ZQZUNBLWZLSHhpMDhjTTMzdnA5dkRCNFZqZmdJdFJvWmYxMVdiQ3dXcDZ1blhfWUk3amI4eUt1OXFPd2V2dDZDTEMwdFV2UXNhVHlHRFR6UVBxNXBybUFCaTlhV0RrYklaV242SVdLNU5sa1JWelZnUHB6WlM4XzlFRHg0Wk85UE1NXzl5ZnowQzdESFlrem4xTWJ4VGl3WEJMQWM5RkpQTTlKdzVmMzRtVjI0NGVkQnR6V2tlQkFIUmlKaXhiaTJ2UUY3WmFxenZuU0Nfb1V4d1lMelhGNA?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-15T10:42:28+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "dd9d661ac6eb44b7",
       "title": "Presidente do PT admite 'falhas' na campanha de Lula e revela problemas de articulação no primeiro turno - Muita Informação",
       "summary": "O veículo Muita Informação publicou uma atualização sobre: presidente do PT admite 'falhas' na campanha de Lula e revela problemas de articulação no primeiro turno - Muita Informação. Consulte a reportagem para contexto, dados e declarações.",
@@ -1576,7 +1590,7 @@
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 97
+      "items": 98
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1584,7 +1598,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 59
+      "items": 60
     },
     "Eleições · Flávio": {
       "status": "ok",
