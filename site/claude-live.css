@@ -29,3 +29,23 @@
 .portal-no-news{font-style:italic}
 .live-footer p{overflow-wrap:anywhere}
 @media(max-width:560px){.live-status{white-space:normal;flex-wrap:wrap}.theme-control{margin-left:0}}
+
+
+/* Distribuição do arquivo de 16/10/2026 por aba, sem confundir com atualização recente. */
+.historical-section{margin-top:25px;padding-top:19px;border-top:1px solid var(--line)}
+.historical-heading{margin-bottom:15px;display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+.historical-heading h3,.historical-subhead{font:600 1.05rem var(--font-display);margin:0;color:var(--ink)}
+.historical-heading p{font:.73rem/1.5 var(--font-body);color:var(--ink-dim);margin:0;max-width:600px}
+.historical-badge{font:600 .61rem var(--font-mono);color:var(--ink-dim);letter-spacing:.04em;text-transform:uppercase;display:inline-block}
+.historical-card{position:relative;border-color:var(--line);background:var(--surface);}
+.historical-card>.historical-badge{display:block;margin-bottom:1px}
+.historical-card.hero-card>.historical-badge{font-size:.64rem}
+.historical-highlights{margin-bottom:0}
+.historical-summary{font-size:.76rem;color:var(--ink-dim)}
+.historical-context{margin-top:22px;border:1px dashed var(--line);border-radius:9px;padding:13px;background:var(--surface)}
+.historical-context>summary{cursor:pointer;font-weight:600;color:var(--accent)}
+.historical-context>.race{margin-top:16px}
+.historical-context-note{margin-top:14px}
+.historical-context-note>.historical-badge{margin:0 0 7px}
+.offline-notice{border-left:3px solid var(--cat-seg);padding:10px 13px;background:var(--surface);font-size:.86rem}
+.live-content section.cat[hidden]{display:none !important}
