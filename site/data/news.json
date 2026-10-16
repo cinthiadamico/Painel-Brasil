@@ -1,10 +1,122 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-16T16:24:59.269026+00:00",
-  "last_success_at": "2026-10-16T16:24:59.269026+00:00",
+  "last_checked_at": "2026-10-16T16:43:51.742538+00:00",
+  "last_success_at": "2026-10-16T16:43:51.742538+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "a05ee8df894eb43e",
+      "title": "Ilhan Omar: governo Trump já investigou deputada alvo de operação e não encontrou fraude",
+      "summary": "O veículo VEJA publicou uma atualização sobre: ilhan Omar: governo Trump já investigou deputada alvo de operação e não encontrou fraude. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/mundo/ilhan-omar-governo-trump-ja-investigou-deputada-alvo-de-operacao-e-nao-encontrou-fraude/",
+      "source": "VEJA",
+      "published_at": "2026-10-16T16:41:12+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dcc1785b3d0fbd05",
+      "title": "PEC do fim da 6×1: Alcolumbre quebra protocolo e faz homenagem a Paulo Paim (PT)",
+      "summary": "O veículo VEJA publicou uma atualização sobre: pEC do fim da 6×1: Alcolumbre quebra protocolo e faz homenagem a Paulo Paim (PT). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/pec-do-fim-da-6x1-alcolumbre-quebra-protocolo-e-faz-homenagem-a-paulo-paim-pt/",
+      "source": "VEJA",
+      "published_at": "2026-10-16T16:34:51+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1d5c8300dd9f0ade",
+      "title": "Congresso promulga emenda de aposentadoria especial de agente de saúde",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: congresso promulga emenda de aposentadoria especial de agente de saúde. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/congresso-promulga-emenda-de-aposentadoria-especial-de-agente-de-saude",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-16T16:31:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a54846dce1ed7b4e",
+      "title": "Mercado de bioinsumos fatura R$ 1,8 bilhão no 1º semestre e ganha projeção na ONU",
+      "summary": "O veículo VEJA publicou uma atualização sobre: mercado de bioinsumos fatura R$ 1,8 bilhão no 1º semestre e ganha projeção na ONU. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/mundo/mercado-de-bioinsumos-fatura-r-18-bilhao-no-1o-semestre-e-ganha-projecao-na-onu/",
+      "source": "VEJA",
+      "published_at": "2026-10-16T16:30:04+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "877d801e962cb8d9",
+      "title": "Nova regra garante aposentadoria especial a agentes de saúde; entenda",
+      "summary": "O veículo VEJA publicou uma atualização sobre: nova regra garante aposentadoria especial a agentes de saúde; entenda. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/economia/nova-regra-garante-aposentadoria-especial-a-agentes-de-saude-entenda/",
+      "source": "VEJA",
+      "published_at": "2026-10-16T16:28:53+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "75ac8e10f80ae353",
+      "title": "Outubro Rosa: 72 unidades de saúde oferecem exames preventivos gratuitos neste sábado (17) em Cuiabá",
+      "summary": "O veículo G1 publicou uma atualização sobre: outubro Rosa: 72 unidades de saúde oferecem exames preventivos gratuitos neste sábado (17) em Cuiabá. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/16/outubro-rosa-72-unidades-de-saude-oferecem-exames-preventivos-gratuitos-neste-sabado-17-em-cuiaba.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-16T16:27:11+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ed8f467f9fe3fd93",
+      "title": "Polícia divulga cartaz de procurado após mulher ser baleada cinco vezes e apontar ex-marido como autor",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia divulga cartaz de procurado após mulher ser baleada cinco vezes e apontar ex-marido como autor. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/especial-publicitario/aprosoja-tocantins/noticia/2026/10/16/policia-divulga-cartaz-de-procurado-apos-mulher-ser-baleada-cinco-vezes-e-apontar-ex-marido-como-autor.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-16T16:25:03+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "02ec2b52b415da57",
+      "title": "O chefe do PCC condenado a quase 126 anos que fugiu após deixar presídio e voltou a ser alvo da polícia",
+      "summary": "O veículo G1 publicou uma atualização sobre: o chefe do PCC condenado a quase 126 anos que fugiu após deixar presídio e voltou a ser alvo da polícia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/16/o-chefe-do-pcc-condenado-a-quase-126-anos-que-fugiu-apos-deixar-presidio-e-voltou-a-ser-alvo-da-policia.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-16T16:24:38+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "43dedabee3014dca",
       "title": "Cueva rejeita pedido de Flávio para restringir atuação de sindicatos e estudantes",
@@ -292,20 +404,6 @@
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/brasil-deve-voltar-ser-8a-maior-economia-do-mundo-em-2027-preve-fmi",
       "source": "Agência Brasil",
       "published_at": "2026-10-16T15:47:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "86b33d1509ed5408",
-      "title": "Brasil deve voltar a ser 8ª maior economia do mundo em 2027, prevê FMI",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: brasil deve voltar a ser 8ª maior economia do mundo em 2027, prevê FMI. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/brasil-deve-voltar-ser-8a-maior-economia-do-mundo-em-2027-preve-fmi",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T15:47:00+00:00",
       "category": "Economia",
       "candidate": null,
       "election_type": null,
@@ -455,8 +553,8 @@
     },
     {
       "id": "f6bac238e087395e",
-      "title": "Midterms nos EUA: democratas superam republicanos na arrecadação de fundos",
-      "summary": "O veículo G1 publicou uma atualização sobre: midterms nos EUA: democratas superam republicanos na arrecadação de fundos. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Eleições nos EUA: democratas superam republicanos na arrecadação de fundos",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições nos EUA: democratas superam republicanos na arrecadação de fundos. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/mundo/noticia/2026/10/16/midterms-nos-eua-democratas-superam-republicanos-na-arrecadacao-de-fundos.ghtml",
       "source": "G1",
       "published_at": "2026-10-16T15:06:41+00:00",
@@ -601,48 +699,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-16T14:43:58+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9c70c2a948ffe0e5",
-      "title": "'Brutal violência', diz juíza ao manter prisão de pais suspeitos de matar bebê com mais de 20 golpes de faca, na PB",
-      "summary": "O veículo G1 publicou uma atualização sobre: 'Brutal violência', diz juíza ao manter prisão de pais suspeitos de matar bebê com mais de 20 golpes de faca, na PB. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/16/brutal-violencia-diz-juiza-ao-manter-prisao-de-pais-suspeitos-de-matar-bebe-com-mais-de-20-golpes-de-faca-na-pb.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T14:38:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3db849ec4a1674d0",
-      "title": "Dois ônibus pegam fogo em menos de 24 horas em MG; polícia suspeita de ação criminosa",
-      "summary": "O veículo G1 publicou uma atualização sobre: dois ônibus pegam fogo em menos de 24 horas em MG; polícia suspeita de ação criminosa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/16/dois-onibus-pegam-fogo-em-menos-de-24-horas-em-mg-policia-suspeita-de-acao-criminosa.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T14:32:48+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "20c0a991f0a8c049",
-      "title": "Crianças são internadas após consumir bombons feitos em escola em Pitangueiras, SP - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: crianças são internadas após consumir bombons feitos em escola em Pitangueiras, SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVXREY2ZsVTdaZkpNMURmMTZ6UTBvbjduNVhnNDltYzZmQkdjVnp2dTVlbEtWOTBmQ2JZYXNzNm9CekFxcFJFYktkd2E1d3ozai16V1dYRmZuY0J5TUp6ZGpOXzlIaTRhSWFMRVJWM01ROFZtcDZfc2xQOTAyLTZ5V1NIMVlFOTBHaEN4M3VnUzlFRDBGQUlJSDhBWEU2U3FpQzUwZmhmdFkwTEZDanZyQmNhdmdMS0ZUblIyVkFTaFktSVhpcVQ3SS1EZGY2TTRDZUtsWFd5NlZoYVRoc3RNWld0Y251ajjSAfYBQVVfeXFMUHBKT185Y3VVR0doTUZqTjFJX1lFVU8yYW9qbEFPS1hXYnM5b2FtaXFNSnQ3MWo3c3ZLWmk2d2ZGX05oamV0Q2VoWWExMUhGd3hIdEhyTkV4cVJvOUZJTnY5Q0N1emxKTHhjeDBlb2d6YjVvREFNZk5GSjBvVG12TGppZXVTc3lDYzg3OFdJWTR6ZFlfS0tXUm4zZFBMY244YkcxOTFYMWM0a0wzbjVLN09pdmxzSzl0M0h2WjBnODZYNVo4SWMyS2JkSEpWSnpKQk5QRUR3X01rTUVuaTlUNVNlSHJNRFliY1hDYS0tRlkzSU05aGJR?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-16T14:32:39+00:00",
-      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1112,13 +1168,13 @@
       "archive": false
     },
     {
-      "id": "f4ad98c08726772d",
-      "title": "A demonstração de força de Motta e Alcolumbre e os recados para o novo Congresso - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: a demonstração de força de Motta e Alcolumbre e os recados para o novo Congresso. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTlQ3NDRtYTNXWXhHaTNaR2hPaDFqS09IQk1KY1JETG94VkhzT2o0N1F4dWs0SU4yWXlCdElxTExUTldwYjZqZUZMVlE2SXlsRjJwNXRmWEhsR1NqOFdwNGdZMFNBWGlScUNxdWkwcFY1bnc2eHo5UktVYlJsQjRFY0Zlb0pKd2poOUs5RzJjaHpKeFJVSkFpbEQwRllPTmtOTjRxb1l6T0NjbE9IR21pVzV2OU1OS3V6UWx3ZnpJcm5PaGtSbnpHR0E0Q0ZxZzJu0gHWAUFVX3lxTE1hbHNWdUExdmFXM3p0ZS1MVFlnUloyZnpySnMyaVRha082SnREZ1preVRscXUzWEhpUURKTjR6SDlzT21iSGxyQ2ptbWZ6ZlFGejIzWXRoNkVaOEM4Zy1OZFozZzZCOGhPS0tRd2NpaVJaalhMQjZVT3M4QW9LYWdGWEZ1dmExUDFrTEpyRGVCNUxfYnRaZk84ZktCeV93cmpLQVM5Mmw5VWZWTzBtUXl2MHNFNTZsMVV1UjVncVM4YWdqUzA4eVdUR2xreTRyZzZETEVEbnc?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-16T08:30:00+00:00",
-      "category": "Câmara e Senado",
+      "id": "6bffed63e4acf628",
+      "title": "A ministra do TSE que será rifada num governo de Flávio Bolsonaro - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: a ministra do TSE que será rifada num governo de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ3U4Sy1Ib2g2TVJ3VDB6V3QtSnZJRkd5aVdLNHc4NmNYR1M1UWotbU9OV0FIb25tXzlYYUFQTUpoUzVOaUowaTk5TVM0LUhMZGEzMV9Pd3BPSnQ4SzB1M1NmY3FJNi1ZQWJ6WFg2X1Q3NXVDQW1nTGVaMVZIY3U4SU5CVzEzVEstNVkyallwcjlwcWJTLTVYVXNvWmNmLUV0eVlwQW5PVUYteXZvMmJXRGgyaWY2ZGNfdXFpTFFlVWxOc0NEdnfSAdQBQVVfeXFMTVZQNHpCeWtuSmhpRWd4b29IcE9wTXhuUnlZZk9UOXZUM09ualczSjRLSHdkV1hyRUxPMnVVd3JTSGNNbWJfQzBMX3JsX0hmTUE0Q18taVFlNVBqdDJ5WjN0bGxLZzVHSzFXMFNVRmwwU19LaDQ4UlpldmtlQzlxZVMtZEdSMDBkcTljNl9LUU5lT1Vqc1ZIRXNSYnRvYWlUMjlxckFsall5LXVEcExvVFZURS1VU3VUTmtJZ21xdEI4dzJ5UkYwVjY3VllMTnNRcDdVM0w?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-16T08:00:01+00:00",
+      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1126,13 +1182,13 @@
       "archive": false
     },
     {
-      "id": "51b4c0a483ad4dec",
-      "title": "MEI: novo teto e perdão de dívidas; entenda projetos aprovados pelo Congresso - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: mEI: novo teto e perdão de dívidas; entenda projetos aprovados pelo Congresso. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUZILTF6RHhFRzdJbW9vTVp5dFBIai1KeDdpQnlNUEE5TkM4VnRDSVlKcUlUd2lOaWhCMWY5d3VsTzNQOVNzVUxycVlaM09pQ0hYa1hBVmY1NHZGOUlDTFhubExQaENOQVdrMW82cUZfSHZqOFNsdlctSWdkX2hvWF9YSTU1ejNnRlB3OUNuSzEtcVBaYkdwWC0tTllxRzdJRkdwTENFQm12VGg4c01QdElmR1FCSWNjT05FTE0yODVWRk5QTlBlNlVJNXM4UknSAd4BQVVfeXFMT3VvdUVNZkQzSHVDaU80d2t2eVJfUnhPcHFHZU40RFluZGh2RmIwYy1kU0F5dTJYUGhROEtRUTVmbl84S05TQklFSjhVRGg1R245OGpqVEFDWklRTXloZC1rVTE2aVRzYVBlUV9CbXF6LWs0ZEpOTnRJS3lMYllPQUVlNmt3UFFjQXpBd1ZRTkdGYUt3MERVSEJkcGN3X3JhTGtFOVEwdTlvZm14dzM0aU1pV0loUXc0QXdYTUhETjhyeVlJQktSLXdRcWg2OE1QU1lmb09lQWY5aGFWbHZB?oc=5",
+      "id": "88df9c35071d2dd9",
+      "title": "Polícia identifica um dos responsáveis por tentativa de latrocínio contra arqueóloga e professora aposentada da UFRJ no Leblon - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: polícia identifica um dos responsáveis por tentativa de latrocínio contra arqueóloga e professora aposentada da UFRJ no Leblon. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNVhSOF9sOV9zMEdaLUZVRFFWbzVCWlRrNDVIR1p2WGVxSTcxOXgyUjBld20za3N3d2x6N1B2ODBlZ18wZFZJRlU2QTFlOU45RnBmWld0WklUM29qeV93Ni04bnZwbVB4R2hDMDRZZG83aVZWblFCWWZ4cHdQZ2ZXYThzM3NRUzYzcHZienkzaWpTbXBxaWZ1Tk1vUDVycEoyVWxpanp3cjFwTURVOVFkZjFfLXJPN0x2eU41TDlpejJmbzhsT2RUTXpQWno4VGdXbEMyeEtMVW5wbWxQZktnOHQzLWo3TTdNYTJHSGF2X0NiM2h5cUJ6YWc1VDFfaXE2ZU0xeTF6OGNJekZj0gGbAkFVX3lxTFBxcVVTVjFaTWFSMW9ILTdyYUN1OVFCZmF4MmNHbV94VHEzNjIxWE9ib2kwRXVyalBQb0dRTGZQMzZ3QjI5OGZwbmpLWTdZQ1dLWGlsdFZpQUo2Tk9EWUtXY2lSRk9FODJHNUpTN0NWRW1LaE9MRno3N1VkQnNuOFNqdjNjenZ1WVR5b2oyRWM3c0U2OHBhZWhKMWNnZHY0eFlWZUNKZ0x1NWFnLW9UWDBXb3FKUDd6MjFQQmE2Yk1uSG9rSUdlVUo5eXQ2dmpYbzNaa05WamI2dTU3ekc1eS11bmRWdDB6UzlYTXBpNU1KU1RTbkFMM2pneXl4a2QxOEhqQWF2OV9XclNNYXFwNTAwQkRLb0ptWEZRRDg?oc=5",
       "source": "O GLOBO",
-      "published_at": "2026-10-16T08:00:01+00:00",
-      "category": "Câmara e Senado",
+      "published_at": "2026-10-16T07:00:02+00:00",
+      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1163,20 +1219,6 @@
       "category": "Eleições",
       "candidate": "lula",
       "election_type": "Proposta",
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8164c530dee94d11",
-      "title": "Na Globo, Lula diz ser a favor de reduzir maioridade penal 'em todo e qualquer crime hediondo' - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: na Globo, Lula diz ser a favor de reduzir maioridade penal 'em todo e qualquer crime hediondo'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemg3VXBscVRlZFVNZl9HcW5IOFRrWThaR2hSbEJxVmt5TDRhcmt6ZXVfZGktc05yQ3BuTm42SElZZlRhZHBEVEdtYlM3RDhnejlmOGJiN1A1d05RZFI5RUI0UXZJdTZLdUlmOEZkRXA3UXpRaVJZS3cwTmdfNV9HOHJubXlqSTVRc1p3SlFXamF6M1BKdWU2U0xNeEpPZy1XcDFqcHh2cExJR2xfbTIzM2dnQ1owSUowUDRzeWJpYVlMZDZGaGoyS2dwY9IB2gFBVV95cUxQUDB1NVdKTF9hS2FFVTNKUnlDNjFsVTFGWlFGNWYtQmpjTGdJbnk3aS0yTkZTU3VndzVSNHdlY2NIZFd0dGRNZllvSDc3cUlmLWxsOFA3VW1fWEVISnBEc0ppdHE4Q3hqbEEwMWx3aFhzTHF5RFo1cGlJYlRMcHpfcFcxX01GSFJzLU1QQlRMZFI2cEZlbENRdU5Dc2thWnlFNTJNY1QteHZXZ1VIdlFnSEF0eEZ1aVV0a1pPSlAxejNTV0NDdDNvZUZmWW5UWVRkTFBLRzk1cFJhdw?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-16T00:18:44+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
       "via_aggregator": true,
       "curated": false,
       "archive": false
@@ -1234,6 +1276,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fa99ad71f13eb6b7",
+      "title": "Museu da UFRJ irá receber mais R$ 10 milhões para restauração",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: museu da UFRJ irá receber mais R$ 10 milhões para restauração. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/museu-da-ufrj-ira-receber-mais-r-10-milhoes-para-restauracao",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-15T22:30:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1322,20 +1378,6 @@
       "archive": false
     },
     {
-      "id": "f15f6bf7fb0eeb93",
-      "title": "Netflix reajusta planos acima da inflação no Brasil; saiba os novos preços - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: netflix reajusta planos acima da inflação no Brasil; saiba os novos preços. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3ROY1FXYjRDbWFOYUx3SDY5dHMyOUw0cHBIUlZIQkNPdzNUUUFoZkhWVGtpVzBRRmF6d1MyYzFOeF93Q3ROazR4cl9sdTc5Wjhta3RVLXFpbmEzOGsxMG9Ebkc1UjRzbjBEdDV0WDlHdE56bmN3QjRfakZ1MnBLNzlQQXNSRVNFdjV1ZnN5NHkzX0IzWHpPMGdaZG1RRUVwclA4Z0tZOXg3OUlrbGc?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-15T20:42:49+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "2b67eb493444de93",
       "title": "TRE-RJ proclama Douglas Ruas eleito para o governo do Rio de Janeiro",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: tRE-RJ proclama Douglas Ruas eleito para o governo do Rio de Janeiro. Consulte a reportagem para contexto, dados e declarações.",
@@ -1406,34 +1448,6 @@
       "archive": false
     },
     {
-      "id": "4502e370d82437dd",
-      "title": "Fim da escala 6x1 traz esperança de mais tempo para família e saúde",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: fim da escala 6x1 traz esperança de mais tempo para família e saúde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/fim-da-escala-6x1-traz-esperanca-de-mais-tempo-para-familia-e-saude",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-15T15:27:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0b447ba442a2a9c3",
-      "title": "Após 2 dias de negociações, campanha de Lula decide não assinar acordo com equipe de Flávio no TSE - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: após 2 dias de negociações, campanha de Lula decide não assinar acordo com equipe de Flávio no TSE. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNXzJlOE1QcDVmdWEtb2ZUTi1OeWcyV3QtQnM3eERlSzdHY01zS0h6Zi1zYkJaLVZqSUEwMElJU0lMR1pjMHhZWndZSW9Ud2pUSk56dkVpRUljVXZPTEdvT053YTZnZEVPRDMxS204b0pVb25PMTlMazBTU1lhNDlrNUMyTGE0MGRITno4NkhDZjZmX3FkYVowWUxhYWo4d2laOHd5VU53R2ZhQUhKckZLUmt4eXF2eE12WFhtYmNONzBUdVRkS2cyeDM5V3lZWDhzMmVJa2lHamRwV0XSAeABQVVfeXFMTUFvYTZReDluRDRCQkJFMmcwZXhxdGVTTDU2SjRYR3B4V0czVmtOeFAzd1Y3Q2dFVzMzVlBidXladXc3Ml9pNlhERGpFZ1ZybnZ2ZmFGYVdFYVk2dkFYYS1KUmhQcGE5QXRIRTZKRHo1RFlabEduUjl1SkgwWHRRazRtTXdiRkQxNnd5eFdGRE9YUmNucGVGb2d0UHRFRE9YdVRWaW9scGNWS0VQeFlnRmhUMDJYLWdoWWFvSEtseUFNRkw1akxMMWNOdlBmd21HSHZxNmhFT2M4T01JX21ic3o?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-15T15:22:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5edbf96a139fabf6",
       "title": "Pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -1443,20 +1457,6 @@
       "category": "Eleições",
       "candidate": "lula",
       "election_type": "Apoiador",
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7b4e32cbf903f9ba",
-      "title": "PF mira esquema de fraudes em contratos de saúde de 2020 a 2026 - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: pF mira esquema de fraudes em contratos de saúde de 2020 a 2026. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUNNLWRFUG5SVGpwak95d2VMQ0g5N2JCODFDc25JZnl0WTNYWFYwWWZuYlBVYUQ4d1V4MUhNSGpCR0k5bnhFTXZCS3pGVzZ3NHgta1RPTUZ1MEFKODB0UGRJaGk4dk45TmtrcEVZU3lDOWt6X01JanhiNGRHTTJhYmxVeVpvZjFSNlE4TGx1b0g5VnBkMWpCc1F1bm1qQQ?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-14T15:04:55+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
       "via_aggregator": true,
       "curated": false,
       "archive": false
@@ -1535,7 +1535,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 27
+      "items": 30
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1547,7 +1547,7 @@
     },
     "VEJA": {
       "status": "ok",
-      "items": 7
+      "items": 9
     },
     "The New York Times": {
       "status": "ok",
@@ -1596,11 +1596,11 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 29
+      "items": 30
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 42
+      "items": 44
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1608,15 +1608,15 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 45
+      "items": 44
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 58
+      "items": 56
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 49
+      "items": 50
     }
   },
   "notes": [
