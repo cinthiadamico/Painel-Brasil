@@ -22,6 +22,51 @@ class CollectorTest(unittest.TestCase):
         self.assertEqual(items[0]['source'],'Agência Senado')
         self.assertFalse(items[0]['via_aggregator'])
         self.assertNotIn('Resumo do Senado',items[0]['summary'])
+    def test_senate_atom_feed(self):
+        atom=f'''<feed xmlns="http://www.w3.org/2005/Atom"><entry>
+          <title>Senado vota projeto de lei sobre orçamento</title>
+          <link href="https://www12.senado.leg.br/noticias/materias/2026/10/teste" />
+          <updated>{u.NOW.isoformat()}</updated>
+        </entry></feed>'''
+        source=('Agência Senado','https://www12.senado.leg.br/noticias/rss.xml','Câmara e Senado',False)
+        entries=u.parse_feed(atom.encode(),source)
+        self.assertEqual(len(entries),1)
+        self.assertEqual(entries[0]['source'],'Agência Senado')
+
+    def test_html_entity_inside_atom_feed(self):
+        atom=f'''<feed xmlns="http://www.w3.org/2005/Atom"><entry>
+          <title>Senado discute saúde&nbsp; pública</title>
+          <link href="https://www12.senado.leg.br/noticias/materias/abc" />
+          <updated>{u.NOW.isoformat()}</updated>
+        </entry></feed>'''
+        source=('Agência Senado','https://www12.senado.leg.br/noticias/rss.xml','Câmara e Senado',False)
+        entries=u.parse_feed(atom.encode(),source)
+        self.assertEqual(len(entries),1)
+
+    def test_senate_second_feed_is_fallback(self):
+        from unittest.mock import patch
+        source=('Agência Senado','https://www12.senado.leg.br/noticias/rss.xml','Câmara e Senado',False)
+        valid=f'''<feed xmlns="http://www.w3.org/2005/Atom"><entry>
+        <title>Senado vota projeto de lei sobre segurança</title>
+        <link href="https://www12.senado.leg.br/noticias/materias/teste" />
+        <updated>{u.NOW.isoformat()}</updated></entry></feed>'''.encode()
+        class FakeResponse:
+            def __init__(self,content):self.content=content
+            def __enter__(self):return self
+            def __exit__(self,*args):return False
+            def read(self,n):return self.content
+        urls=[]
+        def mocked_urlopen(req,timeout):
+            urls.append(req.full_url)
+            if len(urls)==1:raise OSError('Falha no feed principal')
+            return FakeResponse(valid)
+        with patch.object(u,'urlopen',side_effect=mocked_urlopen):
+            name,items,error=u.fetch(source)
+        self.assertIsNone(error)
+        self.assertEqual(len(items),1)
+        self.assertEqual(len(urls),2)
+        self.assertEqual(urls[-1],'https://www12.senado.leg.br/noticias/RSS')
+
     def test_google_source(self):
         rss=f'''<rss><channel><item><title>Estadão apresenta nova análise sobre juros</title>
         <link>https://news.google.com/rss/articles/abc</link>
