@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="claude:viewport-fit-sides" content="cover">
+  <meta name="description" content="Painel Brasil: notícias do Brasil, instituições, economia e eleições, com atualização automatizada e links às fontes.">
+  <title>Painel Brasil</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=IBM+Plex+Sans:wght@400;500;600;700&amp;family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="seed.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+<div class="topline"></div>
+<div class="wrap">
+  <div class="utility">
+    <div class="utility-left"><strong>DIÁRIO DE NOTÍCIAS</strong><span id="today-label">PAINEL BRASIL · EDIÇÃO INDEPENDENTE</span></div>
+    <button class="theme" id="themeToggle" type="button" aria-label="Alternar tema claro e escuro">◐ Tema</button>
+  </div>
+  <header class="mast">
+    <div><div class="eyebrow">NOTICIÁRIO · PODER · ECONOMIA · SOCIEDADE</div>
+      <h1>Painel Brasil<span style="color:var(--accent)">.</span></h1>
+      <p>Notícias do Brasil e do mundo com acesso aos veículos originais, filtros por editoria e acompanhamento eleitoral com tratamento simétrico.</p>
+    </div>
+    <div class="edition"><strong>ATUALIZAÇÃO HORÁRIA</strong><div id="last-update">Aguardando primeira coleta</div><div id="total-label">Carregando notícias</div><div>Horário de Brasília</div></div>
+  </header>
+  <div class="status-row" role="status" aria-live="polite">
+    <span id="status-dot" class="status-indicator"></span><span id="status-message">Verificando dados disponíveis...</span>
+    <span id="status-count"></span>
+  </div>
+</div>
+<div class="filters-wrap"><nav id="filters" aria-label="Filtrar notícias por categoria" class="wrap filters"></nav></div>
+<div class="wrap"><div class="context" id="contexto"><div><span class="overline">CONTEXTO ELEITORAL</span><h2>Eleições 2026: Lula × Flávio Bolsonaro</h2><p>Quatro posições editoriais para cada candidato: fala, proposta, apoiador e articulação. Uma posição sem matéria recente ficará explicitamente sinalizada; ausência de informação não será preenchida com notícia inventada.</p></div><span class="tag">4 CAMPOS POR CANDIDATO</span></div></div>
+<main class="wrap" id="content">
+  <section class="section" data-section="Destaques" id="destaques"><div class="section-head"><div><span class="overline">EM PAUTA</span><h2>Destaques</h2></div><span class="section-count" id="count-destaques">—</span></div><div class="highlights" id="highlights"><div class="empty-note">Carregando destaques...</div></div></section>
+  <section class="section" data-section="Portais" id="portais"><div class="section-head"><div><span class="overline">ACESSO DIRETO</span><h2>Seis portais selecionados</h2></div><span class="section-count">06 portais</span></div><p class="portal-intro">Acompanhe o G1, O Globo, Folha de S.Paulo, Estadão, VEJA e The New York Times. Disponibilidade automática varia conforme os feeds e as restrições de cada veículo.</p><div class="portal-grid" id="portal-grid"></div><p class="portal-links-note">Os links abaixo apontam para a página de cada veículo; a coleta automatizada usa feeds RSS oficiais quando disponíveis e um agregador de manchetes como alternativa, indicando essa diferença em cada card.</p></section>
+  <section class="section" data-section="Eleições" id="eleicoes"><div class="section-head"><div><span class="overline">ELEIÇÕES · PLURALIDADE</span><h2>Lula × Flávio</h2></div><span class="section-count">4 posições por candidato</span></div><div class="candidate-wrap" id="candidate-wrap"></div></section>
+  <div id="category-sections"></div>
+</main>
+<footer class="wrap foot"><div class="foot-grid"><div><h3>Painel Brasil.</h3><p>Projeto independente. Coleta prevista a cada hora quando hospedado e ativado no GitHub Actions. Não é um produto oficial dos veículos citados.</p><p class="small" id="footer-sources">Fontes efetivamente usadas nesta edição: aguardando carregamento.</p><p class="small" id="footer-success">Horário da última coleta confirmada: aguardando.</p></div><div><div class="overline">TRANSPARÊNCIA EDITORIAL</div><p>As sinopses automáticas usam formulação própria baseada nas manchetes e metadados; <strong>não representam leitura integral, checagem de fatos ou confirmação independente da reportagem</strong>. Para detalhes, consulte a fonte original. As sinopses do arquivo inicial são paráfrases redigidas na edição anterior, identificada como arquivo.</p><p>Alguns portais (incluindo G1, O Globo, Folha, Estadão, VEJA e The New York Times) podem restringir a leitura automatizada de suas páginas; quando o link vier de um agregador, o card indicará isso. Falhas não serão apresentadas como coleta bem-sucedida.</p><p class="small">© 2026 Painel Brasil · Projeto editorial independente · Atualização automatizada sujeita à disponibilidade das fontes</p></div></div></footer>
+</body></html>
