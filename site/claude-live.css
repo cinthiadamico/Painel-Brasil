@@ -1,0 +1,31 @@
+/* Complemento do layout original fornecido pelo usuário: variáveis, fontes,
+   dimensões, cartões e breakpoints do Claude permanecem intactos. */
+.live-content{margin-top:0}
+.live-summary{border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:8px;background:var(--surface);padding:12px 15px;margin-bottom:26px;display:flex;gap:12px;flex-wrap:wrap;align-items:center;font-family:var(--font-mono);font-size:.72rem;color:var(--ink-dim)}
+.live-summary strong{color:var(--ink);font-size:.73rem}
+.live-summary .caution{color:var(--cat-seg)}
+.live-dot.not-fresh{background:var(--cat-seg);animation:none;box-shadow:none}
+.archive-panel{margin:30px 0 24px;border:1px solid var(--line);border-radius:12px;background:var(--surface);overflow:hidden}
+.archive-panel summary{padding:17px 20px;cursor:pointer;font:600 1.05rem var(--font-display);color:var(--ink)}
+.archive-panel summary:hover{background:var(--bg)}
+.archive-explain{font-size:.82rem;line-height:1.55;color:var(--ink-dim);margin:0 20px 20px}
+.archive-body{border-top:1px solid var(--line);padding:18px 20px 12px}
+.archive-body .race{margin-top:10px}
+.archive-body .hero-grid{margin-top:10px}
+.archive-body .cat-head{margin-top:15px}
+.archive-body footer{margin-top:28px}
+.live-footer{margin-top:35px}
+.small-note,.empty-state{font-size:.84rem;color:var(--ink-dim);line-height:1.6}
+.small-note{margin:0 0 18px}
+.empty-state{padding:15px;border:1px dashed var(--line);border-radius:10px;grid-column:1/-1}
+.live-footer .footer-timestamp{font-family:var(--font-mono);font-size:.71rem}
+@media(max-width:480px){.archive-body{padding:14px 12px}.live-summary{align-items:flex-start;flex-direction:column}}
+
+.theme-control{background:transparent;color:var(--ink);border:1px solid var(--line);border-radius:999px;cursor:pointer;font:500 .72rem var(--font-body);padding:5px 10px;margin-left:9px}
+.theme-control:hover{border-color:var(--accent)}
+.portal-news{margin:0 0 8px;padding:2px 0 0 18px;color:var(--ink-dim);font-size:.78rem;line-height:1.55}
+.portal-news li{padding-bottom:8px}
+.portal-date{display:block;font:400 .65rem var(--font-mono);color:var(--ink-dim)}
+.portal-no-news{font-style:italic}
+.live-footer p{overflow-wrap:anywhere}
+@media(max-width:560px){.live-status{white-space:normal;flex-wrap:wrap}.theme-control{margin-left:0}}
