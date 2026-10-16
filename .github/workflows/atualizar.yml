@@ -44,7 +44,16 @@ jobs:
           git add site/data/news.json
           if ! git diff --cached --quiet; then
             git commit -m "chore: atualizar Painel Brasil [skip ci]"
-            git push
+            for attempt in 1 2 3; do
+              if git push; then
+                break
+              fi
+              if [ "$attempt" -eq 3 ]; then
+                echo "Não foi possível publicar a atualização após 3 tentativas." >&2
+                exit 1
+              fi
+              git pull --rebase origin main
+            done
           fi
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
