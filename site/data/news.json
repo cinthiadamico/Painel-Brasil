@@ -1,10 +1,192 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T06:50:10.135205+00:00",
-  "last_success_at": "2026-10-17T06:50:10.135205+00:00",
+  "last_checked_at": "2026-10-17T07:40:35.252457+00:00",
+  "last_success_at": "2026-10-17T07:40:35.252457+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "162ff856b21cc253",
+      "title": "Estado 'espelho' do Brasil, MG entra no foco das campanhas de Lula e Flávio Bolsonaro para o 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: estado 'espelho' do Brasil, MG entra no foco das campanhas de Lula e Flávio Bolsonaro para o 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/17/estado-espelho-do-brasil-mg-entra-no-foco-das-campanhas-de-lula-e-flavio-bolsonaro-para-o-2o-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e7279f83be915a98",
+      "title": "Drones 'assassinos' e tropas: o que está por trás do avanço militar dos EUA na América Latina",
+      "summary": "O veículo G1 publicou uma atualização sobre: drones 'assassinos' e tropas: o que está por trás do avanço militar dos EUA na América Latina. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/drones-assassinos-e-tropas-o-que-esta-por-tras-do-avanco-militar-dos-eua-na-america-latina.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fa04199b1df4f53b",
+      "title": "Três dias antes de morrer, paciente com câncer realiza sonho de se casar em hospital no RS",
+      "summary": "O veículo G1 publicou uma atualização sobre: três dias antes de morrer, paciente com câncer realiza sonho de se casar em hospital no RS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/17/paciente-cancer-sonho-casamento-hospital-rs-morte.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b9c03852443ea256",
+      "title": "Vitória no Senado e derrota no Governo: por que Helder Barbalho não conseguiu eleger Hana Ghassan no PA",
+      "summary": "O veículo G1 publicou uma atualização sobre: vitória no Senado e derrota no Governo: por que Helder Barbalho não conseguiu eleger Hana Ghassan no PA. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/17/vitoria-no-senado-e-derrota-no-governo-por-que-helder-barbalho-nao-conseguiu-eleger-hana-ghassan-no-pa.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d9bb1944dceffacc",
+      "title": "Depois dos carros, a carne: como a China avança sobre clientes do Brasil com frango até 20% mais barato",
+      "summary": "O veículo G1 publicou uma atualização sobre: depois dos carros, a carne: como a China avança sobre clientes do Brasil com frango até 20% mais barato. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/17/depois-dos-carros-a-carne-como-a-china-avanca-sobre-clientes-do-brasil-com-frango-ate-20percent-mais-barato.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2105f32b8bf71a89",
+      "title": "Pernambucano, Rueda teve 60% de votos em Belford Roxo, onde fez dobradinha com Canella; PF vê uso de milícia na eleição por ex-prefeito",
+      "summary": "O veículo G1 publicou uma atualização sobre: pernambucano, Rueda teve 60% de votos em Belford Roxo, onde fez dobradinha com Canella; PF vê uso de milícia na eleição por ex-prefeito. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/17/pernambucano-rueda-teve-60percent-de-votos-em-belford-roxo-onde-fez-dobradinha-com-canella-pf-ve-uso-de-milicia-na-eleicao-por-ex-prefeito.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c778fe96bdd73887",
+      "title": "'Superinteligência'? Por que Trump insiste em tentar mudar o termo 'IA', usado há 70 anos",
+      "summary": "O veículo G1 publicou uma atualização sobre: 'Superinteligência'? Por que Trump insiste em tentar mudar o termo 'IA', usado há 70 anos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/17/superinteligencia-por-que-trump-insiste-em-tentar-mudar-o-termo-ia-usado-ha-70-anos.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "21479108f9666cce",
+      "title": "Redução da maioridade penal tem apoio de 89% dos eleitores de Flávio e 70% dos que votam em Lula",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: redução da maioridade penal tem apoio de 89% dos eleitores de Flávio e 70% dos que votam em Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-tem-apoio-de-89-dos-eleitores-de-flavio-e-70-dos-que-votam-em-lula.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "19349c416f44ba1c",
+      "title": "Troca de apoio à democracia da Ucrânia por petróleo da Rússia faz de Trump um traidor",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: troca de apoio à democracia da Ucrânia por petróleo da Rússia faz de Trump um traidor. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2026/10/troca-de-apoio-a-democracia-da-ucrania-por-petroleo-da-russia-faz-de-trump-um-traidor.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2bd458789263f61e",
+      "title": "Abstenção cai entre jovens, idosos e menos instruídos no 1º turno, segundo TSE",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: abstenção cai entre jovens, idosos e menos instruídos no 1º turno, segundo TSE. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/abstencao-cai-entre-jovens-idosos-e-menos-instruidos-no-1o-turno-segundo-tse.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0e52b574f42cc211",
+      "title": "Descompasso entre vendas e produção é maior do que parece no Brasil, diz presidente da Nissan",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: descompasso entre vendas e produção é maior do que parece no Brasil, diz presidente da Nissan. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/descompasso-entre-vendas-e-producao-e-maior-do-que-parece-no-brasil-diz-presidente-da-nissan.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ebc5edf72214f987",
+      "title": "Debate da Band entre Lula e Flávio terá confronto livre de 30 minutos; veja regras",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: debate da Band entre Lula e Flávio terá confronto livre de 30 minutos; veja regras. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/debate-da-band-entre-lula-e-flavio-tera-confronto-livre-de-30-minutos-veja-regras.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "157767d3cf24eb5a",
+      "title": "Pulverização de atos pró-Lula causa divisão e temor de embate com bolsonaristas",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pulverização de atos pró-Lula causa divisão e temor de embate com bolsonaristas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pulverizacao-de-atos-pro-lula-causa-divisao-e-temor-de-embate-com-bolsonaristas.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "0b2d7d8a38f09466",
       "title": "Trump suspende tarifas contra a Rússia e grandes compradores de petróleo e gás russos",
@@ -174,48 +356,6 @@
       "archive": false
     },
     {
-      "id": "e7a82a8da3a0fcdf",
-      "title": "28 vagas: prefeitura do interior de SP abre concurso com salários de até R$ 9,7 mil",
-      "summary": "O veículo G1 publicou uma atualização sobre: 28 vagas: prefeitura do interior de SP abre concurso com salários de até R$ 9,7 mil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/17/28-vagas-prefeitura-do-interior-de-sp-abre-concurso-com-salarios-de-ate-r-97-mil.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c9e72465a05b9d78",
-      "title": "Eleições 2026: quais estados já elegeram governador e onde haverá segundo turno?",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: quais estados já elegeram governador e onde haverá segundo turno?. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/eleicoes-2026-quais-estados-ja-elegeram-governador-e-onde-havera-segundo-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2a23f3a56e19ab81",
-      "title": "Jovens intensificam mobilização para conquistar votos para Lula e Flávio no segundo turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: jovens intensificam mobilização para conquistar votos para Lula e Flávio no segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/jovens-intensificam-mobilizacao-para-conquistar-votos-para-lula-e-flavio-no-segundo-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "dd892b5427ede27f",
       "title": "Mais de 90 mil óculos falsificados são apreendidos em Porto Alegre em 18 meses; saiba riscos para a saúde",
       "summary": "O veículo G1 publicou uma atualização sobre: mais de 90 mil óculos falsificados são apreendidos em Porto Alegre em 18 meses; saiba riscos para a saúde. Consulte a reportagem para contexto, dados e declarações.",
@@ -230,44 +370,16 @@
       "archive": false
     },
     {
-      "id": "d08ab8c447887466",
-      "title": "Debate da Band: o maior temor de aliados de Lula no embate com Flávio Bolsonaro - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: debate da Band: o maior temor de aliados de Lula no embate com Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVHN2M3NqOUlTNmVXWkxna2dOWXFueEh1U29wdlFTaTRick5fMDBDSjZ1ZWpoVGZTMWpIZENCTG5mY25rb1R4TG4zQ3NyWi1BNjQ0cFZFMkw1WmxwQjhlTnduaV9qMmR1ZklQeXRKMTFNOVlNUVRtUFJvU25sc1pRVU90MW1scll0MlhiNkdRZVVjYjlJQWcxZF9xaFJxZFd1Sm1HU1Z4UXdPZU5xakRTblNQaEZTX215V2dpdVJ5OXEzQld0ckkySjA2UUJNTnNKZjN6elZaNNIB5gFBVV95cUxPZkIxSWNaQ3Rac2VYTXZvd0xIZG43NTQtZENPcWFrSmFJWi1NVUhvdEtTUUVfQU94YlhjREZZN3ZvaGZpQi1Xd3VtSGN4Y1NILXpOZjZwMUtvU3BLeFd3MWw2dXZ5cWZ6SFE1eEZMMjBrOTV6bWQwYThQcEFFQVVvbWc3d1h2NjUwZjhBcUNZSG9aWmJjN1h0MkRwaUNIQXR3eGFIbTZfM0pxandMOTF1TkJPSk9GSWJEMXNJMGMxSmFkN3hlTUxaQnNYRTRLVkFaam1uYXprbkQ3ZHBsTVB2dGstMXBoQQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-17T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3e05cfa517879e88",
-      "title": "Datafolha: 59% defendem que ministros do STF deveriam ter mandato",
+      "id": "eb38999ce6d21462",
+      "title": "Datafolha: 59% defendem que ministros do STF deveriam ter mandato - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: datafolha: 59% defendem que ministros do STF deveriam ter mandato. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/datafolha-ministros-stf-mandato.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWwwWlgxdm1LakhPWHBXNmkxYVdxZVE5MlRHaUc0TWdQWDdKSEVQNWtxbEROZ1p5RHRmRm1HWElkM3NPQlRBcEJSSllZQVJRRHZNOUNUMTBkdTgtR254WXg1MzNyWFRJOXZQdmhiNHZjazM3bVQzNUNkV2hMOW1yOEVqQUxCdGkxclktWXdVS0Z4LUk1aXRjSEZPZHM3dWV0WVHSAbABQVVfeXFMTzl3eDJwb1lwRWhld2l6QzRhQ25EcnJwSE9LT3FILWFuREhON1otWWhCN01KTDU5ZEV5bGlUcFdWVmxyUTVJbWhwMDFRV3ZQZkwxQ2NLdUttUlh5cXlyNDRQM0pJQjlxR0lteTBkSFNaTUhEalBaUlAxcG9TdXVBWG81SFRaMFZUQmV4UjVaNnFiQWlWdGxPMFd4Tlk3clpQbTQ5ckkxUVVzTVV6UEd3bEQ?oc=5",
       "source": "G1",
       "published_at": "2026-10-17T02:46:54+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "248de89b4ae8c4e2",
-      "title": "Datafolha: Brasil vive polarização política para 78%",
-      "summary": "O veículo G1 publicou uma atualização sobre: datafolha: Brasil vive polarização política para 78%. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/16/datafolha-brasil-polarizacao-politica-16-outubro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T02:46:07+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -282,20 +394,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2f619931fb85becc",
-      "title": "Corregedoria da PM deve apurar conduta de policiais após morte de jovem na Terra Firme, em Belém",
-      "summary": "O veículo G1 publicou uma atualização sobre: corregedoria da PM deve apurar conduta de policiais após morte de jovem na Terra Firme, em Belém. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/10/16/corregedoria-da-pm-deve-apurar-conduta-de-policiais-apos-morte-de-jovem-na-terra-firme-em-belem.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T02:34:55+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -468,34 +566,6 @@
       "archive": false
     },
     {
-      "id": "a7597d0998e36393",
-      "title": "TSE aprova regras sobre canais de WhatsApp em campanhas eleitorais",
-      "summary": "O veículo G1 publicou uma atualização sobre: tSE aprova regras sobre canais de WhatsApp em campanhas eleitorais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/16/tse-aprova-regras-sobre-canais-de-whatsapp-em-campanhas-eleitorais.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T00:54:50+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "46def4a51449d5e6",
-      "title": "Resumão diário do JN: Desmatamento na Amazônia é o menor em 38 anos; TSE aprova regras sobre canais de Whatsapp em campanhas eleitorais",
-      "summary": "O veículo G1 publicou uma atualização sobre: resumão diário do JN: Desmatamento na Amazônia é o menor em 38 anos; TSE aprova regras sobre canais de Whatsapp em campanhas eleitorais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/16/resumao-diario-do-jn-desmatamento-na-amazonia-e-o-menor-em-38-anos-tse-aprova-regras-sobre-canais-de-whatsapp-em-campanhas-eleitorais.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T00:32:07+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d84c687c7afd4b1b",
       "title": "Defesa de Vorcaro pede investigação sobre vazamento de conversas",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: defesa de Vorcaro pede investigação sobre vazamento de conversas. Consulte a reportagem para contexto, dados e declarações.",
@@ -548,6 +618,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b0f3a7f31f6bb112",
+      "title": "TSE decide manter ordem para Meta garantir isonomia a candidatos",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: tSE decide manter ordem para Meta garantir isonomia a candidatos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-decide-manter-ordem-para-meta-garantir-isonomia-candidatos",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-16T23:04:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -790,20 +874,6 @@
       "archive": false
     },
     {
-      "id": "7e69f70a0a48a950",
-      "title": "Brasil é 2º maior importador de pesticidas proibidos na UE, diz Oxfam",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: brasil é 2º maior importador de pesticidas proibidos na UE, diz Oxfam. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/brasil-e-2o-maior-importador-de-pesticidas-proibidos-na-ue-diz-oxfam",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T20:17:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "3c6602b720176a46",
       "title": "Estudantes planejam estudar fora mais cedo e olham além de EUA e Canadá",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: estudantes planejam estudar fora mais cedo e olham além de EUA e Canadá. Consulte a reportagem para contexto, dados e declarações.",
@@ -828,20 +898,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "82c4d87510c8351e",
-      "title": "Wagner Moura acusa aliados de Flávio Bolsonaro de entregar terras raras aos EUA - Gazeta do Paraná",
-      "summary": "O veículo Gazeta do Paraná publicou uma atualização sobre: wagner Moura acusa aliados de Flávio Bolsonaro de entregar terras raras aos EUA - Gazeta do Paraná. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2xiOGMwWFNTT3NuNmpJRTVRZHZhYnVsVUJWWjl4a3hVZG8zMkZ3ejBBS1Z4aGZXUkI3a05BRlp1MlpLTnFHODlTLW9UUE5sZUNnTXoya2JYekFJNjloQlVHdWp2VU8ydlh1NUFxLXN5OGY0WFVPZjJOdEtETHNscWkwWGlyMVFLbmQzZA?oc=5",
-      "source": "Gazeta do Paraná",
-      "published_at": "2026-10-16T20:09:05+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -944,20 +1000,6 @@
       "archive": false
     },
     {
-      "id": "3349dd43516e0b96",
-      "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: the Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-16T19:12:25+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c67117422ea38908",
       "title": "Candidato a vice de Ciro Gomes, Roberto Cláudio declara apoio a Flávio Bolsonaro",
       "summary": "O veículo G1 publicou uma atualização sobre: candidato a vice de Ciro Gomes, Roberto Cláudio declara apoio a Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
@@ -1028,20 +1070,6 @@
       "archive": false
     },
     {
-      "id": "bc745a073b64a3eb",
-      "title": "Áudio: Congresso promulga aposentadoria especial dos agentes de saúde",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Congresso promulga aposentadoria especial dos agentes de saúde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/congresso-promulga-aposentadoria-especial-dos-agentes-de-saude",
-      "source": "Senado Federal",
-      "published_at": "2026-10-16T18:11:57+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "03ca0ccdc89d4bed",
       "title": "Best-seller de Belle Burden toca a dor da violência patrimonial",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: best-seller de Belle Burden toca a dor da violência patrimonial. Consulte a reportagem para contexto, dados e declarações.",
@@ -1049,20 +1077,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-16T18:00:00+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "56f061a373d6c5d5",
-      "title": "Excesso de endividamento atinge uma em cada cinco indústrias",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: excesso de endividamento atinge uma em cada cinco indústrias. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/excesso-de-endividamento-atinge-uma-em-cada-cinco-industrias.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T17:14:00+00:00",
-      "category": "Endividamento",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1196,20 +1210,6 @@
       "archive": false
     },
     {
-      "id": "84e9b2eea82c5bb0",
-      "title": "Ibovespa sobe com alívio externo, mas eleições mantêm mercado cauteloso",
-      "summary": "O veículo VEJA publicou uma atualização sobre: ibovespa sobe com alívio externo, mas eleições mantêm mercado cauteloso. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/economia/ibovespa-sobe-com-alivio-externo-mas-eleicoes-mantem-mercado-cauteloso/",
-      "source": "VEJA",
-      "published_at": "2026-10-16T15:06:51+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "cc9f3d62695da4e5",
       "title": "Enem 2026: prazo para escolher idioma da prova termina neste domingo",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: enem 2026: prazo para escolher idioma da prova termina neste domingo. Consulte a reportagem para contexto, dados e declarações.",
@@ -1294,20 +1294,6 @@
       "archive": false
     },
     {
-      "id": "bec7917419df8217",
-      "title": "Flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSXN4OENqOWpCSW1yeno5dFdwc2JEckNzSE1HakdqLU5tNEt1N082cElQOXN6X21xZVpFRW9VUVBJd2hzcTRtd3VEX0JvQzJlc1VCdTBGeWN1bGdlTkxJaFItVGRtUE15dEVkZGZLOHZQXzF6YVRPRC11UXpyT0VtUEhUNk9YMkpOVU03NmY0M2F5LXRyT2pNdzc4eVJhQW02S2Jybi1uRlloTHh0ZzBTRnREUXZZcGNWbDVTNEp5Vy1HNmsyUmVRMGIwZ3ZIeUo3Zk5xdEltb2laNDM1UmVTZg?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T13:00:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "31f72c02d3ab4849",
       "title": "O estado de saúde de papa Leão XIV após retirada de câncer - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: o estado de saúde de papa Leão XIV após retirada de câncer. Consulte a reportagem para contexto, dados e declarações.",
@@ -1364,20 +1350,6 @@
       "archive": false
     },
     {
-      "id": "f8ed5bba3976a10f",
-      "title": "Painel: Ex-ministro de Bolsonaro, Weintraub diz que não irá votar e cita suspeitas de corrupção contra Flávio - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: Ex-ministro de Bolsonaro, Weintraub diz que não irá votar e cita suspeitas de corrupção contra Flávio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZVZhU3FOaVpWYUVhWXZnOHhtZE90NUd6UURPeGJDRTdUMVZxY3pfWXR4TXRhS1YyY204dG5aNVdocG1vclB3ZmIyN3o5eHpjRF9sTm80eElnSjZFaTJBX3FwdEw4TFJxOG1RQ1M3ajF6QS1WMG45WmpVSzFmRjJ1OUViSFVOR1NEek4tZ2p0VnNLbHhrSDVvQm5RdWtraDRJdnFiQy13V3dIWER6b0N2WG04LUpONHFxSERaMDgzZmdDZ0hBbFFCR3gwR0x0TGRvOXllbHJackhpY2JKYVlULTlqelpseENNc1VHelNYME0?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T09:00:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "88df9c35071d2dd9",
       "title": "Polícia identifica um dos responsáveis por tentativa de latrocínio contra arqueóloga e professora aposentada da UFRJ no Leblon - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: polícia identifica um dos responsáveis por tentativa de latrocínio contra arqueóloga e professora aposentada da UFRJ no Leblon. Consulte a reportagem para contexto, dados e declarações.",
@@ -1385,20 +1357,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-16T07:00:02+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4f95a6ad3ed5764c",
-      "title": "Vamos enterrar de vez a tabela SUS, diz Padilha sobre modelo que vigora há quase 30 anos na Saúde - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vamos enterrar de vez a tabela SUS, diz Padilha sobre modelo que vigora há quase 30 anos na Saúde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZnMtZkdQMjRYVTVEUUw4RkRwanZnSjFHSnVVYUs0Q2Yta0M0WGFsV01wMzFEZFlnVDZHTmVqdW5BaDNCR1BTRkdjc3NidGNwTzBKVHFvTS0wdmRDODh6Z0ZjMF9ycXVYNm9tV1Q5NVYwZmhURXZXQWFTeEtBa20xa1IzRllNcnBKNi04a1dlTTY3Z1o4WWdjdU1SenJWVzVQc1dKQVpfSWpDRlEtOWVRcXRJR0wxWmJIMC1RVUFCNU45TnhHdFRCUDEwaHRmSkRoVWI4THppZ2FWV2xQRU84aGpMb0VMQ1ZNNi1xU1dn?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T07:00:00+00:00",
-      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1535,15 +1493,15 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 25
+      "items": 16
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 82
+      "items": 83
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 49
+      "items": 51
     },
     "VEJA": {
       "status": "ok",
@@ -1591,11 +1549,11 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 67
+      "items": 65
     },
     "Estadão": {
       "status": "ok",
-      "items": 32
+      "items": 31
     },
     "G1 · Busca alternativa": {
       "status": "ok",
@@ -1607,7 +1565,7 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 34
+      "items": 39
     },
     "Eleições · Lula": {
       "status": "ok",
