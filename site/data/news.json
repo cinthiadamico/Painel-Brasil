@@ -1,10 +1,150 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T02:41:35.013905+00:00",
-  "last_success_at": "2026-10-17T02:41:35.013905+00:00",
+  "last_checked_at": "2026-10-17T03:41:55.960344+00:00",
+  "last_success_at": "2026-10-17T03:41:55.960344+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "e6c81559be434463",
+      "title": "Checamos a entrevista de Flávio Bolsonaro na TV Globo; veja o resultado - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: checamos a entrevista de Flávio Bolsonaro na TV Globo; veja o resultado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWWNqR1FqaC02UGUzUGJiaEZNRWQ0alhoRXAzaEM5U1BnVzFxZEY3c3BNVFJ1WVNrcWVHLU1fUFA5R3NyZEtWSWpkUnc0TWpROHZId0UzS1hBWXJYSDJPSXktdEQyQkhtMDZtMjFOMjBVNTZvcVB4VGJmTlZpQkc0dnNzNm9xMVlRQXY1dVphV3NrSjgwOEt5aXpEZXBBcVVONHJQaTNB0gGrAUFVX3lxTE1kQVlmYnF2bHBSY3ljeFdxQmhIcEZoaXZQUms5YmQzc3dwUFhPWmNsTnVxaElBcEtmSElSb1lsZmtuc0hnWS1YNFAzSDYxRHdrYTJtT0t6UUJzQ3JTZWZaM0owM2cxblNoemJkRVNMOVdMSzA2WUVyYzVSdkpJNHh4Rm01RFd5ZndzVk9iX2REN2h3SWtNSGlTd2J1bjZiWmRlUTFFNVlvZDdlUQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-17T03:28:42+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1a883da6b2141607",
+      "title": "Centrão tenta chegar a acordo para votar novo sistema eleitoral e conter avanço da direita",
+      "summary": "O veículo G1 publicou uma atualização sobre: centrão tenta chegar a acordo para votar novo sistema eleitoral e conter avanço da direita. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/17/centrao-tenta-chegar-a-acordo-para-votar-novo-sistema-eleitoral-e-conter-avanco-da-direita.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T03:02:02+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7011930dcbfd19c0",
+      "title": "Escala 6x1 acabou. E agora? Veja perguntas e respostas para entender tudo sobre mudança",
+      "summary": "O veículo G1 publicou uma atualização sobre: escala 6x1 acabou. E agora? Veja perguntas e respostas para entender tudo sobre mudança. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/17/escala-6x1-acabou-e-agora-perguntas-respostas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T03:00:04+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e7a82a8da3a0fcdf",
+      "title": "28 vagas: prefeitura do interior de SP abre concurso com salários de até R$ 9,7 mil",
+      "summary": "O veículo G1 publicou uma atualização sobre: 28 vagas: prefeitura do interior de SP abre concurso com salários de até R$ 9,7 mil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/17/28-vagas-prefeitura-do-interior-de-sp-abre-concurso-com-salarios-de-ate-r-97-mil.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c9e72465a05b9d78",
+      "title": "Eleições 2026: quais estados já elegeram governador e onde haverá segundo turno?",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: quais estados já elegeram governador e onde haverá segundo turno?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/eleicoes-2026-quais-estados-ja-elegeram-governador-e-onde-havera-segundo-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2a23f3a56e19ab81",
+      "title": "Jovens intensificam mobilização para conquistar votos para Lula e Flávio no segundo turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: jovens intensificam mobilização para conquistar votos para Lula e Flávio no segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/jovens-intensificam-mobilizacao-para-conquistar-votos-para-lula-e-flavio-no-segundo-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dd892b5427ede27f",
+      "title": "Mais de 90 mil óculos falsificados são apreendidos em Porto Alegre em 18 meses; saiba riscos para a saúde",
+      "summary": "O veículo G1 publicou uma atualização sobre: mais de 90 mil óculos falsificados são apreendidos em Porto Alegre em 18 meses; saiba riscos para a saúde. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/17/oculos-falsificados-porto-alegre-riscos-saude.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T03:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3e05cfa517879e88",
+      "title": "Datafolha: 59% defendem que ministros do STF deveriam ter mandato",
+      "summary": "O veículo G1 publicou uma atualização sobre: datafolha: 59% defendem que ministros do STF deveriam ter mandato. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/datafolha-ministros-stf-mandato.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T02:46:54+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "248de89b4ae8c4e2",
+      "title": "Datafolha: Brasil vive polarização política para 78%",
+      "summary": "O veículo G1 publicou uma atualização sobre: datafolha: Brasil vive polarização política para 78%. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/16/datafolha-brasil-polarizacao-politica-16-outubro.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T02:46:07+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6bffed63e4acf628",
+      "title": "A ministra do TSE que será rifada num governo de Flávio Bolsonaro - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: a ministra do TSE que será rifada num governo de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ3U4Sy1Ib2g2TVJ3VDB6V3QtSnZJRkd5aVdLNHc4NmNYR1M1UWotbU9OV0FIb25tXzlYYUFQTUpoUzVOaUowaTk5TVM0LUhMZGEzMV9Pd3BPSnQ4SzB1M1NmY3FJNi1ZQWJ6WFg2X1Q3NXVDQW1nTGVaMVZIY3U4SU5CVzEzVEstNVkyallwcjlwcWJTLTVYVXNvWmNmLUV0eVlwQW5PVUYteXZvMmJXRGgyaWY2ZGNfdXFpTFFlVWxOc0NEdnfSAdQBQVVfeXFMTVZQNHpCeWtuSmhpRWd4b29IcE9wTXhuUnlZZk9UOXZUM09ualczSjRLSHdkV1hyRUxPMnVVd3JTSGNNbWJfQzBMX3JsX0hmTUE0Q18taVFlNVBqdDJ5WjN0bGxLZzVHSzFXMFNVRmwwU19LaDQ4UlpldmtlQzlxZVMtZEdSMDBkcTljNl9LUU5lT1Vqc1ZIRXNSYnRvYWlUMjlxckFsall5LXVEcExvVFZURS1VU3VUTmtJZ21xdEI4dzJ5UkYwVjY3VllMTnNRcDdVM0w?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T02:41:33+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "2f619931fb85becc",
       "title": "Corregedoria da PM deve apurar conduta de policiais após morte de jovem na Terra Firme, em Belém",
@@ -104,20 +244,6 @@
       "archive": false
     },
     {
-      "id": "8dbefe480c7df46d",
-      "title": "Agro mira ministérios do Meio Ambiente e de Minas e Energia em eventual governo Flávio Bolsonaro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: agro mira ministérios do Meio Ambiente e de Minas e Energia em eventual governo Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/agro-mira-ministerios-do-meio-ambiente-e-de-minas-e-energia-em-eventual-governo-flavio-bolsonaro.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "7f9fdb2d504a56d9",
       "title": "Paraguai desafia China ao manter elo com Taiwan e paga preço tecnológico",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: paraguai desafia China ao manter elo com Taiwan e paga preço tecnológico. Consulte a reportagem para contexto, dados e declarações.",
@@ -132,48 +258,6 @@
       "archive": false
     },
     {
-      "id": "9d890886c02b4157",
-      "title": "Premiê do Canadá diz que ameaças externas tentam dividir país antes de votação sobre independência",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: premiê do Canadá diz que ameaças externas tentam dividir país antes de votação sobre independência. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/premie-do-canada-diz-que-ameacas-externas-tentam-dividir-pais-antes-de-votacao-sobre-independencia.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a76a57acedd158ba",
-      "title": "Alvo de polêmica, Meta é a empresa que mais arrecadou na eleição do Brasil",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: alvo de polêmica, Meta é a empresa que mais arrecadou na eleição do Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alvo-de-polemica-meta-e-a-empresa-que-mais-arrecadou-na-eleicao-do-brasil.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e6c81559be434463",
-      "title": "Checamos a entrevista de Flávio Bolsonaro na TV Globo; veja o resultado - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: checamos a entrevista de Flávio Bolsonaro na TV Globo; veja o resultado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWWNqR1FqaC02UGUzUGJiaEZNRWQ0alhoRXAzaEM5U1BnVzFxZEY3c3BNVFJ1WVNrcWVHLU1fUFA5R3NyZEtWSWpkUnc0TWpROHZId0UzS1hBWXJYSDJPSXktdEQyQkhtMDZtMjFOMjBVNTZvcVB4VGJmTlZpQkc0dnNzNm9xMVlRQXY1dVphV3NrSjgwOEt5aXpEZXBBcVVONHJQaTNB0gGrAUFVX3lxTE1kQVlmYnF2bHBSY3ljeFdxQmhIcEZoaXZQUms5YmQzc3dwUFhPWmNsTnVxaElBcEtmSElSb1lsZmtuc0hnWS1YNFAzSDYxRHdrYTJtT0t6UUJzQ3JTZWZaM0owM2cxblNoemJkRVNMOVdMSzA2WUVyYzVSdkpJNHh4Rm01RFd5ZndzVk9iX2REN2h3SWtNSGlTd2J1bjZiWmRlUTFFNVlvZDdlUQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-17T01:50:35+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "425afa9b10775f9a",
       "title": "Jovem de 24 anos morre durante cirurgia plástica em hospital de Cuiabá",
       "summary": "O veículo G1 publicou uma atualização sobre: jovem de 24 anos morre durante cirurgia plástica em hospital de Cuiabá. Consulte a reportagem para contexto, dados e declarações.",
@@ -181,34 +265,6 @@
       "source": "G1",
       "published_at": "2026-10-17T01:50:33+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cb9e27e6b6738c48",
-      "title": "Veja o que é #FATO ou #FAKE na entrevista de Flávio Bolsonaro à Globo no 2º turno das eleições 2026",
-      "summary": "O veículo G1 publicou uma atualização sobre: veja o que é #FATO ou #FAKE na entrevista de Flávio Bolsonaro à Globo no 2º turno das eleições 2026. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/16/veja-o-que-e-fato-ou-fake-na-entrevista-de-flavio-bolsonaro-a-globo-no-2o-turno-das-eleicoes-2026.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T01:44:47+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "293a5d2766658014",
-      "title": "Os destinos de Jair e Eduardo Bolsonaro em um eventual governo de Flávio",
-      "summary": "O veículo VEJA publicou uma atualização sobre: os destinos de Jair e Eduardo Bolsonaro em um eventual governo de Flávio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/os-destinos-de-jair-e-eduardo-bolsonaro-em-um-eventual-governo-de-flavio/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T01:40:16+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -254,6 +310,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1e4dd0707495f977",
+      "title": "Flávio promete que não vai reverter fim da escala 6x1 se for eleito; vídeo - Rdnews",
+      "summary": "O veículo Rdnews publicou uma atualização sobre: flávio promete que não vai reverter fim da escala 6x1 se for eleito; vídeo - Rdnews. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRWwyOU83RmxyNkhjNmZvc25QMk5CcmpPdU9UdDR5ZGpyN29FeHI0TEhzNUNaNmZRNkV1UzlfbVNuRmNSc21TcE4xdXpuRl9SdGxlNHBOTTZvMUpIalp5cUZGTC10bUhrVzJnZVQ5TGo2M3d6Uk5Ibk1RLXVyUkVhenhRRTRXYllLelVmemF0R211enFqYktRNkxwT18tdFF0OWxBMThfN1pmTVliaVV3RzBsMFhFbEtWQV9V?oc=5",
+      "source": "Rdnews",
+      "published_at": "2026-10-17T01:20:00+00:00",
+      "category": "Eleições",
+      "candidate": "flavio",
+      "election_type": "Proposta",
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -370,20 +440,6 @@
       "archive": false
     },
     {
-      "id": "6765ee035144839b",
-      "title": "Flávio Bolsonaro promete manter fim da escala 6x1, diz que só quer um mandato e que se surpreendeu com prisão de aliados no RJ",
-      "summary": "O veículo G1 publicou uma atualização sobre: flávio Bolsonaro promete manter fim da escala 6x1, diz que só quer um mandato e que se surpreendeu com prisão de aliados no RJ. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/flavio-bolsonaro-entrevista-globo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T00:17:57+00:00",
-      "category": "Eleições",
-      "candidate": "flavio",
-      "election_type": "Proposta",
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "aeab870b32bc77bf",
       "title": "Anac estabelece regras mais restritivas para aviação em Congonhas (SP)",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: anac estabelece regras mais restritivas para aviação em Congonhas (SP). Consulte a reportagem para contexto, dados e declarações.",
@@ -468,34 +524,6 @@
       "archive": false
     },
     {
-      "id": "b0f3a7f31f6bb112",
-      "title": "TSE decide manter ordem para Meta garantir isonomia a candidatos",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: tSE decide manter ordem para Meta garantir isonomia a candidatos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-decide-manter-ordem-para-meta-garantir-isonomia-candidatos",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T23:04:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a627fbff62770c94",
-      "title": "TSE tem maioria para ordenar que Meta garanta isonomia a candidatos",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: tSE tem maioria para ordenar que Meta garanta isonomia a candidatos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-tem-maioria-para-ordenar-que-meta-garanta-isonomia-candidatos",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T23:04:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "8bf633981dc3c93c",
       "title": "Todos os 7 candidatos à chefia da ONU enfrentam veto, e impasse abre espaço para novos nomes",
       "summary": "O veículo G1 publicou uma atualização sobre: todos os 7 candidatos à chefia da ONU enfrentam veto, e impasse abre espaço para novos nomes. Consulte a reportagem para contexto, dados e declarações.",
@@ -524,34 +552,6 @@
       "archive": false
     },
     {
-      "id": "50900e9fa0fa7c31",
-      "title": "Pacientes com câncer relatam tratamento interrompido por falta de oncologistas no Hospital do Andaraí",
-      "summary": "O veículo G1 publicou uma atualização sobre: pacientes com câncer relatam tratamento interrompido por falta de oncologistas no Hospital do Andaraí. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/16/pacientes-com-cancer-relatam-tratamento-interrompido-por-falta-de-oncologistas-no-hospital-do-andarai.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T22:51:05+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3f23f2821713470a",
-      "title": "Tito Barichello e Tathiana Guzella são denunciados por operação feita sem autorização da polícia",
-      "summary": "O veículo G1 publicou uma atualização sobre: tito Barichello e Tathiana Guzella são denunciados por operação feita sem autorização da polícia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pr/parana/noticia/2026/10/16/tito-barichello-e-tathiana-guzella-denuncia-operacao-sem-autorizacao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T22:40:39+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "4a4146f76aa89cf1",
       "title": "Dark Horse: Delator relata fraude em pagamento a fundo ligado a Eduardo Bolsonaro nos EUA - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: dark Horse: Delator relata fraude em pagamento a fundo ligado a Eduardo Bolsonaro nos EUA. Consulte a reportagem para contexto, dados e declarações.",
@@ -566,82 +566,12 @@
       "archive": false
     },
     {
-      "id": "3090b77e32cb6d76",
-      "title": "Leandro Grass reconhece erros de Agnelo, promete tarifa zero e fala em revisar papel do Iges em entrevista à Globo",
-      "summary": "O veículo G1 publicou uma atualização sobre: leandro Grass reconhece erros de Agnelo, promete tarifa zero e fala em revisar papel do Iges em entrevista à Globo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/16/veja-como-foi-sabatina-da-globo-com-leandro-grass-candidato-ao-governo-do-df-no-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T22:35:22+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bc624d04f0f09571",
-      "title": "Ferraço promete criar cartão para mulheres vítimas de violência e elevar salário de professores",
-      "summary": "O veículo G1 publicou uma atualização sobre: ferraço promete criar cartão para mulheres vítimas de violência e elevar salário de professores. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/16/ferraco-participa-de-entrevista-no-boa-noite-espirito-santo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T22:34:04+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6604ec25564b5112",
-      "title": "Petrolina recebe Congresso Nacional Neurodiconvergência em outubro",
-      "summary": "O veículo G1 publicou uma atualização sobre: petrolina recebe Congresso Nacional Neurodiconvergência em outubro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/16/petrolina-recebe-congresso-nacional-neurodiconvergencia-em-outubro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T22:32:34+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "3af5998f986270fb",
       "title": "Se eleito, Flávio Bolsonaro levará a milícia ao Planalto",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: se eleito, Flávio Bolsonaro levará a milícia ao Planalto. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/10/se-eleito-flavio-bolsonaro-levara-a-milicia-ao-planalto.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-16T22:30:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1205870affe2d07d",
-      "title": "Vicentinho Júnior detalha alianças, defende ser ficha limpa e apresenta propostas para saúde e segurança pública",
-      "summary": "O veículo G1 publicou uma atualização sobre: vicentinho Júnior detalha alianças, defende ser ficha limpa e apresenta propostas para saúde e segurança pública. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/16/vicentinho-junior-detalha-aliancas-defende-ser-ficha-limpa-e-apresenta-propostas-para-saude-e-seguranca-publica.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T22:29:59+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b5a6a46fc1ddb13c",
-      "title": "Governo federal anuncia cobertura de celular e internet em trecho de 674 km da BR-163 no PA",
-      "summary": "O veículo G1 publicou uma atualização sobre: governo federal anuncia cobertura de celular e internet em trecho de 674 km da BR-163 no PA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/10/16/governo-federal-anuncia-cobertura-de-celular-e-internet-em-trecho-de-674-km-da-br-163-no-pa.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T22:25:25+00:00",
       "category": "Governo federal",
       "candidate": null,
       "election_type": null,
@@ -1084,6 +1014,20 @@
       "archive": false
     },
     {
+      "id": "300b746e864bdd49",
+      "title": "Áudio: Dia Nacional da Vacinação é comemorado neste sábado",
+      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Dia Nacional da Vacinação é comemorado neste sábado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/dia-nacional-da-vacinacao-e-comemorado-neste-sabado",
+      "source": "Senado Federal",
+      "published_at": "2026-10-16T18:06:03+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "03ca0ccdc89d4bed",
       "title": "Best-seller de Belle Burden toca a dor da violência patrimonial",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: best-seller de Belle Burden toca a dor da violência patrimonial. Consulte a reportagem para contexto, dados e declarações.",
@@ -1189,6 +1133,20 @@
       "source": "VEJA",
       "published_at": "2026-10-16T16:28:53+00:00",
       "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1f972fc135b94f3e",
+      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-16T16:07:37+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1406,20 +1364,6 @@
       "archive": false
     },
     {
-      "id": "87fcfe4b9ddead56",
-      "title": "Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-lula-e-flavio-divergem-sobre-ajuste-fiscal-e-papel-do-estado",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T11:20:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "4163c3be1eb5dd15",
       "title": "Carreta que transportava ácido orgânico tomba e interdita Arco Metropolitano; motorista é levado para hospital - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: carreta que transportava ácido orgânico tomba e interdita Arco Metropolitano; motorista é levado para hospital. Consulte a reportagem para contexto, dados e declarações.",
@@ -1455,6 +1399,20 @@
       "source": "O GLOBO",
       "published_at": "2026-10-16T07:00:02+00:00",
       "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4f95a6ad3ed5764c",
+      "title": "Vamos enterrar de vez a tabela SUS, diz Padilha sobre modelo que vigora há quase 30 anos na Saúde - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vamos enterrar de vez a tabela SUS, diz Padilha sobre modelo que vigora há quase 30 anos na Saúde. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZnMtZkdQMjRYVTVEUUw4RkRwanZnSjFHSnVVYUs0Q2Yta0M0WGFsV01wMzFEZFlnVDZHTmVqdW5BaDNCR1BTRkdjc3NidGNwTzBKVHFvTS0wdmRDODh6Z0ZjMF9ycXVYNm9tV1Q5NVYwZmhURXZXQWFTeEtBa20xa1IzRllNcnBKNi04a1dlTTY3Z1o4WWdjdU1SenJWVzVQc1dKQVpfSWpDRlEtOWVRcXRJR0wxWmJIMC1RVUFCNU45TnhHdFRCUDEwaHRmSkRoVWI4THppZ2FWV2xQRU84aGpMb0VMQ1ZNNi1xU1dn?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-16T07:00:00+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1600,30 +1558,16 @@
       "via_aggregator": true,
       "curated": false,
       "archive": false
-    },
-    {
-      "id": "afa9a600608e8592",
-      "title": "Dados da Presidência confirmam reuniões de Vorcaro no Planalto com operador de esquema no governo Lula - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: dados da Presidência confirmam reuniões de Vorcaro no Planalto com operador de esquema no governo Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnREV3lLQmktZEs0RXk3SE5IWEltcUtFU2RDMjN6dGE2RElqeTd1ZlU3X1BXNFdRVDFwQUd3MGowcFMyV3Zad1dPeGZsb2xNWGltYnlEWERuQldWZURwTEl1SFFPX3NJcm5YUmpuVklJMWlzbXJpZ2xIUUY3X3V2bGN6SFlySjNmcVNqQjRFU0NnUTM2QUtKZkpnTnM3NlRCbmxXeU9vQnEySTRkdVdvUm9WSXpCZXVOWEM4SEpKVTlxQTRtYzA5TFRhTzMtSUFZanc?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-13T15:41:02+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
     }
   ],
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 38
+      "items": 40
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 81
+      "items": 82
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1675,27 +1619,27 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 66
+      "items": 64
     },
     "Estadão": {
       "status": "ok",
-      "items": 35
+      "items": 33
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 43
+      "items": 41
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 52
+      "items": 55
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 39
+      "items": 38
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 59
+      "items": 58
     },
     "Eleições · Flávio": {
       "status": "ok",
