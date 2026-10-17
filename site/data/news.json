@@ -1,31 +1,17 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T14:38:59.793990+00:00",
-  "last_success_at": "2026-10-17T14:38:59.793990+00:00",
+  "last_checked_at": "2026-10-17T15:39:12.657541+00:00",
+  "last_success_at": "2026-10-17T15:39:12.657541+00:00",
   "coverage_window_hours": 84,
   "items": [
     {
-      "id": "d6755586b13c5879",
-      "title": "Qual o peso do fim da escala 6×1 na escolha de voto no segundo turno, segundo nova pesquisa Ipespe",
-      "summary": "O veículo VEJA publicou uma atualização sobre: qual o peso do fim da escala 6×1 na escolha de voto no segundo turno, segundo nova pesquisa Ipespe. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/qual-o-peso-do-fim-da-escala-6x1-na-escolha-de-voto-no-segundo-turno-segundo-nova-pesquisa-ipespe/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T14:33:02+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0a95efe06c3a33c5",
-      "title": "Advogado amigo de Flávio recebeu documentos vazados do STJ e MPF, diz site",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: advogado amigo de Flávio recebeu documentos vazados do STJ e MPF, diz site. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/advogado-amigo-de-flavio-recebeu-documentos-vazados-do-stj-e-mpf-diz-site.shtml",
+      "id": "06ad174a3f196775",
+      "title": "Corinthians e Caixa assinam termo de confidencialidade para negociar dívida de estádio",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: corinthians e Caixa assinam termo de confidencialidade para negociar dívida de estádio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/corinthians-e-caixa-assinam-termo-de-confidencialidade-para-negociar-divida-de-estadio.shtml",
       "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T14:29:00+00:00",
+      "published_at": "2026-10-17T15:34:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -34,13 +20,195 @@
       "archive": false
     },
     {
-      "id": "7763ce8d724f7263",
-      "title": "O que pensam eleitores de Flávio e Lula sobre redução da maioridade penal, segundo pesquisa Datafolha",
-      "summary": "O veículo VEJA publicou uma atualização sobre: o que pensam eleitores de Flávio e Lula sobre redução da maioridade penal, segundo pesquisa Datafolha. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/o-que-pensam-eleitores-de-flavio-e-lula-sobre-reducao-da-maioridade-penal-segundo-pesquisa-datafolha/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T14:28:04+00:00",
+      "id": "fc15eb1c503d502d",
+      "title": "Lula defende crescimento para ajuste fiscal e Flávio fala em corte de gastos; veja o que disseram nas sabatinas",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula defende crescimento para ajuste fiscal e Flávio fala em corte de gastos; veja o que disseram nas sabatinas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-defende-crescimento-para-ajuste-fiscal-e-flavio-fala-em-corte-de-gastos-veja-o-que-disseram-nas-sabatinas.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T15:28:00+00:00",
       "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "199e58db0053e539",
+      "title": "Governo Lula sugere ao MPF ação contra a Meta por falta de transparência na moderação de conteúdo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo Lula sugere ao MPF ação contra a Meta por falta de transparência na moderação de conteúdo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/governo-lula-sugere-ao-mpf-acao-contra-a-meta-por-falta-de-transparencia-na-moderacao-de-conteudo.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T15:06:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f0fd076ffbac0c3e",
+      "title": "Justiça proíbe mãe de se aproximar da filha de 12 anos após ameaças e agressão no RN",
+      "summary": "O veículo G1 publicou uma atualização sobre: justiça proíbe mãe de se aproximar da filha de 12 anos após ameaças e agressão no RN. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/17/justica-proibe-mae-de-se-aproximar-da-filha-de-12-anos-apos-ameacas-e-agressao-no-rn.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T15:05:35+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9368968c2dff7185",
+      "title": "Provas para ingresso em escolas militares de MT ocorrem neste domingo (18)",
+      "summary": "O veículo G1 publicou uma atualização sobre: provas para ingresso em escolas militares de MT ocorrem neste domingo (18). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/17/provas-para-ingresso-em-escolas-militares-de-mt-ocorrem-neste-domingo-18.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T15:02:19+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "db40624eefc67ac4",
+      "title": "Dois homens morrem e três policiais ficam feridos em tiroteio em BH",
+      "summary": "O veículo G1 publicou uma atualização sobre: dois homens morrem e três policiais ficam feridos em tiroteio em BH. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/17/dois-homens-morrem-e-tres-policiais-ficam-feridos-em-tiroteio-em-bh.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T15:01:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "40c5e2e6fbf9a100",
+      "title": "Uruguai teme isolamento com mudança política no Brasil",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: uruguai teme isolamento com mudança política no Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/10/uruguai-teme-isolamento-com-mudanca-politica-no-brasil.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T15:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b535888aed9ff03e",
+      "title": "Esperança ou medo: qual sentimento domina a disputa entre Flávio e Lula, segundo nova pesquisa Ipespe",
+      "summary": "O veículo VEJA publicou uma atualização sobre: esperança ou medo: qual sentimento domina a disputa entre Flávio e Lula, segundo nova pesquisa Ipespe. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/esperanca-ou-medo-qual-sentimento-domina-a-disputa-entre-flavio-e-lula-segundo-nova-pesquisa-ipespe/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T14:59:36+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "007f08f036f14324",
+      "title": "As mentiras da Globo sobre os áudios de Vorcaro denunciando Lula",
+      "summary": "O veículo VEJA publicou uma atualização sobre: as mentiras da Globo sobre os áudios de Vorcaro denunciando Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/as-mentiras-da-globo-sobre-os-audios-de-vorcaro-denunciando-lula/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T14:56:12+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c027b47be58b4efa",
+      "title": "Ministério da Justiça pede que ANPD investigue se Meta descumpriu Marco Civil da Internet",
+      "summary": "O veículo G1 publicou uma atualização sobre: ministério da Justiça pede que ANPD investigue se Meta descumpriu Marco Civil da Internet. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/17/ministerio-da-justica-pede-que-anpd-investigue-se-meta-descumpriu-marco-civil-da-internet.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T14:53:20+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c84a73e8f692c41e",
+      "title": "Cães e gatos recebem vacinação emergencial após caso de raiva em morcego em Belém",
+      "summary": "O veículo G1 publicou uma atualização sobre: cães e gatos recebem vacinação emergencial após caso de raiva em morcego em Belém. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pa/para/noticia/2026/10/17/apos-caso-de-raiva-em-morcego-no-jurunas-caes-e-gatos-recebem-vacinacao-emergencial-em-belem.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T14:52:54+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "65a6a966d98feea9",
+      "title": "PM cerca casa e captura foragido da Justiça em Barra do Piraí",
+      "summary": "O veículo G1 publicou uma atualização sobre: pM cerca casa e captura foragido da Justiça em Barra do Piraí. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/17/pm-cerca-imovel-e-captura-foragido-da-justica-em-barra-do-pirai.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T14:51:30+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "672c45ee46ceb244",
+      "title": "A boa notícia para Lula a oito dias do segundo turno na nova pesquisa Ipespe",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a boa notícia para Lula a oito dias do segundo turno na nova pesquisa Ipespe. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-boa-noticia-para-lula-a-oito-dias-do-segundo-turno-na-nova-pesquisa-ipespe/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T14:48:41+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1b2dc686ef0d6c37",
+      "title": "Companhias aéreas preveem anos difíceis com alta de custos e temor de inflação",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: companhias aéreas preveem anos difíceis com alta de custos e temor de inflação. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/companhias-aereas-preveem-anos-dificeis-com-alta-de-custos-e-temor-de-inflacao.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T14:45:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a92d98b588240fa9",
+      "title": "Acusado de homicídio e integrar facção foge após romper tornozeleira em rodovia do Acre",
+      "summary": "O veículo G1 publicou uma atualização sobre: acusado de homicídio e integrar facção foge após romper tornozeleira em rodovia do Acre. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/10/17/suspeito-de-homicidio-e-integrar-faccao-foge-apos-romper-tornozeleira-em-rodovia-do-acre.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T14:35:23+00:00",
+      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -62,20 +230,6 @@
       "archive": false
     },
     {
-      "id": "a20bc9534820e67b",
-      "title": "Criminosos armados roubam pertences de juiz durante assalto na zona rural de Ibiraci, MG",
-      "summary": "O veículo G1 publicou uma atualização sobre: criminosos armados roubam pertences de juiz durante assalto na zona rural de Ibiraci, MG. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/17/ocorrencias-policiais.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T14:14:13+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "10906c290378fa97",
       "title": "Paciente com câncer que morreu 3 dias após casar em hospital do RS estava com cerimônia marcada quando foi internada",
       "summary": "O veículo G1 publicou uma atualização sobre: paciente com câncer que morreu 3 dias após casar em hospital do RS estava com cerimônia marcada quando foi internada. Consulte a reportagem para contexto, dados e declarações.",
@@ -83,34 +237,6 @@
       "source": "G1",
       "published_at": "2026-10-17T14:05:41+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fa42d39027efacf4",
-      "title": "Quem é Deputa Mané Buchada, influenciador eleito como deputado estadual da PB entre os mais votados",
-      "summary": "O veículo G1 publicou uma atualização sobre: quem é Deputa Mané Buchada, influenciador eleito como deputado estadual da PB entre os mais votados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/17/quem-e-deputa-mane-buchada-eleito-deputado-estadual-da-pb-entre-mais-votados.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T13:57:20+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7c9f3b97ca38b46d",
-      "title": "Abre e fecha: veja o que funciona em Petrolina no feriado do Dia do Comerciário",
-      "summary": "O veículo G1 publicou uma atualização sobre: abre e fecha: veja o que funciona em Petrolina no feriado do Dia do Comerciário. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/17/abre-e-fecha-veja-o-que-funciona-em-petrolina-no-feriado-do-dia-do-comerciario.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T13:53:26+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -160,72 +286,16 @@
       "archive": false
     },
     {
-      "id": "745d7b392c3867eb",
-      "title": "A nova pesquisa Ipespe sobre a disputa Flávio x Lula a oito dias do segundo turno",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a nova pesquisa Ipespe sobre a disputa Flávio x Lula a oito dias do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/a-nova-pesquisa-ipespe-abrapel-sobre-a-disputa-flavio-x-lula-a-oito-dias-do-segundo-turno/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T13:37:03+00:00",
-      "category": "Política",
+      "id": "f94dcef24ffb8091",
+      "title": "João Fonseca decide não atuar mais em 2026: 'Priorizar a minha saúde' - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: joão Fonseca decide não atuar mais em 2026: 'Priorizar a minha saúde'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbTR5RG5Pd1Eyekd3UzJJZEEwTC1rMVlQanlJT0d1bWl3NHFSY0VvYlVBY0gteFBSbDFKU3VCcUdkX0tWa3g0SURweUhJdWFCUFRDVURRU2pjTGFFTTM5azdSQzJiZExjWE9IUG10MDJ2NWJhMjdtVjlwcjhjR0d3cmYxbUJsUW1UT0p3Zlg0QU5NN0ljanQtUzJ5WHFsSFUtbWd1SVVXRkNFS2dvQjdTbGZrV1dtTHFRSXpudXJES056WU3SAdIBQVVfeXFMUDBEQVo1MEFKNS1HRE04RzVzMy16bXpXTHQ2YWxpNTZRN204RElSOXJKeWIwazQ4Qi1LYXhqYlNvaVBPemxXVnhkNmM4dWFkb2I2eS1OODQ0VHZmU2pFY3F4TFg1S3pSRVNUYU9fV2FTVU9mTFgyUDNQallGblhEMGZFZXdTWS1xUWEzTHFSSzR6ODBmSm5HeDd4V3YzZGJIcFFnYVBPZlJlRGFwSWNudUFrWGNZVERRRDlXM3ZiaGR4UXZpd2N0cU4tWFZ4VURQTmNB?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T13:36:47+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "47759d1a6b122329",
-      "title": "Porteiro é levado à delegacia durante panelaço contra Flávio Bolsonaro em Maceió",
-      "summary": "O veículo G1 publicou uma atualização sobre: porteiro é levado à delegacia durante panelaço contra Flávio Bolsonaro em Maceió. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/al/alagoas/noticia/2026/10/17/porteiro-e-levado-a-delegacia-durante-panelaco-contra-flavio-bolsonaro-em-maceio.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T13:35:32+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a3a0004afcf829ac",
-      "title": "Base da PM é atacada a tiros após ação policial com dois mortos em Guarujá",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: base da PM é atacada a tiros após ação policial com dois mortos em Guarujá. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/base-da-pm-e-atacada-a-tiros-apos-acao-policial-com-dois-mortos-em-guaruja.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T13:34:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "264ea48d3383cd0a",
-      "title": "Manifestantes fazem ato de apoio à reeleição de Lula em Ferraz de Vasconcelos",
-      "summary": "O veículo G1 publicou uma atualização sobre: manifestantes fazem ato de apoio à reeleição de Lula em Ferraz de Vasconcelos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/17/manifestantes-fazem-ato-de-apoio-a-reeleicao-de-lula-em-ferraz-de-vasconcelos.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T13:28:40+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a1c3b660341cb065",
-      "title": "Homem é assassinado a tiros em casa na Zona Norte de Teresina após invasor se apresentar como policial",
-      "summary": "O veículo G1 publicou uma atualização sobre: homem é assassinado a tiros em casa na Zona Norte de Teresina após invasor se apresentar como policial. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/17/homem-assassinado-teresina.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T13:27:27+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -244,30 +314,16 @@
       "archive": false
     },
     {
-      "id": "0ce76c95ca79f125",
-      "title": "Quem era Jeová Almeida Lima Neto, filho do prefeito de São Caetano que morreu em acidente de moto",
-      "summary": "O veículo G1 publicou uma atualização sobre: quem era Jeová Almeida Lima Neto, filho do prefeito de São Caetano que morreu em acidente de moto. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/10/17/quem-era-jeova-almeida-lima-neto-filho-do-prefeito-de-sao-caetano-que-morreu-em-acidente-de-moto.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T13:09:19+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6665ed0e40bccb55",
-      "title": "Polícia usa gás lacrimogêneo e entra em confronto com manifestantes em protestos contra o custo de vida na França",
+      "id": "75629752a20a6f55",
+      "title": "Polícia usa gás lacrimogêneo e entra em confronto com manifestantes em protestos contra o custo de vida na França - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: polícia usa gás lacrimogêneo e entra em confronto com manifestantes em protestos contra o custo de vida na França. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/policia-usa-gas-lacrimogeneo-e-entra-em-confronto-com-manifestantes-em-protestos-contra-o-custo-de-vida-na-franca.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRUoxTENPZGJLdi1YMDUzd2ZQRFoxX0FHc2lCYjJTWEp0U21KTC1UempVSl9IMUxnRDZ4NDdySWpDYnlSNWdHOFpsWE1qU2QzSlhxRGJPTTB6OTlJdTRQN3d6Mi03TndmSndtVXRpSjFJcG05dkFsS0EzazZmbjlEazFxVkZTTGdJNmJXYWpTUzJYcHlQc2ZWV1FUdlotTndKeEJmOVRCMmRaOG5Wb3FBTUJMNUF1WHd0aHNPejk2a1FQT2ZCZzJHX2pUcXFQQzZzNUN3UjVoWUh0bDBoQjVfbzlLc1JELXZKQU5DdDJHdExOcXNwZXI0VNIBhwJBVV95cUxNZHhUcWhGbklYYlNvRVh3ZXVTTEVVeDFrSjlMOWxjQ25zN01MNlpxMXIyNHJzSHl2Y05iU1Z5Y1FDSUFsTDdTMnUtSTR2SlRubUZFdlA0WG5Nc3B0dl9reklwWDhpd2VsemxVNGZUT1p6VjR6RGdBZzJPVEQtMTNjWnZQX1lhdFFRa2JmMXpPemhhU0FXaWIweGVqQjRVbTRCTkM1RWFGbVJVa1o1eXF6SFVmMG9CUjlwWDBwVzZjVnVyZlYwVlBJVzJxXzZOMUo5M2llZWlrZ0VHNVVRUUdNTVk2aEszWHk1V2tJeTAzSV9OYkdON0VrM0t4X2w5OTgxRUotajU1Zw?oc=5",
       "source": "G1",
       "published_at": "2026-10-17T12:33:36+00:00",
       "category": "Segurança",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -286,16 +342,16 @@
       "archive": false
     },
     {
-      "id": "28ad095f5345f5cf",
-      "title": "Condenado por mandar matar a esposa em MG é preso 21 anos após o crime",
+      "id": "0b26655a1d71da7c",
+      "title": "Condenado por mandar matar a esposa em MG é preso 21 anos após o crime - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: condenado por mandar matar a esposa em MG é preso 21 anos após o crime. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/17/condenado-por-mandar-matar-a-esposa-em-mg-e-preso-21-anos-apos-o-crime.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVWdyVEp4ZlAxLWtoa3lFZDc3RmI4RnRCVzBuY2lXUFd3TzNTdXpKTmhzQk1xUWJIVmV6NjEwZFdLZS1BMUc1NkJLbF9RX3RsX1V5M0ZsQkduX0FhSnJaUkNRWkptX1gxUmp3M1ZmYmROdjVOdU5lT2tzUXoxdDc3aEhzR0lROUgxaE9FcGMwa3EzMTNFR2haWGRJdEItM0QwTHZVUzRqQzcyaUVHUVlJSS03RjYxLVFQdGVnWFV4ZkN1UnhVb1hfSjdIVDLSAdsBQVVfeXFMUG1USkhua2R4dEZTcVhSSkRHenZsNnBEamdkeUcwT1FFSC1NT09ETkZka1NLemN6MnVfQVlmNWlpUUhTWXRlTnFCM2ZicjJJRlUzQ3FCY2ZVTWFyVEw5SnczdlNRUHNnVUtXTkpHaFFWTjlBY1IzNXdxNUlaOFdtVUt5TGdwT1JZUWxyTVFzTnRoV0xSamI1cE1jSUJmX3E0S0xyQjZLd3RtNXM4LXpCdXQ5ZDFaTnVhZ3hEZ2NuWERMWXB3LWNzT2ZTTUVoemwyTFpLSXFJU1hfVmJV?oc=5",
       "source": "G1",
       "published_at": "2026-10-17T12:12:53+00:00",
       "category": "Segurança",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -356,16 +412,16 @@
       "archive": false
     },
     {
-      "id": "56d345c5f4af64e6",
-      "title": "Reitor da PUC-PR morre em acidente nos Estados Unidos",
+      "id": "d393dd6c5802fcb6",
+      "title": "Reitor da PUC-PR morre em acidente nos Estados Unidos - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: reitor da PUC-PR morre em acidente nos Estados Unidos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pr/parana/noticia/2026/10/17/reitor-da-puc-pr-morre-em-acidente-nos-estados-unidos.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEdfWm5penJnSUhfZjJDY0dWY0ZBSFNUYVBiNXB0dG1fOFhNekh6LU5kTHlRRVgyR3NuSmVmcm94NnJ0VE9PY3JZMmNwU3Q4dXFaTHc5VGxRNlFxMUNPb3lXZFU3Zzd5ajdBZ2I5cVVZdFRvVXJQaEFUb0tEdTFlM3p6enN6NkhSR2VCSzdLSDN6N1JsZWFXNVBMN1hDXzNTSXhkbGI2MXdISDhpWnfSAbwBQVVfeXFMTmlBc0dZbkVBSTlqX21nWXdBamNRWDFrWTIxdmNhaXM2ZnpJVEo2U0VsVG9XUzV2dFpmbjZlUzR3YnJyZG9GeEFjaTFHcVdnSDFRZHhBeFlleTZlMTlqNl9aSWpWcXA2dmlWZWU1Z2cwOUdEQ19YR29JdGJXV0R1blJiZDJSYzAtQ2RIVDZqM1hmV1pLYXF6VWdkbHpRNTlUMFB1N1h3OVJldnNIMFh6clJPbFpSa21iaWJ6aXY?oc=5",
       "source": "G1",
       "published_at": "2026-10-17T11:05:10+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -902,20 +958,6 @@
       "archive": false
     },
     {
-      "id": "cbaf0350bdb6f688",
-      "title": "Derrite desponta como favorito para Segurança Pública em eventual governo Flávio Bolsonaro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: derrite desponta como favorito para Segurança Pública em eventual governo Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/derrite-desponta-como-favorito-para-seguranca-publica-em-eventual-governo-flavio-bolsonaro.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T21:36:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "0576b70204f77651",
       "title": "Governo prevê crédito a empresas afetadas por fim da 6x1, diz Durigan",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo prevê crédito a empresas afetadas por fim da 6x1, diz Durigan. Consulte a reportagem para contexto, dados e declarações.",
@@ -923,6 +965,20 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-16T21:36:00+00:00",
       "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cbaf0350bdb6f688",
+      "title": "Derrite desponta como favorito para Segurança Pública em eventual governo Flávio Bolsonaro",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: derrite desponta como favorito para Segurança Pública em eventual governo Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/derrite-desponta-como-favorito-para-seguranca-publica-em-eventual-governo-flavio-bolsonaro.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-16T21:36:00+00:00",
+      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1084,20 +1140,6 @@
       "archive": false
     },
     {
-      "id": "4c47b64fdbdafb38",
-      "title": "Déficit fiscal dos EUA sobe a US$ 1,99 trilhões, o maior em 5 anos",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: déficit fiscal dos EUA sobe a US$ 1,99 trilhões, o maior em 5 anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/deficit-fiscal-dos-eua-sobe-a-us-199-trilhoes-o-maior-em-5-anos.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T20:00:00+00:00",
-      "category": "Endividamento",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c1b486e838cd824d",
       "title": "Motta determina adoção imediata da nova escala de trabalho na Câmara dos Deputados",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: motta determina adoção imediata da nova escala de trabalho na Câmara dos Deputados. Consulte a reportagem para contexto, dados e declarações.",
@@ -1161,20 +1203,6 @@
       "source": "VEJA",
       "published_at": "2026-10-16T18:39:14+00:00",
       "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4c503e0356f1ef12",
-      "title": "Somado a estresse, horário do jantar pode influenciar na saúde intestinal",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: somado a estresse, horário do jantar pode influenciar na saúde intestinal. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/somado-a-estresse-horario-do-jantar-pode-influenciar-na-saude-intestinal.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T18:39:00+00:00",
-      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1392,20 +1420,6 @@
       "archive": false
     },
     {
-      "id": "b4b78b966bcb3704",
-      "title": "Polícia de SP não emitiu alerta sobre ataque do PCC a embaixadas e delegacias - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: polícia de SP não emitiu alerta sobre ataque do PCC a embaixadas e delegacias. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd3dENmxMRVp3MmwweWQ1dUtKTTNZMUozVXFnSm1FOXdSN01WZlhyd08zWkxkajI4eTVrSWhOdFRtMHFaVWRfd2FneF90WE55dVZSRHlOMVNDcmh6a3pFU0tZeWE2VVg1dkxuQWl3ejRNNUF3M0VscFUxV01NTS1RMV9IWTYzbmFBckozdHFnQnl4aWt1eGJzdUZaV0lrbDhIN2twS3ZVdDVnSExpSy1leER1ckbSAboBQVVfeXFMTUJ0TEF6TDZzT2pLM0VjazJWLWVMU1U1Ql9hazdLTXNBWEJlTjFZRk9RVWlaTTc2QnlmQjBzc0xWV2paLWNqa05JVmRZaWNvUG9oR3VNWlpUeVZvbF9RaERiVVNMdlpGNXBBTERPSFhJYi1CTk1MRUlLbFo0ZmpHWjVqUGQ1YmZkZGlIcXhuM2dxcGFSVXlKQWxrTXRmS0ZQOExSOXZhbDVZTVJOOUM3Q2RpLVhJQnppVTN3?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-16T14:24:19+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "2bd145cbe708349a",
       "title": "A cada 72 segundos, uma pessoa morre por doença cardiovascular no país",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: a cada 72 segundos, uma pessoa morre por doença cardiovascular no país. Consulte a reportagem para contexto, dados e declarações.",
@@ -1476,20 +1490,6 @@
       "archive": false
     },
     {
-      "id": "87fcfe4b9ddead56",
-      "title": "Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-lula-e-flavio-divergem-sobre-ajuste-fiscal-e-papel-do-estado",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T11:20:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "4163c3be1eb5dd15",
       "title": "Carreta que transportava ácido orgânico tomba e interdita Arco Metropolitano; motorista é levado para hospital - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: carreta que transportava ácido orgânico tomba e interdita Arco Metropolitano; motorista é levado para hospital. Consulte a reportagem para contexto, dados e declarações.",
@@ -1497,20 +1497,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-16T11:01:19+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f8ed5bba3976a10f",
-      "title": "Painel: Ex-ministro de Bolsonaro, Weintraub diz que não irá votar e cita suspeitas de corrupção contra Flávio - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: Ex-ministro de Bolsonaro, Weintraub diz que não irá votar e cita suspeitas de corrupção contra Flávio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZVZhU3FOaVpWYUVhWXZnOHhtZE90NUd6UURPeGJDRTdUMVZxY3pfWXR4TXRhS1YyY204dG5aNVdocG1vclB3ZmIyN3o5eHpjRF9sTm80eElnSjZFaTJBX3FwdEw4TFJxOG1RQ1M3ajF6QS1WMG45WmpVSzFmRjJ1OUViSFVOR1NEek4tZ2p0VnNLbHhrSDVvQm5RdWtraDRJdnFiQy13V3dIWER6b0N2WG04LUpONHFxSERaMDgzZmdDZ0hBbFFCR3gwR0x0TGRvOXllbHJackhpY2JKYVlULTlqelpseENNc1VHelNYME0?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T09:00:00+00:00",
-      "category": "Governo federal",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1567,19 +1553,19 @@
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 80
+      "items": 76
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 47
+      "items": 48
     },
     "VEJA": {
       "status": "ok",
-      "items": 11
+      "items": 7
     },
     "The New York Times": {
       "status": "ok",
-      "items": 9
+      "items": 8
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1587,7 +1573,7 @@
     },
     "Agência Brasil · Política": {
       "status": "ok",
-      "items": 7
+      "items": 6
     },
     "Agência Brasil · Economia": {
       "status": "ok",
@@ -1619,15 +1605,15 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 66
+      "items": 68
     },
     "Estadão": {
       "status": "ok",
-      "items": 31
+      "items": 34
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 41
+      "items": 38
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1635,11 +1621,11 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 35
+      "items": 38
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 55
+      "items": 54
     },
     "Eleições · Flávio": {
       "status": "ok",
