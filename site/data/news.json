@@ -1,17 +1,59 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T03:41:55.960344+00:00",
-  "last_success_at": "2026-10-17T03:41:55.960344+00:00",
+  "last_checked_at": "2026-10-17T04:42:13.340125+00:00",
+  "last_success_at": "2026-10-17T04:42:13.340125+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "d4dc0dbed00204d7",
+      "title": "‘Carreatas’ no Roblox para Flávio e Lula têm buzinaço, ‘bloquinho’ e até ‘showmício’ digital; conheça",
+      "summary": "O veículo G1 publicou uma atualização sobre: ‘Carreatas’ no Roblox para Flávio e Lula têm buzinaço, ‘bloquinho’ e até ‘showmício’ digital; conheça. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/17/carreatas-no-roblox-para-flavio-e-lula-tem-buzinaco-bloquinho-e-ate-showmicio-digital-conheca.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T04:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "418179565258d2b0",
+      "title": "Osteoporose: entenda os fatores de risco e saiba como prevenir a doença que enfraquece os ossos",
+      "summary": "O veículo G1 publicou uma atualização sobre: osteoporose: entenda os fatores de risco e saiba como prevenir a doença que enfraquece os ossos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/saude/noticia/2026/10/17/osteoporose-entenda-os-fatores-de-risco-e-saiba-como-prevenir-a-doenca-que-enfraquece-os-ossos.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T04:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "85a17a660f64e1d8",
+      "title": "Em sabatina, Flávio não explica propostas e faz acusações sem provas",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: em sabatina, Flávio não explica propostas e faz acusações sem provas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-sabatina-flavio-nao-explica-propostas-e-faz-acusacoes-sem-provas",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-17T03:55:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "e6c81559be434463",
       "title": "Checamos a entrevista de Flávio Bolsonaro na TV Globo; veja o resultado - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: checamos a entrevista de Flávio Bolsonaro na TV Globo; veja o resultado. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWWNqR1FqaC02UGUzUGJiaEZNRWQ0alhoRXAzaEM5U1BnVzFxZEY3c3BNVFJ1WVNrcWVHLU1fUFA5R3NyZEtWSWpkUnc0TWpROHZId0UzS1hBWXJYSDJPSXktdEQyQkhtMDZtMjFOMjBVNTZvcVB4VGJmTlZpQkc0dnNzNm9xMVlRQXY1dVphV3NrSjgwOEt5aXpEZXBBcVVONHJQaTNB0gGrAUFVX3lxTE1kQVlmYnF2bHBSY3ljeFdxQmhIcEZoaXZQUms5YmQzc3dwUFhPWmNsTnVxaElBcEtmSElSb1lsZmtuc0hnWS1YNFAzSDYxRHdrYTJtT0t6UUJzQ3JTZWZaM0owM2cxblNoemJkRVNMOVdMSzA2WUVyYzVSdkpJNHh4Rm01RFd5ZndzVk9iX2REN2h3SWtNSGlTd2J1bjZiWmRlUTFFNVlvZDdlUQ?oc=5",
       "source": "Estadão",
-      "published_at": "2026-10-17T03:28:42+00:00",
+      "published_at": "2026-10-17T03:44:38+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -174,58 +216,16 @@
       "archive": false
     },
     {
-      "id": "97c5bf53fd49b4bb",
-      "title": "Camila Queiroz é madrinha de ONG que diagnostica doenças raras: 'Devolve algo essencial para famílias: tempo e resposta'",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: camila Queiroz é madrinha de ONG que diagnostica doenças raras: 'Devolve algo essencial para famílias: tempo e resposta'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/camila-queiroz-e-madrinha-de-ong-que-diagnostica-doencas-raras-devolve-algo-essencial-para-familias-tempo-e-resposta.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T02:04:00+00:00",
+      "id": "4a89a690b83851c2",
+      "title": "Flávio Bolsonaro na TV Globo: candidato foge das perguntas e deixa dúvidas sobre suas ideias e propósitos - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio Bolsonaro na TV Globo: candidato foge das perguntas e deixa dúvidas sobre suas ideias e propósitos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTGZhaFJkNEoxN2xnTjFKX091bXBKNWJQY2lmSGNVb0RuX1VZWDEzbXVzc0FtWmRZRjJuU2laZnhIZC15bW9jNGRncDhqWmJ2WkIxWXh2X216Ri02WXo3ZkJWRjU0MUdoWkVMTC1OWGo5NUhqWTJxOTFRQXcyd2duNTEwcm5rMWNkTjU3d3FkNWZ6QkI2a3FpTnhVZWUteWZ3OHlVeEVkYjNGX2w1eVZxYUYwME9CUU9KOGtndFp2c1lZNVU1dkdmZWhNclc1R2FYc3VsZkh6eWtrRUV0UWx5SkNhMld3X1QtVTNfeTA0MFBtVGdvRHdRZmxNWGvSAYsCQVVfeXFMT0JPWlZWa2dUalFSWk1KNmthRmRvdk9ZSFpfblA0dFU3MVVqbGJCa0pmNU5yTWFSekx1RWEzc25XaWZTdlFfLWxSZlZFOGhCc3hKcXBIMktIQVNpSzh6Q2tzSG5OMENrX1JPYVpNRVZ2OTlobDdRSnVXTE83N0RUNU1GelJLMmxBZWw0cWJIRDEzell6MUUwdEM4Q3R0WTVZb1JnYlZid0NsTmViUjRTWWVydl9INmQ1ekxwNE5kcW44OHYxaHNLOW9CUTRDUktiVGVxeDlyR0RrTTNNc18zNFZVMlZkOFFaN2VNMndVZllWclhMWkJKLTNUMTZZVzBaTEpnUFZacFFBTU9r?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T02:07:51+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b89fa038c0094756",
-      "title": "Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL; VEJA ÍNTEGRA",
-      "summary": "O veículo G1 publicou uma atualização sobre: renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL; VEJA ÍNTEGRA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T02:03:36+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dfdc515be889ef84",
-      "title": "Moradores denunciam incêndio em lixão de Manacapuru e cobram solução: ‘Fumaça invade casas e comércios’",
-      "summary": "O veículo G1 publicou uma atualização sobre: moradores denunciam incêndio em lixão de Manacapuru e cobram solução: ‘Fumaça invade casas e comércios’. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/16/moradores-denunciam-incendio-em-lixao-de-manacapuru-e-cobram-solucao-fumaca-invade-casas-e-comercios.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T02:02:32+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "33fdaa7ffc6ab6e1",
-      "title": "Lula faz campanha em MG e celebra fim da jornada 6x1",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: lula faz campanha em MG e celebra fim da jornada 6x1. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-faz-campanha-em-mg-e-celebra-fim-da-jornada-6x1",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-17T02:01:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -524,16 +524,16 @@
       "archive": false
     },
     {
-      "id": "8bf633981dc3c93c",
-      "title": "Todos os 7 candidatos à chefia da ONU enfrentam veto, e impasse abre espaço para novos nomes",
+      "id": "a8dfbcad7771a0b6",
+      "title": "Todos os 7 candidatos à chefia da ONU enfrentam veto, e impasse abre espaço para novos nomes - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: todos os 7 candidatos à chefia da ONU enfrentam veto, e impasse abre espaço para novos nomes. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/16/todos-os-7-candidatos-a-chefia-da-onu-enfrentam-veto-e-impasse-abre-espaco-para-novos-nomes.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTdENkRGNFNrQm1sbldDUW5YbUxnRUM4MTJ0bjZqMmc3VldkMkZhc0laSVpObUpRSndCV0cyMTRISFhIMG8zVXdHMU5SbERxYWpoWkJMV0lCSEprdlMzMEMxNndwLXh3N0RGLXZfMmZDWkhDTDExeXNGdTRBY2tQYjJWc210eWZUd2wxem1FRzFNZXhhMFZfT2l5V04yNWtJOG5ZWndjYWJaV1d1OXVSS2duYS1LdzE5MDBwZDFWcnhxSjBCWGxWZ3k0RHY1STlTal9jYkR3YUo2WVnSAeoBQVVfeXFMT1JyMnFkNDJNSXVhZlRhRWVWUTAwendGNGNNMjFlbG02SVFsRWFZcFB4cjJMSXlnWEhpb0VLTm4zMkJKcHA5SEhkVlZCakhDY1BQWUQ5alhNdFhVSDRUQjZ4aUlqZE1EelpNY2o3N3NBbzU1SUtmS28xQTh3aDZBdU9MT283NGhWVGFydWFWWmVpVDdjbHZoajlnQlQ3czlMTVNkcXhZZjVzc19pZlN4RjZhTXZxLWMwNzNFLUk0RTVzb3lpb3A5ZTBqZ1JJLUJHWFZpMHhpRy00cTJLTE1RbnR4RFJ1UlRGcXRR?oc=5",
       "source": "G1",
       "published_at": "2026-10-16T23:01:00+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -902,16 +902,16 @@
       "archive": false
     },
     {
-      "id": "c1aa81b177e07322",
-      "title": "Déficit dos EUA chega a US$ 1,99 trilhão, maior em cinco anos",
+      "id": "ac6a99d3db502569",
+      "title": "Déficit dos EUA chega a US$ 1,99 trilhão, maior em cinco anos - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: déficit dos EUA chega a US$ 1,99 trilhão, maior em cinco anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/economia/deficit-dos-eua-chega-a-us-199-trilhao-maior-em-cinco-anos/",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX19pbENBOVl0TTFBblY4dXJPRjk4QXJBczJjNkFuZHFNa2JSWm52elBxYVZXT252Mm9BRHhRNU9hcWtTckZoSDViNnVMd3ZFUmVwb3F4cExsTmwxaXFUUk1Rc1dYWS1PLVpfNlZlWUluX0g3YXRvbFY2T2ZtbWFVaUlfZU9sVjlqMGIxcl9RMEJMU0tDWC01UXl3?oc=5",
       "source": "VEJA",
       "published_at": "2026-10-16T19:18:09+00:00",
       "category": "Endividamento",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1563,7 +1563,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 40
+      "items": 24
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1583,11 +1583,11 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 1
+      "items": 3
     },
     "Agência Brasil · Política": {
       "status": "ok",
-      "items": 7
+      "items": 8
     },
     "Agência Brasil · Economia": {
       "status": "ok",
@@ -1607,7 +1607,7 @@
     },
     "Agência Brasil · Internacional": {
       "status": "ok",
-      "items": 7
+      "items": 6
     },
     "Agência Câmara": {
       "status": "ok",
@@ -1619,27 +1619,27 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 64
+      "items": 67
     },
     "Estadão": {
       "status": "ok",
-      "items": 33
+      "items": 31
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 41
+      "items": 42
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 55
+      "items": 53
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 38
+      "items": 39
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 58
+      "items": 59
     },
     "Eleições · Flávio": {
       "status": "ok",
