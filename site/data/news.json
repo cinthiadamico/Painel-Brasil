@@ -1,10 +1,38 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T05:40:23.924978+00:00",
-  "last_success_at": "2026-10-17T05:40:23.924978+00:00",
+  "last_checked_at": "2026-10-17T06:50:10.135205+00:00",
+  "last_success_at": "2026-10-17T06:50:10.135205+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "0b2d7d8a38f09466",
+      "title": "Trump suspende tarifas contra a Rússia e grandes compradores de petróleo e gás russos",
+      "summary": "O veículo G1 publicou uma atualização sobre: trump suspende tarifas contra a Rússia e grandes compradores de petróleo e gás russos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/trump-suspende-tarifas-contra-a-russia-e-grandes-compradores-de-petroleo-e-gas-russos.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T06:24:07+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8e63ab519809c654",
+      "title": "Starlink tem uma 'irmã militar' controlada pelos EUA; entenda o que é a Starshield",
+      "summary": "O veículo G1 publicou uma atualização sobre: starlink tem uma 'irmã militar' controlada pelos EUA; entenda o que é a Starshield. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/10/17/starlink-tem-uma-irma-militar-controlada-pelos-eua-entenda-o-que-e-a-starshield.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T06:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "e37b3ef013cac594",
       "title": "Mercado de panificação cresce no RJ, mas setor enfrenta dificuldade na busca por profissionais qualificados",
@@ -44,6 +72,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "546f746338b1336c",
+      "title": "Trump dá ordem executiva para suspender sanções à Rússia já aprovadas pelo Congresso americano - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: trump dá ordem executiva para suspender sanções à Rússia já aprovadas pelo Congresso americano. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjZyMTIzN3Nyb01CTDVzQUFueUYtUDNsS0psNEZ0aVJFNDJyUmV2dngzNnF2YV9YZ0ptdGlvQVZ6RzR0dzd4eUd4U1o2UHBUYUQ2ZjNMcHRFVXFKUGppWmtTUEpzQ0hmWGlBMUZ5T1ppdVl6NnhqQ1JjVVRkb1A1dzdwVW1udHJ3RmFZY0FienFncEhQbHpQa3NPc05zdFl4TVdkZmtFLWZoMTk5Z1dFT3NzcnF0MkhzVTJzb3RJdkMwOVJQRjE4T1dEdVZ5aXVDa3Jlc0JOVdIB5gFBVV95cUxNUzd2aEVBd0tpNnJubDl1eWJ5YXVUdFBMTklCd0lZRWhYUllwUm0teW9MejRNVXFPZVZxN0VFNGNWU0pZbDJhTkpBTkhPUG5GMi1fQ1ZETXlucnVEUzNiRHpIMkd4U1JlWENFNkxaR1hrU2NSbEJJRl9fRDNsNTkxekllT1VVZjh0UHNybnlTNGxtbkQ5UHR2dnkzUDlySklMQ0lXQ213R3NhaHQ3WWNtanRiOTFqUU82aGNfUzhNR2M3OVAtV2ZEc3llbW9Kb1labWNSYV9iYTZTZU03WE56UWR6VmNUQQ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T04:46:49+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -510,34 +552,6 @@
       "archive": false
     },
     {
-      "id": "02e1cb9143bf48f8",
-      "title": "Melquisedek Menezes é nomeado adjunto da Saúde de Boa Vista e Major assume Cargo de vereador",
-      "summary": "O veículo G1 publicou uma atualização sobre: melquisedek Menezes é nomeado adjunto da Saúde de Boa Vista e Major assume Cargo de vereador. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/16/melquisedek-menezes-e-nomeado-adjunto-da-saude-de-boa-vista-e-major-assume-cargo-de-vereador.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T23:30:47+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4cb8ca2fe0edb285",
-      "title": "Polícia resgata 19 cães em situação de maus-tratos e prende duas responsáveis pelos animais",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia resgata 19 cães em situação de maus-tratos e prende duas responsáveis pelos animais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/16/policia-resgata-19-caes-em-situacao-de-maus-tratos-e-prende-duas-responsaveis-pelos-animais.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T23:17:28+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "11ce88d6575dd8fb",
       "title": "USP: estagnação de auxílios sociais pode gerar retração em municípios",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: uSP: estagnação de auxílios sociais pode gerar retração em municípios. Consulte a reportagem para contexto, dados e declarações.",
@@ -744,6 +758,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f9adbeabfe274639",
+      "title": "Hospital Sírio-Libanês confirma incidente cibernético em sistema interno de relatórios - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: hospital Sírio-Libanês confirma incidente cibernético em sistema interno de relatórios. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlllU0RQTW1RazF1WE1jVDlGS1lqRnptNmwzYnlJT3A1UG8td2JsQ0xBdHlxbWwxX2dkOWQ0ME4yZWQxNUQtZ0hVVk5KVXVlVnB3YllxRFNNNWpXcGFyb2kzdkxnaHhNR1hqbFV1b3lNdTZWRUM0bUxNLWJqVDJaaWJyMmU2MHh5Rl9tYkJnQ01ySVpLVF9TZXVfUHYtUUJuLWxfblR4Q09pRkVnT3hDYmNMY1Y5WjBjY1JJMXJTNDFkUno2RXo4cEltNGt0cmst0gHWAUFVX3lxTE9aOEJkQWJDVXJfaEd5V0NjZVROTXN0dzVGNGVYUGJxdHQ0di05V1Rfd2lUakdwZmc0OFAwNnF0eDFhVm9ZWVZYUG9Gc2lSeGcxLVgyLVJtTjY5VVZWdGd2LUhENGZ1MUhUdE5wOERZQndlNk5nLUhYUWtEcVZxbnE3Y0lTMzlrOWxfTDZONHQxLVl0Y0ZObDVXaGpQbGFMX0NUck9Ma2xoMVdyZV9abV85WDRtUEplY1I3QVRyblVwTVFkMFVvRFI4cVZodFZrZ0FaV3ZqU1E?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-16T20:20:40+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1014,20 +1042,6 @@
       "archive": false
     },
     {
-      "id": "300b746e864bdd49",
-      "title": "Áudio: Dia Nacional da Vacinação é comemorado neste sábado",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Dia Nacional da Vacinação é comemorado neste sábado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/dia-nacional-da-vacinacao-e-comemorado-neste-sabado",
-      "source": "Senado Federal",
-      "published_at": "2026-10-16T18:06:03+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "03ca0ccdc89d4bed",
       "title": "Best-seller de Belle Burden toca a dor da violência patrimonial",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: best-seller de Belle Burden toca a dor da violência patrimonial. Consulte a reportagem para contexto, dados e declarações.",
@@ -1140,20 +1154,6 @@
       "archive": false
     },
     {
-      "id": "1f972fc135b94f3e",
-      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-16T16:07:37+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ed99bcd3096a57cc",
       "title": "Aguinaldo Silva é vítima de crime bancário",
       "summary": "O veículo VEJA publicou uma atualização sobre: aguinaldo Silva é vítima de crime bancário. Consulte a reportagem para contexto, dados e declarações.",
@@ -1192,20 +1192,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e403fb21d8c7bbb2",
-      "title": "Nova porta-voz da Casa Branca admite reprovação em exame para advogados nos EUA, mas defende que pode usar título - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: nova porta-voz da Casa Branca admite reprovação em exame para advogados nos EUA, mas defende que pode usar título. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObkU5ckdaTnhieTY1UlM2Q3NNQm9nMmRfa2VvWHFPeGlfTDhfTkVqek4yNlk0MTBJYzVoTmI5N1F3SjlwLXRVLVZyQ25ISVJhLUlDT0JJaEQyUVpMM0dTUXhKY2ZjMkZvS0ViNGxMVjZmQTdaYkNPWkdES2NHTWx0emtmb2h3MEg1eFd3d29Ca3lIblZ5SVlvZGVMWGVSY3ZlTkxIYjdwMGEtdFBLQW96dFpjTGt0TXFhdHBHdjAzT0haaDQ0dWxleHB4bHFKNXhfblR4WVF5Q0NkQUxzQWF2UTZPVUNlNkNjaVBTeTVyZ2NHQU9VM0NaYjFiT2TSAYsCQVVfeXFMT1ZwVzF1WS1feDVpZU1yQjdnZzl4Q3dEc1k4cnFsSmxLRmJiM3NveFF2Q0pWQkVHc3hnWnMzSWFqNmUzMDdDT21yX3V2Z0ItekRybUJxZFhTNVI3MlcwN0prZ0wtaU9CVENIakxqSXJrdlFOdExGdFM0WTc4ek9PU2V5eW1HNHBkMUhkbWQwb09zc0pqMWlXUTZES21zNmFnV3dMSXN5RWVYMmFHT04zb3M5cWctT2pLVlVZUmhFTUZrREJoaGxaTWRaX0xQRjNZTllWTzNlRzNlcElGVkhJaEVjWEx4cThOWHpwaFN2MFZzb24tMXhrRmhScHJfQ3BZM2tpRnZwQ3Z4N2Jj?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-16T15:43:15+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1553,7 +1539,7 @@
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 81
+      "items": 82
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1593,7 +1579,7 @@
     },
     "Agência Brasil · Internacional": {
       "status": "ok",
-      "items": 6
+      "items": 5
     },
     "Agência Câmara": {
       "status": "ok",
@@ -1605,27 +1591,27 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 66
+      "items": 67
     },
     "Estadão": {
       "status": "ok",
-      "items": 33
+      "items": 32
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 41
+      "items": 39
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 54
+      "items": 52
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 39
+      "items": 34
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 59
+      "items": 60
     },
     "Eleições · Flávio": {
       "status": "ok",
