@@ -1,10 +1,108 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T10:39:39.285317+00:00",
-  "last_success_at": "2026-10-17T10:39:39.285317+00:00",
+  "last_checked_at": "2026-10-17T11:38:39.142578+00:00",
+  "last_success_at": "2026-10-17T11:38:39.142578+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "6b7c72480c46aeed",
+      "title": "Papa Leão 14 receberá alta do hospital neste sábado, diz Vaticano",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: papa Leão 14 receberá alta do hospital neste sábado, diz Vaticano. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/papa-leao-14-recebera-alta-do-hospital-neste-sabado-diz-vaticano.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T11:17:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "56d345c5f4af64e6",
+      "title": "Reitor da PUC-PR morre em acidente nos Estados Unidos",
+      "summary": "O veículo G1 publicou uma atualização sobre: reitor da PUC-PR morre em acidente nos Estados Unidos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pr/parana/noticia/2026/10/17/reitor-da-puc-pr-morre-em-acidente-nos-estados-unidos.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T11:05:10+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d1b3b46fa10abd54",
+      "title": "Redução de palanques locais no segundo turno desafia os presidenciáveis",
+      "summary": "O veículo VEJA publicou uma atualização sobre: redução de palanques locais no segundo turno desafia os presidenciáveis. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/reducao-de-palanques-locais-no-segundo-turno-desafia-os-presidenciaveis/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T11:00:55+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4b9701b20ceb6c23",
+      "title": "Às vésperas do segundo turno, Lula parte para o ‘tudo ou nada’ com pacote de ações eleitoreiras",
+      "summary": "O veículo VEJA publicou uma atualização sobre: às vésperas do segundo turno, Lula parte para o ‘tudo ou nada’ com pacote de ações eleitoreiras. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/as-vesperas-do-segundo-turno-lula-parte-para-o-tudo-ou-nada-com-pacote-de-acoes-eleitoreiras/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T11:00:46+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "621717a4e39386d0",
+      "title": "Melhor da semana: ‘Profundezas’ une suspense e crítica ambiental na Netflix",
+      "summary": "O veículo VEJA publicou uma atualização sobre: melhor da semana: ‘Profundezas’ une suspense e crítica ambiental na Netflix. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/cultura/melhor-da-semana-profundezas-une-suspense-e-critica-ambiental-na-netflix/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T11:00:12+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "960b83be557e1049",
+      "title": "Ação do Dia Nacional da Vacinação conta com 19 pontos em Rio Branco; VEJA locais",
+      "summary": "O veículo G1 publicou uma atualização sobre: ação do Dia Nacional da Vacinação conta com 19 pontos em Rio Branco; VEJA locais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/10/17/acao-do-dia-nacional-da-vacinacao-conta-com-19-pontos-em-rio-branco-veja-locais.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T11:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6279c8753aaf1149",
+      "title": "Educação antirracista exige 'desfolclorização' do currículo escolar, aponta pesquisa de professora de Sorocaba",
+      "summary": "O veículo G1 publicou uma atualização sobre: educação antirracista exige 'desfolclorização' do currículo escolar, aponta pesquisa de professora de Sorocaba. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/17/educacao-antirracista-exige-desfolclorizacao-do-curriculo-escolar-aponta-pesquisa-de-professora-de-sorocaba.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T11:00:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "d50068254b3fbe06",
       "title": "A nova pesquisa Datafolha sobre a disputa Flávio x Lula na eleição presidencial",
@@ -90,20 +188,6 @@
       "archive": false
     },
     {
-      "id": "01c736598ea824fb",
-      "title": "Papa Leão XIV deve receber alta do hospital neste sábado, diz Vaticano",
-      "summary": "O veículo G1 publicou uma atualização sobre: papa Leão XIV deve receber alta do hospital neste sábado, diz Vaticano. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/papa-leao-xiv-alta.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T09:49:59+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b8fbb2905683a1a7",
       "title": "A primeira pesquisa para presidente após as entrevistas de Flávio Bolsonaro e Lula na Globo - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: a primeira pesquisa para presidente após as entrevistas de Flávio Bolsonaro e Lula na Globo. Consulte a reportagem para contexto, dados e declarações.",
@@ -113,6 +197,20 @@
       "category": "Política",
       "candidate": null,
       "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2c90cf729c05e3f2",
+      "title": "Entenda a proposta de Flávio Bolsonaro para acabar com a reeleição - Poder360",
+      "summary": "O veículo Poder360 publicou uma atualização sobre: entenda a proposta de Flávio Bolsonaro para acabar com a reeleição - Poder360. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVJ6RV9fOVB0YWlzbUs3dlF1Q0FvN1p3anhNWVh6YnNDMnI2VVBheDlOMTBJLVNXaEtVU2x3OFFXYTBKZGhTLXZtbV9NVW15dEpjclNqbmhvWW5LQm9qbTFEeUpKcXNkNVAxSmduYnFhLVhrbnZUZm15TUM4dGd3WEQ4cWk1bHpDeXdKMkp5emhKMGFrTngzN2Z2clR4NHJUald0VHU1czdwY1FnM3pLcFZWRQ?oc=5",
+      "source": "Poder360",
+      "published_at": "2026-10-17T09:12:50+00:00",
+      "category": "Eleições",
+      "candidate": "flavio",
+      "election_type": "Proposta",
       "via_aggregator": true,
       "curated": false,
       "archive": false
@@ -138,20 +236,6 @@
       "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/17/professora-vence-o-cancer-de-mama-e-passa-a-acolher-outras-pacientes-com-a-doenca-ha-vida-apos-o-cancer.ghtml",
       "source": "G1",
       "published_at": "2026-10-17T09:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9fb94e41a4ece71b",
-      "title": "Projeto transforma terra em tinta natural para despertar consciência ambiental em crianças no PI",
-      "summary": "O veículo G1 publicou uma atualização sobre: projeto transforma terra em tinta natural para despertar consciência ambiental em crianças no PI. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/17/projeto-educacao-ambiental-criancas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T09:00:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -188,48 +272,6 @@
       "archive": false
     },
     {
-      "id": "801337e262ea1a16",
-      "title": "Damares pede investigação de uso de van com marca do MEC em compromisso de campanha de Lula",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: damares pede investigação de uso de van com marca do MEC em compromisso de campanha de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/damares-pede-investigacao-de-uso-de-van-com-marca-do-mec-em-compromisso-de-campanha-de-lula.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T09:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d713ae1937bfc003",
-      "title": "Nikolas orienta 3 passos para reta final da campanha de Flávio e alerta: ‘Não subestimem o Lula’ - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: nikolas orienta 3 passos para reta final da campanha de Flávio e alerta: ‘Não subestimem o Lula’. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMlRqb0xiTjgyNTZsVklCTTgxYjNPa0dLRXRvZUk3YldYNmZmcm9WZEN0Nnd0RDIyQi12TEtQcVYwRllkaHBRRG1MVURBYXVsX21HU0dVcWNtRmo2NlRyYVk2dDA5bXF5aW80QU5PRTlad3dPZlhsMDZaYzNhLWVXZl9kV3ZJQnVvR2Y4andZNTRQS2ItTGxEZzJYUTN5bkgwSXRTR0thNEdLS3ZhMHNEbXUzS2RZZGVVRVZEa2w4ekpFd0prSTlTOXh5bXV5QVNWcl96bXlpamx3Z2pPbFpwZUNB0gHnAUFVX3lxTE85eXlfRXNqR0dSZ0daVGt6ZXdlQTZTQTZZM3BnSDNveUtQbTgtQnlqVjFsSUcySi03MHRYQjhXaFc1aXBQcEFzeVZBd2h3SkRGM3VrODdfZ0dkcTRaU0VKM2VfVlNuckVVQ01qMjM0TnhMTUVmRWpqTDFzRkF4bEZ5SjNOUlFNR2FfN1VYM3ZUUWtMcXF2ZnJzNTl3c2h2UmZQM0lla2cxRFl4RFlSOE9MWUxMMm84di1ZM2p3M2o1ZVQ3UDdvQ211VV9oci1fNEt3VVpzSmpnSHllQXpwWFQ3dkQ4d0JKaw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-17T08:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2f89d68c5890db6d",
-      "title": "Flávio absorve 3 erros de Lula; petista volta a ser ‘metamorfose’ e usa a máquina no vale-tudo final - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: flávio absorve 3 erros de Lula; petista volta a ser ‘metamorfose’ e usa a máquina no vale-tudo final. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOc1JqTlg5RGJRVURIYndCN1FVWC1yZnBSMDVibXhfdzVXQWFtWnVBOVpLRzAyNTljSVJNbmNRR2VpYjkwTDZPeU1RRU5ORkJyMjByaFdsQ1hocXpsVlNaRjNIRmJJYXdxOTBrT1lrazhLcURjV296OVd6Y3gyM1lZaE9hS1ZFeUN3R29FdFM0VXFJenVZc01EQ1FnQW13YnM4aVVHTXlNZ3hmcnNNOFRDXzNQSjVuVG1TYXp5dGlWNWM1Tnp6dHRpdGdtbDJFQThKSUxxZTYwZGhRZ3pRM1B2akpQZVZ0Mjg?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-17T08:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "8d117455b8b2f1fe",
       "title": "Influenciadores continuam a divulgar bets e cassinos virtuais no Ceará após proibição do governo federal",
       "summary": "O veículo G1 publicou uma atualização sobre: influenciadores continuam a divulgar bets e cassinos virtuais no Ceará após proibição do governo federal. Consulte a reportagem para contexto, dados e declarações.",
@@ -245,8 +287,8 @@
     },
     {
       "id": "589de21ef1e3718b",
-      "title": "Relembre o caso dos cinco deputados eleitos presos em 2018 no RJ; caso pode se repetir com Canella",
-      "summary": "O veículo G1 publicou uma atualização sobre: relembre o caso dos cinco deputados eleitos presos em 2018 no RJ; caso pode se repetir com Canella. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Relembre o caso dos 5 deputados eleitos presos em 2018 no RJ; caso pode se repetir com Canella",
+      "summary": "O veículo G1 publicou uma atualização sobre: relembre o caso dos 5 deputados eleitos presos em 2018 no RJ; caso pode se repetir com Canella. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/17/deputados-eleitos-que-tomaram-posse-presos.ghtml",
       "source": "G1",
       "published_at": "2026-10-17T08:00:00+00:00",
@@ -482,20 +524,6 @@
       "archive": false
     },
     {
-      "id": "e37b3ef013cac594",
-      "title": "Mercado de panificação cresce no RJ, mas setor enfrenta dificuldade na busca por profissionais qualificados",
-      "summary": "O veículo G1 publicou uma atualização sobre: mercado de panificação cresce no RJ, mas setor enfrenta dificuldade na busca por profissionais qualificados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/17/mercado-de-panificacao-cresce-no-rj-mas-setor-enfrenta-dificuldade-na-busca-por-profissionais-qualificados.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T05:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "546f746338b1336c",
       "title": "Trump dá ordem executiva para suspender sanções à Rússia já aprovadas pelo Congresso americano - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: trump dá ordem executiva para suspender sanções à Rússia já aprovadas pelo Congresso americano. Consulte a reportagem para contexto, dados e declarações.",
@@ -575,20 +603,6 @@
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1e4dd0707495f977",
-      "title": "Flávio promete que não vai reverter fim da escala 6x1 se for eleito; vídeo - Rdnews",
-      "summary": "O veículo Rdnews publicou uma atualização sobre: flávio promete que não vai reverter fim da escala 6x1 se for eleito; vídeo - Rdnews. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRWwyOU83RmxyNkhjNmZvc25QMk5CcmpPdU9UdDR5ZGpyN29FeHI0TEhzNUNaNmZRNkV1UzlfbVNuRmNSc21TcE4xdXpuRl9SdGxlNHBOTTZvMUpIalp5cUZGTC10bUhrVzJnZVQ5TGo2M3d6Uk5Ibk1RLXVyUkVhenhRRTRXYllLelVmemF0R211enFqYktRNkxwT18tdFF0OWxBMThfN1pmTVliaVV3RzBsMFhFbEtWQV9V?oc=5",
-      "source": "Rdnews",
-      "published_at": "2026-10-17T01:20:00+00:00",
-      "category": "Eleições",
-      "candidate": "flavio",
-      "election_type": "Proposta",
       "via_aggregator": true,
       "curated": false,
       "archive": false
@@ -828,20 +842,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e73f749ded743cca",
-      "title": "Imprensa internacional repercute empate técnico entre Lula e Flávio Bolsonaro - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: imprensa internacional repercute empate técnico entre Lula e Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQnc2c05xTGVwTm9YZW5mN0VjWEtjQ3k4Z0l5Y2hraHM5eVp3TWlqR2FoWmRoSHAtYmFQeTAtWXBXTmxXUHdMS2NraGc5VjVaYnJKTnM3eWkwSllyZXlaLXJDUmpWaU85OTdWRlpVa1ZCRWF2YVB6TnBoNXRiamhPajVJWnAtTGhlUzJKT2hnaXZQY0xaR1h0R2JmOUs2TXZCTFZoRjJuNlp1YzlzVzZTNHYtdnlqTXRpS3MwaDFldGp6d0FVT0xz0gHMAUFVX3lxTE1MNlNNTm5DVVU3c3RlY0pkdzlYejV4NFBuemVCNXhfa0RldmpjNVBOQWNTNlBHV2pscExTdldTNU5NQ2FWSENfYmwwMDVobTRXSXQ2a2FrTHB1MU1KUFNHaXhxU0JyWmNfR0RXeFlEX1dpYmZpWTJmaEtSWmZjQXpLZ08ySE5JWGc2X3ZUQTlEeDBNUVNONkVFTjFMdU9mUTNMU2g2bFQ3VXdZUXgxcEFfMmoxUW8tMFhhcDZiZVdrMy10Sm5LMHUweXFfVg?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-16T21:16:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1308,6 +1308,20 @@
       "archive": false
     },
     {
+      "id": "bf84bb7f6a101a89",
+      "title": "Atividade econômica tem alta de 0,3% em agosto, mostra IBC-Br",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: atividade econômica tem alta de 0,3% em agosto, mostra IBC-Br. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/atividade-economica-tem-alta-de-03-em-agosto-mostra-ibc-br",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-16T13:29:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "bec7917419df8217",
       "title": "Flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica. Consulte a reportagem para contexto, dados e declarações.",
@@ -1490,20 +1504,6 @@
       "archive": false
     },
     {
-      "id": "572597fc2b155924",
-      "title": "Docentes usam inteligência artificial para inovar e engajar alunos",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: docentes usam inteligência artificial para inovar e engajar alunos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/docentes-usam-inteligencia-artificial-para-inovar-e-engajar-alunos",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-15T17:45:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5edbf96a139fabf6",
       "title": "Pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -1549,7 +1549,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 20
+      "items": 23
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1557,11 +1557,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 52
+      "items": 51
     },
     "VEJA": {
       "status": "ok",
-      "items": 10
+      "items": 7
     },
     "The New York Times": {
       "status": "ok",
@@ -1605,7 +1605,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 68
+      "items": 66
     },
     "Estadão": {
       "status": "ok",
@@ -1613,11 +1613,11 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 40
+      "items": 38
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 52
+      "items": 51
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1625,11 +1625,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 56
+      "items": 57
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 43
+      "items": 44
     }
   },
   "notes": [
