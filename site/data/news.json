@@ -1,10 +1,178 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T18:41:10.137532+00:00",
-  "last_success_at": "2026-10-17T18:41:10.137532+00:00",
+  "last_checked_at": "2026-10-17T19:35:09.235005+00:00",
+  "last_success_at": "2026-10-17T19:35:09.235005+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "4149a847cdb447ac",
+      "title": "Manifestantes fazem carreata de apoio à reeleição de Lula em Suzano",
+      "summary": "O veículo G1 publicou uma atualização sobre: manifestantes fazem carreata de apoio à reeleição de Lula em Suzano. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/eleicoes/2026/noticia/2026/10/17/manifestantes-fazem-carreata-de-apoio-a-reeleicao-de-lula-em-suzano.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T19:20:15+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6a74dfd7b9e379d6",
+      "title": "Homem é preso suspeito de aplicar golpe do falso Pix contra comerciante em João Pessoa",
+      "summary": "O veículo G1 publicou uma atualização sobre: homem é preso suspeito de aplicar golpe do falso Pix contra comerciante em João Pessoa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/17/homem-e-preso-suspeito-de-aplicar-golpe-do-falso-pix-contra-comerciante-em-joao-pessoa.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T19:16:48+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c6b583f2e3693533",
+      "title": "Andradas restringe uso de estradas municipais para transporte interno de mineradoras de terras raras",
+      "summary": "O veículo G1 publicou uma atualização sobre: andradas restringe uso de estradas municipais para transporte interno de mineradoras de terras raras. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/17/andradas-restringe-uso-de-estradas-municipais-para-transporte-interno-de-mineradoras-de-terras-raras.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T19:16:02+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "51eea810f7dacb92",
+      "title": "Polícia prende suspeito de tentar matar dois homens em loja de conveniência em Presidente Prudente",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia prende suspeito de tentar matar dois homens em loja de conveniência em Presidente Prudente. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/17/policia-prende-suspeito-de-tentar-matar-homens-em-loja-de-conveniencia-em-presidente-prudente.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T19:15:38+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ee518c1031af07e6",
+      "title": "Citi e Bank of America são mais dois bancos dos EUA a restringir acesso de IA a contas de clientes",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: citi e Bank of America são mais dois bancos dos EUA a restringir acesso de IA a contas de clientes. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/citi-e-bank-of-america-sao-mais-dois-bancos-dos-eua-a-restringir-acesso-de-ia-a-contas-de-clientes.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T19:09:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "34a1fcf538901922",
+      "title": "Justiça nega habeas corpus e mantém prisão de ex-secretário e marido da prefeita de Bauru",
+      "summary": "O veículo G1 publicou uma atualização sobre: justiça nega habeas corpus e mantém prisão de ex-secretário e marido da prefeita de Bauru. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/17/justica-nega-habeas-corpus-e-mantem-prisao-de-ex-secretario-e-marido-da-prefeita-de-bauru.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T19:04:56+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7c65ec5c24e43841",
+      "title": "Conselho Regional de Odontologia de Sergipe está com edital aberto para concurso com salários de até R$ 4,5 mil",
+      "summary": "O veículo G1 publicou uma atualização sobre: conselho Regional de Odontologia de Sergipe está com edital aberto para concurso com salários de até R$ 4,5 mil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/se/sergipe/noticia/2026/10/17/conselho-regional-de-odontologia-de-sergipe-esta-com-edital-aberto-para-concurso-com-salarios-de-ate-r-45-mil.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T19:02:40+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b90fc6ff0a3b7b98",
+      "title": "STJ abre investigação e exonera servidor suspeito de vazar minutas de decisões a advogado amigo de Flávio",
+      "summary": "O veículo G1 publicou uma atualização sobre: sTJ abre investigação e exonera servidor suspeito de vazar minutas de decisões a advogado amigo de Flávio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/17/stj-abre-investigacao-e-exonera-servidor-suspeito-de-vazar-minutas-a-advogado-amigo-de-flavio.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T19:02:04+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "71b89f17daf9acb4",
+      "title": "Rebocador da Marinha usado na primeira guerra mundial será restaurado",
+      "summary": "O veículo VEJA publicou uma atualização sobre: rebocador da Marinha usado na primeira guerra mundial será restaurado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/rebocador-da-marinha-usado-na-primeira-guerra-mundial-sera-restaurado/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T19:01:29+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "61c54dd9e449d104",
+      "title": "Os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula",
+      "summary": "O veículo VEJA publicou uma atualização sobre: os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/os-detalhes-da-pericia-que-comprova-a-autenticidade-do-audio-de-vorcaro-sobre-lula-1/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T19:00:10+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "87444683a079405c",
+      "title": "Mortes: Empresário saiu da miséria para se tornar um mecenas da educação",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mortes: Empresário saiu da miséria para se tornar um mecenas da educação. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mortes-empresario-saiu-da-miseria-para-se-tornar-um-mecenas-da-educacao.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T19:00:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "50fe08b5f78e049a",
+      "title": "Ministério da Justiça reforça artilharia contra Meta por atuação na eleição",
+      "summary": "O veículo VEJA publicou uma atualização sobre: ministério da Justiça reforça artilharia contra Meta por atuação na eleição. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/ministerio-da-justica-reforca-artilharia-contra-meta-por-atuacao-na-eleicao/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T18:41:26+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "316a8ca367997915",
       "title": "Lula e Flávio vão em desespero rumo ao desempate",
@@ -90,48 +258,6 @@
       "archive": false
     },
     {
-      "id": "0e83e0f97fe0cbc1",
-      "title": "'Cabelo que parece uma vassoura': vendedora denuncia caso de injúria racial ao atender professora no Paraná",
-      "summary": "O veículo G1 publicou uma atualização sobre: 'Cabelo que parece uma vassoura': vendedora denuncia caso de injúria racial ao atender professora no Paraná. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pr/parana/noticia/2026/10/17/cabelo-que-parece-uma-vassoura-vendedora-denuncia-caso-de-injuria-racial-ao-atender-professora-no-parana.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T18:15:45+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "14f4d1ed2011da6f",
-      "title": "Idoso fica ferido após ônibus da prefeitura de Boa Vista bater em carro",
-      "summary": "O veículo G1 publicou uma atualização sobre: idoso fica ferido após ônibus da prefeitura de Boa Vista bater em carro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/17/idoso-fica-ferido-apos-onibus-da-prefeitura-de-boa-vista-bater-em-carro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T18:13:15+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e1f278a885c557a1",
-      "title": "Governo da Bahia transfere feriado do Dia do Servidor Público para 30 de outubro",
-      "summary": "O veículo G1 publicou uma atualização sobre: governo da Bahia transfere feriado do Dia do Servidor Público para 30 de outubro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/17/governo-da-bahia-data-feriado-do-dia-do-servidor-publico.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T18:08:55+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "508c91178a108ccf",
       "title": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
       "summary": "O veículo The New York Times publicou uma atualização sobre: u.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe. Consulte a reportagem para contexto, dados e declarações.",
@@ -139,34 +265,6 @@
       "source": "The New York Times",
       "published_at": "2026-10-17T18:00:45+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e63faff053a32388",
-      "title": "Instituto Hahaha leva palhaços a hospitais, escolas e instituições de acolhimento pela primeira vez em Montes Claros; veja programação",
-      "summary": "O veículo G1 publicou uma atualização sobre: instituto Hahaha leva palhaços a hospitais, escolas e instituições de acolhimento pela primeira vez em Montes Claros; veja programação. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/17/instituto-hahaha-leva-palhacos-a-hospitais-escolas-e-instituicoes-de-acolhimento-pela-primeira-vez-em-montes-claros-veja-programacao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T17:58:55+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f9e5e03203dc7b46",
-      "title": "Na TV, Flávio Bolsonaro diz ser alvo de fake news, e Lula fala às mulheres",
-      "summary": "O veículo G1 publicou uma atualização sobre: na TV, Flávio Bolsonaro diz ser alvo de fake news, e Lula fala às mulheres. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/horario-eleitoral-2-turno-flavio-bolsonaro-e-lula.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T17:58:40+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -202,20 +300,6 @@
       "archive": false
     },
     {
-      "id": "5823e0b93588ef38",
-      "title": "Mulher é presa após entrar armada em igreja e efetuar disparos em Governador Valadares",
-      "summary": "O veículo G1 publicou uma atualização sobre: mulher é presa após entrar armada em igreja e efetuar disparos em Governador Valadares. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/10/17/mulher-e-presa-apos-entrar-armada-em-igreja-e-efetuar-disparos-em-governador-valadares.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T17:51:58+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "7a872016add16f1e",
       "title": "Reitor da PUC-PR morreu após ser atingido por objeto de acrílico arrancado de telhado por ventos fortes nos EUA",
       "summary": "O veículo G1 publicou uma atualização sobre: reitor da PUC-PR morreu após ser atingido por objeto de acrílico arrancado de telhado por ventos fortes nos EUA. Consulte a reportagem para contexto, dados e declarações.",
@@ -223,20 +307,6 @@
       "source": "G1",
       "published_at": "2026-10-17T17:48:38+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "38544cab5030f49b",
-      "title": "Deputado Paulo Duarte é internado em Campo Grande e passa por procedimentos cardíaco e cerebral",
-      "summary": "O veículo G1 publicou uma atualização sobre: deputado Paulo Duarte é internado em Campo Grande e passa por procedimentos cardíaco e cerebral. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/17/deputado-paulo-duarte-e-internado-em-campo-grande-e-passa-por-procedimentos-cardiaco-e-cerebral.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T17:40:35+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -265,6 +335,20 @@
       "source": "Portal VV8",
       "published_at": "2026-10-17T17:31:21+00:00",
       "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "33545f5c96c38eef",
+      "title": "'Mãe, tem um atirador': filho de sobrevivente de massacre escolar em 2001 estava em colégio que sofreu ataque recente nos EUA - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Mãe, tem um atirador': filho de sobrevivente de massacre escolar em 2001 estava em colégio que sofreu ataque recente nos EUA. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMl9HR2pacVFhMms4SmdfQkt3dEN1UVpkVjZDcV9aM2JENV9pN29EV29vbElTVXZ6dDd2WWJBQlA0TFllSVJuNDVkZ3BPZG1jVWtDbzVQZHZMNm5MMlJqQ1hGVW9RMXR0a29HbmFkTGdHdGYxR1FIenU2UWlUclE0aFNoTmFjNlh4TE9BQ084ZmdlQXF5QjVVYWNQYjgxczFWcmJfNkM1M2N5bTNJMU9LR0V6bGhMWGJKcUl1eENzRmM0RkZOdHlDVEkxakRXRThEZWNZNi1zOGVYUThBR0xqOHBjd3hNdVVkVkFPMG5RTzV6X2xETXY5ZWoxRGN6SV94X0Zya0pudU5fXzNX0gGbAkFVX3lxTE0wc01meUlxVktDMi1zNTNra2ItMnR4TEktU2g5cXRORER5d01xdGJhM25SWE14eEt2OEdlTDBVeERLRlgxX3VtbVM2U2JZRm9OMTJESmxzdDkyOVYwX0p6QkRBUjUyd0RweEVBM1pzdi1zWTFQeUtjX1FhZHp4bGFiVWdMRXgxRmNGZGx1dFd4NEg2ZVpiaXpmZXc4OGtyTlRuV21QVmt3bXNaWERHS1dpTXQwUFpScjlESzlGenFKdTdOLWNMSXoybjJMZTdIc0tDN0d4TUZaZXpkNXc4TXlyZ195SXJQQkdoWG14WTJrZW41MWdJOTRmeWZiOEdSMzF3NUphMDVsQlRvVXgyNEdIb1RFUUN5RG1vbVk?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T17:03:36+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -380,6 +464,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b5b016d5224173e2",
+      "title": "Ministério da Justiça aciona MPF no caso Meta: 'Falta transparência' - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: ministério da Justiça aciona MPF no caso Meta: 'Falta transparência'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaEd6R2hhWGQ3ekN6QmJqQ0ZNX2lxdWxOTUM2Z3FicmszSUd0dmh3Zk1wR1dvNUpjbUZOcEVQaTFidWZtUS1SQVl3S25CU052ejhWUC1XRGJ5Y3I3VmRZZzAwVmZCejNGQ1lBUG9YUjhJdTBYaUYwbFlQa3pyOVhlSlIxSUwza2ZUR2JZTDZBVWVSOXBFQUN6LWtIemxZUGdsTHgzWDlCREl2MTVBalRjN0RYU3gzVU1mR1d2Ymh2eVFHSFFkdDMtZ2V4bVFJX1dSUEVDX9IB4wFBVV95cUxNZURlYzh3SXFDaUZHcm1kVS1IUmZqYWJpRnNPTTViWGNDVFBnMEVYWl9BLUs0NWkwcmZ6RjRnV3VaSlRGMlZfZzF3dGNNM3JsaWVqQ0FKbXllYTRDdkQtT2hZZjRveE5LeEtYUXBHMDRfVTVrWTVuTDYxbnpPQlBjY2FOaGtJOFRITnJpXzRVUXFBdmpqdktReFZqaDFuUUllUXFacTNJZC1CQXlPV05MNnE1WGJHNFJ2UThtUGNGWl84dVZfUFUzd2U4S3MwVUFCVGRQRXBlV1N1Q29rMGJwcHh2bw?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T14:55:20+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -692,20 +790,6 @@
       "archive": false
     },
     {
-      "id": "412c295a6b1a3125",
-      "title": "Ataques russos matam 8 e deixam mais de 1 milhão sem luz na Ucrânia; 60 ficaram feridos - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: ataques russos matam 8 e deixam mais de 1 milhão sem luz na Ucrânia; 60 ficaram feridos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeHAyejViRzI4R2k3dndQeXVrdHNGcVlOaGdDcjlNXzZHQkVRTHlVZXNQeTlpSFk2eWUwX0tPZk53XzJXOEd5WWtGWUs5VHpKTV9DWGlRZ3k2QzlHRnBqc1c4R1N4a1hfTGRlWmpLOGtCMHJzM1JaRDBwd0FHR3lCY2hieDdOdnhJVW9xODJRcTEweVJmZXBYSW5Oa1pHdWNaME5Hb1M4anJ0NldpODlQaVYtMEtEWDZ1YnpyT0FyYTNIbWRrd1F2OEVjZkl1S05NdF9SNkRNWm1Nd9IB6AFBVV95cUxPNzNiOFdHZDBCQ2JObXZHV2ZBTnVmdlRqdlF5QmYwdXZxOEt6ZHZMc2pFLXdmM3lwSmttQnpZbGVaWm1TSHRyRHhwRlFLLWotbE1BWExycUhIOFF6dFh0UERtdGtTLXJtdl9XRE9kS2pMbmVXcm1icG8wUmRJeG5VOTRON1pJcVFfajRMT0lzYndaSGpQTUZDY2NrVTFFTVNPbDcwLW5XLUJ4NXcwV1dNZUVNSmF0ekQ0UTlMM1J6UTZfWU4zREFoRTY3dXNRU2NZMms1el81b3pSUy1KY05QdUJZTHVGd2tu?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-17T07:04:19+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "df3ccb84bdec7f7a",
       "title": "O recado dos ministros do STF para campanha de Flávio Bolsonaro sobre impeachment de Moraes - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: o recado dos ministros do STF para campanha de Flávio Bolsonaro sobre impeachment de Moraes. Consulte a reportagem para contexto, dados e declarações.",
@@ -716,20 +800,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "19349c416f44ba1c",
-      "title": "Troca de apoio à democracia da Ucrânia por petróleo da Rússia faz de Trump um traidor",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: troca de apoio à democracia da Ucrânia por petróleo da Rússia faz de Trump um traidor. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thomas-l-friedman/2026/10/troca-de-apoio-a-democracia-da-ucrania-por-petroleo-da-russia-faz-de-trump-um-traidor.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T07:00:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -769,20 +839,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-17T06:30:00+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "546f746338b1336c",
-      "title": "Trump suspende sanções à Rússia antes mesmo de entrarem em vigor e amplia crise com Zelensky, que vê 'prêmio' a Putin - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: trump suspende sanções à Rússia antes mesmo de entrarem em vigor e amplia crise com Zelensky, que vê 'prêmio' a Putin. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjZyMTIzN3Nyb01CTDVzQUFueUYtUDNsS0psNEZ0aVJFNDJyUmV2dngzNnF2YV9YZ0ptdGlvQVZ6RzR0dzd4eUd4U1o2UHBUYUQ2ZjNMcHRFVXFKUGppWmtTUEpzQ0hmWGlBMUZ5T1ppdVl6NnhqQ1JjVVRkb1A1dzdwVW1udHJ3RmFZY0FienFncEhQbHpQa3NPc05zdFl4TVdkZmtFLWZoMTk5Z1dFT3NzcnF0MkhzVTJzb3RJdkMwOVJQRjE4T1dEdVZ5aXVDa3Jlc0JOVdIB5gFBVV95cUxNUzd2aEVBd0tpNnJubDl1eWJ5YXVUdFBMTklCd0lZRWhYUllwUm0teW9MejRNVXFPZVZxN0VFNGNWU0pZbDJhTkpBTkhPUG5GMi1fQ1ZETXlucnVEUzNiRHpIMkd4U1JlWENFNkxaR1hrU2NSbEJJRl9fRDNsNTkxekllT1VVZjh0UHNybnlTNGxtbkQ5UHR2dnkzUDlySklMQ0lXQ213R3NhaHQ3WWNtanRiOTFqUU82aGNfUzhNR2M3OVAtV2ZEc3llbW9Kb1labWNSYV9iYTZTZU03WE56UWR6VmNUQQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-17T04:46:49+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1024,20 +1080,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "39404b38028ad21f",
-      "title": "Atirador de 16 anos que matou 4 em ataque a escola nos EUA usou arma da mãe",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: atirador de 16 anos que matou 4 em ataque a escola nos EUA usou arma da mãe. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/atirador-de-16-anos-que-matou-4-em-ataque-a-escola-nos-eua-usou-arma-da-mae.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T21:09:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1521,7 +1563,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 23
+      "items": 28
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1577,27 +1619,27 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 68
+      "items": 69
     },
     "Estadão": {
       "status": "ok",
-      "items": 31
+      "items": 29
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 42
+      "items": 43
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 51
+      "items": 49
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 42
+      "items": 43
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 55
+      "items": 54
     },
     "Eleições · Flávio": {
       "status": "ok",
