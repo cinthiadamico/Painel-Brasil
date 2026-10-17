@@ -1,10 +1,178 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T21:38:54.815276+00:00",
-  "last_success_at": "2026-10-17T21:38:54.815276+00:00",
+  "last_checked_at": "2026-10-17T22:37:09.142941+00:00",
+  "last_success_at": "2026-10-17T22:37:09.142941+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "b4cf80ecd6779215",
+      "title": "Polícia prende quatro homens suspeitos de cometer homicídio em Independência, no Ceará",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia prende quatro homens suspeitos de cometer homicídio em Independência, no Ceará. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/17/policia-prende-quatro-homens-suspeitos-de-cometer-homicidio-em-independencia-no-ceara.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T22:25:22+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ade1364e850d1682",
+      "title": "Querem mudar o jeito de escolher o presidente, deputados, STFs e levar bandidos ao poder",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: querem mudar o jeito de escolher o presidente, deputados, STFs e levar bandidos ao poder. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/querem-mudar-o-jeito-de-escolher-o-presidente-deputados-stfs-e-levar-bandidos-ao-poder.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T22:21:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "63e05c7035a726b4",
+      "title": "Filha de FHC, ex-ministro de Temer, autor de pedido de impeachment de Dilma e juristas assinam carta pela reeleição de Lula",
+      "summary": "O veículo G1 publicou uma atualização sobre: filha de FHC, ex-ministro de Temer, autor de pedido de impeachment de Dilma e juristas assinam carta pela reeleição de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/17/carta-apoio-reeleicao-lula-alckmin.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T22:11:40+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d0da88f5a6adcd6e",
+      "title": "Em meio à crise de queimadas, governo federal autoriza repasse de R$ 14,3 milhões para ações no Amazonas",
+      "summary": "O veículo G1 publicou uma atualização sobre: em meio à crise de queimadas, governo federal autoriza repasse de R$ 14,3 milhões para ações no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/em-meio-a-crise-de-queimadas-governo-federal-autoriza-repasse-de-r-143-milhoes-ao-amazonas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T22:01:58+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2ff6620970a7b956",
+      "title": "Na BA, Flávio Bolsonaro recebe título de cidadão soteropolitano e promete concluir ponte Salvador-Itaparica se for eleito",
+      "summary": "O veículo G1 publicou uma atualização sobre: na BA, Flávio Bolsonaro recebe título de cidadão soteropolitano e promete concluir ponte Salvador-Itaparica se for eleito. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/17/flavio-bolsonaro-passeata-em-salvador.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T22:01:14+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "25ffe2e22b60451d",
+      "title": "Lula e Flávio Bolsonaro tentam mobilizar eleitores em estados sem 2º turno para governador",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula e Flávio Bolsonaro tentam mobilizar eleitores em estados sem 2º turno para governador. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-e-flavio-bolsonaro-tentam-mobilizar-eleitores-em-estados-sem-2o-turno-para-governador.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T22:01:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a5807c374d671562",
+      "title": "Incêndio atinge prefeitura de Limoges e derruba telhado do prédio de 1883",
+      "summary": "O veículo G1 publicou uma atualização sobre: incêndio atinge prefeitura de Limoges e derruba telhado do prédio de 1883. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/incendio-prefeitura-limoges-franca.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T21:52:46+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8c65aec5a8e47907",
+      "title": "Rio Tietê atinge mais que o dobro do volume normal e prefeitura interdita rua em Salto",
+      "summary": "O veículo G1 publicou uma atualização sobre: rio Tietê atinge mais que o dobro do volume normal e prefeitura interdita rua em Salto. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/17/rio-tiete-atinge-mais-que-o-dobro-do-volume-normal-e-prefeitura-interdita-rua-em-salto.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T21:51:28+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "190ac851f7f3d9d5",
+      "title": "Richarlison pede que PF investigue Flávio Bolsonaro por posse de imóvel de luxo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: richarlison pede que PF investigue Flávio Bolsonaro por posse de imóvel de luxo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/richarlison-pede-que-pf-investigue-flavio-bolsonaro-por-posse-de-imovel-de-luxo.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T21:46:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4175a17466bd2340",
+      "title": "TSE mantém no ar capa de VEJA com denúncias de Vorcaro contra Lula, depois de perícia",
+      "summary": "O veículo VEJA publicou uma atualização sobre: tSE mantém no ar capa de VEJA com denúncias de Vorcaro contra Lula, depois de perícia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/tse-mantem-no-ar-capa-de-veja-com-denuncias-de-vorcaro-contra-lula-depois-de-pericia/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T21:44:03+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1bed5bf23438bd26",
+      "title": "Princípio de incêndio atinge restaurante em centro comercial de Tupã",
+      "summary": "O veículo G1 publicou uma atualização sobre: princípio de incêndio atinge restaurante em centro comercial de Tupã. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/17/principio-de-incendio-atinge-restaurante-em-centro-comercial-de-tupa.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T21:41:26+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7339cd03f91e4d2a",
+      "title": "Três suspeitos morrem em confronto com a polícia e 237 kg de drogas são apreendidos em MT",
+      "summary": "O veículo G1 publicou uma atualização sobre: três suspeitos morrem em confronto com a polícia e 237 kg de drogas são apreendidos em MT. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/17/tres-suspeitos-morrem-em-confronto-com-a-policia-e-237-kg-de-drogas-sao-apreendidos-em-mt.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T21:35:05+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "497238357140d156",
       "title": "Homem condenado por matar esposa em MG é preso 21 anos após o crime",
@@ -272,20 +440,6 @@
       "archive": false
     },
     {
-      "id": "bf99b9bae2b33619",
-      "title": "A atriz e professora que viralizou nas redes, se tornando influenciadora aos 94 anos",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a atriz e professora que viralizou nas redes, se tornando influenciadora aos 94 anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/cultura/a-atriz-e-professora-que-viralizou-nas-redes-se-tornando-influenciadora-aos-94-anos/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T20:00:38+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "0d8f017c4a1e7f89",
       "title": "Aliança com EUA ou China trazem riscos para o Brasil e Zelenski é a prova disso; entenda - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: aliança com EUA ou China trazem riscos para o Brasil e Zelenski é a prova disso; entenda. Consulte a reportagem para contexto, dados e declarações.",
@@ -307,20 +461,6 @@
       "source": "G1",
       "published_at": "2026-10-17T19:58:49+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9796520e4d552ec5",
-      "title": "Ex-ministros, filha de FHC e ambientalistas assinam carta pró-Lula",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ex-ministros, filha de FHC e ambientalistas assinam carta pró-Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ex-ministros-filha-de-fhc-e-ambientalistas-assinam-carta-pro-lula.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T19:56:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -356,48 +496,6 @@
       "archive": false
     },
     {
-      "id": "83914b9be2555c03",
-      "title": "Corecon-SP apura denúncia sobre atuação de servidores em núcleo de preços da Prefeitura de Sorocaba",
-      "summary": "O veículo G1 publicou uma atualização sobre: corecon-SP apura denúncia sobre atuação de servidores em núcleo de preços da Prefeitura de Sorocaba. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/17/corecon-sp-apura-denuncia-sobre-atuacao-de-servidores-em-nucleo-de-precos-da-prefeitura-de-sorocaba.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T19:51:11+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "edf75425c4da4bed",
-      "title": "Ex-presidente José Sarney recebe alta após cirurgia abdominal no Maranhão",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ex-presidente José Sarney recebe alta após cirurgia abdominal no Maranhão. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ex-presidente-jose-sarney-recebe-alta-apos-cirurgia-abdominal-no-maranhao.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T19:49:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "581ea9c2d012d772",
-      "title": "Família acusa hospital de negligência ao apontar demora de cerca de seis horas para realizar parto de urgência em gestante que perdeu bebê",
-      "summary": "O veículo G1 publicou uma atualização sobre: família acusa hospital de negligência ao apontar demora de cerca de seis horas para realizar parto de urgência em gestante que perdeu bebê. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/17/familia-acusa-hospital-de-negligencia-em-feira-de-santana.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T19:48:43+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "7e54f773c128890e",
       "title": "Justiça Federal manda Meta restabelecer contas estudantis do RS",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: justiça Federal manda Meta restabelecer contas estudantis do RS. Consulte a reportagem para contexto, dados e declarações.",
@@ -412,58 +510,16 @@
       "archive": false
     },
     {
-      "id": "53285f0397ed74ea",
-      "title": "Após protestos estudantis, franceses vão às ruas contra o custo de vida em atos que podem marcar retorno dos coletes amarelos a meses da eleição - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: após protestos estudantis, franceses vão às ruas contra o custo de vida em atos que podem marcar retorno dos coletes amarelos a meses da eleição. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMFN6cXphalNqM3otei1MMTRITUQyNi1XTVdSN1VRZFAxTWVMdlVINWt0RVJyWWlyT0NYWVFrQ3pQVjBVSU1jcUlvUVBqLUFmd013TmEtRHkwNkhwQVNBOXpXY3JKQ0xsUGhDR0JoRkl3YTB0UlZLNW9MaklxVEkxZUVWVExlc002Y3lJRGN5R0ZmNkhVRnk2V0V4SGVIQXdoZ05aVVBtYmIxNVhOc2hCRHU1NU5tejk5V1hYLVBxVGNuaDhyYTN4d2gwMUd0dnFvSXZuR1ViYUt5YlJnYTR4dE9ZZmhHYmpOMmNxZi13NWFZMU1PZDNlTFJQVTV2RHIxTTRNZmktLXU5RGEydTRSWm1LM01xY25WMFJ5cW1aUXdJWklFRVHSAbQCQVVfeXFMTUY3T2N3U3A4YmtwZjNqZ2NhMk9FbWxTRHJBRTBfR1lBd1dBTmhuUmUyN29ubW9WWHRoXzB3M21rc0doMHVweHJYUXBBeDN2bF9jRld5S2UtMmJOajh3T3ZCZkptTUZCZ0lmZzc5d1VzaW5KUGpaMnR4dEZWc01XS2JmTXh5cTR3cml6b0cyTVRxcFZsa1YxeldqQU1aczgtaGI5QWg4dUhxbzlDMGp1aTFndVhTVEYyS3ppbVZ6emEtNUJlZXpqUG1LUk1uSGRqdzYySUx4WFpGbjhyTW5JZHgzN0VTY09NSTJpV1Q4ZnAtOWJpUnR4STBvMFlHNHBnZ01BZzlVUjc5aHBZUVpGX1loSnozNWlOZ2RrRlFSMExPVG4zckJPOXUxM2h2VUpLS3JqN18?oc=5",
+      "id": "0a9a4b35ee320c4c",
+      "title": "TSE alerta para mudança de endereço de quase 5 mil seções eleitorais - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: tSE alerta para mudança de endereço de quase 5 mil seções eleitorais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGhjWmZWdk83SkJpbEtDWGFOVkdtUGlHUWVGVEFIUlk4TzZ5WmFveW1ZQWNFZGx2TjBsb25oS2I3NHJoZGU3cWRibElyWlJaSFRyT0pyYnFON1RRM2hqekd5ZGhxYzVwc0ExNU9uLW90SVhGUmRwMHVFSWlaTjltWEF0NWZjWlpfTFlFZVhvbGpJbEFhVzhWUUlhZElTMllLU3ctLXMyaTF1bkpSRUJ0UlVBdFNiam1JRFFjc2U3MXA1WWtfSXR3YkVFR3FMLWttaGdDUjlJWXbSAecBQVVfeXFMT3hlamxmS0hpaWZSNXAyczVBOVlNN3JPZzBUSmlhbzJlelA1VTRaaWdsREwzSFBhQmhmY2dLWmM5aUxqR3FETDFleG1ueFV4MFNhUmNPMlB3WEdlVGdMV0stZ3lobDYxX3lLWlhVRkFKVDlLS2l2VDZYRE9uR2NUYUozY0M2LUI0SkZ0b3Z4LTRiUGpsTVZ6Y2hxRlFFM1NVckk3c0ZYY3JpOWRrTzUzaks0Y0tmNFhBNHQ4UnFqTE5CUk9zaXFCZ1RkRW1VZkVPX0Q2cDhWeEJVaW45TldpSHM2NGxlQlk4?oc=5",
       "source": "O GLOBO",
-      "published_at": "2026-10-17T19:44:50+00:00",
-      "category": "Política",
+      "published_at": "2026-10-17T19:45:17+00:00",
+      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "43a0882e05d7ce75",
-      "title": "Por que Trump suspendeu várias sanções contra a Rússia em meio a tensões com Ucrânia",
-      "summary": "O veículo G1 publicou uma atualização sobre: por que Trump suspendeu várias sanções contra a Rússia em meio a tensões com Ucrânia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/por-que-trump-suspendeu-varias-sancoes-contra-a-russia-em-meio-a-tensoes-com-ucrania.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T19:28:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4149a847cdb447ac",
-      "title": "Manifestantes fazem carreata de apoio à reeleição de Lula em Suzano",
-      "summary": "O veículo G1 publicou uma atualização sobre: manifestantes fazem carreata de apoio à reeleição de Lula em Suzano. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/eleicoes/2026/noticia/2026/10/17/manifestantes-fazem-carreata-de-apoio-a-reeleicao-de-lula-em-suzano.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T19:20:15+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "51eea810f7dacb92",
-      "title": "Polícia prende suspeito de tentar matar dois homens em loja de conveniência em Presidente Prudente",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia prende suspeito de tentar matar dois homens em loja de conveniência em Presidente Prudente. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/17/policia-prende-suspeito-de-tentar-matar-homens-em-loja-de-conveniencia-em-presidente-prudente.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T19:15:38+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -552,20 +608,6 @@
       "archive": false
     },
     {
-      "id": "fb764d70a6d63153",
-      "title": "Zelensky diz que decisão de Trump de suspender sanções à Rússia 'ajuda apenas os russos'",
-      "summary": "O veículo G1 publicou uma atualização sobre: zelensky diz que decisão de Trump de suspender sanções à Rússia 'ajuda apenas os russos'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/zelensky-critica-trump-sancoes-russia.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T18:31:29+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "508c91178a108ccf",
       "title": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
       "summary": "O veículo The New York Times publicou uma atualização sobre: u.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe. Consulte a reportagem para contexto, dados e declarações.",
@@ -608,20 +650,6 @@
       "archive": false
     },
     {
-      "id": "eac0dd6ec63b2937",
-      "title": "Reitor da PUC-PR morreu após ser atingido por objeto de acrílico arrancado de telhado por ventos fortes nos EUA - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: reitor da PUC-PR morreu após ser atingido por objeto de acrílico arrancado de telhado por ventos fortes nos EUA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjZqWmUyOUtpMGlXdXc0eUJxX2pxLWstamtoY3hvbWdfU2h5Z2UwX3g0M0NRX01JUVF5THlqNnJaQW1HTHg3a3NmMHdFUXk3UTBYY0pYWXc5RmRPNG1uUk90Q0FtekJaV0ZwU2Q0OEU0QlZ5TjdGZHNGa0VfeGpDaXhodzBxY08tSm9xT3JfQmt1Qm1wWVU0dUx30gGoAUFVX3lxTE5BWXZ4a0NsMDh2VDcwa1UtZnczcDVNOXRMbjB6V3ZlOUU0VGt2TUl2SExwOUdyZzdkVUZxaW9YU1BmN2QzSURoNXNPLXJIWXNpcFNJNWtWcUt4VWpsMy1YUW1scGs5djAzZWt6dW9sT1JwMnVGQ2dZRGd5U0piWWJQTkNXWHh4dTBJc2ZVcjlzSzE3c2ZSeFVpZ25CQ2tNT01yQzZnVS1uRQ?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-17T17:48:38+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e15d8ad14db02e39",
       "title": "Presidente do PT defende endurecer pena para crime hediondo e diz que Lula criará ministério da Segurança após PEC",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: presidente do PT defende endurecer pena para crime hediondo e diz que Lula criará ministério da Segurança após PEC. Consulte a reportagem para contexto, dados e declarações.",
@@ -650,16 +678,16 @@
       "archive": false
     },
     {
-      "id": "f7b2b14460fe4d83",
-      "title": "Tem Solução: Satélite criado por alunos do Sesi e horta orgânica mostram como escolas promovem educação e sustentabilidade",
-      "summary": "O veículo G1 publicou uma atualização sobre: tem Solução: Satélite criado por alunos do Sesi e horta orgânica mostram como escolas promovem educação e sustentabilidade. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/17/tem-solucao-satelite-criado-por-alunos-do-sesi-e-horta-organica-mostram-como-escolas-promovem-educacao-e-sustentabilidade.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T17:01:27+00:00",
-      "category": "Educação",
+      "id": "33545f5c96c38eef",
+      "title": "'Mãe, tem um atirador': filho de sobrevivente de massacre escolar em 2001 estava em colégio que sofreu ataque recente nos EUA - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Mãe, tem um atirador': filho de sobrevivente de massacre escolar em 2001 estava em colégio que sofreu ataque recente nos EUA. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMl9HR2pacVFhMms4SmdfQkt3dEN1UVpkVjZDcV9aM2JENV9pN29EV29vbElTVXZ6dDd2WWJBQlA0TFllSVJuNDVkZ3BPZG1jVWtDbzVQZHZMNm5MMlJqQ1hGVW9RMXR0a29HbmFkTGdHdGYxR1FIenU2UWlUclE0aFNoTmFjNlh4TE9BQ084ZmdlQXF5QjVVYWNQYjgxczFWcmJfNkM1M2N5bTNJMU9LR0V6bGhMWGJKcUl1eENzRmM0RkZOdHlDVEkxakRXRThEZWNZNi1zOGVYUThBR0xqOHBjd3hNdVVkVkFPMG5RTzV6X2xETXY5ZWoxRGN6SV94X0Zya0pudU5fXzNX0gGbAkFVX3lxTE0wc01meUlxVktDMi1zNTNra2ItMnR4TEktU2g5cXRORER5d01xdGJhM25SWE14eEt2OEdlTDBVeERLRlgxX3VtbVM2U2JZRm9OMTJESmxzdDkyOVYwX0p6QkRBUjUyd0RweEVBM1pzdi1zWTFQeUtjX1FhZHp4bGFiVWdMRXgxRmNGZGx1dFd4NEg2ZVpiaXpmZXc4OGtyTlRuV21QVmt3bXNaWERHS1dpTXQwUFpScjlESzlGenFKdTdOLWNMSXoybjJMZTdIc0tDN0d4TUZaZXpkNXc4TXlyZ195SXJQQkdoWG14WTJrZW41MWdJOTRmeWZiOEdSMzF3NUphMDVsQlRvVXgyNEdIb1RFUUN5RG1vbVk?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T17:03:36+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -685,6 +713,20 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-17T16:31:00+00:00",
       "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "911c5ae0fdfee832",
+      "title": "Reitor da PUCPR morre nos EUA atingido por pedaço de telhado arrancado pelo vento",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: reitor da PUCPR morre nos EUA atingido por pedaço de telhado arrancado pelo vento. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/reitor-da-pucpr-morre-nos-eua-atingido-por-pedaco-de-telhado-arrancado-pelo-vento.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T16:18:00+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -772,6 +814,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5981b47cedfa1d1c",
+      "title": "Rússia acelera ofensiva na Ucrânia; Trump suspende sanções",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: rússia acelera ofensiva na Ucrânia; Trump suspende sanções. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/russia-acelera-ofensiva-na-ucrania-trump-suspende-sancoes.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T13:40:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -888,20 +944,6 @@
       "archive": false
     },
     {
-      "id": "2bd458789263f61e",
-      "title": "Abstenção cai entre jovens, idosos e menos instruídos no 1º turno, segundo TSE",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: abstenção cai entre jovens, idosos e menos instruídos no 1º turno, segundo TSE. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/abstencao-cai-entre-jovens-idosos-e-menos-instruidos-no-1o-turno-segundo-tse.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T07:00:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f00983b3f2d3582d",
       "title": "Lula vai explorar risco de cortes em programas sociais, e Flávio prepara ofensiva sobre segurança pública em debate - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: lula vai explorar risco de cortes em programas sociais, e Flávio prepara ofensiva sobre segurança pública em debate. Consulte a reportagem para contexto, dados e declarações.",
@@ -909,20 +951,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-17T06:30:00+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "416d8f9fb98d4386",
-      "title": "Informação sobre recursos, elo com campanhas, direcionamento: veja as regras para canais no WhatsApp definidas pelo TSE - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: informação sobre recursos, elo com campanhas, direcionamento: veja as regras para canais no WhatsApp definidas pelo TSE. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNU2Q0R3Eya3h4M2Y5NFlkUHp0ajEzY0lsSndxb0VwclA3UkFBYXNuRHRweEdhNUh5aFpYU3pmYml1aXVLNVdSTk1ILTlaYWRLaXNOQXJ6N0FFWGJXQ3Q2ZzBZOHl5UURrZU1XN0RPdzVOeHlrOHlVc0R3cDJTdFJtTlJFU1hhdW1leUhlb20zbXQ2UWw5b0E4dXJpbGJpWU5RUS1UYU1CeUgyTkMtcW1hdHc0N2dFNjBoWGhZLXQ3U1NmVkV1aFlrRnIzU21KbmpkMzNIQzhlNlY0aGhsR0JncUFXMHVpeUMwQXpRX21GQ012M3Q0TjMxeTBEdF9KVlQ3X3lGRldLelk3UGJRZzM1VmtuNG0xQlV20gGnAkFVX3lxTE9mODlyczRLaGZ1c1ZLVUQxYk5qaVNPUllsVzNXNDlmZm8zMXhFN0pVUUFQaDJCUURIaDgtRkRNV0J3amxxZ1VVM0pidzBDV0l0WGppR1NWb1UzWUVKWXhJVFBxUThlNjM0M2g1U0pIYmVGTVhVdlhiM2lBRHQ3eGlDQXFFUWJjcW02cjMyNnp3OHQ1cjhfSUJtLWd1VG5jNWJvRGN3MGJpXzdBVEoxcHJQT0NDVWdtLWF3bUdqSUJYTXNQSjYwWG5uVUxfWUJzc2tqNjZvWnFEN3RFZmVNX1hnY1NZY1liT3JKaXZJaU0ydVkxVmpOMnVtVmZNQjNiREtSbnBDWDlDY1EyQTBhNVgyeHpQSy1iU1ZjazdnQWNBYkNnTmlldjg?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-17T06:30:00+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1252,34 +1280,6 @@
       "archive": false
     },
     {
-      "id": "bc745a073b64a3eb",
-      "title": "Áudio: Congresso promulga aposentadoria especial dos agentes de saúde",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Congresso promulga aposentadoria especial dos agentes de saúde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/congresso-promulga-aposentadoria-especial-dos-agentes-de-saude",
-      "source": "Senado Federal",
-      "published_at": "2026-10-16T18:11:57+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cbac0e6abfba82cd",
-      "title": "Crítica: Best-seller de Belle Burden toca a dor da violência patrimonial - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: crítica: Best-seller de Belle Burden toca a dor da violência patrimonial. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGZaMGNEMVpIV2d1Y3NsVHZKRWNFWF83NXNHQUhlelhlSVQyYXYxY056eEZZcFhqYUtfbFl6VjdWUHZJT2t6UUxaZzdYRThPdnRfRnhIYXZBNHhtS1l5NUZid1RpcXRQRnlXQjNfcnVzYVNtb1FzZTBlUTV4ZVZrMlZlVGtubnNsbFJkOUpXeUU5WHNJeVQ2Y3djcG1jblVYaFBjYnBpRzVPSWVvM2lDU01mZWdHTF80?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T18:00:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "087e4db8fb703c6a",
       "title": "Agência de Comunicação - Mercado brasileiro de fidelidade atrai empresas estrangeiras - Estadão Blue Studio",
       "summary": "O veículo Estadão Blue Studio publicou uma atualização sobre: agência de Comunicação - Mercado brasileiro de fidelidade atrai empresas estrangeiras. Consulte a reportagem para contexto, dados e declarações.",
@@ -1462,6 +1462,20 @@
       "archive": false
     },
     {
+      "id": "31f72c02d3ab4849",
+      "title": "O estado de saúde de papa Leão XIV após retirada de câncer - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: o estado de saúde de papa Leão XIV após retirada de câncer. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzdjLWJMR1UzbUVVYVplWVhvWmZnRF9SUjlyRHliN3hqLUVoS3Z6T2pDMEJQeVpiVExpUlVWNURwQVBNYzBZaG9yMHBHeWcyYTlUTTlwSzNNazVjTVYwWU5xZVhwclJOQVRHbG9QVHJtaVllbS1hT1V2djRIZ0FVWVZIYWN0a1gwYnB2T0VKNXg2cTZDUXc?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-16T12:46:23+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "e30749f8e0ebe291",
       "title": "Projeto amplia recursos no Orçamento para negociação de contratos habitacionais antigos",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto amplia recursos no Orçamento para negociação de contratos habitacionais antigos. Consulte a reportagem para contexto, dados e declarações.",
@@ -1504,20 +1518,6 @@
       "archive": false
     },
     {
-      "id": "f8ed5bba3976a10f",
-      "title": "Painel: Ex-ministro de Bolsonaro, Weintraub diz que não irá votar e cita suspeitas de corrupção contra Flávio - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: Ex-ministro de Bolsonaro, Weintraub diz que não irá votar e cita suspeitas de corrupção contra Flávio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZVZhU3FOaVpWYUVhWXZnOHhtZE90NUd6UURPeGJDRTdUMVZxY3pfWXR4TXRhS1YyY204dG5aNVdocG1vclB3ZmIyN3o5eHpjRF9sTm80eElnSjZFaTJBX3FwdEw4TFJxOG1RQ1M3ajF6QS1WMG45WmpVSzFmRjJ1OUViSFVOR1NEek4tZ2p0VnNLbHhrSDVvQm5RdWtraDRJdnFiQy13V3dIWER6b0N2WG04LUpONHFxSERaMDgzZmdDZ0hBbFFCR3gwR0x0TGRvOXllbHJackhpY2JKYVlULTlqelpseENNc1VHelNYME0?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T09:00:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "988817321ffedb5c",
       "title": "Professor ensina sorvete caseiro no liquidificador e sem sorveteira - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: professor ensina sorvete caseiro no liquidificador e sem sorveteira. Consulte a reportagem para contexto, dados e declarações.",
@@ -1528,6 +1528,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fa99ad71f13eb6b7",
+      "title": "Museu da UFRJ irá receber mais R$ 10 milhões para restauração",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: museu da UFRJ irá receber mais R$ 10 milhões para restauração. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/museu-da-ufrj-ira-receber-mais-r-10-milhoes-para-restauracao",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-15T22:30:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1563,7 +1577,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 29
+      "items": 27
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1571,7 +1585,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 45
+      "items": 44
     },
     "VEJA": {
       "status": "ok",
@@ -1627,7 +1641,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 40
+      "items": 45
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1639,7 +1653,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 54
+      "items": 53
     },
     "Eleições · Flávio": {
       "status": "ok",
