@@ -1,10 +1,248 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T11:38:39.142578+00:00",
-  "last_success_at": "2026-10-17T11:38:39.142578+00:00",
+  "last_checked_at": "2026-10-17T12:46:46.038961+00:00",
+  "last_success_at": "2026-10-17T12:46:46.038961+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "15777438d03e4932",
+      "title": "A distância entre Flávio e Lula nas regiões metropolitanas e no interior, segundo pesquisa Datafolha",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a distância entre Flávio e Lula nas regiões metropolitanas e no interior, segundo pesquisa Datafolha. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-distancia-entre-flavio-e-lula-nas-regioes-metropolitanas-e-no-interior-segundo-pesquisa-datafolha/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T12:44:41+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "87dfa2ecb8268d11",
+      "title": "Como católicos e evangélicos se dividem entre Flávio e Lula, segundo nova pesquisa Datafolha",
+      "summary": "O veículo VEJA publicou uma atualização sobre: como católicos e evangélicos se dividem entre Flávio e Lula, segundo nova pesquisa Datafolha. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/como-catolicos-e-evangelicos-se-dividem-entre-flavio-e-lula-segundo-nova-pesquisa-datafolha/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T12:39:49+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "942b5a629892d6dd",
+      "title": "Evento oferece vacinação gratuita com mais de 15 imunizantes em Salvador",
+      "summary": "O veículo G1 publicou uma atualização sobre: evento oferece vacinação gratuita com mais de 15 imunizantes em Salvador. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ba/bahia/saudenabahia/noticia/2026/10/17/evento-oferece-vacinacao-gratuita-em-salvador.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T12:37:47+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f895830e4b2adb43",
+      "title": "A mudança na expectativa sobre quem vai vencer a eleição na nova pesquisa Datafolha",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a mudança na expectativa sobre quem vai vencer a eleição na nova pesquisa Datafolha. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-mudanca-na-expectativa-sobre-quem-vai-vencer-a-eleicao-na-nova-pesquisa-datafolha/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T12:34:12+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6665ed0e40bccb55",
+      "title": "Polícia usa gás lacrimogêneo e entra em confronto com manifestantes em protestos contra o custo de vida na França",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia usa gás lacrimogêneo e entra em confronto com manifestantes em protestos contra o custo de vida na França. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/policia-usa-gas-lacrimogeneo-e-entra-em-confronto-com-manifestantes-em-protestos-contra-o-custo-de-vida-na-franca.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T12:33:36+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "692d828d2991aeec",
+      "title": "Campina Grande paga 14º salário para servidores da educação que alcançaram metas no Ideb",
+      "summary": "O veículo G1 publicou uma atualização sobre: campina Grande paga 14º salário para servidores da educação que alcançaram metas no Ideb. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/17/campina-grande-anuncia-14o-salario-para-servidores-da-educacao-que-alcancaram-metas-no-ideb.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T12:20:31+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "28ad095f5345f5cf",
+      "title": "Condenado por mandar matar a esposa em MG é preso 21 anos após o crime",
+      "summary": "O veículo G1 publicou uma atualização sobre: condenado por mandar matar a esposa em MG é preso 21 anos após o crime. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/17/condenado-por-mandar-matar-a-esposa-em-mg-e-preso-21-anos-apos-o-crime.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T12:12:53+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dfd7020875c6522d",
+      "title": "MP aciona Justiça para cobrar medidas emergenciais contra crise no abastecimento de água em Paraíso",
+      "summary": "O veículo G1 publicou uma atualização sobre: mP aciona Justiça para cobrar medidas emergenciais contra crise no abastecimento de água em Paraíso. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/17/mp-aciona-justica-para-cobrar-medidas-emergenciais-contra-crise-no-abastecimento-de-agua-em-paraiso.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T12:12:44+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cd4cfaf094baecab",
+      "title": "O tema polêmico que a campanha de Lula pretende explorar após entrevista de Flávio Bolsonaro ao JN",
+      "summary": "O veículo VEJA publicou uma atualização sobre: o tema polêmico que a campanha de Lula pretende explorar após entrevista de Flávio Bolsonaro ao JN. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/o-tema-polemico-que-a-campanha-de-lula-pretende-explorar-apos-entrevista-de-flavio-bolsonaro-ao-jn/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T12:01:28+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "38c505b7e8a12ac1",
+      "title": "Alunos e professores participam hoje de Olimpíada de Matemática",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: alunos e professores participam hoje de Olimpíada de Matemática. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/olimpiadas-de-matematica-reunem-alunos-e-professores-no-rio-de-janeiro",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-17T12:01:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "38c505b7e8a12ac1",
+      "title": "Alunos e professores participam hoje de Olimpíada de Matemática",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: alunos e professores participam hoje de Olimpíada de Matemática. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/olimpiadas-de-matematica-reunem-alunos-e-professores-no-rio-de-janeiro",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-17T12:01:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3d97f0fe8c08e317",
+      "title": "Como escolher um espumante",
+      "summary": "O veículo G1 publicou uma atualização sobre: como escolher um espumante. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/10/17/como-escolher-um-espumante.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T12:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "df0ed68f9360af4e",
+      "title": "Giulia Be mostra festa com escola de samba em casamento com Conor Kennedy",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: giulia Be mostra festa com escola de samba em casamento com Conor Kennedy. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/giulia-be-mostra-festa-com-escola-de-samba-em-casamento-com-conor-kennedy.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T12:00:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "643ff755423e6f89",
+      "title": "Eleição de Flávio não garante ajuste fiscal, que precisará de plano imediato, mas efeito gradual, diz Felipe Salto",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eleição de Flávio não garante ajuste fiscal, que precisará de plano imediato, mas efeito gradual, diz Felipe Salto. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/eleicao-de-flavio-nao-garante-ajuste-fiscal-que-precisara-de-plano-imediato-mas-efeito-gradual-diz-felipe-salto.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T12:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a0abc581a4c7e790",
+      "title": "Desmatamento e fornos ilegais de carvão em área de proteção ambiental do PR rendem multa de R$ 69 mil e investigação",
+      "summary": "O veículo G1 publicou uma atualização sobre: desmatamento e fornos ilegais de carvão em área de proteção ambiental do PR rendem multa de R$ 69 mil e investigação. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/17/desmatamento-fornos-carvao-area-protecao-ambiental-parana.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T11:53:08+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9832210d6c45a996",
+      "title": "Outubro Rosa: Baixada Santista realiza Dia D com exames, ações e vacinação",
+      "summary": "O veículo G1 publicou uma atualização sobre: outubro Rosa: Baixada Santista realiza Dia D com exames, ações e vacinação. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/santos-regiao/mais-saude/noticia/2026/10/17/outubro-rosa-santos-praia-grande-guaruja-e-itanhaem-realizam-dia-d-com-exames-acoes-e-vacinacao.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T11:52:18+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "caf04c538c841b65",
+      "title": "A atriz de Hollywood explica por que decidiu se tornar 'doula da morte' em meio à 'síndrome da impostora' - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: a atriz de Hollywood explica por que decidiu se tornar 'doula da morte' em meio à 'síndrome da impostora'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRXk5dUtDOU5YendqdTRVYkw2Y2V4dDZ5TUFNOGtBWWdlMW53RVIydnFDalNEQV9scDFUcmJTYVRic25kbDB3UGdNT2E3SFRsR2F1SXBKTl9ieDlrQXQ3eE5QekRSUDIyUXdCYVA2a0xuM3o1QVVHR2JqOHpaZkh0WkFyQ0xXYl9INk9zZnloQVdpZVJQS2hLZVoyUllKR3d3ZnhnXzJ0NkRFODVueHI4MUozV3JoQ1k3OUctU3N5NHlBUjhvOGQtSUxuTzkxUUhhaFMxb0JXU3VZYmx4ZlNqY2Jxd2F0eWdUX0Z0OEREWExrdknSAYICQVVfeXFMUElfYlBuUWdOM0ZQR1A3LXlXMU9xS2F5V3RwNklQOGpTZlNKMVEzQkt1TnNuckF0R2VvXzh4ZXJUejBHMTRBNnJHQkVleDVKR2c4ZXVmZGlGQU03VEUtc2xnb3Z4a2RtZHo3Nm9ueHpYSFhGRk9jUU5PUHRwSnMwT3REX3Y1a0pMWU51dVBDVnNEekVmRHlBZk8zVkFDbnpEV21BUnVRbmR4c1N6S0ZRaHhUSDJOdS0zQVdsVWFrZDVLUS0zeXJTZnJQVDI5UzJHQ2JNakdtX0ljV2tUTkxFeXNoeEo5TWpvd0kxZVBVV1hKOEhzUTQzV0hCWlk5eVdaQThB?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T11:31:59+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "6b7c72480c46aeed",
       "title": "Papa Leão 14 receberá alta do hospital neste sábado, diz Vaticano",
@@ -34,62 +272,6 @@
       "archive": false
     },
     {
-      "id": "d1b3b46fa10abd54",
-      "title": "Redução de palanques locais no segundo turno desafia os presidenciáveis",
-      "summary": "O veículo VEJA publicou uma atualização sobre: redução de palanques locais no segundo turno desafia os presidenciáveis. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/reducao-de-palanques-locais-no-segundo-turno-desafia-os-presidenciaveis/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T11:00:55+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4b9701b20ceb6c23",
-      "title": "Às vésperas do segundo turno, Lula parte para o ‘tudo ou nada’ com pacote de ações eleitoreiras",
-      "summary": "O veículo VEJA publicou uma atualização sobre: às vésperas do segundo turno, Lula parte para o ‘tudo ou nada’ com pacote de ações eleitoreiras. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/as-vesperas-do-segundo-turno-lula-parte-para-o-tudo-ou-nada-com-pacote-de-acoes-eleitoreiras/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T11:00:46+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "621717a4e39386d0",
-      "title": "Melhor da semana: ‘Profundezas’ une suspense e crítica ambiental na Netflix",
-      "summary": "O veículo VEJA publicou uma atualização sobre: melhor da semana: ‘Profundezas’ une suspense e crítica ambiental na Netflix. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/cultura/melhor-da-semana-profundezas-une-suspense-e-critica-ambiental-na-netflix/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T11:00:12+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "960b83be557e1049",
-      "title": "Ação do Dia Nacional da Vacinação conta com 19 pontos em Rio Branco; VEJA locais",
-      "summary": "O veículo G1 publicou uma atualização sobre: ação do Dia Nacional da Vacinação conta com 19 pontos em Rio Branco; VEJA locais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ac/acre/noticia/2026/10/17/acao-do-dia-nacional-da-vacinacao-conta-com-19-pontos-em-rio-branco-veja-locais.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T11:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "6279c8753aaf1149",
       "title": "Educação antirracista exige 'desfolclorização' do currículo escolar, aponta pesquisa de professora de Sorocaba",
       "summary": "O veículo G1 publicou uma atualização sobre: educação antirracista exige 'desfolclorização' do currículo escolar, aponta pesquisa de professora de Sorocaba. Consulte a reportagem para contexto, dados e declarações.",
@@ -104,97 +286,13 @@
       "archive": false
     },
     {
-      "id": "d50068254b3fbe06",
-      "title": "A nova pesquisa Datafolha sobre a disputa Flávio x Lula na eleição presidencial",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a nova pesquisa Datafolha sobre a disputa Flávio x Lula na eleição presidencial. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/a-nova-pesquisa-datafolha-sobre-a-disputa-flavio-x-lula-a-tres-dias-do-segundo-turno/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T10:00:42+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e175e8f47a14c0f8",
-      "title": "Terra de Minas 25 anos: escolha qual cidade deve encerrar a temporada do programa",
-      "summary": "O veículo G1 publicou uma atualização sobre: terra de Minas 25 anos: escolha qual cidade deve encerrar a temporada do programa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/minas-gerais/terra-de-minas/noticia/2026/10/17/terra-de-minas-25-anos-escolha-qual-cidade-deve-encerrar-a-temporada-do-programa.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T10:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "308b3841fa2c5fce",
-      "title": "Cleitinho Azevedo diz que quer 'rever contrato por contrato' e que o vice, Falcão, vai comandar Secretaria no Governo de Minas",
-      "summary": "O veículo G1 publicou uma atualização sobre: cleitinho Azevedo diz que quer 'rever contrato por contrato' e que o vice, Falcão, vai comandar Secretaria no Governo de Minas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/centro-oeste/eleicoes/2026/noticia/2026/10/17/cleitinho-azevedo-diz-que-quer-rever-contrato-por-contrato-e-que-o-vice-falcao-vai-comandar-secretaria-no-governo-de-minas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T10:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ad90de13da82b7b8",
-      "title": "Veja as palavras mais faladas por Flávio Bolsonaro e Lula nas sabatinas à TV Globo",
-      "summary": "O veículo G1 publicou uma atualização sobre: veja as palavras mais faladas por Flávio Bolsonaro e Lula nas sabatinas à TV Globo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/veja-as-palavras-mais-faladas-por-flavio-bolsonaro-e-lula-nas-sabatinas-a-tv-globo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T10:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "46878aad6692d27e",
-      "title": "Regime político vai sofrer ruptura e Judiciário não é saída para crise, diz Sérgio Abranches",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: regime político vai sofrer ruptura e Judiciário não é saída para crise, diz Sérgio Abranches. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/10/regime-politico-vai-sofrer-ruptura-e-judiciario-nao-e-saida-para-crise-diz-sergio-abranches.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T10:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fd091832d7264a7e",
-      "title": "Segurança, escala 6×1 e Milei: os temas de Lula para o debate contra Flávio Bolsonaro - CartaCapital",
-      "summary": "O veículo CartaCapital publicou uma atualização sobre: segurança, escala 6×1 e Milei: os temas de Lula para o debate contra Flávio Bolsonaro - CartaCapital. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzFzUldvVW9vZmU2NDlWczJmLUZTZkRObHNTVEFKWVRMYVd6Uzg2X1FTVXV0R1F3N1hOODJwMFdmUE5TVURKVFZEUDRNWmdLMXBCZUlBb1pBdFJwY1dfQ1Z6bnRCMkVEclRuT05Oc3piQ0VfX2tPSmhHOHNYVTF2NjJqRGlwakt5WFUyNEx1dDA3UlhUZFVfNXBDZG9DUVJGd1VwNzVhSkp4NlJhX0w4M25rampuQ28td1lhanY1VlNyV0k?oc=5",
-      "source": "CartaCapital",
-      "published_at": "2026-10-17T10:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b8fbb2905683a1a7",
-      "title": "A primeira pesquisa para presidente após as entrevistas de Flávio Bolsonaro e Lula na Globo - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: a primeira pesquisa para presidente após as entrevistas de Flávio Bolsonaro e Lula na Globo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTEIzVzBYOEQxa0hYRXZrR1pfVkJFNlAtdDNMYmNQd2hWTEx3bE5JeXZESU9xVG1Fa2lXeU1CVDRqem50ZmM3QjVqWnVzYWVNT2k2UHdSaGtkR2ljLUthSTFDcG91MmtPUDgtYWZuM0VOZmNmbElrb0tQS01aUE5ZZnphUjItdlgydGpSb2tSX1EzcXF6bzc1V1JKR0Z1MG5WYnZhRUFRQkVBSzNnQkxxX2Zsc1k2bFpzVGFzYlFRSG15WUNnYm0wdlpvbE5pajNfQUh5bXpleDFfQnQxT0NoUtIB7wFBVV95cUxPbFhPWkJtaHlha2xhUkU1YjZfdUVkd09RMC1scFNONWZhTlNicHR2VDltR2lZZFB0eFRRcXp1Vk84Zkd0VUlLZGFEVl8tSjdOVzJmeTBlZEc1WVVuakdUdFZ5cEM3OW9JWFY5eVF4cFpWNlFOWk5YcW9CQXg4eTBWZ3dTZllvS3pzLS1zZ0IydTlhalhyN0x1RHo2N0lkdlZOSkdiUGVIWWlYLV93eEtOTUR6R0phV1dRY0VMam13QjlvZ0dURnlzSjdVTGJlbHc2RzZCWDlPc0ZRQUpBTF9WYmFiLXVjcmdrbkhlX3ZBVQ?oc=5",
+      "id": "ad6450f7406b1a8f",
+      "title": "Polícia prendeu ex-príncipe Andrew para impedir que ele usasse rei Charles para destruir provas de ligação com Epstein - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: polícia prendeu ex-príncipe Andrew para impedir que ele usasse rei Charles para destruir provas de ligação com Epstein. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdjBMMmszbndOU05LQm1vWVVJamFrcGNLS09QX2dVZ3F6VklZY2ZHT1ZQN2xzQ2xtZ294UXZPYkIxUUtGcnlIWFFaNWpBR3hMakxQSnl0ZVdnd3VMelRnSlZVSVI1dHZCX2N4QzAzS2VseVNlMUI2UVc2T3k1aXkwcFdUZXdLdnhfb3VrQzZNd2xDNjV0WkMwcDBvNjJ2bWFjN2Q0bHF4bklJUUlLVEFPS3hZbS1xcFJqS0wtVzZpbExqTUMyYTRGMlNtMTJfTkFXTVcza0E3T1VQXzhJemt2ZXBEVmRSZ9IB9AFBVV95cUxOMnhhdGRUNXZMQnlnVk5ZbU1KNjUyZ09LVTJfVi1ZaEF6RGhiS0oyc0RHVXVQdkNBUDMweXZ2ay1wbk01dWJYRVhHYnlzUWlIcVlhMXNSNUhlQkZWTmVoU3g0TzQ5cUtTaWtOTkU2bW82RWdxcThqNmlJRDV0M1ZMOS1vNnR5RUdwc3BSWnZWdEdOVkluOUdPVS1XRmRNZnRBMEo5clB2MFZQTXVZanVBMXdzSUhNVkF2UzhnNkxNRDdQakRhcTZfcjUyQkVkQkNiNjZsUXR5MHQ1MEVqREx4OGhqeW56WHFhejNLMEJoalJtQTVC?oc=5",
       "source": "O GLOBO",
-      "published_at": "2026-10-17T09:30:00+00:00",
-      "category": "Política",
+      "published_at": "2026-10-17T10:23:59+00:00",
+      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -223,20 +321,6 @@
       "source": "G1",
       "published_at": "2026-10-17T09:00:01+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "771b664717f6836c",
-      "title": "Professora vence o câncer de mama e passa a acolher outras pacientes com a doença: ‘Há vida após o câncer’",
-      "summary": "O veículo G1 publicou uma atualização sobre: professora vence o câncer de mama e passa a acolher outras pacientes com a doença: ‘Há vida após o câncer’. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/17/professora-vence-o-cancer-de-mama-e-passa-a-acolher-outras-pacientes-com-a-doenca-ha-vida-apos-o-cancer.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T09:00:01+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -440,20 +524,6 @@
       "archive": false
     },
     {
-      "id": "c778fe96bdd73887",
-      "title": "'Superinteligência'? Por que Trump insiste em tentar mudar o termo 'IA', usado há 70 anos",
-      "summary": "O veículo G1 publicou uma atualização sobre: 'Superinteligência'? Por que Trump insiste em tentar mudar o termo 'IA', usado há 70 anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/17/superinteligencia-por-que-trump-insiste-em-tentar-mudar-o-termo-ia-usado-ha-70-anos.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T07:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "19349c416f44ba1c",
       "title": "Troca de apoio à democracia da Ucrânia por petróleo da Rússia faz de Trump um traidor",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: troca de apoio à democracia da Ucrânia por petróleo da Rússia faz de Trump um traidor. Consulte a reportagem para contexto, dados e declarações.",
@@ -492,34 +562,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0b2d7d8a38f09466",
-      "title": "Trump suspende tarifas contra a Rússia e grandes compradores de petróleo e gás russos",
-      "summary": "O veículo G1 publicou uma atualização sobre: trump suspende tarifas contra a Rússia e grandes compradores de petróleo e gás russos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/trump-suspende-tarifas-contra-a-russia-e-grandes-compradores-de-petroleo-e-gas-russos.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T06:24:07+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8e63ab519809c654",
-      "title": "Starlink tem uma 'irmã militar' controlada pelos EUA; entenda o que é a Starshield",
-      "summary": "O veículo G1 publicou uma atualização sobre: starlink tem uma 'irmã militar' controlada pelos EUA; entenda o que é a Starshield. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/10/17/starlink-tem-uma-irma-militar-controlada-pelos-eua-entenda-o-que-e-a-starshield.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T06:00:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -860,6 +902,20 @@
       "archive": false
     },
     {
+      "id": "377169eca126bd33",
+      "title": "Votação na ONU para novo secretário-geral tem impasse com vetos generalizados",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: votação na ONU para novo secretário-geral tem impasse com vetos generalizados. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/votacao-na-onu-para-novo-secretario-geral-tem-impasse-com-vetos-generalizados.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-16T21:11:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "39404b38028ad21f",
       "title": "Atirador de 16 anos que matou 4 em ataque a escola nos EUA usou arma da mãe",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: atirador de 16 anos que matou 4 em ataque a escola nos EUA usou arma da mãe. Consulte a reportagem para contexto, dados e declarações.",
@@ -923,6 +979,20 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-16T20:20:00+00:00",
       "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7e69f70a0a48a950",
+      "title": "Brasil é 2º maior importador de pesticidas proibidos na UE, diz Oxfam",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: brasil é 2º maior importador de pesticidas proibidos na UE, diz Oxfam. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/brasil-e-2o-maior-importador-de-pesticidas-proibidos-na-ue-diz-oxfam",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-16T20:17:00+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1378,6 +1448,20 @@
       "archive": false
     },
     {
+      "id": "87fcfe4b9ddead56",
+      "title": "Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-lula-e-flavio-divergem-sobre-ajuste-fiscal-e-papel-do-estado",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-16T11:20:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "4163c3be1eb5dd15",
       "title": "Carreta que transportava ácido orgânico tomba e interdita Arco Metropolitano; motorista é levado para hospital - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: carreta que transportava ácido orgânico tomba e interdita Arco Metropolitano; motorista é levado para hospital. Consulte a reportagem para contexto, dados e declarações.",
@@ -1399,20 +1483,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-16T09:00:00+00:00",
       "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "88df9c35071d2dd9",
-      "title": "Polícia identifica um dos responsáveis por tentativa de latrocínio contra arqueóloga e professora aposentada da UFRJ no Leblon - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: polícia identifica um dos responsáveis por tentativa de latrocínio contra arqueóloga e professora aposentada da UFRJ no Leblon. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNVhSOF9sOV9zMEdaLUZVRFFWbzVCWlRrNDVIR1p2WGVxSTcxOXgyUjBld20za3N3d2x6N1B2ODBlZ18wZFZJRlU2QTFlOU45RnBmWld0WklUM29qeV93Ni04bnZwbVB4R2hDMDRZZG83aVZWblFCWWZ4cHdQZ2ZXYThzM3NRUzYzcHZienkzaWpTbXBxaWZ1Tk1vUDVycEoyVWxpanp3cjFwTURVOVFkZjFfLXJPN0x2eU41TDlpejJmbzhsT2RUTXpQWno4VGdXbEMyeEtMVW5wbWxQZktnOHQzLWo3TTdNYTJHSGF2X0NiM2h5cUJ6YWc1VDFfaXE2ZU0xeTF6OGNJekZj0gGbAkFVX3lxTFBxcVVTVjFaTWFSMW9ILTdyYUN1OVFCZmF4MmNHbV94VHEzNjIxWE9ib2kwRXVyalBQb0dRTGZQMzZ3QjI5OGZwbmpLWTdZQ1dLWGlsdFZpQUo2Tk9EWUtXY2lSRk9FODJHNUpTN0NWRW1LaE9MRno3N1VkQnNuOFNqdjNjenZ1WVR5b2oyRWM3c0U2OHBhZWhKMWNnZHY0eFlWZUNKZ0x1NWFnLW9UWDBXb3FKUDd6MjFQQmE2Yk1uSG9rSUdlVUo5eXQ2dmpYbzNaa05WamI2dTU3ekc1eS11bmRWdDB6UzlYTXBpNU1KU1RTbkFMM2pneXl4a2QxOEhqQWF2OV9XclNNYXFwNTAwQkRLb0ptWEZRRDg?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-16T07:00:02+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1462,48 +1532,6 @@
       "archive": false
     },
     {
-      "id": "dfe307e631ffd239",
-      "title": "MEC libera novas formações online para professores",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mEC libera novas formações online para professores. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-libera-novas-formacoes-online-para-professores",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-15T21:28:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2b641bd545b8d977",
-      "title": "Fim da escala 6X1 pode estimular pejotização e informalidade, alerta professor da FGV - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: fim da escala 6X1 pode estimular pejotização e informalidade, alerta professor da FGV. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSi1tY2tCUFpoRjNVLUZzQ3ZOMVQ0Um9jZk1yaEZFZzRhQmx2TGJKbWtwMEkzdXZpWjZGMURJa3RTTWYtUXNJVU1vbkx5dUx2djFhcUhoNkhOelV4M2wwVkdSbjZjc2RJTFBBVV9TaUVOa0d1TVd0aGJSUWpmOW5QQUpaSmhaS2NiSUlQZnFZX0JZYWxGeGROR0Y3RFNwanhuamxBbW8zLS1Wc3FTcm1jc0lvclRsWTlhRWVtcjBR0gHDAUFVX3lxTE5fbmtvV0Y3Wk5TTGhySUpXa2EtMXZMdVpJQmdtMWxJdmZESkFQZTBCblZPTU1VSWR1bDlOMGZvTnd2Nnl0YVhCODYxRzJMdVZaWFZ6WE1DVDI1bEt5UTNsazJjMzB0djRuZzZZbUtPTVlZM0R2NDdneVFvWTQ2MFlNQmVQaFF6aHRPVW1CN2lLVkp4emExMjduTjd5VkVhWkc5NVRjOWpSZnRkRFZlYktpVlA2TXhIenJ6eFlnNDVLdjlSNA?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-15T20:00:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2fbbd3b0c070424c",
-      "title": "Lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande Bahia",
-      "summary": "O veículo Jornal Grande Bahia publicou uma atualização sobre: lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande B. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYzlGRExua2NkQ3ZRb2laRGh2VWtYajVwTldWMWxWX0g1NW9BLVhicWx5UU1teEJuZlpnS3U3ZmcyMHVSZVMwa3VySjRxc003Skp3Y1pPQVM2V09vWkFjNmxUcm11bkJPdWREeklBVVVhWmFFVTF3blNRTjZfX05iYm9ZUjN6cUtZTTNvbFlhb3BIaTBfZWNzeUh1bHlIc21xLXFnaGFtX19CMEpiaF9MSXpaRG1TRnlkNUlidVdtMW43dWhfUS1oVUdjYWhLVEVIUnhhc01yVGJhWUpGZTZKRmhTRlhaR0F2Q2t1Y1o3ZlR4ZmYtbmdLYWg2eVFFa3RiRnNrdVdlcEd2UQ?oc=5",
-      "source": "Jornal Grande Bahia",
-      "published_at": "2026-10-15T19:30:10+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5edbf96a139fabf6",
       "title": "Pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -1549,19 +1577,19 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 23
+      "items": 29
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 81
+      "items": 80
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 51
+      "items": 52
     },
     "VEJA": {
       "status": "ok",
-      "items": 7
+      "items": 8
     },
     "The New York Times": {
       "status": "ok",
@@ -1569,7 +1597,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 3
+      "items": 4
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1581,7 +1609,7 @@
     },
     "Agência Brasil · Educação": {
       "status": "ok",
-      "items": 7
+      "items": 8
     },
     "Agência Brasil · Saúde": {
       "status": "ok",
@@ -1605,7 +1633,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 66
+      "items": 67
     },
     "Estadão": {
       "status": "ok",
@@ -1613,23 +1641,23 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 38
+      "items": 39
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 51
+      "items": 53
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 39
+      "items": 38
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 57
+      "items": 55
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 44
+      "items": 42
     }
   },
   "notes": [
