@@ -1,10 +1,108 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T08:41:39.331170+00:00",
-  "last_success_at": "2026-10-17T08:41:39.331170+00:00",
+  "last_checked_at": "2026-10-17T09:40:19.554518+00:00",
+  "last_success_at": "2026-10-17T09:40:19.554518+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "c14b91bc9eee41a5",
+      "title": "Homem bloqueia contato da polícia por se recusar a devolver Pix recebido por engano em MG",
+      "summary": "O veículo G1 publicou uma atualização sobre: homem bloqueia contato da polícia por se recusar a devolver Pix recebido por engano em MG. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/17/homem-bloqueia-contato-da-policia-por-se-recusar-a-devolver-pix-recebido-por-engano-em-mg.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T09:00:01+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "771b664717f6836c",
+      "title": "Professora vence o câncer de mama e passa a acolher outras pacientes com a doença: ‘Há vida após o câncer’",
+      "summary": "O veículo G1 publicou uma atualização sobre: professora vence o câncer de mama e passa a acolher outras pacientes com a doença: ‘Há vida após o câncer’. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/17/professora-vence-o-cancer-de-mama-e-passa-a-acolher-outras-pacientes-com-a-doenca-ha-vida-apos-o-cancer.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T09:00:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9fb94e41a4ece71b",
+      "title": "Projeto transforma terra em tinta natural para despertar consciência ambiental em crianças no PI",
+      "summary": "O veículo G1 publicou uma atualização sobre: projeto transforma terra em tinta natural para despertar consciência ambiental em crianças no PI. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/17/projeto-educacao-ambiental-criancas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "62680e00851f60c4",
+      "title": "Polícia prende foragida suspeita de aliciar menores de idade para esquema de abuso sexual no Rio",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia prende foragida suspeita de aliciar menores de idade para esquema de abuso sexual no Rio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/17/policia-prende-suspeita-aliciamento-menores-abuso-sexual.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T09:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e5680d5049da146c",
+      "title": "Na China, paleontólogos descobrem fóssil de ave que pode ter desaprendido a voar",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: na China, paleontólogos descobrem fóssil de ave que pode ter desaprendido a voar. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ciencia/2026/10/na-china-paleontologos-descobrem-fossil-de-ave-que-pode-ter-desaprendido-a-voar.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T09:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "801337e262ea1a16",
+      "title": "Damares pede investigação de uso de van com marca do MEC em compromisso de campanha de Lula",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: damares pede investigação de uso de van com marca do MEC em compromisso de campanha de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/damares-pede-investigacao-de-uso-de-van-com-marca-do-mec-em-compromisso-de-campanha-de-lula.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ef927f0cabdcfc0c",
+      "title": "Empenho na campanha de Flávio cacifa Nunes para tentar suceder Tarcísio no governo de SP - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: empenho na campanha de Flávio cacifa Nunes para tentar suceder Tarcísio no governo de SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcGZwVnlUcDMzdjhzMGJiSzlta2hMSVUtamFNMzVnbHpEZkZRVnh1bWw2bE4tYXQ3Y0hLc0hrQlFjMTNHdS14OXlmckFrWUJVMzFMWUF0eDJfRTdnR3ZRVk5wSVNSbW54bTBkOGZyS1B4OVFCWDZyMnk1MzdqZWNVdkhRcEExXzZ2N2dsU2xRc0oyOURzUmtHX3AzMzBQLTNKU2lGand5UDJrdkxzYmZYSmRmSzdVakNjeURIUVJHTldpR0xxM2o0M0d2dGEtTmfSAdQBQVVfeXFMT2xhRHV3T0lMeW13d3JNanVkSV9ZSzVVX1d5UXVJeTdmcmhQS1phWXktUldhVkp3WlpUMDZoQnM4bEdMN2pyWmdDUGs3NndoSm9Sa0ZEWjdzVjhKaWE0OU5ZUXBWa3dMNlZvMWtQZHN5b3ltNHJhTTNHb002aVpGemNnYVdVbldTWHEyYlRFNzktX2ptU1BsRTFWSTFpWnRDV3ItWHpNdUJnNzBnNmpVNjhncXNGb3BrLUsxdGg1ZExEd0J4OGx5WEppdk1yZzJFdzJwTy0?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-17T08:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "8d117455b8b2f1fe",
       "title": "Influenciadores continuam a divulgar bets e cassinos virtuais no Ceará após proibição do governo federal",
@@ -58,6 +156,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "412c295a6b1a3125",
+      "title": "Ataques russos matam 8 e deixam mais de 1 milhão sem luz na Ucrânia; 60 ficaram feridos - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: ataques russos matam 8 e deixam mais de 1 milhão sem luz na Ucrânia; 60 ficaram feridos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeHAyejViRzI4R2k3dndQeXVrdHNGcVlOaGdDcjlNXzZHQkVRTHlVZXNQeTlpSFk2eWUwX0tPZk53XzJXOEd5WWtGWUs5VHpKTV9DWGlRZ3k2QzlHRnBqc1c4R1N4a1hfTGRlWmpLOGtCMHJzM1JaRDBwd0FHR3lCY2hieDdOdnhJVW9xODJRcTEweVJmZXBYSW5Oa1pHdWNaME5Hb1M4anJ0NldpODlQaVYtMEtEWDZ1YnpyT0FyYTNIbWRrd1F2OEVjZkl1S05NdF9SNkRNWm1Nd9IB6AFBVV95cUxPNzNiOFdHZDBCQ2JObXZHV2ZBTnVmdlRqdlF5QmYwdXZxOEt6ZHZMc2pFLXdmM3lwSmttQnpZbGVaWm1TSHRyRHhwRlFLLWotbE1BWExycUhIOFF6dFh0UERtdGtTLXJtdl9XRE9kS2pMbmVXcm1icG8wUmRJeG5VOTRON1pJcVFfajRMT0lzYndaSGpQTUZDY2NrVTFFTVNPbDcwLW5XLUJ4NXcwV1dNZUVNSmF0ekQ0UTlMM1J6UTZfWU4zREFoRTY3dXNRU2NZMms1el81b3pSUy1KY05QdUJZTHVGd2tu?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T07:04:19+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -244,6 +356,20 @@
       "archive": false
     },
     {
+      "id": "95de80ff4bb9a15f",
+      "title": "Flávio Bolsonaro ou Lula: quem foi melhor nas entrevistas da Globo? Veja notas e avaliações dos colunistas do GLOBO - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio Bolsonaro ou Lula: quem foi melhor nas entrevistas da Globo? Veja notas e avaliações dos colunistas do GLOBO. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWDFzbng2a0RZekJWQm5YTjZ3QnJjblNUdndDZ3JZbFFTcHVCY01xcGd3bEEzNEcwdVhrZWxGTzhydHROa1NRQXBFZThDcm9vU1llN1FsaWlZYmJkVmFZWGtlMmpOdTJ0MHRLVEVpNW1uaGlDQW0xX2tMMTdzNHhiS1RiLWt3N2lFT0RoNjBiaG9PblhnLWthWk1mb0NiYlJwYUd0eW9TT1J2ZHBlcDFhdVB0QUhEdXBFbHhIdXdXYzJzQ2s1U3Z5ZnZFYUhYbzVPdjhGUEpsUV9NSjVVTldiVHFxWDk3WlozQTBfYXZvUVNFemlzOGZvVEZTangzaG56OEhWQmVKOFBTUlVLYVN2Z1pJSzDSAaMCQVVfeXFMT1NLczJ4cTR0VDJUZkVrVVVoMVFNaV92djlUVmFKZ041YjFBTDBvTGM2aWp4azlKQi1HcmIzaXl3S3dPTWUxTEZtOGVYMTR1eDhqUkNDbGRUWGphZFg5YnQyemVHeXYzeV90a2ZrdVFkUmRBU05FODJBUHU5WE5JZGpWbURxQXJlbXhhMzZ4bWdta2FaM0tFTENIbmJvYVlTU3NKSEstbDlfUXh1T0l5NHlNTW9zSVNHY1c1d2dFOGpHbGlqUWpScDVsUFpNaU5URTVSMHJfRk42cXRIaEt0MjY5d3hsSktUUWJFUUtsYmpPanlyRmFqczB2enBLSThQdjBtYTBuTzdENTVzWnZDX2NoUWpiNzgtSmpjUXNJcUp3Y2xJ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T06:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "0b2d7d8a38f09466",
       "title": "Trump suspende tarifas contra a Rússia e grandes compradores de petróleo e gás russos",
       "summary": "O veículo G1 publicou uma atualização sobre: trump suspende tarifas contra a Rússia e grandes compradores de petróleo e gás russos. Consulte a reportagem para contexto, dados e declarações.",
@@ -328,76 +454,6 @@
       "archive": false
     },
     {
-      "id": "d4dc0dbed00204d7",
-      "title": "‘Carreatas’ no Roblox para Flávio e Lula têm buzinaço, ‘bloquinho’ e até ‘showmício’ digital; conheça",
-      "summary": "O veículo G1 publicou uma atualização sobre: ‘Carreatas’ no Roblox para Flávio e Lula têm buzinaço, ‘bloquinho’ e até ‘showmício’ digital; conheça. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/17/carreatas-no-roblox-para-flavio-e-lula-tem-buzinaco-bloquinho-e-ate-showmicio-digital-conheca.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T04:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "418179565258d2b0",
-      "title": "Osteoporose: entenda os fatores de risco e saiba como prevenir a doença que enfraquece os ossos",
-      "summary": "O veículo G1 publicou uma atualização sobre: osteoporose: entenda os fatores de risco e saiba como prevenir a doença que enfraquece os ossos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/saude/noticia/2026/10/17/osteoporose-entenda-os-fatores-de-risco-e-saiba-como-prevenir-a-doenca-que-enfraquece-os-ossos.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T04:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "85a17a660f64e1d8",
-      "title": "Em sabatina, Flávio não explica propostas e faz acusações sem provas",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: em sabatina, Flávio não explica propostas e faz acusações sem provas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-sabatina-flavio-nao-explica-propostas-e-faz-acusacoes-sem-provas",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-17T03:55:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e6c81559be434463",
-      "title": "Checamos a entrevista de Flávio Bolsonaro na TV Globo; veja o resultado - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: checamos a entrevista de Flávio Bolsonaro na TV Globo; veja o resultado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWWNqR1FqaC02UGUzUGJiaEZNRWQ0alhoRXAzaEM5U1BnVzFxZEY3c3BNVFJ1WVNrcWVHLU1fUFA5R3NyZEtWSWpkUnc0TWpROHZId0UzS1hBWXJYSDJPSXktdEQyQkhtMDZtMjFOMjBVNTZvcVB4VGJmTlZpQkc0dnNzNm9xMVlRQXY1dVphV3NrSjgwOEt5aXpEZXBBcVVONHJQaTNB0gGrAUFVX3lxTE1kQVlmYnF2bHBSY3ljeFdxQmhIcEZoaXZQUms5YmQzc3dwUFhPWmNsTnVxaElBcEtmSElSb1lsZmtuc0hnWS1YNFAzSDYxRHdrYTJtT0t6UUJzQ3JTZWZaM0owM2cxblNoemJkRVNMOVdMSzA2WUVyYzVSdkpJNHh4Rm01RFd5ZndzVk9iX2REN2h3SWtNSGlTd2J1bjZiWmRlUTFFNVlvZDdlUQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-17T03:44:38+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1a883da6b2141607",
-      "title": "Centrão tenta chegar a acordo para votar novo sistema eleitoral e conter avanço da direita",
-      "summary": "O veículo G1 publicou uma atualização sobre: centrão tenta chegar a acordo para votar novo sistema eleitoral e conter avanço da direita. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/17/centrao-tenta-chegar-a-acordo-para-votar-novo-sistema-eleitoral-e-conter-avanco-da-direita.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T03:02:02+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "7011930dcbfd19c0",
       "title": "Escala 6x1 acabou. E agora? Veja perguntas e respostas para entender tudo sobre mudança",
       "summary": "O veículo G1 publicou uma atualização sobre: escala 6x1 acabou. E agora? Veja perguntas e respostas para entender tudo sobre mudança. Consulte a reportagem para contexto, dados e declarações.",
@@ -405,20 +461,6 @@
       "source": "G1",
       "published_at": "2026-10-17T03:00:04+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dd892b5427ede27f",
-      "title": "Mais de 90 mil óculos falsificados são apreendidos em Porto Alegre em 18 meses; saiba riscos para a saúde",
-      "summary": "O veículo G1 publicou uma atualização sobre: mais de 90 mil óculos falsificados são apreendidos em Porto Alegre em 18 meses; saiba riscos para a saúde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/17/oculos-falsificados-porto-alegre-riscos-saude.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T03:00:00+00:00",
-      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -818,20 +860,6 @@
       "archive": false
     },
     {
-      "id": "5de63bcb0aa7b570",
-      "title": "Mãe de Virginia relembra passado de faxineira nos Estados Unidos",
-      "summary": "O veículo VEJA publicou uma atualização sobre: mãe de Virginia relembra passado de faxineira nos Estados Unidos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/cultura/mae-de-virginia-relembra-passado-de-faxineira-nos-estados-unidos/",
-      "source": "VEJA",
-      "published_at": "2026-10-16T21:03:45+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ad8063c873ec4ab7",
       "title": "Áudio: Projeto cria política nacional de incentivo à amamentação",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Projeto cria política nacional de incentivo à amamentação. Consulte a reportagem para contexto, dados e declarações.",
@@ -856,20 +884,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0a417e6f5de32554",
-      "title": "Após choque energético, ONU adverte sobre possível crise alimentar mundial",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: após choque energético, ONU adverte sobre possível crise alimentar mundial. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/apos-choque-energetico-onu-adverte-sobre-possivel-crise-alimentar-mundial.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T20:28:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1091,20 +1105,6 @@
       "source": "Senado Federal",
       "published_at": "2026-10-16T18:19:35+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "03ca0ccdc89d4bed",
-      "title": "Best-seller de Belle Burden toca a dor da violência patrimonial",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: best-seller de Belle Burden toca a dor da violência patrimonial. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/best-seller-de-belle-burden-toca-a-dor-da-violencia-patrimonial.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T18:00:00+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1434,6 +1434,20 @@
       "archive": false
     },
     {
+      "id": "18bd39f41c03a178",
+      "title": "Câmara aprova uso de exames de saúde privados em unidades do SUS",
+      "summary": "O veículo Agência Câmara publicou uma atualização sobre: câmara aprova uso de exames de saúde privados em unidades do SUS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.camara.leg.br/noticias/1311598-camara-aprova-uso-de-exames-de-saude-privados-em-unidades-do-sus",
+      "source": "Agência Câmara",
+      "published_at": "2026-10-15T19:37:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "2fbbd3b0c070424c",
       "title": "Lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande Bahia",
       "summary": "O veículo Jornal Grande Bahia publicou uma atualização sobre: lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande B. Consulte a reportagem para contexto, dados e declarações.",
@@ -1507,19 +1521,19 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 14
+      "items": 16
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 84
+      "items": 83
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 51
+      "items": 52
     },
     "VEJA": {
       "status": "ok",
-      "items": 10
+      "items": 9
     },
     "The New York Times": {
       "status": "ok",
@@ -1563,7 +1577,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 64
+      "items": 66
     },
     "Estadão": {
       "status": "ok",
@@ -1571,7 +1585,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 39
+      "items": 38
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1583,11 +1597,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 58
+      "items": 56
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 48
+      "items": 46
     }
   },
   "notes": [
