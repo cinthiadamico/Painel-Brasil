@@ -1,10 +1,66 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T07:40:35.252457+00:00",
-  "last_success_at": "2026-10-17T07:40:35.252457+00:00",
+  "last_checked_at": "2026-10-17T08:41:39.331170+00:00",
+  "last_success_at": "2026-10-17T08:41:39.331170+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "8d117455b8b2f1fe",
+      "title": "Influenciadores continuam a divulgar bets e cassinos virtuais no Ceará após proibição do governo federal",
+      "summary": "O veículo G1 publicou uma atualização sobre: influenciadores continuam a divulgar bets e cassinos virtuais no Ceará após proibição do governo federal. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/17/influenciadores-continuam-a-divulgar-bets-e-cassinos-virtuais-no-ceara-apos-proibicao-do-governo-federal.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T08:00:00+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "589de21ef1e3718b",
+      "title": "Relembre o caso dos cinco deputados eleitos presos em 2018 no RJ; caso pode se repetir com Canella",
+      "summary": "O veículo G1 publicou uma atualização sobre: relembre o caso dos cinco deputados eleitos presos em 2018 no RJ; caso pode se repetir com Canella. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/17/deputados-eleitos-que-tomaram-posse-presos.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T08:00:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8c311301bf3b578a",
+      "title": "Volkswagen Tera ganha motor mais forte e novo câmbio, mas vai ganhar dos chineses? O g1 testou",
+      "summary": "O veículo G1 publicou uma atualização sobre: volkswagen Tera ganha motor mais forte e novo câmbio, mas vai ganhar dos chineses? O g1 testou. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/17/volkswagen-tera-ganha-motor-mais-forte-e-novo-cambio-mas-vai-ganhar-dos-chineses-o-g1-testou.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T08:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cc75456c37f89467",
+      "title": "Você pagaria R$ 2.000 por um quilo de café? Grão de MG bate recorde em leilão no Japão",
+      "summary": "O veículo G1 publicou uma atualização sobre: você pagaria R$ 2.000 por um quilo de café? Grão de MG bate recorde em leilão no Japão. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/17/voce-pagaria-r-2000-por-um-quilo-de-cafe-grao-de-mg-bate-recorde-em-leilao-no-japao.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T08:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "162ff856b21cc253",
       "title": "Estado 'espelho' do Brasil, MG entra no foco das campanhas de Lula e Flávio Bolsonaro para o 2º turno",
@@ -370,20 +426,6 @@
       "archive": false
     },
     {
-      "id": "eb38999ce6d21462",
-      "title": "Datafolha: 59% defendem que ministros do STF deveriam ter mandato - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: datafolha: 59% defendem que ministros do STF deveriam ter mandato. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWwwWlgxdm1LakhPWHBXNmkxYVdxZVE5MlRHaUc0TWdQWDdKSEVQNWtxbEROZ1p5RHRmRm1HWElkM3NPQlRBcEJSSllZQVJRRHZNOUNUMTBkdTgtR254WXg1MzNyWFRJOXZQdmhiNHZjazM3bVQzNUNkV2hMOW1yOEVqQUxCdGkxclktWXdVS0Z4LUk1aXRjSEZPZHM3dWV0WVHSAbABQVVfeXFMTzl3eDJwb1lwRWhld2l6QzRhQ25EcnJwSE9LT3FILWFuREhON1otWWhCN01KTDU5ZEV5bGlUcFdWVmxyUTVJbWhwMDFRV3ZQZkwxQ2NLdUttUlh5cXlyNDRQM0pJQjlxR0lteTBkSFNaTUhEalBaUlAxcG9TdXVBWG81SFRaMFZUQmV4UjVaNnFiQWlWdGxPMFd4Tlk3clpQbTQ5ckkxUVVzTVV6UEd3bEQ?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-17T02:46:54+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "6bffed63e4acf628",
       "title": "A ministra do TSE que será rifada num governo de Flávio Bolsonaro - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: a ministra do TSE que será rifada num governo de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
@@ -426,20 +468,6 @@
       "archive": false
     },
     {
-      "id": "425afa9b10775f9a",
-      "title": "Jovem de 24 anos morre durante cirurgia plástica em hospital de Cuiabá",
-      "summary": "O veículo G1 publicou uma atualização sobre: jovem de 24 anos morre durante cirurgia plástica em hospital de Cuiabá. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/16/jovem-de-24-anos-morre-durante-cirurgia-plastica-em-hospital-de-cuiaba.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T01:50:33+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e8eadbffe9fa9582",
       "title": "Tarcísio liga para Flávio e diz que ele brilhou na entrevista à Globo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tarcísio liga para Flávio e diz que ele brilhou na entrevista à Globo. Consulte a reportagem para contexto, dados e declarações.",
@@ -464,20 +492,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d9b1c3261f6ecf0f",
-      "title": "PF pede ao ministro do STF André Mendonça mais 90 dias para seguir com investigação sobre financiamento do 'Dark Horse'",
-      "summary": "O veículo G1 publicou uma atualização sobre: pF pede ao ministro do STF André Mendonça mais 90 dias para seguir com investigação sobre financiamento do 'Dark Horse'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/16/pf-pede-ao-ministro-do-stf-andre-mendonca-mais-90-dias-para-seguir-com-investigacao-sobre-financiamento-do-dark-horse.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T01:22:43+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -530,20 +544,6 @@
       "url": "https://veja.abril.com.br/brasil/flavio-bolsonaro-diz-que-abre-mao-de-reeleicao-se-pec-nao-passar-no-congresso-nacional/",
       "source": "VEJA",
       "published_at": "2026-10-17T01:08:45+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cab27f44d8df444d",
-      "title": "Congresso aprova exame obrigatório para estudantes de Medicina exercerem a profissão",
-      "summary": "O veículo G1 publicou uma atualização sobre: congresso aprova exame obrigatório para estudantes de Medicina exercerem a profissão. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/16/congresso-aprova-exame-obrigatorio-para-estudantes-de-medicina-exercerem-a-profissao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T01:04:02+00:00",
       "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
@@ -636,6 +636,20 @@
       "archive": false
     },
     {
+      "id": "c2e7c2b579a56b2d",
+      "title": "MPF defende prisão de PM por matar estudante de medicina",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mPF defende prisão de PM por matar estudante de medicina. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpf-defende-prisao-de-pm-por-matar-estudante-de-medicina",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-16T23:00:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "11ce88d6575dd8fb",
       "title": "USP: estagnação de auxílios sociais pode gerar retração em municípios",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: uSP: estagnação de auxílios sociais pode gerar retração em municípios. Consulte a reportagem para contexto, dados e declarações.",
@@ -643,6 +657,20 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-16T22:55:00+00:00",
       "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "672cadfc1a1f65eb",
+      "title": "PF pede prorrogação de inquérito sobre financiamento do Dark Horse",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: pF pede prorrogação de inquérito sobre financiamento do Dark Horse. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/pf-pede-prorrogacao-de-inquerito-sobre-financiamento-do-dark-horse",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-16T22:49:00+00:00",
+      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1140,20 +1168,6 @@
       "archive": false
     },
     {
-      "id": "a54846dce1ed7b4e",
-      "title": "Mercado de bioinsumos fatura R$ 1,8 bilhão no 1º semestre e ganha projeção na ONU",
-      "summary": "O veículo VEJA publicou uma atualização sobre: mercado de bioinsumos fatura R$ 1,8 bilhão no 1º semestre e ganha projeção na ONU. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/mundo/mercado-de-bioinsumos-fatura-r-18-bilhao-no-1o-semestre-e-ganha-projecao-na-onu/",
-      "source": "VEJA",
-      "published_at": "2026-10-16T16:30:04+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "877d801e962cb8d9",
       "title": "Nova regra garante aposentadoria especial a agentes de saúde; entenda",
       "summary": "O veículo VEJA publicou uma atualização sobre: nova regra garante aposentadoria especial a agentes de saúde; entenda. Consulte a reportagem para contexto, dados e declarações.",
@@ -1192,20 +1206,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "86b33d1509ed5408",
-      "title": "Brasil deve voltar a ser 8ª maior economia do mundo em 2027, prevê FMI",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: brasil deve voltar a ser 8ª maior economia do mundo em 2027, prevê FMI. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/brasil-deve-voltar-ser-8a-maior-economia-do-mundo-em-2027-preve-fmi",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T15:47:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1392,6 +1392,20 @@
       "archive": false
     },
     {
+      "id": "f97ca4db9e3ea679",
+      "title": "Hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/hospital-geral-de-bonsucesso-chegou-marca-de-450-leitos-para-o-sus",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-15T22:25:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "dfe307e631ffd239",
       "title": "MEC libera novas formações online para professores",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: mEC libera novas formações online para professores. Consulte a reportagem para contexto, dados e declarações.",
@@ -1493,11 +1507,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 16
+      "items": 14
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 83
+      "items": 84
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1525,7 +1539,7 @@
     },
     "Agência Brasil · Educação": {
       "status": "ok",
-      "items": 8
+      "items": 7
     },
     "Agência Brasil · Saúde": {
       "status": "ok",
@@ -1549,7 +1563,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 65
+      "items": 64
     },
     "Estadão": {
       "status": "ok",
@@ -1561,7 +1575,7 @@
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 52
+      "items": 53
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1569,11 +1583,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 60
+      "items": 58
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 49
+      "items": 48
     }
   },
   "notes": [
