@@ -1,14 +1,182 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T22:37:09.142941+00:00",
-  "last_success_at": "2026-10-17T22:37:09.142941+00:00",
+  "last_checked_at": "2026-10-17T23:33:03.621440+00:00",
+  "last_success_at": "2026-10-17T23:33:03.621440+00:00",
   "coverage_window_hours": 84,
   "items": [
     {
+      "id": "fb4fb0648e0d310c",
+      "title": "'Lula não é o primeiro nem será o último a aprovar medidas às vésperas de eleições', diz leitor",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Lula não é o primeiro nem será o último a aprovar medidas às vésperas de eleições', diz leitor. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/lula-nao-e-o-primeiro-nem-sera-o-ultimo-a-aprovar-medidas-as-vesperas-de-eleicoes-diz-leitor.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T23:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "edff1a290d7f2502",
+      "title": "Concurso da prefeitura de Itapororoca, PB, tem edital lançado com 175 vagas e salários de até R$ 10 mil",
+      "summary": "O veículo G1 publicou uma atualização sobre: concurso da prefeitura de Itapororoca, PB, tem edital lançado com 175 vagas e salários de até R$ 10 mil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/17/concurso-da-prefeitura-de-itapororoca-pb-tem-edital-lancado-com-175-vagas-e-salarios-de-ate-r-10-mil.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T23:22:48+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "023236fe2264c5ec",
+      "title": "Comerciante morto em assalto em Guarabira, na PB, teve mais de R$ 200 mil roubados",
+      "summary": "O veículo G1 publicou uma atualização sobre: comerciante morto em assalto em Guarabira, na PB, teve mais de R$ 200 mil roubados. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/17/comerciante-morto-em-assalto-em-guarabira-na-pb-teve-mais-de-r-200-mil-roubados.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T23:05:27+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2a35c1411703e238",
+      "title": "Eleições 2026: RJ tem apenas um local de votação alterado para o segundo turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: RJ tem apenas um local de votação alterado para o segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/17/eleicoes-2026-rj-local-de-votacao-alterado-segundo-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T23:04:08+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ac00354ea15057bb",
+      "title": "Ministro do TSE nega pedido para impedir atos de artistas apoiadores de Lula",
+      "summary": "O veículo VEJA publicou uma atualização sobre: ministro do TSE nega pedido para impedir atos de artistas apoiadores de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/ministro-do-tse-nega-pedido-para-impedir-atos-de-artistas-apoiadores-de-lula/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T23:00:06+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bc6be557f78f03e2",
+      "title": "Polícia afasta três delegados, investigador e carcereiro após suspeitas de regalias a Milton Leite",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia afasta três delegados, investigador e carcereiro após suspeitas de regalias a Milton Leite. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-afasta-tres-delegados-investigador-e-carcereiro-apos-suspeitas-de-regalias-a-milton-leite.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T22:57:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c824cfaa8ced05a3",
+      "title": "Posto citado em investigação que levou à prisão de Canella recebeu mais de R$ 37 milhões da Prefeitura de Belford Roxo",
+      "summary": "O veículo G1 publicou uma atualização sobre: posto citado em investigação que levou à prisão de Canella recebeu mais de R$ 37 milhões da Prefeitura de Belford Roxo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/17/posto-investigacao-canella-prefeitura-de-belford-roxo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T22:51:57+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f9ea99f083cf7d95",
+      "title": "Trump rifa a Ucrânia",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: trump rifa a Ucrânia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/claudio-hebdo/2026/10/trump-rifa-a-ucrania.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T22:50:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "43e82e19f91e42de",
+      "title": "Manifestantes fazem ato pró-Lula em BH",
+      "summary": "O veículo G1 publicou uma atualização sobre: manifestantes fazem ato pró-Lula em BH. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/17/manifestantes-fazem-ato-pro-lula-em-bh.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T22:44:10+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9159140e16f333a0",
+      "title": "Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos",
+      "summary": "O veículo G1 publicou uma atualização sobre: depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T22:42:12+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f639bd9c73fd75b7",
+      "title": "Governo amplia frota aérea e mobiliza militares contra incêndios no Amazonas",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo amplia frota aérea e mobiliza militares contra incêndios no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/governo-amplia-frota-aerea-e-mobiliza-militares-contra-incendios-no-amazonas.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T22:39:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "344d142c45274ba1",
+      "title": "MP-SP pede arquivamento de inquérito contra inspetor acusado de estuprar alunos em escola",
+      "summary": "O veículo G1 publicou uma atualização sobre: mP-SP pede arquivamento de inquérito contra inspetor acusado de estuprar alunos em escola. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/17/mp-sp-pede-arquivamento-de-inquerito-contra-inspetor-acusado-de-estuprar-alunos-em-escola.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T22:32:49+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "b4cf80ecd6779215",
-      "title": "Polícia prende quatro homens suspeitos de cometer homicídio em Independência, no Ceará",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia prende quatro homens suspeitos de cometer homicídio em Independência, no Ceará. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Polícia prende quatro homens suspeitos de matar homem que estava sentado em calçada no interior do Ceará",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia prende quatro homens suspeitos de matar homem que estava sentado em calçada no interior do Ceará. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/17/policia-prende-quatro-homens-suspeitos-de-cometer-homicidio-em-independencia-no-ceara.ghtml",
       "source": "G1",
       "published_at": "2026-10-17T22:25:22+00:00",
@@ -146,20 +314,6 @@
       "archive": false
     },
     {
-      "id": "1bed5bf23438bd26",
-      "title": "Princípio de incêndio atinge restaurante em centro comercial de Tupã",
-      "summary": "O veículo G1 publicou uma atualização sobre: princípio de incêndio atinge restaurante em centro comercial de Tupã. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/17/principio-de-incendio-atinge-restaurante-em-centro-comercial-de-tupa.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T21:41:26+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "7339cd03f91e4d2a",
       "title": "Três suspeitos morrem em confronto com a polícia e 237 kg de drogas são apreendidos em MT",
       "summary": "O veículo G1 publicou uma atualização sobre: três suspeitos morrem em confronto com a polícia e 237 kg de drogas são apreendidos em MT. Consulte a reportagem para contexto, dados e declarações.",
@@ -188,20 +342,6 @@
       "archive": false
     },
     {
-      "id": "b05b7689cdebe234",
-      "title": "Padre Kelmon pede Pix para fazer campanha por Flávio Bolsonaro - ncnews.com.br",
-      "summary": "O veículo ncnews.com.br publicou uma atualização sobre: padre Kelmon pede Pix para fazer campanha por Flávio Bolsonaro - ncnews.com.br. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KZENUaXJibzl4alpJRnJJMnk0WjFlWmxNNnZoUE9hN3dJbkVEbEJZRy1mcXpiVXNDa0ZTcllfY0pFRHJMLTVHSThTcGNZR3JFOUlvWXZ4XzVhX1ZXQXpqeVJVWVVYRXUtU2RkZUN0MVNvNXI0U1h6T2xBVEVnYWs?oc=5",
-      "source": "ncnews.com.br",
-      "published_at": "2026-10-17T21:18:57+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "dedf72bed46117b7",
       "title": "Polícia encontra dois corpos carbonizados em área de mata em Ipojuca",
       "summary": "O veículo G1 publicou uma atualização sobre: polícia encontra dois corpos carbonizados em área de mata em Ipojuca. Consulte a reportagem para contexto, dados e declarações.",
@@ -209,20 +349,6 @@
       "source": "G1",
       "published_at": "2026-10-17T21:14:04+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "eef7576e78e30dcb",
-      "title": "Nove anos depois, policial militar vai à júri acusado de mandar matar homem para esconder relacionamento em RO",
-      "summary": "O veículo G1 publicou uma atualização sobre: nove anos depois, policial militar vai à júri acusado de mandar matar homem para esconder relacionamento em RO. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/17/caso-ismael-graunkel-em-rondonia.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T21:05:17+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -286,34 +412,6 @@
       "archive": false
     },
     {
-      "id": "a8686eb544bc03ca",
-      "title": "Atos de rua por Lula misturam fã-clubes, nativos digitais e mobilização fora de partidos",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: atos de rua por Lula misturam fã-clubes, nativos digitais e mobilização fora de partidos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/atos-de-rua-por-lula-misturam-fa-clubes-nativos-digitais-e-mobilizacao-fora-de-partidos.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T20:57:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "03fbc15dfc68ab6b",
-      "title": "Deputada Vanda Monteiro passa por cirurgia de emergência em Palmas",
-      "summary": "O veículo G1 publicou uma atualização sobre: deputada Vanda Monteiro passa por cirurgia de emergência em Palmas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/17/deputada-vanda-monteiro-passa-por-cirurgia-de-emergencia-em-palmas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T20:50:23+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b7bf55b33613d63f",
       "title": "Estudantes denunciam deputado e ex-candidata por rasgarem panfletos na UFRR: 'Insegurança'",
       "summary": "O veículo G1 publicou uma atualização sobre: estudantes denunciam deputado e ex-candidata por rasgarem panfletos na UFRR: 'Insegurança'. Consulte a reportagem para contexto, dados e declarações.",
@@ -328,16 +426,16 @@
       "archive": false
     },
     {
-      "id": "c63c310000d25bdc",
-      "title": "Justiça manda Meta restabelecer contas de movimentos estudantis do RS bloqueadas no Instagram",
-      "summary": "O veículo G1 publicou uma atualização sobre: justiça manda Meta restabelecer contas de movimentos estudantis do RS bloqueadas no Instagram. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/17/justica-contas-entidades-estudantis-meta-instagram.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T20:39:19+00:00",
-      "category": "Política",
+      "id": "d22b92d639320b46",
+      "title": "Ex-jogador da seleção ucraniana é encontrado morto na linha de frente da guerra com a Rússia - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: ex-jogador da seleção ucraniana é encontrado morto na linha de frente da guerra com a Rússia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc0VDNktHT2xyZDBrRGRxRmNHcnVpYkJKdGdoVHc4R2tvd29GYTRtdE5YWExsLVVuOTBvM0lLMGdTVkxBVGNUdTZvUk9td0l5dVBLNkJIN2ZESmdPRThyeDdmTDI0cXhPSXNfUEpmcFZ6cGthYUlMeTZFbWlwRXlDY2M3OFA2Vld4blRBTllhaVduMFJGM0N4UU9EWTVLdmQ1Tmh5SmRkMXU4aHlHUGdRN1FCRTd1QVY3Q19aeG5qWUJhbVkxOERyS2F2QnFNclJ0bUR4b1dSRzBhbkxBdVJVV0Vn0gHwAUFVX3lxTE5ULXVtakpYTjl3cXJNQlVTOHZtZk83RG1hQm84dEJQdWUzNXMzN2RnaEVfNXctdWV2T1h3bWVOQjNqSVUweld4TFdmODFvV0JsdTgzcEliZ2JMSC0wVGpGbUp5emxObXlKM3lRZHREQUppWFV5M2RKQ1pqUGxEdHJVLWg0ajYyUVcwTDhBWXkxYzZtc24xM0J0dF93b3pLZlNPNmZlcHRyaTRwLWxabEVqaWFiSm1zUmFtb2FXSGdPN1EweG1URmJlMVFxRFBBMXVzc2hoZ3ZudFlTRDBsek02NEpuYzlOSnlJSVI4ajhJeA?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T20:40:49+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -412,20 +510,6 @@
       "archive": false
     },
     {
-      "id": "74e8baf4b69f61d6",
-      "title": "'Quem provocar incêndios criminosos precisa responder com rigor da lei', diz governador após aumento de focos no Amazonas",
-      "summary": "O veículo G1 publicou uma atualização sobre: 'Quem provocar incêndios criminosos precisa responder com rigor da lei', diz governador após aumento de focos no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/quem-provocar-incendios-criminosos-precisa-responder-com-rigor-da-lei-diz-governador-apos-aumento-de-focos-no-amazonas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T20:24:10+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9921ad5b87f67710",
       "title": "Campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno",
       "summary": "O veículo VEJA publicou uma atualização sobre: campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno. Consulte a reportagem para contexto, dados e declarações.",
@@ -461,34 +545,6 @@
       "source": "G1",
       "published_at": "2026-10-17T19:58:49+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a466205d0dabf581",
-      "title": "Após 2,6 mil casos de virose, Saúde identifica alterações na qualidade da água em Itapeva",
-      "summary": "O veículo G1 publicou uma atualização sobre: após 2,6 mil casos de virose, Saúde identifica alterações na qualidade da água em Itapeva. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/17/apos-26-mil-casos-de-virose-saude-identifica-alteracoes-na-qualidade-da-agua-em-itapeva.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T19:54:12+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "853dd49eafa7be1a",
-      "title": "Polícia procura suspeito de roubo de carro com apoio do Águia em Mogi das Cruzes",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia procura suspeito de roubo de carro com apoio do Águia em Mogi das Cruzes. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/17/policia-procura-suspeito-de-roubo-de-carro-com-apoio-do-aguia-em-mogi-das-cruzes.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T19:53:04+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -692,20 +748,6 @@
       "archive": false
     },
     {
-      "id": "038b73ddf527a5d0",
-      "title": "O conselho que Toffoli recebeu para isolar ministros no cabo de guerra dentro do TSE",
-      "summary": "O veículo VEJA publicou uma atualização sobre: o conselho que Toffoli recebeu para isolar ministros no cabo de guerra dentro do TSE. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/o-conselho-que-toffoli-recebeu-para-isolar-ministros-no-cabo-de-guerra-dentro-do-tse/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T16:46:30+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ad076eb428e1dd36",
       "title": "Flávio Bolsonaro chama pai de 'professor' em ato com Tarcísio no Espírito Santo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro chama pai de 'professor' em ato com Tarcísio no Espírito Santo. Consulte a reportagem para contexto, dados e declarações.",
@@ -716,34 +758,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "911c5ae0fdfee832",
-      "title": "Reitor da PUCPR morre nos EUA atingido por pedaço de telhado arrancado pelo vento",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: reitor da PUCPR morre nos EUA atingido por pedaço de telhado arrancado pelo vento. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/reitor-da-pucpr-morre-nos-eua-atingido-por-pedaco-de-telhado-arrancado-pelo-vento.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T16:18:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9d28e987bc134d1c",
-      "title": "Novo pede para TSE barrar atos musicais em apoio a Lula - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: novo pede para TSE barrar atos musicais em apoio a Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWUtGc2JIc2JSa0UtSENLd05pc1EtTXlTa0labm80UmpDd0FHbG5fSTI5NzVaRi1MYjBWUjVsM2N2MF83TGdyU1BLbEc4Si1mZEpwN0RuckItV1BtV2RUWm5QQnlqODlqTFFYbkhHM0J1bWN0dmZrMndXV1lKUGFOclVJQU1LRHRMU0N6S2Vjd1R6SUlK?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-17T16:15:33+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -814,20 +828,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5981b47cedfa1d1c",
-      "title": "Rússia acelera ofensiva na Ucrânia; Trump suspende sanções",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: rússia acelera ofensiva na Ucrânia; Trump suspende sanções. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/russia-acelera-ofensiva-na-ucrania-trump-suspende-sancoes.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T13:40:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -923,20 +923,6 @@
       "source": "Estadão",
       "published_at": "2026-10-17T07:16:00+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "df3ccb84bdec7f7a",
-      "title": "O recado dos ministros do STF para campanha de Flávio Bolsonaro sobre impeachment de Moraes - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: o recado dos ministros do STF para campanha de Flávio Bolsonaro sobre impeachment de Moraes. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMFZsd3FRT1dMcjVDY0dheGZNaWNxMk1Yb0JCYW1uakRLOEQ5NWVIby11NmNTT1JfRzI2VFFtYnBjakJ5aFBudURlWkVGU29HSmJJN29aOUM1anFhLVBkMkpLYUZVOFVJM0FlRUo3S0s1ZnlVSllieko5ZVR3Wi1VZFNXWmNGQVNFVWMyWDNVS3lGc2VScmRURjEzTlhkaWpXa3hINWhYT0wyeXlvS2tKNVBLb0ZPYUtpb0tSeXJSNTRuN2tLOGtjSUdkdkJ3M1dnNWxQUGFDVmFlSUs5dWpTZ2tKX3VFazh00gH3AUFVX3lxTFBFTnlxOEQ1dnA4T01sSG5KOGVZWWprd1ZCZVg1Rk5USXdKQUhrblFJQmVRSEFmNG5weUxpY0F0WFJBTk1UX1lmbXZTa1I5Q2UxTVMxT3hoOFk0eXlIc1k4MUpuVWZUQkpNcDBnTkNVVG1KWklkSXRRNExSSlFrajVod01idE5xTkFpbnJQZ0JTMU04ZlAyQ1J6ajcxMThZVzU3cjBKTjFoMjYzUldUaXo5anVVQ2xac3FaS0RRVkd0ekpxckVsT2JnUDlOYm5nRktXc3M3QkI1aUE4ek9tWTB3aGVuR1hGZUNBTDJyVWFUZTE5anVOOUU?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-17T07:00:01+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1077,20 +1063,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-16T21:36:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cbaf0350bdb6f688",
-      "title": "Derrite desponta como favorito para Segurança Pública em eventual governo Flávio Bolsonaro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: derrite desponta como favorito para Segurança Pública em eventual governo Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/derrite-desponta-como-favorito-para-seguranca-publica-em-eventual-governo-flavio-bolsonaro.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T21:36:00+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1546,6 +1518,20 @@
       "archive": false
     },
     {
+      "id": "f97ca4db9e3ea679",
+      "title": "Hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/hospital-geral-de-bonsucesso-chegou-marca-de-450-leitos-para-o-sus",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-15T22:25:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "5edbf96a139fabf6",
       "title": "Pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -1577,7 +1563,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 27
+      "items": 29
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1585,11 +1571,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 44
+      "items": 45
     },
     "VEJA": {
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     "The New York Times": {
       "status": "ok",
@@ -1633,7 +1619,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 70
+      "items": 68
     },
     "Estadão": {
       "status": "ok",
@@ -1641,7 +1627,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 45
+      "items": 44
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1653,7 +1639,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 53
+      "items": 54
     },
     "Eleições · Flávio": {
       "status": "ok",
