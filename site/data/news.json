@@ -1,115 +1,17 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T15:39:12.657541+00:00",
-  "last_success_at": "2026-10-17T15:39:12.657541+00:00",
+  "last_checked_at": "2026-10-17T16:40:29.728336+00:00",
+  "last_success_at": "2026-10-17T16:40:29.728336+00:00",
   "coverage_window_hours": 84,
   "items": [
     {
-      "id": "06ad174a3f196775",
-      "title": "Corinthians e Caixa assinam termo de confidencialidade para negociar dívida de estádio",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: corinthians e Caixa assinam termo de confidencialidade para negociar dívida de estádio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/10/corinthians-e-caixa-assinam-termo-de-confidencialidade-para-negociar-divida-de-estadio.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T15:34:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fc15eb1c503d502d",
-      "title": "Lula defende crescimento para ajuste fiscal e Flávio fala em corte de gastos; veja o que disseram nas sabatinas",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula defende crescimento para ajuste fiscal e Flávio fala em corte de gastos; veja o que disseram nas sabatinas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-defende-crescimento-para-ajuste-fiscal-e-flavio-fala-em-corte-de-gastos-veja-o-que-disseram-nas-sabatinas.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T15:28:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "199e58db0053e539",
-      "title": "Governo Lula sugere ao MPF ação contra a Meta por falta de transparência na moderação de conteúdo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo Lula sugere ao MPF ação contra a Meta por falta de transparência na moderação de conteúdo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/governo-lula-sugere-ao-mpf-acao-contra-a-meta-por-falta-de-transparencia-na-moderacao-de-conteudo.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T15:06:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f0fd076ffbac0c3e",
-      "title": "Justiça proíbe mãe de se aproximar da filha de 12 anos após ameaças e agressão no RN",
-      "summary": "O veículo G1 publicou uma atualização sobre: justiça proíbe mãe de se aproximar da filha de 12 anos após ameaças e agressão no RN. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/17/justica-proibe-mae-de-se-aproximar-da-filha-de-12-anos-apos-ameacas-e-agressao-no-rn.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T15:05:35+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9368968c2dff7185",
-      "title": "Provas para ingresso em escolas militares de MT ocorrem neste domingo (18)",
-      "summary": "O veículo G1 publicou uma atualização sobre: provas para ingresso em escolas militares de MT ocorrem neste domingo (18). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/17/provas-para-ingresso-em-escolas-militares-de-mt-ocorrem-neste-domingo-18.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T15:02:19+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "db40624eefc67ac4",
-      "title": "Dois homens morrem e três policiais ficam feridos em tiroteio em BH",
-      "summary": "O veículo G1 publicou uma atualização sobre: dois homens morrem e três policiais ficam feridos em tiroteio em BH. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/17/dois-homens-morrem-e-tres-policiais-ficam-feridos-em-tiroteio-em-bh.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T15:01:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "40c5e2e6fbf9a100",
-      "title": "Uruguai teme isolamento com mudança política no Brasil",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: uruguai teme isolamento com mudança política no Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/10/uruguai-teme-isolamento-com-mudanca-politica-no-brasil.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T15:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b535888aed9ff03e",
-      "title": "Esperança ou medo: qual sentimento domina a disputa entre Flávio e Lula, segundo nova pesquisa Ipespe",
-      "summary": "O veículo VEJA publicou uma atualização sobre: esperança ou medo: qual sentimento domina a disputa entre Flávio e Lula, segundo nova pesquisa Ipespe. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/esperanca-ou-medo-qual-sentimento-domina-a-disputa-entre-flavio-e-lula-segundo-nova-pesquisa-ipespe/",
+      "id": "f34369749acb37ec",
+      "title": "Flávio Bolsonaro realiza ato no ES com milhares de apoiadores ao lado de Nikolas e Tarcísio",
+      "summary": "O veículo VEJA publicou uma atualização sobre: flávio Bolsonaro realiza ato no ES com milhares de apoiadores ao lado de Nikolas e Tarcísio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/flavio-bolsonaro-realiza-ato-no-es-com-milhares-de-apoiadores-ao-lado-de-nikolas-e-tarcisio/",
       "source": "VEJA",
-      "published_at": "2026-10-17T14:59:36+00:00",
+      "published_at": "2026-10-17T16:25:30+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -118,12 +20,222 @@
       "archive": false
     },
     {
-      "id": "007f08f036f14324",
-      "title": "As mentiras da Globo sobre os áudios de Vorcaro denunciando Lula",
-      "summary": "O veículo VEJA publicou uma atualização sobre: as mentiras da Globo sobre os áudios de Vorcaro denunciando Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/as-mentiras-da-globo-sobre-os-audios-de-vorcaro-denunciando-lula/",
+      "id": "d583f23e0021ef78",
+      "title": "O que se sabe sobre a prisão de médico e estudante suspeitos de atirar contra casa e clínica de professora no TO",
+      "summary": "O veículo G1 publicou uma atualização sobre: o que se sabe sobre a prisão de médico e estudante suspeitos de atirar contra casa e clínica de professora no TO. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/17/o-que-se-sabe-sobre-a-prisao-de-medico-e-estudante-suspeitos-de-atirar-contra-casa-e-clinica-de-professora-no-to.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T16:24:48+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "86ce212e9d0169c4",
+      "title": "Epidemiologista da Fiocruz recomenda evitar sair de casa devido à fumaça em Manaus e alerta para suspensão de atividades",
+      "summary": "O veículo G1 publicou uma atualização sobre: epidemiologista da Fiocruz recomenda evitar sair de casa devido à fumaça em Manaus e alerta para suspensão de atividades. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/epidemiologista-da-fiocruz-recomenda-evitar-sair-de-casa-devido-a-fumaca-em-manaus-e-alerta-para-suspensao-de-atividades.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T16:20:40+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "911c5ae0fdfee832",
+      "title": "Reitor da PUCPR morre nos EUA atingido por pedaço de telhado arrancado pelo vento",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: reitor da PUCPR morre nos EUA atingido por pedaço de telhado arrancado pelo vento. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/reitor-da-pucpr-morre-nos-eua-atingido-por-pedaco-de-telhado-arrancado-pelo-vento.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T16:18:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "39df0cb251cf30f7",
+      "title": "Novo pede para TSE barrar atos musicais em apoio a Lula",
+      "summary": "O veículo VEJA publicou uma atualização sobre: novo pede para TSE barrar atos musicais em apoio a Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/novo-pede-para-tse-barrar-atos-musiciais-em-apoio-a-lula/",
       "source": "VEJA",
-      "published_at": "2026-10-17T14:56:12+00:00",
+      "published_at": "2026-10-17T16:15:33+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6b271a8ae8a2b886",
+      "title": "Vigilante é rendido por dupla, tem arma roubada e unidade de saúde suspende atendimento em Palmas",
+      "summary": "O veículo G1 publicou uma atualização sobre: vigilante é rendido por dupla, tem arma roubada e unidade de saúde suspende atendimento em Palmas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/17/vigilante-e-rendido-por-dupla-tem-arma-roubada-e-unidade-de-saude-suspende-atendimento-em-palmas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T16:10:46+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9322d8f4a15712d9",
+      "title": "Plano de Flávio para levantar R$ 200 bilhões retoma apostas frustradas de Meirelles e Guedes",
+      "summary": "O veículo VEJA publicou uma atualização sobre: plano de Flávio para levantar R$ 200 bilhões retoma apostas frustradas de Meirelles e Guedes. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/economia/plano-de-flavio-para-levantar-r-200-bilhoes-retoma-apostas-frustradas-de-meirelles-e-guedes/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T16:00:56+00:00",
+      "category": "Eleições",
+      "candidate": "flavio",
+      "election_type": "Proposta",
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "db39576a4e6e089c",
+      "title": "Lei Rouanet para patrimônio cultural bate recorde e chega a empreendimentos imobiliários em SP",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lei Rouanet para patrimônio cultural bate recorde e chega a empreendimentos imobiliários em SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/lei-rouanet-para-patrimonio-cultural-bate-recorde-e-chega-a-empreendimentos-imobiliarios-em-sp.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T16:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5004b67c18b0b7a8",
+      "title": "Nossa ansiedade com as eleições está no nível Zé de Abreu",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: nossa ansiedade com as eleições está no nível Zé de Abreu. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/thiagostivaletti/2026/10/nossa-ansiedade-com-as-eleicoes-esta-no-nivel-ze-de-abreu.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T16:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "36ea193519f38f9a",
+      "title": "Datafolha: eleitores de Flávio dizem votar por mudança, e os de Lula, por proteção social",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: datafolha: eleitores de Flávio dizem votar por mudança, e os de Lula, por proteção social. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-eleitores-de-flavio-dizem-votar-por-mudanca-e-os-de-lula-por-protecao-social.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T15:58:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "19a87b7c23d5aeda",
+      "title": "Municípios com maior abstenção são em estados onde Lula perdeu para Flávio no 1º turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: municípios com maior abstenção são em estados onde Lula perdeu para Flávio no 1º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/municipios-com-maior-abstencao-sao-em-estados-onde-lula-perdeu-para-flavio-no-1o-turno/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T15:55:17+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "93ebde9f2b7427c5",
+      "title": "Como a Globo criou a maior fake news da campanha presidencial",
+      "summary": "O veículo VEJA publicou uma atualização sobre: como a Globo criou a maior fake news da campanha presidencial. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/como-a-globo-criou-a-maior-fake-news-da-campanha-presidencial/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T15:49:12+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "58847a7bccacc4ef",
+      "title": "Justiça federal manda Meta restabelecer contas bloqueadas de entidades estudantis no RS",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: justiça federal manda Meta restabelecer contas bloqueadas de entidades estudantis no RS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/justica-federal-manda-meta-restabelecer-contas-bloqueadas-de-entidades-estudantis-no-rs.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T15:49:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cd19ab665ce79593",
+      "title": "‘Votar em Flávio pode ser pecado’: a narrativa do PT para eleitores evangélicos",
+      "summary": "O veículo VEJA publicou uma atualização sobre: ‘Votar em Flávio pode ser pecado’: a narrativa do PT para eleitores evangélicos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/votar-em-flavio-pode-ser-pecado-a-narrativa-do-pt-para-eleitores-evangelicos/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T15:46:11+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3e354af7dae7f966",
+      "title": "Vigilante é encontrado morto com sinais de violência em cemitério de Uberlândia",
+      "summary": "O veículo G1 publicou uma atualização sobre: vigilante é encontrado morto com sinais de violência em cemitério de Uberlândia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/17/vigilante-e-encontrado-morto-com-sinais-de-violencia-em-cemiterio-de-uberlandia.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T15:46:04+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9bfb8276f7270a7f",
+      "title": "Ações de Flávio Bolsonaro mostram que a disputa com Lula se acirrou de vez",
+      "summary": "O veículo VEJA publicou uma atualização sobre: ações de Flávio Bolsonaro mostram que a disputa com Lula se acirrou de vez. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/acoes-de-flavio-bolsonaro-mostram-que-a-disputa-com-lula-se-acirrou-de-vez/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T15:45:52+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "60bb20b688a09847",
+      "title": "Manifestantes fazem ato de apoio à reeleição de Lula em Campinas",
+      "summary": "O veículo G1 publicou uma atualização sobre: manifestantes fazem ato de apoio à reeleição de Lula em Campinas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/17/manifestantes-fazem-ato-de-apoio-a-reeleicao-de-lula-em-campinas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T15:44:36+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -146,52 +258,10 @@
       "archive": false
     },
     {
-      "id": "c84a73e8f692c41e",
-      "title": "Cães e gatos recebem vacinação emergencial após caso de raiva em morcego em Belém",
-      "summary": "O veículo G1 publicou uma atualização sobre: cães e gatos recebem vacinação emergencial após caso de raiva em morcego em Belém. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/10/17/apos-caso-de-raiva-em-morcego-no-jurunas-caes-e-gatos-recebem-vacinacao-emergencial-em-belem.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T14:52:54+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "65a6a966d98feea9",
-      "title": "PM cerca casa e captura foragido da Justiça em Barra do Piraí",
-      "summary": "O veículo G1 publicou uma atualização sobre: pM cerca casa e captura foragido da Justiça em Barra do Piraí. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/17/pm-cerca-imovel-e-captura-foragido-da-justica-em-barra-do-pirai.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T14:51:30+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "672c45ee46ceb244",
-      "title": "A boa notícia para Lula a oito dias do segundo turno na nova pesquisa Ipespe",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a boa notícia para Lula a oito dias do segundo turno na nova pesquisa Ipespe. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/a-boa-noticia-para-lula-a-oito-dias-do-segundo-turno-na-nova-pesquisa-ipespe/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T14:48:41+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1b2dc686ef0d6c37",
+      "id": "5614a5a8553fffa2",
       "title": "Companhias aéreas preveem anos difíceis com alta de custos e temor de inflação",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: companhias aéreas preveem anos difíceis com alta de custos e temor de inflação. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/companhias-aereas-preveem-anos-dificeis-com-alta-de-custos-e-temor-de-inflacao.shtml",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/companhias-aereas-preveem-anos-dificeis-com-alta-de-custos-e-temor-de-inflacao.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-17T14:45:00+00:00",
       "category": "Economia",
@@ -380,20 +450,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7cd6727bc9bfb5df",
-      "title": "Se eleito, Flávio quer fim da reeleição já para seu mandato; entenda - Poder360",
-      "summary": "O veículo Poder360 publicou uma atualização sobre: se eleito, Flávio quer fim da reeleição já para seu mandato; entenda - Poder360. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3lma3l3YnlfRDZjZ1dlMmhBVGhpb1JPSmRyNlVDNTlIWkJtdkdYdFlfTmdhLUNXTzAweVBqeGNtdDlteWJJTVJQSnJYWkg0RXFLbk9iR2N3ZHBYYzNuM0x5VHRIWjJlYUZWVFMtTVZJV1hFbnFIYzg5X2d2YlB0WFlWM1Y5a1ZrTHNwOWl4cllFczFwVzQ0aEhhUGhEQk80RmFnVGNzcjJIanpRQ1JYeWtUUFBPZw?oc=5",
-      "source": "Poder360",
-      "published_at": "2026-10-17T11:51:51+00:00",
-      "category": "Eleições",
-      "candidate": "flavio",
-      "election_type": "Proposta",
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -874,20 +930,6 @@
       "archive": false
     },
     {
-      "id": "c2e7c2b579a56b2d",
-      "title": "MPF defende prisão de PM por matar estudante de medicina",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mPF defende prisão de PM por matar estudante de medicina. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpf-defende-prisao-de-pm-por-matar-estudante-de-medicina",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T23:00:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "11ce88d6575dd8fb",
       "title": "USP: estagnação de auxílios sociais pode gerar retração em municípios",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: uSP: estagnação de auxílios sociais pode gerar retração em municípios. Consulte a reportagem para contexto, dados e declarações.",
@@ -996,20 +1038,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "377169eca126bd33",
-      "title": "Votação na ONU para novo secretário-geral tem impasse com vetos generalizados",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: votação na ONU para novo secretário-geral tem impasse com vetos generalizados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/votacao-na-onu-para-novo-secretario-geral-tem-impasse-com-vetos-generalizados.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T21:11:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1392,20 +1420,6 @@
       "archive": false
     },
     {
-      "id": "3dad7c2b7212a29c",
-      "title": "Áudio: Mulheres vítimas de violência poderão ter prioridade na reforma agrária",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Mulheres vítimas de violência poderão ter prioridade na reforma agrária. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/mulheres-vitimas-de-violencia-poderao-ter-prioridade-na-reforma-agraria",
-      "source": "Senado Federal",
-      "published_at": "2026-10-16T14:50:39+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f84e432c0ae3bcce",
       "title": "O que se sabe sobre o tiroteio em escola de Oregon, nos Estados Unidos",
       "summary": "O veículo VEJA publicou uma atualização sobre: o que se sabe sobre o tiroteio em escola de Oregon, nos Estados Unidos. Consulte a reportagem para contexto, dados e declarações.",
@@ -1490,20 +1504,6 @@
       "archive": false
     },
     {
-      "id": "4163c3be1eb5dd15",
-      "title": "Carreta que transportava ácido orgânico tomba e interdita Arco Metropolitano; motorista é levado para hospital - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: carreta que transportava ácido orgânico tomba e interdita Arco Metropolitano; motorista é levado para hospital. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWWxVTmx5R3ZmYnJsc2dmNXFzVzUwTmFFb3pSbnEtMkM4S2NqdlN4b201VlllWlNPNHZfZmIxUjYyWUZ4REltN282eGNVSVYtYU92Yy1pU3RtM0FZemgtNTl1SWxfcV94bWFvWWFIUWxZZnN4UWdGYTgyMXZPQUVaSDdaZVhKNzNzMXE2eXlocnZzV3VnLW9hVWFkdVhPLV9GYm5HZTE5X25PLVlPT3BVTXEwUnFMaG05MWFXZEgxTGNRVkN2VWx0Mm40ONIB2gFBVV95cUxOVlZPSXVXdjY3eUpTS2xQYWlIWDVPSTZqWllXcTNDRElOWXBFNXd6Nng3VEJEYzcwREVKVDI0V09yWFRqdEl0QlQzMlVzTEJoaXNzT2JvRmVubUJMUGhZZ21weTJ2bHdwWldPQWk2c25KaV9DV1lSS2RVQThSMGJnTWw5enZ4YjNpYkthTzE3M0xyVlVoRU5HdDBnZ2c1b3pTbS1YOFA5WGdYVjdiTDh6czFJMVExOXFIUlNHT1dmTGVvak0tb290UW1GcXNIUUtobFZHNEp1UDVDQQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-16T11:01:19+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "988817321ffedb5c",
       "title": "Professor ensina sorvete caseiro no liquidificador e sem sorveteira - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: professor ensina sorvete caseiro no liquidificador e sem sorveteira. Consulte a reportagem para contexto, dados e declarações.",
@@ -1549,7 +1549,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 25
+      "items": 27
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1557,11 +1557,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 48
+      "items": 50
     },
     "VEJA": {
       "status": "ok",
-      "items": 7
+      "items": 11
     },
     "The New York Times": {
       "status": "ok",
@@ -1569,7 +1569,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 3
+      "items": 2
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1605,23 +1605,23 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 68
+      "items": 67
     },
     "Estadão": {
       "status": "ok",
-      "items": 34
+      "items": 32
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 38
+      "items": 41
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 52
+      "items": 51
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 38
+      "items": 39
     },
     "Eleições · Lula": {
       "status": "ok",
@@ -1629,7 +1629,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 40
+      "items": 39
     }
   },
   "notes": [
