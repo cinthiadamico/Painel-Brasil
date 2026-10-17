@@ -1,10 +1,52 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T04:42:13.340125+00:00",
-  "last_success_at": "2026-10-17T04:42:13.340125+00:00",
+  "last_checked_at": "2026-10-17T05:40:23.924978+00:00",
+  "last_success_at": "2026-10-17T05:40:23.924978+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "e37b3ef013cac594",
+      "title": "Mercado de panificação cresce no RJ, mas setor enfrenta dificuldade na busca por profissionais qualificados",
+      "summary": "O veículo G1 publicou uma atualização sobre: mercado de panificação cresce no RJ, mas setor enfrenta dificuldade na busca por profissionais qualificados. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/17/mercado-de-panificacao-cresce-no-rj-mas-setor-enfrenta-dificuldade-na-busca-por-profissionais-qualificados.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T05:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7ef60de983c4467d",
+      "title": "Professores de escola rural no DF denunciam perseguição e assédio moral de diretora; veja relatos",
+      "summary": "O veículo G1 publicou uma atualização sobre: professores de escola rural no DF denunciam perseguição e assédio moral de diretora; veja relatos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/professores-de-escola-rural-no-df-denunciam-perseguicao-e-assedio-moral-de-diretora-veja-relatos.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T05:00:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7aa0b8880435f9c7",
+      "title": "Medidas tributárias da atual gestão promoveram justiça fiscal e fecharam brechas, diz tributarista Roberto Quiroga",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: medidas tributárias da atual gestão promoveram justiça fiscal e fecharam brechas, diz tributarista Roberto Quiroga. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/medidas-tributarias-da-atual-gestao-promoveram-justica-fiscal-e-fecharam-brechas-diz-tributarista-roberto-quiroga.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T04:56:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "d4dc0dbed00204d7",
       "title": "‘Carreatas’ no Roblox para Flávio e Lula têm buzinaço, ‘bloquinho’ e até ‘showmício’ digital; conheça",
@@ -146,6 +188,20 @@
       "archive": false
     },
     {
+      "id": "d08ab8c447887466",
+      "title": "Debate da Band: o maior temor de aliados de Lula no embate com Flávio Bolsonaro - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: debate da Band: o maior temor de aliados de Lula no embate com Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVHN2M3NqOUlTNmVXWkxna2dOWXFueEh1U29wdlFTaTRick5fMDBDSjZ1ZWpoVGZTMWpIZENCTG5mY25rb1R4TG4zQ3NyWi1BNjQ0cFZFMkw1WmxwQjhlTnduaV9qMmR1ZklQeXRKMTFNOVlNUVRtUFJvU25sc1pRVU90MW1scll0MlhiNkdRZVVjYjlJQWcxZF9xaFJxZFd1Sm1HU1Z4UXdPZU5xakRTblNQaEZTX215V2dpdVJ5OXEzQld0ckkySjA2UUJNTnNKZjN6elZaNNIB5gFBVV95cUxPZkIxSWNaQ3Rac2VYTXZvd0xIZG43NTQtZENPcWFrSmFJWi1NVUhvdEtTUUVfQU94YlhjREZZN3ZvaGZpQi1Xd3VtSGN4Y1NILXpOZjZwMUtvU3BLeFd3MWw2dXZ5cWZ6SFE1eEZMMjBrOTV6bWQwYThQcEFFQVVvbWc3d1h2NjUwZjhBcUNZSG9aWmJjN1h0MkRwaUNIQXR3eGFIbTZfM0pxandMOTF1TkJPSk9GSWJEMXNJMGMxSmFkN3hlTUxaQnNYRTRLVkFaam1uYXprbkQ3ZHBsTVB2dGstMXBoQQ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "3e05cfa517879e88",
       "title": "Datafolha: 59% defendem que ministros do STF deveriam ter mandato",
       "summary": "O veículo G1 publicou uma atualização sobre: datafolha: 59% defendem que ministros do STF deveriam ter mandato. Consulte a reportagem para contexto, dados e declarações.",
@@ -198,34 +254,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "68824f6b152cc96d",
-      "title": "A promessa feita por Flávio Bolsonaro sobre o fim da escala 6×1",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a promessa feita por Flávio Bolsonaro sobre o fim da escala 6×1. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/a-promessa-feita-por-flavio-bolsonaro-sobre-o-fim-da-escala-6x1/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T02:07:54+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4a89a690b83851c2",
-      "title": "Flávio Bolsonaro na TV Globo: candidato foge das perguntas e deixa dúvidas sobre suas ideias e propósitos - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio Bolsonaro na TV Globo: candidato foge das perguntas e deixa dúvidas sobre suas ideias e propósitos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTGZhaFJkNEoxN2xnTjFKX091bXBKNWJQY2lmSGNVb0RuX1VZWDEzbXVzc0FtWmRZRjJuU2laZnhIZC15bW9jNGRncDhqWmJ2WkIxWXh2X216Ri02WXo3ZkJWRjU0MUdoWkVMTC1OWGo5NUhqWTJxOTFRQXcyd2duNTEwcm5rMWNkTjU3d3FkNWZ6QkI2a3FpTnhVZWUteWZ3OHlVeEVkYjNGX2w1eVZxYUYwME9CUU9KOGtndFp2c1lZNVU1dkdmZWhNclc1R2FYc3VsZkh6eWtrRUV0UWx5SkNhMld3X1QtVTNfeTA0MFBtVGdvRHdRZmxNWGvSAYsCQVVfeXFMT0JPWlZWa2dUalFSWk1KNmthRmRvdk9ZSFpfblA0dFU3MVVqbGJCa0pmNU5yTWFSekx1RWEzc25XaWZTdlFfLWxSZlZFOGhCc3hKcXBIMktIQVNpSzh6Q2tzSG5OMENrX1JPYVpNRVZ2OTlobDdRSnVXTE83N0RUNU1GelJLMmxBZWw0cWJIRDEzell6MUUwdEM4Q3R0WTVZb1JnYlZid0NsTmViUjRTWWVydl9INmQ1ekxwNE5kcW44OHYxaHNLOW9CUTRDUktiVGVxeDlyR0RrTTNNc18zNFZVMlZkOFFaN2VNMndVZllWclhMWkJKLTNUMTZZVzBaTEpnUFZacFFBTU9r?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-17T02:07:51+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -506,34 +534,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "564c8fed7da115d1",
-      "title": "Nova lei prioriza matrículas de filhos de vítimas de violência doméstica em escolas de Porto Velho",
-      "summary": "O veículo G1 publicou uma atualização sobre: nova lei prioriza matrículas de filhos de vítimas de violência doméstica em escolas de Porto Velho. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/16/nova-lei-prioriza-matriculas-de-filhos-de-vitimas-de-violencia-domestica-em-escolas-de-porto-velho.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T23:08:40+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a8dfbcad7771a0b6",
-      "title": "Todos os 7 candidatos à chefia da ONU enfrentam veto, e impasse abre espaço para novos nomes - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: todos os 7 candidatos à chefia da ONU enfrentam veto, e impasse abre espaço para novos nomes. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcTdENkRGNFNrQm1sbldDUW5YbUxnRUM4MTJ0bjZqMmc3VldkMkZhc0laSVpObUpRSndCV0cyMTRISFhIMG8zVXdHMU5SbERxYWpoWkJMV0lCSEprdlMzMEMxNndwLXh3N0RGLXZfMmZDWkhDTDExeXNGdTRBY2tQYjJWc210eWZUd2wxem1FRzFNZXhhMFZfT2l5V04yNWtJOG5ZWndjYWJaV1d1OXVSS2duYS1LdzE5MDBwZDFWcnhxSjBCWGxWZ3k0RHY1STlTal9jYkR3YUo2WVnSAeoBQVVfeXFMT1JyMnFkNDJNSXVhZlRhRWVWUTAwendGNGNNMjFlbG02SVFsRWFZcFB4cjJMSXlnWEhpb0VLTm4zMkJKcHA5SEhkVlZCakhDY1BQWUQ5alhNdFhVSDRUQjZ4aUlqZE1EelpNY2o3N3NBbzU1SUtmS28xQTh3aDZBdU9MT283NGhWVGFydWFWWmVpVDdjbHZoajlnQlQ3czlMTVNkcXhZZjVzc19pZlN4RjZhTXZxLWMwNzNFLUk0RTVzb3lpb3A5ZTBqZ1JJLUJHWFZpMHhpRy00cTJLTE1RbnR4RFJ1UlRGcXRR?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-16T23:01:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1196,6 +1196,20 @@
       "archive": false
     },
     {
+      "id": "e403fb21d8c7bbb2",
+      "title": "Nova porta-voz da Casa Branca admite reprovação em exame para advogados nos EUA, mas defende que pode usar título - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: nova porta-voz da Casa Branca admite reprovação em exame para advogados nos EUA, mas defende que pode usar título. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObkU5ckdaTnhieTY1UlM2Q3NNQm9nMmRfa2VvWHFPeGlfTDhfTkVqek4yNlk0MTBJYzVoTmI5N1F3SjlwLXRVLVZyQ25ISVJhLUlDT0JJaEQyUVpMM0dTUXhKY2ZjMkZvS0ViNGxMVjZmQTdaYkNPWkdES2NHTWx0emtmb2h3MEg1eFd3d29Ca3lIblZ5SVlvZGVMWGVSY3ZlTkxIYjdwMGEtdFBLQW96dFpjTGt0TXFhdHBHdjAzT0haaDQ0dWxleHB4bHFKNXhfblR4WVF5Q0NkQUxzQWF2UTZPVUNlNkNjaVBTeTVyZ2NHQU9VM0NaYjFiT2TSAYsCQVVfeXFMT1ZwVzF1WS1feDVpZU1yQjdnZzl4Q3dEc1k4cnFsSmxLRmJiM3NveFF2Q0pWQkVHc3hnWnMzSWFqNmUzMDdDT21yX3V2Z0ItekRybUJxZFhTNVI3MlcwN0prZ0wtaU9CVENIakxqSXJrdlFOdExGdFM0WTc4ek9PU2V5eW1HNHBkMUhkbWQwb09zc0pqMWlXUTZES21zNmFnV3dMSXN5RWVYMmFHT04zb3M5cWctT2pLVlVZUmhFTUZrREJoaGxaTWRaX0xQRjNZTllWTzNlRzNlcElGVkhJaEVjWEx4cThOWHpwaFN2MFZzb24tMXhrRmhScHJfQ3BZM2tpRnZwQ3Z4N2Jj?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-16T15:43:15+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "84e9b2eea82c5bb0",
       "title": "Ibovespa sobe com alívio externo, mas eleições mantêm mercado cauteloso",
       "summary": "O veículo VEJA publicou uma atualização sobre: ibovespa sobe com alívio externo, mas eleições mantêm mercado cauteloso. Consulte a reportagem para contexto, dados e declarações.",
@@ -1287,20 +1301,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-16T14:14:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bf84bb7f6a101a89",
-      "title": "Atividade econômica tem alta de 0,3% em agosto, mostra IBC-Br",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: atividade econômica tem alta de 0,3% em agosto, mostra IBC-Br. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/atividade-economica-tem-alta-de-03-em-agosto-mostra-ibc-br",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T13:29:00+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1490,20 +1490,6 @@
       "archive": false
     },
     {
-      "id": "572597fc2b155924",
-      "title": "Docentes usam inteligência artificial para inovar e engajar alunos",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: docentes usam inteligência artificial para inovar e engajar alunos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/docentes-usam-inteligencia-artificial-para-inovar-e-engajar-alunos",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-15T17:45:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5edbf96a139fabf6",
       "title": "Pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -1563,11 +1549,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 24
+      "items": 25
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 82
+      "items": 81
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1619,19 +1605,19 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 67
+      "items": 66
     },
     "Estadão": {
       "status": "ok",
-      "items": 31
+      "items": 33
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 42
+      "items": 41
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 53
+      "items": 54
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1643,7 +1629,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 50
+      "items": 49
     }
   },
   "notes": [
