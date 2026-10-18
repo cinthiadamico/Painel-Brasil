@@ -1,10 +1,94 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T16:40:45.008714+00:00",
-  "last_success_at": "2026-10-18T16:40:45.008714+00:00",
+  "last_checked_at": "2026-10-18T17:38:12.228485+00:00",
+  "last_success_at": "2026-10-18T17:38:12.228485+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "ec5e0ed3c96d6540",
+      "title": "A acusação de Manuela D’Ávila a candidato a vice-presidente da República",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a acusação de Manuela D’Ávila a candidato a vice-presidente da República. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-acusacao-de-manuela-davila-a-candidato-a-vice-presidente-da-republica/",
+      "source": "VEJA",
+      "published_at": "2026-10-18T17:13:06+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "07b32e2204eefb78",
+      "title": "'Sem bandeiras de outros países': organização de ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Sem bandeiras de outros países': organização de ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYmx0NF85UW1VR1dfaHVZckJ1UGs2NHNPOUJBNnF2T015YVV2d2VxVjQ3WFN6Rlo5MjhvY3BLUTRXV21Xa1R6RkwxcEM0TkNQMG0zbnYtSWZ0aHFaajNJUHZJc1FUd1hlZFpGNEdPUUJOQ0JKN0FTd0gwNmQ5bTNUa0RxZXBMLUQxSEgtOWVZYzhvWHNXLUNhV3FHWUJhVnBHZjBJR2QzTC11V3F2OEJSaTFZaWhSXzNQZ0ROUksyZHZfeEVZZ0lkaVppZDhOZzFiNC0welk0SkZqbEpjcm9pTlhUeml3ejBuVjhZRjExS0dmNmJXYU9KdWpBUFYwTExRWnVlVktTUE9hZVRvV2N4YS1xNNIBogJBVV95cUxNdjZaNEFXemNkNnZQaV9hMGJOQ01nZ3JMWk94VDJrT0c1eUFiMVA3YU5xdmFVMDRFZU03MVRsOE5mVzF6ZEgwbHFGSFd3V195eG5IcE8yQjhHSjR0ZGVhd0hfaDRmRmo5QTZzd1hWbU5ZSmp3dFctbmlvaTJ3VGJ3M0ZfemxaaHk1bWxaZy1Cb3k0dkdJbERHQ3I5eEl4cm1OY1BQdFdCWlBDUWFLUGFCYnlVNDQ0VzF6ZF9BOFE4MFVYU3hzZXBtNW1IV2xoRHNDN0otdUJPS1JoNG82R3hMTUJRcEFOeFhpTEhJU2Q4cW12WldZdVY0bUYxODk0a2ZTbndJV1pjdFJxZnRaM05uck8zNTFJRVpPV2duQzFtTWI2QQ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-18T17:11:07+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3df4fc66f7a6734d",
+      "title": "Apoiadores fazem ato para Lula em Porto Alegre",
+      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores fazem ato para Lula em Porto Alegre. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/18/ato-lula-porto-alegre.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T17:08:47+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c6331c3c7edac900",
+      "title": "Motorista recusa bafômetro após atropelar e matar pessoa que empurrava bicicleta em Governador Valadares",
+      "summary": "O veículo G1 publicou uma atualização sobre: motorista recusa bafômetro após atropelar e matar pessoa que empurrava bicicleta em Governador Valadares. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/18/motorista-recusa-bafometro-apos-atropelar-e-matar-pessoa-que-empurrava-bicicleta-em-governador-valadares.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T17:02:40+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d5495163e22cde22",
+      "title": "Eleitor sem biometria pode votar no segundo turno das eleições",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: eleitor sem biometria pode votar no segundo turno das eleições. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleitor-sem-biometria-pode-votar-no-segundo-turno-das-eleicoes",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-18T17:02:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "68c746c1a79036e0",
+      "title": "Filho da cantora gospel Gisele Nascimento ainda não se apresentou à polícia após morte do tio; arma era do pai, policial civil - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: filho da cantora gospel Gisele Nascimento ainda não se apresentou à polícia após morte do tio; arma era do pai, policial civil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNk9CZnNORGRpSG5ZM3o0VFZzeGVZa2Fqem84NmVuWjNGLUFrNm90RmpwVFVWQXM1Y0t1SDJvbW4zZXpTMUlBNzJEUWVWb1Q2Z3FnWmpOWnZkS2J0YlB3MEM5MUYwcjNLU2ZvTnRWc3ZNYzk5RU51VklTRllYMG1GNWpjYWlWZUxsUkxzRjFleWRHNDEyNWVOMFBjdEV1Y2k5dFdCdmhnRG1rOVpwMEE5RUQ0c1A4aHVjUzZJSGRsZVVFcEE1SDd2OVZQaTctY3EySTQ4Z19DSUNkdl9HRTVENUdYZ1dacTZ2aWhoTzJvd2d5UdIBgAJBVV95cUxPM1ZqRTFEcWlvc1BZVVRybnJrelMyYkdPamFiUWpZcHQzTk1jQ3p3NXNndWJ5dWV2eFg4dENuQ2F3SUJ2LXJlYkJXanUydmVYZVdXYXRTc2llLVRteFFqdnhMQ0tqV29zV1BMeXVuZlMwekZ3MFpkZzZhRWp5ckZLUG5Ub2xfN1ZUZC1jTXhVejk5cHdzRDNZWkVOb3U1N2cwZFBwQjRZeEFLYjNQRGZXOEVQOWtITXBsT0RnYVAtNWlHVTgteURsT2JsSUh3bklla0ZlT1Qtay1BV0ZJQlNidjNqYkxfcVYzVXhoR0VXWGFrTUdXVTRKTENyUWNzRXFJ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-18T16:51:52+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "87b5836b013cc826",
       "title": "Apoiadores de Lula se reúnem em Brasília em apoio ao presidente",
@@ -62,6 +146,34 @@
       "archive": false
     },
     {
+      "id": "1b4d90714ed01aa5",
+      "title": "Flávio Bolsonaro vai levar a debate relação de lobista com Lulinha, e Lula argumenta que não há contratos dela com o governo - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio Bolsonaro vai levar a debate relação de lobista com Lulinha, e Lula argumenta que não há contratos dela com o governo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSXNuQlU3OENpZkZnU2s5YUNDSnhZR1A4SVlnQnNIaU5YN2IyTGNFUFlMWGlYN1BrS0Y0dEFNSUdyS0U2MlRCQ1JXaDVJS1BkTUxRU3JSamc4Sm1WSFl1ZU1XVWxBSkF6TmxiT0RNNHgtYktpQk5EZHJzd0ZBWnRFRjNiR1h3VzVxSFc3OGx6eGh1VUlqSTVKWlFjUkVjaWJoSVJnT0tQSzdxdEMydm5RYXpNZ0Q0ZXpDV0hYMFQyZkx0djNEYW5RcmNGRTFkdlVZN1FZLVdacElqbUxEOFlxYUFRX3VPV2VTZFZxWWtFVmRCQWNIcDJzSkdZRTRiVlBuWHA0bjhfUEI0LXB2dzFv0gGeAkFVX3lxTFBVWTFaYXpxMFBEamhRVnBKX3JpT1pUZ0JHbVM1aU11dUNhWG1TQm41amNxMlNKTDVvUFExRjZOMzZ5Q0Z0eUViSHl0eDc1QXNKVEUxc1lOM3AtT2QwUTJkOEhDTUFQcHBLUVNjS2JRSHEtZmF6QTE3STlFdDlNRjM0aUd5WG5RM2VWa3FZdGFRbWlXSy1zXzNqdHJQZ2wtb1dfVnk5MzJHbTRWclhmaHhkbWxlR1VLXzdQSloxc0s3WW5iamhRaWE5aTh6dGRGcUV1X3lrZmFoMWF5dkFVaFloeWUwMVROdHlHbWVfZHJscnprX3hhZUVfcjVNZ2tCeHZ5YTlaR2ZPTUMwTTMxYkFjUVZHUVEyX1BfREF1RVE?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-18T16:21:41+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "eb0130e4154dbb04",
+      "title": "Incêndio em base militar no Canadá deixa 4 mortos; governo descarta terrorismo",
+      "summary": "O veículo G1 publicou uma atualização sobre: incêndio em base militar no Canadá deixa 4 mortos; governo descarta terrorismo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/18/incendio-em-base-militar-no-canada-deixa-diz-tv.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T16:19:45+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "80ae6e53043f2bc3",
       "title": "Preso por estupro confessa assassinato de grávida no ES; crime levou marido da vítima à prisão",
       "summary": "O veículo G1 publicou uma atualização sobre: preso por estupro confessa assassinato de grávida no ES; crime levou marido da vítima à prisão. Consulte a reportagem para contexto, dados e declarações.",
@@ -105,8 +217,8 @@
     },
     {
       "id": "a07e2c5b77f53c36",
-      "title": "Comitiva do governo federal chega a Manaus para acompanhar combate às queimadas e anunciar novas medidas",
-      "summary": "O veículo G1 publicou uma atualização sobre: comitiva do governo federal chega a Manaus para acompanhar combate às queimadas e anunciar novas medidas. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Forças Armadas vão reforçar combate às queimadas no Amazonas, anuncia ministro da Justiça",
+      "summary": "O veículo G1 publicou uma atualização sobre: forças Armadas vão reforçar combate às queimadas no Amazonas, anuncia ministro da Justiça. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/18/comitiva-governo-federal-queimadas-amazonas-18-outubro.ghtml",
       "source": "G1",
       "published_at": "2026-10-18T16:13:47+00:00",
@@ -114,6 +226,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "12d389d9c1347a59",
+      "title": "Eleições 2026: apenas um local de votação mudou de endereço no RJ para o segundo turno - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: eleições 2026: apenas um local de votação mudou de endereço no RJ para o segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbGZKNS1pOVZqS0FmaEhIUVdzam5UcmlSOUg3WGR2RmVZTDJERXlwMkdPMlVTRGdaRFl0RXZ1d1dKc2o2T0pjSVNmUDMzdThKLTA4UkhLeUp3NDJkdmtZMEFFNlRvRklwV2hYX2oxYV9oTHNRUUxTSXUwVGFNT0FyanJBVUNYU1hBTEVEWW83d2UxbG80UkFqSU1MMnpkaFpobHo2QXNFZXB5eURWLXJtdnhLZUFZalE4NUxFUWFSWmRQR2o4LTB2RHZVczQwaGxrQkQxanJ1dDNOZUdVWjNwb19jVWRtUWwzV1NUT2RkWdIB_gFBVV95cUxPaVhIVkVmMHpfZFdlaGVkUWdvdzZuMmFTYjdpR2lNcE1oYnMwSXFldmpSREtXZTI0Ni04dGxYaFh5cGREYjBWcV9GODhOYmVFTG9QdjRqeWlBOWtuY0FxVnhSYWROY2R0aUJDeDhwQjZMdVRyOWVPRWFaeFpaMkhreF81UXBjSEIySjZpNUdqSlE1QnV2ZjlMdVJObC1Ec0JtNGttNnd4dV9oYV8tTzFrYS1IX0tNQWdvdFROWnlNb3JHaWlZU05WdVpqSk1oR05kUU9VWE9Cc2JHeWRXYmFtYy0zMlZfeDdKVFZxOHI0MEQxTFMtZ0lWT3R4WS05QQ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-18T16:11:44+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -160,20 +286,6 @@
       "archive": false
     },
     {
-      "id": "76c0d89a301af0a7",
-      "title": "Estudante de Direito morre em acidente entre carro e caminhão na BR-153",
-      "summary": "O veículo G1 publicou uma atualização sobre: estudante de Direito morre em acidente entre carro e caminhão na BR-153. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/18/estudante-de-direito-morre-em-acidente-entre-carro-e-caminhao-na-br-153.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T15:58:40+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "24b536cfc7f698fd",
       "title": "Donald Trump declara apoio a Netanyahu na eleição de Israel",
       "summary": "O veículo G1 publicou uma atualização sobre: donald Trump declara apoio a Netanyahu na eleição de Israel. Consulte a reportagem para contexto, dados e declarações.",
@@ -181,20 +293,6 @@
       "source": "G1",
       "published_at": "2026-10-18T15:57:55+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "01c045f4d4ac33f8",
-      "title": "Veja vereadores que votaram a favor e contra entrega de título de cidadão soteropolitano a Flávio Bolsonaro",
-      "summary": "O veículo G1 publicou uma atualização sobre: veja vereadores que votaram a favor e contra entrega de título de cidadão soteropolitano a Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/18/veja-como-foi-votacao-do-titulo-de-cidadao-soteropolitano-a-flavio-bolsonaro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T15:55:34+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -216,48 +314,6 @@
       "archive": false
     },
     {
-      "id": "66f004302155112d",
-      "title": "O recorde de críticas a Lula nas redes após entrevista de Roberta Luchsinger",
-      "summary": "O veículo VEJA publicou uma atualização sobre: o recorde de críticas a Lula nas redes após entrevista de Roberta Luchsinger. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/o-recorde-de-criticas-a-lula-nas-redes-apos-entrevista-de-roberta-luchsinger/",
-      "source": "VEJA",
-      "published_at": "2026-10-18T15:52:32+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "87082fefcdd32502",
-      "title": "Quem está na frente para presidente no segundo turno? Veja resultado das últimas pesquisas com Lula e Flávio - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: quem está na frente para presidente no segundo turno? Veja resultado das últimas pesquisas com Lula e Flávio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQlB0N19PTGdfNW9MTDNzQWw2RWpyVzhlV29sVVNBcUpfT2VEVzc2WUxOMGNGeTRCUGNxNk4zVklPaWRFNkdQY0RlTDBsaGV5Qi1mUHRlN01DbExMbnJIdEVSQUdBR0M4a2pYc0JjdnpQakdfOVdDY2dtb0VEZVhRZFNiUFZmYTBkcE42SUtuNWR5OU5tUjc4andtU0wtbjFSUTZfeWNKNWNhZmhlWFRuX0ZTMGxTYUw2RUdhQ2gwa012S1FpRFJIeTRYZjh2dnBQVE9kWVh3UjU1cnhNWjhPWWM3SHhSZ2k1NUg3cDBwR2JrSV81OHfSAYQCQVVfeXFMTWN1Tk1nVTduMEYxTzRnQmZFMXlfZmlCdmRzajR4eFh1TU95MUctc21qd2FSUi1kNURzaHcyTFBab0ZJRGpIbkd0T2pVMWh2Y1RYSlN2eXB0Z25xbEJaLVotbFM0bjFFaEhvbUNuR1VoZWZfbC00empyajAzLUZXZVkyeEp1R2lpOU1KYjJiNXgyNmtoUUhZQUZMYXdQMFY5OUpuYUd4V2FFeVZxYVJoMXN3dU5xcXA5R2p0ekVzZHNua0J6UjhvejJqc0VXWjRvNGh0ZXFuV3hialpHXzA1WXhjdDAtVW1RLW9RRUpyVnJnQUN4RUFyS1gtSXJnTGUwd0U0N2c?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-18T15:51:37+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e28c18324efdca02",
-      "title": "Manifestantes realizam ato pró-Lula na Praça da Estação, em BH",
-      "summary": "O veículo G1 publicou uma atualização sobre: manifestantes realizam ato pró-Lula na Praça da Estação, em BH. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/18/manifestantes-realizam-ato-pro-lula-na-praca-da-estacao-em-bh.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T15:47:46+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "350698e04a933c46",
       "title": "Investimentos de US$ 10 tri em data centers nos EUA enfrentam atrasos, dúvidas e críticas",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: investimentos de US$ 10 tri em data centers nos EUA enfrentam atrasos, dúvidas e críticas. Consulte a reportagem para contexto, dados e declarações.",
@@ -272,20 +328,6 @@
       "archive": false
     },
     {
-      "id": "e4334674fb9a44f8",
-      "title": "Comerciante morto durante assalto fazia entrega de mercadorias em Guarabira, na PB",
-      "summary": "O veículo G1 publicou uma atualização sobre: comerciante morto durante assalto fazia entrega de mercadorias em Guarabira, na PB. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/18/comerciante-morto-durante-assalto-fazia-entrega-de-mercadorias-em-guarabira-na-pb.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T15:31:50+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "dee19cd7d43d6ba5",
       "title": "TSE altera local de votação de 590 mil eleitores para o 2° turno, e PT pede mais divulgação",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tSE altera local de votação de 590 mil eleitores para o 2° turno, e PT pede mais divulgação. Consulte a reportagem para contexto, dados e declarações.",
@@ -293,20 +335,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-18T15:27:00+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d548d64814fe051e",
-      "title": "Seca extrema e queimadas levam Conselho de Meio Ambiente a convocar reunião em Santarém",
-      "summary": "O veículo G1 publicou uma atualização sobre: seca extrema e queimadas levam Conselho de Meio Ambiente a convocar reunião em Santarém. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/18/seca-extrema-e-queimadas-levam-conselho-de-meio-ambiente-a-convocar-reuniao-em-santarem.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T15:17:35+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -338,20 +366,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "07b32e2204eefb78",
-      "title": "'Sem bandeiras de outros países': organização de ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Sem bandeiras de outros países': organização de ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYmx0NF85UW1VR1dfaHVZckJ1UGs2NHNPOUJBNnF2T015YVV2d2VxVjQ3WFN6Rlo5MjhvY3BLUTRXV21Xa1R6RkwxcEM0TkNQMG0zbnYtSWZ0aHFaajNJUHZJc1FUd1hlZFpGNEdPUUJOQ0JKN0FTd0gwNmQ5bTNUa0RxZXBMLUQxSEgtOWVZYzhvWHNXLUNhV3FHWUJhVnBHZjBJR2QzTC11V3F2OEJSaTFZaWhSXzNQZ0ROUksyZHZfeEVZZ0lkaVppZDhOZzFiNC0welk0SkZqbEpjcm9pTlhUeml3ejBuVjhZRjExS0dmNmJXYU9KdWpBUFYwTExRWnVlVktTUE9hZVRvV2N4YS1xNNIBogJBVV95cUxNdjZaNEFXemNkNnZQaV9hMGJOQ01nZ3JMWk94VDJrT0c1eUFiMVA3YU5xdmFVMDRFZU03MVRsOE5mVzF6ZEgwbHFGSFd3V195eG5IcE8yQjhHSjR0ZGVhd0hfaDRmRmo5QTZzd1hWbU5ZSmp3dFctbmlvaTJ3VGJ3M0ZfemxaaHk1bWxaZy1Cb3k0dkdJbERHQ3I5eEl4cm1OY1BQdFdCWlBDUWFLUGFCYnlVNDQ0VzF6ZF9BOFE4MFVYU3hzZXBtNW1IV2xoRHNDN0otdUJPS1JoNG82R3hMTUJRcEFOeFhpTEhJU2Q4cW12WldZdVY0bUYxODk0a2ZTbndJV1pjdFJxZnRaM05uck8zNTFJRVpPV2duQzFtTWI2QQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-18T14:40:23+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -524,16 +538,30 @@
       "archive": false
     },
     {
-      "id": "cef29b88f7dfd094",
-      "title": "Homem é preso suspeito de violência sexual contra mulher e criança de 5 anos em MT",
+      "id": "1794ffae35a11fb4",
+      "title": "Homem é preso suspeito de violência sexual contra mulher e criança de 5 anos em MT - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: homem é preso suspeito de violência sexual contra mulher e criança de 5 anos em MT. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/18/homem-e-preso-suspeito-de-violencia-sexual-contra-mulher-e-crianca-de-5-anos-em-mt.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa3RtUU1LS2lJUWFDRkFjeVF5R2NiVnE0MVZMeU1BNXpzbmhOblBBVTlqV2Zqclh5MGVEM000cDdydzdiZjc5UzQ3cWZTUTFUY3lZbGphWWZqR0kwZFR0OHhuYWNQN3hoaGpVUUVlRFB3cU5FWVBtVHNzSkw2aWRDSzR4dDRiS0kxa0hqVEl6RTRkZ3lEbnpOaDNwY2o5c3paVU1mT0ZYelluclp4MFMtbGlzLTBXakhPcWctb3VpXzJVczNEZzBzdTVGb0VGTjFQSkZZQ3Y0bWhlSEXSAeoBQVVfeXFMTV81Yk5KS3A3RWQtR0x2bUZ1Y3JlNzVGdUZjSTMxZXpla0pYMGFkeFpDQXdPMkdzeS1QLWxnN1FMZzBqU2JPTkpITE5fdGxjb2hjRDRqUVRYemVpQU4wS3RnWXdDTk1TLXQzX2lrZEhfYTkzdndXRkJIMUpzLVcyYlZYSHZmcUZ3ZlJmMjFWZWU1NFk1a1JZSldPbktHN2UxMDhxZm80SGdyR0pHd3MtRy1DRGp4ekRGZWtwZDNpMHR1V1BHSjUyTm9jNThqSi1ZR0F0ZGFORE96OWJGY3dBYnJuekpmcjJDajJ3?oc=5",
       "source": "G1",
       "published_at": "2026-10-18T12:58:21+00:00",
       "category": "Segurança",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "768be105186689ab",
+      "title": "Quem era o reitor da PUC-PR, reeleito para novo mandato, que morreu em acidente durante fortes ventos nos EUA - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: quem era o reitor da PUC-PR, reeleito para novo mandato, que morreu em acidente durante fortes ventos nos EUA. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEtCOFVPSkZPYXdYM2NwZUZ1dy1GYmVBVklBalI1QmR2RW9PUWlYSXk2eHJzNGhpOFZrd0RsUV9MLXdZV3g2Mnk0UURoRVE5aTVqNW93RVRpR2lQZi1qMURoUXFqdjFXZmhQR0Ywd2lwbmFqdV9XTl80RU90bUZ4Q2ZrMlYwendBMWpPRlRNd3I3Z0JvVmF4ajU0cTBjV2piRlpBLVVmLW45YWtpbW91WGJUdGEyUdIBxAFBVV95cUxPYVVPTjRBRlpxWFBsSG9pcVY2Q1VRYTdPSDJ5ZS1SY1RqQjdtOUR1MkszNExqSE4xdlpubDlsWnRFUzdqNmd5U0NyUzJBQ29VTUVBR2F0aG95T2xEc0IwYXRNa0lBSW8yWG5XOU1vV2s5M2dPRjE4WVRvb05qUzEzMEVGVTJ4U1VnUEJacHAwaVVUdlFLOUlwNVp6aXZMQVRlQWhWelkzVDJwRkhvVW5NdkQwWE5Sa2ZrWGVpZVgzRU8xNldf?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-18T12:49:56+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -643,6 +671,20 @@
       "source": "O GLOBO",
       "published_at": "2026-10-18T10:15:37+00:00",
       "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "014e5a92b77e1063",
+      "title": "De colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: de colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUzl0R18xMFJsVUw1czVOT0dIN2NoT1o4N1JTeE9BZ2o5Q2Zia3p1LTMwZUZQNjF1X25aVGVsS1ByTjZfWENFenk4YnQtZlNXRzdRU2FkREUwSWNVUEs1ZG1YeHc4eEZyckRrSEZRV3c4b3NVSlZLRXpqcmNrUk0tRk5MRkc0R2hzeUFuTXQ0d1lrRzI0d0FNTFJCVGY5Z1pqN0d4VnQybnBHMF9LT1pzUGRmSVhVZzJESzFEMlpBLWxKMlVBNFlpR21sTDR6LTdDOHNhbHdGTDdBckxUbjEwSV9uUml5Z9IB9AFBVV95cUxQUmdNTmk3OVpUTDdUV2g1NjJ1UWFIWHc5UDJVVDVma1BIbVhYUjZqZVROVy1fR1g5X0ticFNKakZ0cFp4UW1NM1hsZmxyMEQ4aDRyZFlRYVl2ZEJxU3djenNIV1p2ZGphemg5eGdnRFVER01aMHpTSzA0N24wakVDcXJvZFBNSmZkX041bFFmcG8zT1RyWDI5MVlPNXFLN0x1OXZtTHUwTWFIRW1fSTBFeUtRcllaeVE4RU1sQlhSZU50MGVZSkRqVjEtZ19FU1RkX3VOaFlFUndzZUxjcW5jUW5PYUFYYXREUUZLLXFfQzBUUFZL?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-18T09:00:00+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -790,20 +832,6 @@
       "archive": false
     },
     {
-      "id": "cca3a1939dd9eb38",
-      "title": "Gisele Bündchen é vista com pé imobilizado e usando muletas nos Estados Unidos - UOL",
-      "summary": "O veículo UOL publicou uma atualização sobre: gisele Bündchen é vista com pé imobilizado e usando muletas nos Estados Unidos - UOL. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVk9nMEJFdTVFOUpFNVJXbWExTUpwTnNyTm5OaDJ2ckRueW9PUEVXRGd1WnNONjBJa2VBR0hkY0M5WXBwSWRCQl9KQ0wyUXR5WmlXZ2lZMlA4NmhyTXVyY05nUjhYeWVyZmhsREdlMWowazZtalFsSlU5Q0U5YTBsal9BMVA1SXBPbnlZZHdKY1dEM05oUjlDOWYzSS1nMGdabEJjNHFCVjRZUGo3MjJ6azI0dy1JcXFOUXBfTTR6eFh1R3h6MEpHVmpOandaUQ?oc=5",
-      "source": "UOL",
-      "published_at": "2026-10-18T01:31:48+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "629e7a9eba0c9396",
       "title": "Ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram campanha de Lula - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram campanha de Lula. Consulte a reportagem para contexto, dados e declarações.",
@@ -902,16 +930,16 @@
       "archive": false
     },
     {
-      "id": "497238357140d156",
-      "title": "Homem condenado por matar esposa em MG é preso 21 anos após o crime",
+      "id": "7a520008774e0e3e",
+      "title": "Homem condenado por matar esposa em MG é preso 21 anos após o crime - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: homem condenado por matar esposa em MG é preso 21 anos após o crime. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/homem-condenado-por-matar-esposa-em-mg-e-preso-21-anos-apos-o-crime.shtml",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFFPVV94cXoyVWg0OVFmWmI5b0VTaWM0RF9Ta250Mllnc3RRbV9uenZsYUR2cjRQT1M5V0UtUFg1bm1FOG54dUt1VFA0RlR2aS1iSXNMZzR0ZGpKMjZwZkVHWnM3aUFBcnZpWkhzTXlSWlk1RTBJQ3hVb1VOdTVQLTBXaWs1R09hUXFwQ21aZ3RocHFjUGRfSnBJOEpYWXczc1Q0Zmp6QXNWRHVvR0xDSC15Nk9td28wTDYxbnNB?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-17T21:29:00+00:00",
       "category": "Segurança",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -930,16 +958,16 @@
       "archive": false
     },
     {
-      "id": "512b54255934b8c2",
-      "title": "Prerrogativas aciona PF e Justiça Eleitoral para PL explicar contratação de empresa",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: prerrogativas aciona PF e Justiça Eleitoral para PL explicar contratação de empresa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/prerrogativas-aciona-pf-e-justica-eleitoral-para-pl-explicar-contratacao-de-empresa.shtml",
+      "id": "392d9355ff4eb4e9",
+      "title": "Painel: Prerrogativas aciona PF e Justiça Eleitoral para PL explicar contratação de empresa - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: Prerrogativas aciona PF e Justiça Eleitoral para PL explicar contratação de empresa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS2kxYm1yWlVPNWs3dlBxWVBmR29QU3Fuc0RnaWE5S2pIQU5UWkdFOGxEdk4yZnhSZWpiX1M5QWhJMkZCS1ZQeVN2Rkt1LXBiam41WmRsYTdRdW5SXzgxcFlEUDZxOXZOWmFRbmlYeGxydWJqUk43dHNZeE5lbHdFT1d5WGpKbG5YSWtWYmx2U0twd0lrM3RBVXJ5cUlGTFo2VzlIZFB3dzQtSldsbkpFZEwyMlZ1TTV0aG8wUU9lZmJScVJfbDRaa3k0cU1jbllWZ01PS252OUhOZw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-17T21:01:00+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1504,20 +1532,6 @@
       "archive": false
     },
     {
-      "id": "31f72c02d3ab4849",
-      "title": "O estado de saúde de papa Leão XIV após retirada de câncer - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: o estado de saúde de papa Leão XIV após retirada de câncer. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzdjLWJMR1UzbUVVYVplWVhvWmZnRF9SUjlyRHliN3hqLUVoS3Z6T2pDMEJQeVpiVExpUlVWNURwQVBNYzBZaG9yMHBHeWcyYTlUTTlwSzNNazVjTVYwWU5xZVhwclJOQVRHbG9QVHJtaVllbS1hT1V2djRIZ0FVWVZIYWN0a1gwYnB2T0VKNXg2cTZDUXc?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-16T12:46:23+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e30749f8e0ebe291",
       "title": "Projeto amplia recursos no Orçamento para negociação de contratos habitacionais antigos",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto amplia recursos no Orçamento para negociação de contratos habitacionais antigos. Consulte a reportagem para contexto, dados e declarações.",
@@ -1595,15 +1609,15 @@
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 54
+      "items": 53
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 40
+      "items": 37
     },
     "VEJA": {
       "status": "ok",
-      "items": 11
+      "items": 9
     },
     "The New York Times": {
       "status": "ok",
@@ -1611,11 +1625,11 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 2
+      "items": 3
     },
     "Agência Brasil · Política": {
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     "Agência Brasil · Economia": {
       "status": "ok",
@@ -1647,7 +1661,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 64
+      "items": 65
     },
     "Estadão": {
       "status": "ok",
@@ -1655,11 +1669,11 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 40
+      "items": 36
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 51
+      "items": 49
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1667,7 +1681,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 44
+      "items": 43
     },
     "Eleições · Flávio": {
       "status": "ok",
