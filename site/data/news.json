@@ -1,10 +1,24 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T05:40:16.381495+00:00",
-  "last_success_at": "2026-10-18T05:40:16.381495+00:00",
+  "last_checked_at": "2026-10-18T06:49:17.122769+00:00",
+  "last_success_at": "2026-10-18T06:49:17.122769+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "9f0e9ee4af3d1095",
+      "title": "Elon Musk pode desligar a internet de uma guerra? Entenda o poder da Starlink",
+      "summary": "O veículo G1 publicou uma atualização sobre: elon Musk pode desligar a internet de uma guerra? Entenda o poder da Starlink. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/10/18/elon-musk-pode-desligar-a-internet-de-uma-guerra-entenda-o-poder-da-starlink.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T06:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "97990b809eeec4c3",
       "title": "Chefe do Exército britânico diz que governo deve preparar população para tempos de guerra",
@@ -538,20 +552,6 @@
       "archive": false
     },
     {
-      "id": "d6f06291116bc01f",
-      "title": "Em meio à crise de queimadas, governo federal autoriza repasse de R$ 14,3 milhões para ações no Amazonas - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: em meio à crise de queimadas, governo federal autoriza repasse de R$ 14,3 milhões para ações no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONWNRbjBHYTVhYTVMMXJxbkhESnVqOWFCaVFDV1puenBVNXNHQ2pzVllCRVM1QmYwM0tRQ1VlQkdYbHZPaHNHaU1KSzhlZl9MYjZBQXN5SWdNazAtMjFXZ0YyNm1pSEwwS2VqZDRMcWRrRjRjM2JqUWxwV0tKZWxrNHNNUDE0dUMwY0ttZnA0ZDZZSnZDYW51RjV5V2g1X0llUWcwU3NPNmI2X3h0QkpPclo4WWxkYkgzN0ljSE1FSmVMdjlTYkJsMlBTQ0VoZ0VGbVVfQW1XV21WNWZLbTZSMEtR0gHwAUFVX3lxTE5sajhWdGtCMG1TZHB1SExXbDN0MG56T1F6Y00xMGQ1eV9xOHVqRXk4LVNKVllNblRwTjh1OWZINDhjRFBoakxjR3NGTnhURDFLT3FXNFExN0JEQmtHeFlTV01yeFNJdmtiNVRpUE1od2plUVpZbzAxb2NOOGVCbXdFRTJiME8xUkh6SVh0SGl1TW85VE5zVVdLRkdldjYxdzNXMFRoN2ZRWG5kSFByRUdvU2t4UkJudWF5SV93dTdMMU5hZnpvUjNlWGJQWnlOeDNqVGdLLXBUbFNlc2Y0MkVueWY5b2NnajZlTTJ4RlBIbw?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-17T22:01:58+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "4175a17466bd2340",
       "title": "TSE mantém no ar capa de VEJA com denúncias de Vorcaro contra Lula, depois de perícia",
       "summary": "O veículo VEJA publicou uma atualização sobre: tSE mantém no ar capa de VEJA com denúncias de Vorcaro contra Lula, depois de perícia. Consulte a reportagem para contexto, dados e declarações.",
@@ -744,20 +744,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ee518c1031af07e6",
-      "title": "Citi e Bank of America são mais dois bancos dos EUA a restringir acesso de IA a contas de clientes",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: citi e Bank of America são mais dois bancos dos EUA a restringir acesso de IA a contas de clientes. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/citi-e-bank-of-america-sao-mais-dois-bancos-dos-eua-a-restringir-acesso-de-ia-a-contas-de-clientes.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T19:09:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1420,6 +1406,20 @@
       "archive": false
     },
     {
+      "id": "bec7917419df8217",
+      "title": "Flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSXN4OENqOWpCSW1yeno5dFdwc2JEckNzSE1HakdqLU5tNEt1N082cElQOXN6X21xZVpFRW9VUVBJd2hzcTRtd3VEX0JvQzJlc1VCdTBGeWN1bGdlTkxJaFItVGRtUE15dEVkZGZLOHZQXzF6YVRPRC11UXpyT0VtUEhUNk9YMkpOVU03NmY0M2F5LXRyT2pNdzc4eVJhQW02S2Jybi1uRlloTHh0ZzBTRnREUXZZcGNWbDVTNEp5Vy1HNmsyUmVRMGIwZ3ZIeUo3Zk5xdEltb2laNDM1UmVTZg?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-16T13:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "31f72c02d3ab4849",
       "title": "O estado de saúde de papa Leão XIV após retirada de câncer - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: o estado de saúde de papa Leão XIV após retirada de câncer. Consulte a reportagem para contexto, dados e declarações.",
@@ -1563,7 +1563,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 19
+      "items": 20
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1627,23 +1627,23 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 46
+      "items": 48
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 52
+      "items": 51
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 50
+      "items": 49
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 51
+      "items": 50
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 31
+      "items": 32
     }
   },
   "notes": [
