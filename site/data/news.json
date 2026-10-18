@@ -1,10 +1,108 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T00:54:26.562105+00:00",
-  "last_success_at": "2026-10-18T00:54:26.562105+00:00",
+  "last_checked_at": "2026-10-18T01:40:21.388674+00:00",
+  "last_success_at": "2026-10-18T01:40:21.388674+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "b0d03253ae621c37",
+      "title": "Empresária amiga de Lulinha rebate declaração de Lula, diz que não é pilantra e que virou 'boi de piranha'",
+      "summary": "O veículo G1 publicou uma atualização sobre: empresária amiga de Lulinha rebate declaração de Lula, diz que não é pilantra e que virou 'boi de piranha'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/17/empresaria-amiga-de-lulinha-rebate-declaracao-de-lula-diz-que-nao-e-pilantra-e-que-virou-boi-de-piranha.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T01:30:26+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a625e8e9724fe1d9",
+      "title": "Gisele Bündchen é vista com pé imobilizado e usando muletas nos Estados Unidos",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: gisele Bündchen é vista com pé imobilizado e usando muletas nos Estados Unidos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/gisele-bundchen-e-vista-com-pe-imobilizado-e-usando-muletas-nos-estados-unidos.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-18T01:28:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6685424c264e26cf",
+      "title": "Prefeitura de Uruguaiana (RS) decreta situação de emergência por causa de cheia",
+      "summary": "O veículo G1 publicou uma atualização sobre: prefeitura de Uruguaiana (RS) decreta situação de emergência por causa de cheia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/prefeitura-de-uruguaiana-rs-decreta-situacao-de-emergencia-por-causa-de-cheia.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T01:26:44+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d766185c86cacdc3",
+      "title": "Apoiadores de Lula realizam atos em diversas cidades e capitais",
+      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula realizam atos em diversas cidades e capitais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/apoiadores-de-lula-foram-as-ruas-neste-sabado-em-cidades-e-capitais.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T01:06:08+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "525b93710e45615d",
+      "title": "Flávio Bolsonaro faz campanha em Vitória e Salvador; apoiadores realizam atos e carreatas em capitais brasileiras",
+      "summary": "O veículo G1 publicou uma atualização sobre: flávio Bolsonaro faz campanha em Vitória e Salvador; apoiadores realizam atos e carreatas em capitais brasileiras. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/flavio-bolsonaro-faz-campanha-em-vitoria-e-salvador-apoiadores-realizam-atos-e-carreatas-em-capitais-brasileiras.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T01:06:03+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "15e5a3fa4def3c3a",
+      "title": "O voto que a economia já não explica",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: o voto que a economia já não explica. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/o-voto-que-a-economia-ja-nao-explica.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-18T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8ae6a1e3c6a667c0",
+      "title": "Amiga de Lulinha diz à CNN que Lula mentiu e que filho de presidente se reuniu com ministros - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: amiga de Lulinha diz à CNN que Lula mentiu e que filho de presidente se reuniu com ministros. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXJCUm1faVdkU0tSallYS3ctZXdRbmZKWTJ2d2p0VHZCOVU2Z3RIM0dfY1hoSFhhSlFIVDFRQWFQWWNmR0E0WnpSTWV5TFFJN0JtVDk2UU9ZUWdDbllDcE5iWVpWOXlBNHJIQkpQdm9nWXJoVXJCZTI3Ukg5WElkWHZyNG41TVlnTkhEQ25xOHlpVkx3cXBkSnJITTAzM3VmUXFEbERHN25sMjVUZXVaczZsUEFxTTVLTUYxWGVWWEFMZGN4TE1v?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-18T00:47:35+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "95cced7bc68e8ce4",
       "title": "Papa recebe alta do hospital depois de cirurgia para remover câncer no pulmão",
@@ -90,30 +188,16 @@
       "archive": false
     },
     {
-      "id": "6fe31442cd4c0ead",
-      "title": "Amiga de Lulinha afirma que quer fazer delação premiada e chama presidente de mentiroso",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: amiga de Lulinha afirma que quer fazer delação premiada e chama presidente de mentiroso. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/amiga-de-lulinha-afirma-que-quer-fazer-delacao-premiada-e-chama-presidente-de-mentiroso.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T23:43:00+00:00",
+      "id": "49ce172a97e0f4f2",
+      "title": "#Chapada: Prefeita de Lençóis, Vanessa Senna defende mobilização para reduzir abstenção e garantir reeleição de Lula - Jornal da Chapada",
+      "summary": "O veículo Jornal da Chapada publicou uma atualização sobre: #Chapada: Prefeita de Lençóis, Vanessa Senna defende mobilização para reduzir abstenção e garantir reeleição de Lula - Jornal da Chapada. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ1U2NUJXXzdkejJqbVV0am1Bc1RyNG44aklPTDllWXhmemlBWW9DWXVub05rQnhVXzhtbEJUZVlXOWJZZTBjRGdzc3E1TTB2QWNrbzJ1ZXltTmptNkRiakYwdHFvd3hNaXN2V0VhM0ZBSDk0ajJnZmNpRzZYOHVKM2FlbWU0YzZkNndZWHNvVzhzNDJzVXJlVk9hVThNUmZBSTQ5NW53bFQyU0ptSlRCcFI2S3hZVkcxYm9GeFpQeVRGN1dxSXlIT0RGY2JPdFZjZEVIcXNZU0NOdmVqM3YxTDBpSXpOQWFPVkV5bdIB8gFBVV95cUxOZEU5Qm9HV0NPeVY5Zk5yS2ZJSUpMQnZhSjQtQ2JzZUN2Wnd0aDdUaXl3cHh0dVJwRnpqaWc2aXZIMzRVM1ZXcWFwTGZGR2luZlR0VjNBX1NFOVJ1NUF1enItSTFwc2dqbHl5QkV2WGg3WnBpWUVyZFZISmk2V0s3UHJZaS1VWXFmTWIyT2YtZDk5S05lcUNvcXI4em5jRnVaX21xTkFyRHdQajFzMjlQYklOY2RFVlZ3OV9acWFBQk9uM0JnaWdSZFF1dkxlem1DWVpnTkFyMXprV3hfSTdQdU5wWS1JdFJjYXNfVnh5bU5JQQ?oc=5",
+      "source": "Jornal da Chapada",
+      "published_at": "2026-10-17T23:45:19+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "176e2a643268c34b",
-      "title": "Amiga de Lulinha diz à CNN que Lula mentiu e que filho de presidente se reuniu com ministros",
-      "summary": "O veículo VEJA publicou uma atualização sobre: amiga de Lulinha diz à CNN que Lula mentiu e que filho de presidente se reuniu com ministros. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/amiga-de-lulinha-diz-a-cnn-que-lula-mentiu-e-que-filho-de-presidente-se-reuniu-com-ministros/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T23:35:20+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -139,76 +223,6 @@
       "source": "G1",
       "published_at": "2026-10-17T23:31:59+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fb4fb0648e0d310c",
-      "title": "'Lula não é o primeiro nem será o último a aprovar medidas às vésperas de eleições', diz leitor",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Lula não é o primeiro nem será o último a aprovar medidas às vésperas de eleições', diz leitor. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/lula-nao-e-o-primeiro-nem-sera-o-ultimo-a-aprovar-medidas-as-vesperas-de-eleicoes-diz-leitor.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T23:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "62ef837d41c859ae",
-      "title": "Lobista diz que Lulinha reuniu-se inúmeras vezes com ministros e quer depor para PF sem poupar Lula - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: lobista diz que Lulinha reuniu-se inúmeras vezes com ministros e quer depor para PF sem poupar Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR1UtYlZnM1E1NGpKbDI1dDloc3NLUkVzdGNENkxNNTZXV3BpNXFzNW9MaWlBOE9OU014blVYbzNDajJNZ2JOWHhESVVZaFBPdVRuSUdoNk44QXQ4YkFiQUo3MmNKakVHNU9jX2hlXzFvRkVpNWljMDZ2YzZjRTk4aTJYYWVRcl9aelFrNTNia3YyWmpKWVZJTjRlUl9TSVF0MDJOcUk2eW45QWVsdFVSR0VsdHUzYXJNS05vMldsdEZQa09uODMtcmxhX1RfdEkzVm1mR3VXY2hXYUly?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-17T23:27:15+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "edff1a290d7f2502",
-      "title": "Concurso da prefeitura de Itapororoca, PB, tem edital lançado com 175 vagas e salários de até R$ 10 mil",
-      "summary": "O veículo G1 publicou uma atualização sobre: concurso da prefeitura de Itapororoca, PB, tem edital lançado com 175 vagas e salários de até R$ 10 mil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/17/concurso-da-prefeitura-de-itapororoca-pb-tem-edital-lancado-com-175-vagas-e-salarios-de-ate-r-10-mil.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T23:22:48+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "023236fe2264c5ec",
-      "title": "Comerciante morto em assalto em Guarabira, na PB, teve mais de R$ 200 mil roubados",
-      "summary": "O veículo G1 publicou uma atualização sobre: comerciante morto em assalto em Guarabira, na PB, teve mais de R$ 200 mil roubados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/17/comerciante-morto-em-assalto-em-guarabira-na-pb-teve-mais-de-r-200-mil-roubados.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T23:05:27+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2a35c1411703e238",
-      "title": "Eleições 2026: RJ tem apenas um local de votação alterado para o segundo turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: RJ tem apenas um local de votação alterado para o segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/17/eleicoes-2026-rj-local-de-votacao-alterado-segundo-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T23:04:08+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -538,20 +552,6 @@
       "archive": false
     },
     {
-      "id": "256dd0f35fe9b1c3",
-      "title": "Polícia apreende mais de 100 kg de drogas em ônibus na BR-135; veículo seguia de SP para a Bahia",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia apreende mais de 100 kg de drogas em ônibus na BR-135; veículo seguia de SP para a Bahia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/17/policia-apreende-mais-de-100-kg-de-drogas-em-onibus-na-br-135-veiculo-seguia-de-sp-para-a-bahia.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T20:24:51+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9921ad5b87f67710",
       "title": "Campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno",
       "summary": "O veículo VEJA publicou uma atualização sobre: campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno. Consulte a reportagem para contexto, dados e declarações.",
@@ -769,20 +769,6 @@
       "source": "Portal VV8",
       "published_at": "2026-10-17T17:31:21+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "33545f5c96c38eef",
-      "title": "'Mãe, tem um atirador': filho de sobrevivente de massacre escolar em 2001 estava em colégio que sofreu ataque recente nos EUA - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Mãe, tem um atirador': filho de sobrevivente de massacre escolar em 2001 estava em colégio que sofreu ataque recente nos EUA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMl9HR2pacVFhMms4SmdfQkt3dEN1UVpkVjZDcV9aM2JENV9pN29EV29vbElTVXZ6dDd2WWJBQlA0TFllSVJuNDVkZ3BPZG1jVWtDbzVQZHZMNm5MMlJqQ1hGVW9RMXR0a29HbmFkTGdHdGYxR1FIenU2UWlUclE0aFNoTmFjNlh4TE9BQ084ZmdlQXF5QjVVYWNQYjgxczFWcmJfNkM1M2N5bTNJMU9LR0V6bGhMWGJKcUl1eENzRmM0RkZOdHlDVEkxakRXRThEZWNZNi1zOGVYUThBR0xqOHBjd3hNdVVkVkFPMG5RTzV6X2xETXY5ZWoxRGN6SV94X0Zya0pudU5fXzNX0gGbAkFVX3lxTE0wc01meUlxVktDMi1zNTNra2ItMnR4TEktU2g5cXRORER5d01xdGJhM25SWE14eEt2OEdlTDBVeERLRlgxX3VtbVM2U2JZRm9OMTJESmxzdDkyOVYwX0p6QkRBUjUyd0RweEVBM1pzdi1zWTFQeUtjX1FhZHp4bGFiVWdMRXgxRmNGZGx1dFd4NEg2ZVpiaXpmZXc4OGtyTlRuV21QVmt3bXNaWERHS1dpTXQwUFpScjlESzlGenFKdTdOLWNMSXoybjJMZTdIc0tDN0d4TUZaZXpkNXc4TXlyZ195SXJQQkdoWG14WTJrZW41MWdJOTRmeWZiOEdSMzF3NUphMDVsQlRvVXgyNEdIb1RFUUN5RG1vbVk?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-17T17:03:36+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1599,7 +1585,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 44
+      "items": 46
     },
     "VEJA": {
       "status": "ok",
@@ -1627,7 +1613,7 @@
     },
     "Agência Brasil · Saúde": {
       "status": "ok",
-      "items": 10
+      "items": 9
     },
     "Agência Brasil · Justiça": {
       "status": "ok",
@@ -1647,15 +1633,15 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 66
+      "items": 65
     },
     "Estadão": {
       "status": "ok",
-      "items": 33
+      "items": 31
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 45
+      "items": 46
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1663,15 +1649,15 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 49
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 53
+      "items": 50
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 35
+      "items": 34
     }
   },
   "notes": [
