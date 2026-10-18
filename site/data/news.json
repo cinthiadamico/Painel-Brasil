@@ -1,10 +1,80 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T08:41:19.551076+00:00",
-  "last_success_at": "2026-10-18T08:41:19.551076+00:00",
+  "last_checked_at": "2026-10-18T09:40:41.276421+00:00",
+  "last_success_at": "2026-10-18T09:40:41.276421+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "2799d6e52418f6c5",
+      "title": "Família é avisada sobre morte de vigilante acreano em missão na guerra na Ucrânia e tenta contato: 'Queria ir para ajudar'",
+      "summary": "O veículo G1 publicou uma atualização sobre: família é avisada sobre morte de vigilante acreano em missão na guerra na Ucrânia e tenta contato: 'Queria ir para ajudar'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/10/18/familia-e-avisada-sobre-morte-de-vigilante-acreano-em-missao-na-guerra-na-ucrania-e-tenta-contato-queria-ir-para-ajudar.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T09:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c2c0d947a3f0901b",
+      "title": "De colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos",
+      "summary": "O veículo G1 publicou uma atualização sobre: de colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/18/de-colega-a-paciente-enfermeira-enfrenta-cancer-de-mama-no-hospital-onde-trabalha-ha-28-anos.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T09:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4bf7588e6cd63c0b",
+      "title": "Flávio Bolsonaro comemorou exoneração de Garotinho como secretário de Segurança do Rio",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro comemorou exoneração de Garotinho como secretário de Segurança do Rio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-bolsonaro-comemorou-exoneracao-de-garotinho-como-secretario-de-seguranca-do-rio.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-18T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a95ce142c21ab8a2",
+      "title": "Disputa por gabinetes no Senado mobiliza políticos eleitos e reforça ‘pequeno poder' de Alcolumbre - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: disputa por gabinetes no Senado mobiliza políticos eleitos e reforça ‘pequeno poder' de Alcolumbre. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdXZrUHVQdmZNYWJESDJKR2VyZkpFbG1SeVN1VzZaZ0F3S3VCZ2c5TzlBZWFNYnJtOV9KNU04NTNKelhEV19WT1RpaEgzTDZYUVA1QlQxVWR3UnZNZ2FaQTBhanpFeDdnOUpleXpKS1NGM3dqRWV2bEFxSGM2RkpRQjlSa1pDRkl3Y3lOR2JOenpNT1ljZVJDZVdyZm1fb2NDU2tnc3hGbFBuSzMyYnpMSnk2WUpxaGZoeVFVSVQ5QmRtbFZ6dGYzUG9Hay1QTGpaTG1wdmxucHpEZlBSWFVTeUNZSFU0UdIB6wFBVV95cUxOUjZMZGJ6cjhPSFo4SWJMbmlSTG5LRFVfb1hlU05wUXlQNi16V3o4N2xmdXJGQlVRVG5BbFVWY3pQaFE0LTdzMGpOMFVZQUVjdkg2VjhpUUxacVV0ZzZJVGktd2VEeEFXQnhhRnoxMmQtSlFCZ0k2V2RGWDdZZEtOOVBsemszMnZXNFpjeXlUTDdqLURlaGdwMHBSdzBSV3NwRHZfT19EUVl0VzQ0dE5LUjlJUm9KZGk1RG9kSFB5eUk1LWRFeVYxRzB2eVN0cHJCZzhGaWthLXZzdk1ZNjRrM1V3OVQ5WlVCT3pj?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-18T08:30:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8a88d76be31abfad",
+      "title": "Flávio e Lula enfrentam ‘teste de nervos’ em debate focado nos cortes para as redes - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: flávio e Lula enfrentam ‘teste de nervos’ em debate focado nos cortes para as redes. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3dNUXpHcUQtXzBIT01TekNQV3lSRi03SmhtNE5JQWw1di1PQWNhS2dzSkEyQWJzcE5VMXZmU25sWWxMck9LRGNNVGRzUjhLMEJFc3RXNVdrZzhZWnVLcmxrOXlHX2N6YTZKQjhpTGt2Y3pnODVCeTI0RnZPX0RYTzdmUlozcmJ2YXFlRHd1RUt5MXlvektDQVpXRDg2VmJkdVotRnVGUi1haVFvZFhPNjVUYTVsMExTSDhoVkR6WGk3amtVSUhDelNLaDJ6czljYnfSAdcBQVVfeXFMT1hURjlYTUdxOE1sRDZvNGlSeEdleFRwWnI0Z2Y2SlJrZFQ1Uk94NWk5U3ljeXlMQUNfUnpWbWpZTmJheno3Qnctd25RSS1GUVN6MWVBUGN2NWg4RGh5TThYNWg5dkNJTXJoNVN1anJ4N0JIMTBITGtjNFRJdFdJYTI1eXdxaS1RUEJnUEQ4WWZvQXhXUzFfYkNtRW1HM283N1h4UGp0RW5WeEo3T3V5a2IyS2E1SHhORmRQdHNOR1VnOTVvaWgyUWFiMUgyTEZLaWQ3YVFWWGM?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-18T08:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "8cad8a9ea106088f",
       "title": "Perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas",
@@ -100,6 +170,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4412e36787ac0485",
+      "title": "Andreazza: Vai ter debate. Calor de Lula tira Flávio Bolsonaro do ar-condicionado | Estadão Analisa - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: andreazza: Vai ter debate. Calor de Lula tira Flávio Bolsonaro do ar-condicionado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb1JBQ0ZoeURRcDlnTUZlaTZmRUJpVFgwUW1fS09aOFpPeHBmdDNvSW9fYXItWjdxSkdRYVVOMGtTaVZYRkRRby1QTW1kQS1WU2dmMElfS3RIMmt0Ujc0d3AwQ3BuNGxUdFRtWjhaV1QweHI5M3hlaENza1FfNmx5dlVEM2hnbnFzcWd1bkFSM1BmVjBxaUg0eWRvM2dYeUY0RU5lcy1mRUROeXdnXy0zQnJPdE5jM1VhV3BYODltOXVIMC0wOG5DVlpQRlhLd1F6X0MxZUtMaDFNZlpCVFpxeGVyamUtMUN4eF95Uw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-18T07:19:24+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -300,41 +384,13 @@
       "archive": false
     },
     {
-      "id": "4ce83f26972e1b2a",
-      "title": "No Instagram, Lula muda o discurso no segundo turno, e Flávio Bolsonaro mantém foco em voto e confronto",
-      "summary": "O veículo G1 publicou uma atualização sobre: no Instagram, Lula muda o discurso no segundo turno, e Flávio Bolsonaro mantém foco em voto e confronto. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/instagram-lula-flavio-bolsonaro-segundo-turno.ghtml",
+      "id": "74557fab05a0dd6a",
+      "title": "Mega-Sena 3071 pode pagar R$ 170 milhões neste domingo; g1 transmite ao vivo",
+      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena 3071 pode pagar R$ 170 milhões neste domingo; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-3071-pode-pagar-r-170-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
       "source": "G1",
       "published_at": "2026-10-18T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fd632fe53584f8a7",
-      "title": "Alcolumbre conta votos e traça planos para seguir no comando do Senado em governo de Lula ou de Flávio",
-      "summary": "O veículo G1 publicou uma atualização sobre: alcolumbre conta votos e traça planos para seguir no comando do Senado em governo de Lula ou de Flávio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/18/alcolumbre-conta-votos-e-traca-planos-para-seguir-no-comando-do-senado-em-governo-de-lula-ou-de-flavio.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T03:00:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "46e714e004d9a434",
-      "title": "Jovem de escola pública aprovada em medicina na Unicamp estudava 8 horas por dia com videoaulas gratuitas",
-      "summary": "O veículo G1 publicou uma atualização sobre: jovem de escola pública aprovada em medicina na Unicamp estudava 8 horas por dia com videoaulas gratuitas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/10/18/jovem-de-escola-publica-aprovada-em-medicina-na-unicamp-estudava-8-horas-por-dia-com-videoaulas-gratuitas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T03:00:00+00:00",
-      "category": "Educação",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -370,20 +426,6 @@
       "archive": false
     },
     {
-      "id": "36e56732850f1c37",
-      "title": "A microeconomia de Lula",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: a microeconomia de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/10/a-microeconomia-de-lula.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a501f55243fc2d2f",
       "title": "Pacote eleitoral de Lula alcança R$ 290 bi e gera pressão sobre dívida pública",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacote eleitoral de Lula alcança R$ 290 bi e gera pressão sobre dívida pública. Consulte a reportagem para contexto, dados e declarações.",
@@ -391,20 +433,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-18T02:00:00+00:00",
       "category": "Endividamento",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3d6e16cff85cde0b",
-      "title": "Flávio Bolsonaro calibra tom para atacar Lula em debate, e presidente quer explicação sobre tesouraço",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro calibra tom para atacar Lula em debate, e presidente quer explicação sobre tesouraço. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-calibra-tom-para-atacar-lula-em-debate-e-presidente-quer-explicacao-sobre-tesouraco.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T02:00:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -642,20 +670,6 @@
       "url": "https://veja.abril.com.br/mundo/para-impedir-alta-do-petroleo-trump-desiste-de-sancoes-comerciais-a-russia/",
       "source": "VEJA",
       "published_at": "2026-10-17T20:32:24+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "959d280206b8ca4f",
-      "title": "Arrecadação de imposto corporativo cai nos EUA após incentivos fiscais de Trump",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: arrecadação de imposto corporativo cai nos EUA após incentivos fiscais de Trump. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/arrecadacao-de-imposto-corporativo-cai-nos-eua-apos-incentivos-fiscais-de-trump.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T20:30:00+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
@@ -1280,20 +1294,6 @@
       "archive": false
     },
     {
-      "id": "34472b68cbb31c64",
-      "title": "Do trabalho sem limite ao fim da 6x1: veja avanço da jornada no Brasil",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: do trabalho sem limite ao fim da 6x1: veja avanço da jornada no Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/do-trabalho-sem-limites-ao-fim-da-escala-6x1-veja-evolucao-da-jornada",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T16:31:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "877d801e962cb8d9",
       "title": "Nova regra garante aposentadoria especial a agentes de saúde; entenda",
       "summary": "O veículo VEJA publicou uma atualização sobre: nova regra garante aposentadoria especial a agentes de saúde; entenda. Consulte a reportagem para contexto, dados e declarações.",
@@ -1378,6 +1378,20 @@
       "archive": false
     },
     {
+      "id": "bec7917419df8217",
+      "title": "Flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSXN4OENqOWpCSW1yeno5dFdwc2JEckNzSE1HakdqLU5tNEt1N082cElQOXN6X21xZVpFRW9VUVBJd2hzcTRtd3VEX0JvQzJlc1VCdTBGeWN1bGdlTkxJaFItVGRtUE15dEVkZGZLOHZQXzF6YVRPRC11UXpyT0VtUEhUNk9YMkpOVU03NmY0M2F5LXRyT2pNdzc4eVJhQW02S2Jybi1uRlloTHh0ZzBTRnREUXZZcGNWbDVTNEp5Vy1HNmsyUmVRMGIwZ3ZIeUo3Zk5xdEltb2laNDM1UmVTZg?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-16T13:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "31f72c02d3ab4849",
       "title": "O estado de saúde de papa Leão XIV após retirada de câncer - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: o estado de saúde de papa Leão XIV após retirada de câncer. Consulte a reportagem para contexto, dados e declarações.",
@@ -1420,6 +1434,20 @@
       "archive": false
     },
     {
+      "id": "f8ed5bba3976a10f",
+      "title": "Painel: Ex-ministro de Bolsonaro, Weintraub diz que não irá votar e cita suspeitas de corrupção contra Flávio - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: Ex-ministro de Bolsonaro, Weintraub diz que não irá votar e cita suspeitas de corrupção contra Flávio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZVZhU3FOaVpWYUVhWXZnOHhtZE90NUd6UURPeGJDRTdUMVZxY3pfWXR4TXRhS1YyY204dG5aNVdocG1vclB3ZmIyN3o5eHpjRF9sTm80eElnSjZFaTJBX3FwdEw4TFJxOG1RQ1M3ajF6QS1WMG45WmpVSzFmRjJ1OUViSFVOR1NEek4tZ2p0VnNLbHhrSDVvQm5RdWtraDRJdnFiQy13V3dIWER6b0N2WG04LUpONHFxSERaMDgzZmdDZ0hBbFFCR3gwR0x0TGRvOXllbHJackhpY2JKYVlULTlqelpseENNc1VHelNYME0?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-16T09:00:00+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "988817321ffedb5c",
       "title": "Professor ensina sorvete caseiro no liquidificador e sem sorveteira - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: professor ensina sorvete caseiro no liquidificador e sem sorveteira. Consulte a reportagem para contexto, dados e declarações.",
@@ -1441,20 +1469,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-15T22:30:00+00:00",
       "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f97ca4db9e3ea679",
-      "title": "Hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/hospital-geral-de-bonsucesso-chegou-marca-de-450-leitos-para-o-sus",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-15T22:25:00+00:00",
-      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1490,6 +1504,20 @@
       "archive": false
     },
     {
+      "id": "572597fc2b155924",
+      "title": "Docentes usam inteligência artificial para inovar e engajar alunos",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: docentes usam inteligência artificial para inovar e engajar alunos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/docentes-usam-inteligencia-artificial-para-inovar-e-engajar-alunos",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-15T17:45:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "5edbf96a139fabf6",
       "title": "Pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -1521,15 +1549,15 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 19
+      "items": 16
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 68
+      "items": 67
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 42
+      "items": 41
     },
     "VEJA": {
       "status": "ok",
@@ -1537,7 +1565,7 @@
     },
     "The New York Times": {
       "status": "ok",
-      "items": 7
+      "items": 6
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1557,7 +1585,7 @@
     },
     "Agência Brasil · Saúde": {
       "status": "ok",
-      "items": 7
+      "items": 6
     },
     "Agência Brasil · Justiça": {
       "status": "ok",
@@ -1577,7 +1605,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 68
+      "items": 65
     },
     "Estadão": {
       "status": "ok",
@@ -1589,11 +1617,11 @@
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 52
+      "items": 53
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 47
+      "items": 45
     },
     "Eleições · Lula": {
       "status": "ok",
@@ -1601,7 +1629,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 30
+      "items": 29
     }
   },
   "notes": [
