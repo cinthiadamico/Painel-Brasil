@@ -1,10 +1,38 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T03:41:56.616086+00:00",
-  "last_success_at": "2026-10-18T03:41:56.616086+00:00",
+  "last_checked_at": "2026-10-18T04:42:05.743295+00:00",
+  "last_success_at": "2026-10-18T04:42:05.743295+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "97990b809eeec4c3",
+      "title": "Chefe do Exército britânico diz que governo deve preparar população para tempos de guerra",
+      "summary": "O veículo G1 publicou uma atualização sobre: chefe do Exército britânico diz que governo deve preparar população para tempos de guerra. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/18/chefe-do-exercito-britanico-diz-que-governo-deve-preparar-populacao-para-tempos-de-guerra.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T04:23:37+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "32cd995a91e46f19",
+      "title": "Governo do RS promove curso sobre masculinidades, equidade de gênero e prevenção das violências",
+      "summary": "O veículo G1 publicou uma atualização sobre: governo do RS promove curso sobre masculinidades, equidade de gênero e prevenção das violências. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/18/governo-do-rs-promove-curso-sobre-masculinidades-equidade-de-genero-e-prevencao-das-violencias.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T04:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "72a074cd70e03c8a",
       "title": "Confira o que Flávio Bolsonaro e Lula levaram para a propaganda eleitoral no rádio neste 2º turno",
@@ -286,20 +314,6 @@
       "archive": false
     },
     {
-      "id": "525b93710e45615d",
-      "title": "Flávio Bolsonaro faz campanha em Vitória e Salvador; apoiadores realizam atos e carreatas em capitais brasileiras",
-      "summary": "O veículo G1 publicou uma atualização sobre: flávio Bolsonaro faz campanha em Vitória e Salvador; apoiadores realizam atos e carreatas em capitais brasileiras. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/flavio-bolsonaro-faz-campanha-em-vitoria-e-salvador-apoiadores-realizam-atos-e-carreatas-em-capitais-brasileiras.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T01:06:03+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "629e7a9eba0c9396",
       "title": "Ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram campanha de Lula - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram campanha de Lula. Consulte a reportagem para contexto, dados e declarações.",
@@ -324,6 +338,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "411e86a2ee68b656",
+      "title": "Protestos nos EUA tentam mobilizar eleitores para voto antecipado contra Trump nas eleições de meio de mandato - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: protestos nos EUA tentam mobilizar eleitores para voto antecipado contra Trump nas eleições de meio de mandato. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNGdZS1BxSmdlZGZrVnRaR1dNUmd1bTBEM2gwSXFtdHhDVzZMTWh5Wnl5elAzMmlmc0FibnJtWkhqSnZlUm1UcThoeVZ0U0Fhc1FRQlY0NkpxWTdSSW9aSXIzdGZuTG9NejI1dFBmSEVvMFQzX1A0WDRtNHh0anRweFN6YUJCRGdfaGg2UWNmYm5lSnRVMkU5QXdMd0RJbXQxbXhpVGlOQUhTSmFvN1JZSHB6Vi1FQ2Ywb09LWEZ4T1NRaVFFeFdwSHhxRDJnQTM0ZGNfUkllTjVjLVNHWDNOMUZIVGRpaEs1UzF0NWdzb1hFVFNsdHhTOEh30gGIAkFVX3lxTFBUdW5mVEY2Wnp6Q0xCcWFHYmd2N1I2Nzh2YjZ4eENlbGdLLUpMeUdSX3YtamVDQ3lraUNsSWRjaXdsdGdxQU02WVlWNWZudTRlOElrcXQwYll5cDZ0aHRsZlRuclczSzhqN3lSUlhISVRwUGp0Z3BvSERRVXR3aFNQaFN5T3QzTGE4eFdBRjhESUlmc2xSVlc1c2Nrem4wT2pUV2licHFUbHNsOTI4T3Q2RHhjUHQ4SnlXQXRUaTdnVC1IS3JrMjI2LTNSYjhxMElqTXF1SVhCcGRqeFRKb0hBMFhiRWQ4YWdMa1ptMnZPUFpqanB4UGlNUEVHT1NZZ2p3Q2tkLUh2TA?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T23:54:06+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -482,30 +510,30 @@
       "archive": false
     },
     {
-      "id": "63e05c7035a726b4",
-      "title": "Filha de FHC, ex-ministro de Temer, autor de pedido de impeachment de Dilma e juristas assinam carta pela reeleição de Lula",
+      "id": "013bd6cb8e3c34f1",
+      "title": "Filha de FHC, ex-ministro de Temer, autor de pedido de impeachment de Dilma e juristas assinam carta pela reeleição de Lula - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: filha de FHC, ex-ministro de Temer, autor de pedido de impeachment de Dilma e juristas assinam carta pela reeleição de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/17/carta-apoio-reeleicao-lula-alckmin.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWXFkRlJwcGpBM2I2MU9DQWJFd2VBQjlSQVFLRzk5clZFU1BsZVBodWZWeWNneVN4ZzE2c1J4VXhGb1NKWmxZdDdSbHZiUk56MGNaV3g0cDlMSnNOUm9jWUxtdmJaSVhBM21PbWw3X2Z4YWlWT3NSY213cDJ3UXllNkFxS2MzeHpQOVdsZ3dQeGhvVVZrZm15VtIBpwFBVV95cUxOQUFNRzBZV1E0Y296aU1EbmpKMzJtakpLSFY1TUE4Ni1GNlFfSUNVYUFfOWtRdHVlUDdUOVljQTFVenJMbU9sQ2oxRENDaHFnTlMydHN6T2ltUDk0dV9TZENiQ1BzSTFLMDZGdzB2dXh6azRfOUlUaUNUNHhHUmMzdW1aVm81eUIyT3hQOHc4U3NZaTRTbEhDc3ZWN0NuSUJLNnY4T2Z3VQ?oc=5",
       "source": "G1",
       "published_at": "2026-10-17T22:11:40+00:00",
       "category": "Governo federal",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
     {
-      "id": "d0da88f5a6adcd6e",
-      "title": "Em meio à crise de queimadas, governo federal autoriza repasse de R$ 14,3 milhões para ações no Amazonas",
+      "id": "d6f06291116bc01f",
+      "title": "Em meio à crise de queimadas, governo federal autoriza repasse de R$ 14,3 milhões para ações no Amazonas - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: em meio à crise de queimadas, governo federal autoriza repasse de R$ 14,3 milhões para ações no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/em-meio-a-crise-de-queimadas-governo-federal-autoriza-repasse-de-r-143-milhoes-ao-amazonas.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONWNRbjBHYTVhYTVMMXJxbkhESnVqOWFCaVFDV1puenBVNXNHQ2pzVllCRVM1QmYwM0tRQ1VlQkdYbHZPaHNHaU1KSzhlZl9MYjZBQXN5SWdNazAtMjFXZ0YyNm1pSEwwS2VqZDRMcWRrRjRjM2JqUWxwV0tKZWxrNHNNUDE0dUMwY0ttZnA0ZDZZSnZDYW51RjV5V2g1X0llUWcwU3NPNmI2X3h0QkpPclo4WWxkYkgzN0ljSE1FSmVMdjlTYkJsMlBTQ0VoZ0VGbVVfQW1XV21WNWZLbTZSMEtR0gHwAUFVX3lxTE5sajhWdGtCMG1TZHB1SExXbDN0MG56T1F6Y00xMGQ1eV9xOHVqRXk4LVNKVllNblRwTjh1OWZINDhjRFBoakxjR3NGTnhURDFLT3FXNFExN0JEQmtHeFlTV01yeFNJdmtiNVRpUE1od2plUVpZbzAxb2NOOGVCbXdFRTJiME8xUkh6SVh0SGl1TW85VE5zVVdLRkdldjYxdzNXMFRoN2ZRWG5kSFByRUdvU2t4UkJudWF5SV93dTdMMU5hZnpvUjNlWGJQWnlOeDNqVGdLLXBUbFNlc2Y0MkVueWY5b2NnajZlTTJ4RlBIbw?oc=5",
       "source": "G1",
       "published_at": "2026-10-17T22:01:58+00:00",
       "category": "Governo federal",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -524,16 +552,16 @@
       "archive": false
     },
     {
-      "id": "7339cd03f91e4d2a",
-      "title": "Três suspeitos morrem em confronto com a polícia e 237 kg de drogas são apreendidos em MT",
+      "id": "d122aea7a0dea639",
+      "title": "Três suspeitos morrem em confronto com a polícia e 237 kg de drogas são apreendidos em MT - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: três suspeitos morrem em confronto com a polícia e 237 kg de drogas são apreendidos em MT. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/17/tres-suspeitos-morrem-em-confronto-com-a-policia-e-237-kg-de-drogas-sao-apreendidos-em-mt.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONjE2TEl6eUkxblRGWDczTFpWc191RnRhSEFMVHg1SjVraUhVSjU4RWJ4S19vd2FVVUJlWUhQajhBSGlqZFFTcVdRc3FYeDVla1lLMXhxWXJDNnhLNC1OZC10eGdjV09hQVljU3lJbmlTTy1nQXpQZkY5Zk5mcHBSNjF1eVZMMllrUFhLc2p2S042Q3VNZ2FVUVp0aERVamRmckp1NGhHNnNSaVBEV3U3aTBHYU9LR3c5c2x0MjUza0lUSHM1TldLVWRQU3J0OHB6T3VITVRzS1cyd2RpQnI5WDRvaVbSAfMBQVVfeXFMTXFHNEdGbzNCMERoX3NSVF9hbWYtYkg3by12cjhjWGZGOWp2b3ZCVW9wZXBBaks3MHBFUFRFZHkybGpvN0kxVXpTNFE4cUtxc082R0M2M1o3TWhaYmJRXzJJRkVpbkVPVURMTlp1NTV1RmUxVFJxMHhpSXNwbXV3MFMzc25idnFpQ0ZCaVNFeElnbXh5djNodGR3R3pnY2hkQUdld3Q0UElyWHFWOFB0WEhnd2IxYk9Cbno5dzZXM3d4S3VLQjhnX3BIS2w0WTJVcHU0N3dPN2JWZ0p5WTBkcXNUME9ZMDRKQ2U3MV9ET3U2WjBR?oc=5",
       "source": "G1",
       "published_at": "2026-10-17T21:35:05+00:00",
       "category": "Segurança",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -544,20 +572,6 @@
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/homem-condenado-por-matar-esposa-em-mg-e-preso-21-anos-apos-o-crime.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-17T21:29:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dedf72bed46117b7",
-      "title": "Polícia encontra dois corpos carbonizados em área de mata em Ipojuca",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia encontra dois corpos carbonizados em área de mata em Ipojuca. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/17/policia-encontra-dois-corpos-carbonizados-em-area-de-mata-em-ipojuca.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T21:14:04+00:00",
       "category": "Segurança",
       "candidate": null,
       "election_type": null,
@@ -748,20 +762,6 @@
       "archive": false
     },
     {
-      "id": "71b89f17daf9acb4",
-      "title": "Rebocador da Marinha usado na primeira guerra mundial será restaurado",
-      "summary": "O veículo VEJA publicou uma atualização sobre: rebocador da Marinha usado na primeira guerra mundial será restaurado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/rebocador-da-marinha-usado-na-primeira-guerra-mundial-sera-restaurado/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T19:01:29+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "87444683a079405c",
       "title": "Mortes: Empresário saiu da miséria para se tornar um mecenas da educação",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mortes: Empresário saiu da miséria para se tornar um mecenas da educação. Consulte a reportagem para contexto, dados e declarações.",
@@ -783,20 +783,6 @@
       "source": "VEJA",
       "published_at": "2026-10-17T18:41:26+00:00",
       "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "508c91178a108ccf",
-      "title": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: u.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-17T18:00:45+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1577,7 +1563,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 34
+      "items": 20
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1593,7 +1579,7 @@
     },
     "The New York Times": {
       "status": "ok",
-      "items": 8
+      "items": 7
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1641,19 +1627,19 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 44
+      "items": 47
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 54
+      "items": 53
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 53
+      "items": 50
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 50
+      "items": 51
     },
     "Eleições · Flávio": {
       "status": "ok",
