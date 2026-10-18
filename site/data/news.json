@@ -1,10 +1,178 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T20:38:35.870037+00:00",
-  "last_success_at": "2026-10-18T20:38:35.870037+00:00",
+  "last_checked_at": "2026-10-18T21:39:13.327699+00:00",
+  "last_success_at": "2026-10-18T21:39:13.327699+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "59bfff86980d3979",
+      "title": "Flávio x Lula no debate presidencial Band/Estadão: siga o primeiro embate entre os candidatos - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: flávio x Lula no debate presidencial Band/Estadão: siga o primeiro embate entre os candidatos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3YzSVRfRDVORFFBYk9zVGkzejhERjJPSW1oUkw5MkhqVE1PUUItaWQzMVdyaTZWLWh4MmFkVDRiaHQtNHItV2pyQU9XandlcGhqYi02ZG5zeEdsUV92NVVaTE1wQlFway1aNU5ESlQ5SkZUbTdwU3FnQlM3STllMkdoUHhFdkFBNS1ISzRMajE0LWt6Z25sTjQtUG02dDRQZ2ppeDRtV05KWDB3TDMzLTYzZkxrUUIyMVpZTk1n?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-18T21:36:40+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "56a595ae7f7f379b",
+      "title": "Advogado próximo a Flávio Bolsonaro rebate acusações de Richarlison envolvendo ilha",
+      "summary": "O veículo VEJA publicou uma atualização sobre: advogado próximo a Flávio Bolsonaro rebate acusações de Richarlison envolvendo ilha. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/advogado-proximo-a-flavio-bolsonaro-rebate-acusacoes-de-richarlison-envolvendo-ilha/",
+      "source": "VEJA",
+      "published_at": "2026-10-18T21:08:30+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4f1c0afd874d8d4c",
+      "title": "Às vésperas da eleição em Israel, Trump declara ‘apoio pleno e total’ a Netanyahu",
+      "summary": "O veículo VEJA publicou uma atualização sobre: às vésperas da eleição em Israel, Trump declara ‘apoio pleno e total’ a Netanyahu. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/mundo/as-vesperas-da-eleicao-em-israel-trump-declara-apoio-pleno-e-total-a-netanyahu/",
+      "source": "VEJA",
+      "published_at": "2026-10-18T21:04:55+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ed21cd9cdbfafd32",
+      "title": "Flávio Bolsonaro x Lula no debate Band/Estadão: horário, onde assistir ao vivo e regras - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: flávio Bolsonaro x Lula no debate Band/Estadão: horário, onde assistir ao vivo e regras. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDZXNW5ZMXdOT2xLcEZ3UDJHaTNxYkZIdXQ0T0h2V1d1Nk81YW42Q19YUzlMZ0JYYXRJemhIdVRzLU9sYk9kVnkwNHhZZDlteFdNYThCbFJZdDdBN2FpVE9JVkZsVV9yRW95RGpoMFBKNHhUc2p2Z052RHpJeVBreHNsY000MkFCQWVjM1oxUkI1RUVaR1FrUF9IWjh6cG92NXdfdEI5VkpvbGxQNWllcWpPWFRmN2pIOWduRDFERGUwTDlZQndRQ1hR0gHPAUFVX3lxTE50Tzc5X2lTRXJORjJFYXhFMndsU3dXYm5JSFdCVGZGYVNYTmt2N1Z1Q3g4T19ncG9wS1FRVm52eUktcUdFajJMRG5vRU04dHNNT1VNLXJxTl9INENjR0VSOTlFUlVxNTBnbGgxc2cxNjBpZF9YUjhtMUNfaU9OQ014aWNoVVVfeks5dEM5eXYxSm9Wazg2a1FrcTZsUXVUc0FjeTBSMnkwWlIxck5ibmk5bFlfRkROeWhpMEFOcmdXc2RTN0JTdHpSRGVyTzJQdw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-18T20:57:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "165d2bcd21d4fa1f",
+      "title": "Apoiadores de Lula fazem ato em Curitiba neste domingo; no sábado, cidade teve manifestação pró-Flávio Bolsonaro",
+      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula fazem ato em Curitiba neste domingo; no sábado, cidade teve manifestação pró-Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pr/parana/noticia/2026/10/18/apoiadores-lula-flavio-bolsonaro-curitiba.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T20:53:13+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "52a6023cea034fd7",
+      "title": "Trump diz que não quer afastar Rússia de negociações e acusa Zelensky de prolongar guerra",
+      "summary": "O veículo G1 publicou uma atualização sobre: trump diz que não quer afastar Rússia de negociações e acusa Zelensky de prolongar guerra. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-nao-quer-afastar-russia-de-negociacoes-e-acusa-zelensky-de-prolongar-guerra.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T20:50:50+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "287e5318b79dfb3a",
+      "title": "Apoiadores realizam ato pró-Flávio no entorno do Açude Velho, em Campina Grande",
+      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores realizam ato pró-Flávio no entorno do Açude Velho, em Campina Grande. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/18/apoiadores-realizam-ato-pro-flavio-no-acude-velho-em-campina-grande-pb.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T20:43:59+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "840d44c2878a5986",
+      "title": "Apoiadores de Lula fazem ato com Caetano Veloso, Djavan e outros artistas em Copacabana - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: apoiadores de Lula fazem ato com Caetano Veloso, Djavan e outros artistas em Copacabana. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRjJtaUxPWVhaVzFVeVJsU205emdTRG1sTTAwRm9PRko1blV1cVNSYjZzRTkyMXF1NzdvYldvY1QxQUU0aFA5ajNqWEZaME8teDBqRWM2ME1uR3pQTVNJZDlvTzVfQnRWTzB4THFLMFRMd2ttVXNDeTJsUGVNbXdwcmxOMWtWRmtrcldzUEI2WV9Va0FIV2w0NWVLZ21XYVdzaE9QNjJKMXJSZ1Q0c0tmREl3X25sRGVxUEp2aWJKcmRQYVRUanUtaWYzR3hfTDBSRndham1YZE02ekx3NTlFRktiWXAwZkFCOG9iSmlZWUTSAf8BQVVfeXFMTThMSnpmR01keHVZbHdzdWk2X2MydmhMSGhlSS1LWjd6SmVVLWFZV0hoRzM5b2dTRFJtb0FVMUNFMUNTZWlSNGthYk5WWHZrSXJOS1R0VmVjN0U2N24xQTRpeENobkg4d0hyMjZWME9rWkplbDFPYnQ1X2Zqckotc0RTb01zN1ZGSjBhSEg5YW1TQ0ktcDRENGxhMzFMTEFvQlFSMkhwSjJ4Q0VCUWN6S1JlelVKTzV3d2YtaWtTV0NNMHBpdHZEYzdkLXJpeHpsXzhkR1U5N1pNaEtGWGRRMVdObGV1bGRTM044MzFSYVZlTFdGZjdaMFc0TVduektR?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-18T20:43:05+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a51264e569a1dbd7",
+      "title": "Planet Earth and Brazil’s Election",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: planet Earth and Brazil’s Election. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/18/world/amazon-brazil-election-climate-france-alberta.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-18T20:41:18+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "09b07144de988434",
+      "title": "Ato a favor de Lula convocado por Caetano reúne artistas e ocupa orla do Rio",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ato a favor de Lula convocado por Caetano reúne artistas e ocupa orla do Rio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-a-favor-de-lula-convocado-por-caetano-reune-artistas-e-ocupa-orla-do-rio.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-18T20:34:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "02ce0a726c318f80",
+      "title": "Ato a favor de Lula reúne apoiadores em Goiânia",
+      "summary": "O veículo G1 publicou uma atualização sobre: ato a favor de Lula reúne apoiadores em Goiânia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/18/ato-a-favor-de-lula-reune-apoiadores-em-goiania.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T20:33:13+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "667020157cd2e220",
+      "title": "Vantagem de Lula sobre os Bolsonaro cai em 98% das cidades do Nordeste",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vantagem de Lula sobre os Bolsonaro cai em 98% das cidades do Nordeste. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vantagem-de-lula-sobre-os-bolsonaro-cai-em-98-das-cidades-do-nordeste.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-18T20:33:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "79d8d0d89e56046a",
       "title": "Organizações cobram transparência e equilíbro após denúncias de restrições a conteúdos pró-Lula",
@@ -16,6 +184,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "49201e5f2026bc15",
+      "title": "Flávio Bolsonaro é investigado em 2º inquérito no STF para apurar suspeitas de lavagem com advogado - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: flávio Bolsonaro é investigado em 2º inquérito no STF para apurar suspeitas de lavagem com advogado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2lwajhidHJMYzZITE9PTmVCNGJKZUdXYk5lc296dXdqbWE2Sjl1VHJhRzZDUXFEdWtoSm5VUkVyYjQyTVQ1SW1Ld2ZyR0c2LXpRWE0xZlFoOXFwMVRqNjFaTDJKclhvOXBycjRkMUxvMXpLMDRaRTlITDFNYkxDbzdQMVR0M2xBd1o1NEFWRVQ1NHhKTlI1QVlmdTRLTWdadVl6RU83R29DeVFUYTlRYVZwcmxhSm54M0R2OU9MYnJ4SDFtUDNrbEFTcWhCdE9t0gHWAUFVX3lxTE16Yjk5bzhjWWJkS0pnU25aTl9JcElnZV9VeFF2X0ltaXVZdU43c0hWQzNLc2VVYzRnNVRWS1dCSUZ4R2Z6LTJnT2g3eGhtSU1HdEFQOF90MVloRFB4cEhEalV1cWFLd24yR09zdE5SbWxkaC1yb3N4djFJbGktbXFXSkFJN0NzN0JlX3lFeE44aFUxZ3E1c1dMeUdXYmVjUDZDWjhWdFBrS2Z5bC1SaUpaVi01YkVoSlVhRE5ONTk3cUIxTnVfZ2ZLVFhXSVdSQWc3Zks3cXc?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-18T20:27:20+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -62,48 +244,6 @@
       "archive": false
     },
     {
-      "id": "3e866ad7f7f61399",
-      "title": "Veja como justicar ausência nas Eleições 2026; Amapá teve mais de 100 mil faltosos no 1º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: veja como justicar ausência nas Eleições 2026; Amapá teve mais de 100 mil faltosos no 1º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/18/veja-como-justicar-ausencia-nas-eleicoes-2026-amapa-teve-mais-de-100-mil-faltosos-no-1o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T20:08:32+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4783bb30c6633b12",
-      "title": "Os eleitores que decidem o 2º turno, segundo cartilha da campanha de Lula",
-      "summary": "O veículo VEJA publicou uma atualização sobre: os eleitores que decidem o 2º turno, segundo cartilha da campanha de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/os-eleitores-que-decidem-o-2o-turno-segundo-cartilha-da-campanha-de-lula/",
-      "source": "VEJA",
-      "published_at": "2026-10-18T20:07:32+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8a095b3c813c04cf",
-      "title": "Candidato a vice de Flávio Bolsonaro aciona Justiça contra Manuela D’Ávila",
-      "summary": "O veículo VEJA publicou uma atualização sobre: candidato a vice de Flávio Bolsonaro aciona Justiça contra Manuela D’Ávila. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/candidato-a-vice-de-flavio-bolsonaro-aciona-justica-contra-manuela-davila/",
-      "source": "VEJA",
-      "published_at": "2026-10-18T19:55:03+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "0e632facef46a12b",
       "title": "Nada justifica violência em protestos, diz Macron após dia de caos na França",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: nada justifica violência em protestos, diz Macron após dia de caos na França. Consulte a reportagem para contexto, dados e declarações.",
@@ -118,20 +258,6 @@
       "archive": false
     },
     {
-      "id": "a7eceac37acb2d1f",
-      "title": "Eleitores com deficiência podem solicitar transporte gratuito para votar em MS",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleitores com deficiência podem solicitar transporte gratuito para votar em MS. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/18/eleitores-com-deficiencia-podem-solicitar-transporte-gratuito-para-votar-em-ms.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T19:45:08+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "07b32e2204eefb78",
       "title": "'Sem bandeiras de outros países': organização de ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Sem bandeiras de outros países': organização de ato de Flávio na Paulista pede que apoiadores escondam bandeiras de EUA e Israel. Consulte a reportagem para contexto, dados e declarações.",
@@ -139,34 +265,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-18T19:35:37+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5546e2f6be0a2374",
-      "title": "Lições do passado e do Centrão servem de alerta a Flávio Bolsonaro",
-      "summary": "O veículo VEJA publicou uma atualização sobre: lições do passado e do Centrão servem de alerta a Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/licoes-do-passado-e-do-centrao-servem-de-alerta-a-flavio-bolsonaro/",
-      "source": "VEJA",
-      "published_at": "2026-10-18T19:34:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ce10dc6697303b39",
-      "title": "Snipers no alto de prédios chamam atenção durante comício de Flávio Bolsonaro na Paulista - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: snipers no alto de prédios chamam atenção durante comício de Flávio Bolsonaro na Paulista. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYm8tZEpIb3pNWDRZVjJFQWthNnVwQUliOXJOSzNpR3lBNTFRRGpqSU9ZN041ZmdfWEdMbjNjOFZBWnI3cUhOT3FRMEY0RUFMWFVoeW1YOVg4T192cXI4NG1IeW00VWJGbHB5alBGdTZyYlB3LTViSVJSQzROckZHZDhwWnZTeWpBOGpuVzZUNmItelNVVUppaVZjODJDdGFNMTVzZ3Nxb1BkT1ZvYmNjcHdnR0xxdWxWZ0VteUVMR3FYV3RXQWNMdFpsb3ZzaTVVYXdrWnRyTmtHYUVZU2dBMkJPRUFpcmgzS2VPdzE5Y05jbDZz0gGDAkFVX3lxTE56N005ZFZYN3BCdjBzSkJOZDQ3Tk44YkdmYnVjZDFIdktJR1RIMnQzeXk2NmM0VVl5MXptanhtYzBid3hENHdJQURqMDAxVW5pX3RnLUZ0b2xWZ25Pb0NldnByWS1tNUw3YnNnQjd1OUVsMnJTSC1ESmtZT2JSbnl4bDNJemR4MjE0X0NiUkp4aUFkOU43cEYtbDduN2FzQmNENTliZnFTMnNuVjdSVkVGVnRTRXF1VkpWR0ZIc0MyUUpQZExCWE1BMDZmLVNXWnFFeVljY0tXSDlxY1R6cW9yRGRQQTM0TTRmU3loLS1WV3VWZDFkbVFkX0lFSGtESU1QSk0?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-18T19:31:50+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -216,48 +314,6 @@
       "archive": false
     },
     {
-      "id": "b35e6c71b4fadff7",
-      "title": "Apoiadores de Flávio Bolsonaro levam míssil inflável com pedido para Trump bombardear o Brasil a ato na Paulista - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: apoiadores de Flávio Bolsonaro levam míssil inflável com pedido para Trump bombardear o Brasil a ato na Paulista. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPelZXck5TQlZTMzZKZ0Nwd0tIR0V5aGUzbEJKQ1hyYk5yUDU0T2ZlU1czZGk0dG1xME41V2NyRTRKT1dydy1LdnhzM3Zmd0d3TFctU1FSQ3pmbWlrRFFXSmQzMm1pbVRKUVFTdnFHcldYaXZtVXU4cGVqVnBQN2NZVXdmWjBtZG1qMno3V3FHdkdSakFVQ0NRWEVaMk1idHpZVlR5a1dHT1B6TjBDY0N3Q2E1aGtjX2VOWVl5NlpSdF9xOUNwOTJIM3p5TW5LRm05cGJyMkJwS3JlbGtnclVRcjUwYmRUSHhodEZ0WGdtaGxXZ0M2ZTF2TXFrZVNVZk00RktVVkNLMXNlNlkxTTZGRUNHMNIBogJBVV95cUxNQ2ExWWlDVmZKMG05T293MV9makNUbUc5VHlXOTFWQVJhcnJMSzd6cjhpVUdFSGVCVXNZWXJBdHloR0l6Q3NOdi1jODkzWld3ZnA2dUFGNDZMeUN1Zl9kR204Rk9mQS1tQ0dESlhlc3FiQnp3UEhoazFZbllNZklmX2ZkcGIzNFdadFc3YlNvVVgxT3djZ3laUnA0Rk5zMDJfWHFfOGRFSXQ4VTRCWGNFMGtxTTdJXzFfbmlRQ0RMZVRLRXdEb09CT0pVN1VzTmxrTXhuNnQtalJzb0d4V0J6SVFtRlZWWjNnNm9seDBNcWdIaDdkZ2czeDhETEZmZng1R01GWER3NWFJY1ptd283TUo3ZDdTZVZIcS1SOGZyN0RpZw?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-18T19:09:55+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fbfbd64a6e510355",
-      "title": "Apoiadores de Lula fazem atos no Centro do Rio e Copacabana; Caetano Veloso, Djavan e outros artistas se apresentam",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula fazem atos no Centro do Rio e Copacabana; Caetano Veloso, Djavan e outros artistas se apresentam. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/18/atos-rio-apoiadores-lula.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T19:09:53+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ff6bae0c651fef4f",
-      "title": "Onda de protestos na França já levou 2 400 à cadeia e deixou quase mil policiais feridos, diz governo",
-      "summary": "O veículo VEJA publicou uma atualização sobre: onda de protestos na França já levou 2 400 à cadeia e deixou quase mil policiais feridos, diz governo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/mundo/onda-de-protestos-na-franca-ja-levou-2-400-a-cadeia-e-deixou-quase-mil-policiais-feridos-diz-governo/",
-      "source": "VEJA",
-      "published_at": "2026-10-18T19:05:38+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5f699229d85ca3f1",
       "title": "Polícia apreende 236 kg de maconha em carro abandonado em estrada de terra em Presidente Venceslau",
       "summary": "O veículo G1 publicou uma atualização sobre: polícia apreende 236 kg de maconha em carro abandonado em estrada de terra em Presidente Venceslau. Consulte a reportagem para contexto, dados e declarações.",
@@ -282,6 +338,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b20c678c02dc5ed0",
+      "title": "EUA ameaçam Europa por restrições à Starlink, de Elon Musk, diz jornal - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: eUA ameaçam Europa por restrições à Starlink, de Elon Musk, diz jornal. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV1FIbFpiOG16LWJSUXgzcGR4ZWRRa3hfWjJMdHpaRml0T0hkYWhsWkswQjlXVVRTREs1bUdGMU4wemRaRHc2ZjJpSzB4R0JsWjh5RDJOQTVfNWVGaWNibTV4aWZIZnFyVml4elU3aDBrVmtocUgwVDhRbjktRWlUamRXenozb25zUGM2Z3h0Y2RZOXZHR1lNb3NKajZfTVIxRVF4elpHVFhnLW5maExhV29UdnhHZnAtWHJqZHQ4V3h3aFpHaHfSAdQBQVVfeXFMTkUtQmpTSWdpXzNUQ3UyLUhnN2VCSG1lZHFZVXEtdG9UdzNaU3pYZnhQRi1zZ0lWVFhvaUNlZVlOM2pmM2tLTnpSdjh6QWlYRzFDQ0tSczdDLWFEZ2M3RFcxQ1FQWVgwU1JVaGFSN3I5R1Z2S2YtaUNBUGVxWGtTN094a3dCaHk5Nnhad0ZXMXJfcVlNSU8xUldfUk9oWUFEeC1ST1hfSFpVb2QxMEhKWXNldGRZNjFFM29Hdk4tUnRqWThxVWR0QmhKSzhPN19jOVRpVW0?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-18T18:51:11+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -496,20 +566,6 @@
       "archive": false
     },
     {
-      "id": "24b536cfc7f698fd",
-      "title": "Donald Trump declara apoio a Netanyahu na eleição de Israel",
-      "summary": "O veículo G1 publicou uma atualização sobre: donald Trump declara apoio a Netanyahu na eleição de Israel. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/18/donald-trump-declara-apoio-a-netanyahu-na-eleicao-de-israel.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T15:57:55+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b0d77226e273333a",
       "title": "Concurso da Polícia Civil do AP encerra inscrições nesta segunda (19); salários chegam a R$ 31 mil",
       "summary": "O veículo G1 publicou uma atualização sobre: concurso da Polícia Civil do AP encerra inscrições nesta segunda (19); salários chegam a R$ 31 mil. Consulte a reportagem para contexto, dados e declarações.",
@@ -566,37 +622,9 @@
       "archive": false
     },
     {
-      "id": "00886d0c21e33824",
-      "title": "Chefe do Exército britânico diz que população deve ser preparada para tempos de guerra",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: chefe do Exército britânico diz que população deve ser preparada para tempos de guerra. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/chefe-do-exercito-britanico-diz-que-populacao-deve-ser-preparada-para-tempos-de-guerra.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T14:48:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a8ddf400b127318a",
-      "title": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-18T14:30:49+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "1cd3c8e38529cc73",
-      "title": "Flávio diz em ato na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: flávio diz em ato na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Flávio diz na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho; Goiânia também teve ato - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: flávio diz na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho; Goiânia também teve ato. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHhqUU9QQUNTbzNzdldJMnhQZllOellhaTNCclA0RTZVTlZNOXpoWnUxY0U5cVYyLXUtdWtaY3oycVBzOEJTU0lBMEVJUXNiWVFsNVFjX2RpMGJiTnpERm1wcGZqNHc4SXl6eENmcUx3eDRuR1hLQldDLWowcnRKcy1xOHFuTnVMM3JVSHA0a2loNndxMzltMWNxZndZc0HSAa4BQVVfeXFMT19sQnAySGVZSk5HUmlXNVdJd2NwVFZSQTE2bWN4T05KTWVuYWRPcEk0RGV4YzdFNy1TUUx4OWR1bm1LRG4zWjNrMnFRN3V1ZjJPZGI1Q0FQSjZnSFlUWE9yRGthQk9xRzVFSVBPWU1DUzRPZ2Q3eER6a0F3NmNTQ0lUa05DT1hQV2F3MlY0a3dPekV2OEw5VkZ3TEJlX0RpQnlCcFdFWkd5Ql92bmNB?oc=5",
       "source": "G1",
       "published_at": "2026-10-18T14:27:49+00:00",
@@ -632,20 +660,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4a91198c97739232",
-      "title": "Ucrânia volta a receber dados dos EUA para barrar mísseis russos, diz Zelensky - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: ucrânia volta a receber dados dos EUA para barrar mísseis russos, diz Zelensky. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd3REZklCbEJwNmFqMmszZkVvcTBOb1dtSDFIQlYyUVhEUVNtendDMkxXZWJkdlJWU2FjS0M1SnM2dlJhZGUtaG5OSnp4S2I4R3FSYktmVVdWRFVHckJ5cHoxSngzZHhKWjh2dGlwVFM3RVRlUFpya2tYcFRybnQ0azJBZjNDWmJMc19NUWpFYTVXNDhnb1FnU2NlbFFWWERUSi01ZVdfcUJiSFZMbFNuUTFDY2lqQ2xRTnVDTEV2RHZRZjFHalk4etIB1wFBVV95cUxObW1xQ2k2VzF4cjF3VXFFN0QxZEJfWHhqWHl0NjhjTDVmTkxtcG52MU5ydi1iY2pHeHVPR0R3eElCdEhtbER2UG93UXY1WlQyUG5TME1YcnpvUGh3U1JIckJoYTd5enkwZXlGcWYydHhZOHMxODdLUFp5TWlIUURZRlExb1gwSDRtX2o4MGJCcWJVb3NDRUNKbnh1ZFFBcndaYTFQaXYydHd1Z2FDelVwNy1YODExY0c4Y1BKeXNIeXE0WjBjVUxMVlA4eHFLVmdDUTdwNFY3QQ?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-18T14:13:14+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -769,6 +783,20 @@
       "source": "Estadão",
       "published_at": "2026-10-18T11:00:00+00:00",
       "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "014e5a92b77e1063",
+      "title": "De colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: de colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUzl0R18xMFJsVUw1czVOT0dIN2NoT1o4N1JTeE9BZ2o5Q2Zia3p1LTMwZUZQNjF1X25aVGVsS1ByTjZfWENFenk4YnQtZlNXRzdRU2FkREUwSWNVUEs1ZG1YeHc4eEZyckRrSEZRV3c4b3NVSlZLRXpqcmNrUk0tRk5MRkc0R2hzeUFuTXQ0d1lrRzI0d0FNTFJCVGY5Z1pqN0d4VnQybnBHMF9LT1pzUGRmSVhVZzJESzFEMlpBLWxKMlVBNFlpR21sTDR6LTdDOHNhbHdGTDdBckxUbjEwSV9uUml5Z9IB9AFBVV95cUxQUmdNTmk3OVpUTDdUV2g1NjJ1UWFIWHc5UDJVVDVma1BIbVhYUjZqZVROVy1fR1g5X0ticFNKakZ0cFp4UW1NM1hsZmxyMEQ4aDRyZFlRYVl2ZEJxU3djenNIV1p2ZGphemg5eGdnRFVER01aMHpTSzA0N24wakVDcXJvZFBNSmZkX041bFFmcG8zT1RyWDI5MVlPNXFLN0x1OXZtTHUwTWFIRW1fSTBFeUtRcllaeVE4RU1sQlhSZU50MGVZSkRqVjEtZ19FU1RkX3VOaFlFUndzZUxjcW5jUW5PYUFYYXREUUZLLXFfQzBUUFZL?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-18T09:00:00+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1014,20 +1042,6 @@
       "archive": false
     },
     {
-      "id": "392d9355ff4eb4e9",
-      "title": "Painel: Prerrogativas aciona PF e Justiça Eleitoral para PL explicar contratação de empresa - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: Prerrogativas aciona PF e Justiça Eleitoral para PL explicar contratação de empresa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS2kxYm1yWlVPNWs3dlBxWVBmR29QU3Fuc0RnaWE5S2pIQU5UWkdFOGxEdk4yZnhSZWpiX1M5QWhJMkZCS1ZQeVN2Rkt1LXBiam41WmRsYTdRdW5SXzgxcFlEUDZxOXZOWmFRbmlYeGxydWJqUk43dHNZeE5lbHdFT1d5WGpKbG5YSWtWYmx2U0twd0lrM3RBVXJ5cUlGTFo2VzlIZFB3dzQtSldsbkpFZEwyMlZ1TTV0aG8wUU9lZmJScVJfbDRaa3k0cU1jbllWZ01PS252OUhOZw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T21:01:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b64dc87f085a0f52",
       "title": "Partido Novo entra com ação no TSE contra atos musicais por democracia",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: partido Novo entra com ação no TSE contra atos musicais por democracia. Consulte a reportagem para contexto, dados e declarações.",
@@ -1056,16 +1070,16 @@
       "archive": false
     },
     {
-      "id": "9921ad5b87f67710",
-      "title": "Campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno",
+      "id": "d3c690b66e33baa7",
+      "title": "Campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/campanha-de-lula-pede-ao-stf-passe-livre-no-transporte-interestadual-durante-segundo-turno/",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmp5Qk9DT0tPZWFaMlI0MUdxNloxTUxPRHBaTHVRMy10N1ViNVczTDNqUldHVDFMTGVjU1JFSkRUWkNzWmFXZVUtRlpUTE9XTi0tb0VXemFxQ3gxMkhvQ0czZ3lXYW5mNkJzMHNJQkxXX2Y1Y2lweFdON1pBMkNmMzNJRGxBY0Z1UldfLWZVU2hXYVhsczdKYk9zdmV1NVdaOHgwUmQ3aU1PSFdqakFYRUl4LUhKNUFXcDQ1M1lIbWtVZw?oc=5",
       "source": "VEJA",
       "published_at": "2026-10-17T20:02:33+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1546,20 +1560,6 @@
       "archive": false
     },
     {
-      "id": "f97ca4db9e3ea679",
-      "title": "Hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/hospital-geral-de-bonsucesso-chegou-marca-de-450-leitos-para-o-sus",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-15T22:25:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "dfe307e631ffd239",
       "title": "MEC libera novas formações online para professores",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: mEC libera novas formações online para professores. Consulte a reportagem para contexto, dados e declarações.",
@@ -1619,27 +1619,27 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 25
+      "items": 28
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 50
+      "items": 51
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 35
+      "items": 33
     },
     "VEJA": {
       "status": "ok",
-      "items": 11
+      "items": 10
     },
     "The New York Times": {
       "status": "ok",
-      "items": 6
+      "items": 7
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 3
+      "items": 4
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1683,7 +1683,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 30
+      "items": 28
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1691,11 +1691,11 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 49
+      "items": 52
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 43
+      "items": 42
     },
     "Eleições · Flávio": {
       "status": "ok",
