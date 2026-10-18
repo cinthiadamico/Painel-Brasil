@@ -1,10 +1,150 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-17T23:33:03.621440+00:00",
-  "last_success_at": "2026-10-17T23:33:03.621440+00:00",
+  "last_checked_at": "2026-10-18T00:54:26.562105+00:00",
+  "last_success_at": "2026-10-18T00:54:26.562105+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "95cced7bc68e8ce4",
+      "title": "Papa recebe alta do hospital depois de cirurgia para remover câncer no pulmão",
+      "summary": "O veículo G1 publicou uma atualização sobre: papa recebe alta do hospital depois de cirurgia para remover câncer no pulmão. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/papa-recebe-alta-do-hospital-depois-de-cirurgia-para-remover-cancer-no-pulmao.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T00:37:37+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "16326f5204e301f1",
+      "title": "Carreata reúne apoiadores da reeleição de Lula em Parnaíba",
+      "summary": "O veículo G1 publicou uma atualização sobre: carreata reúne apoiadores da reeleição de Lula em Parnaíba. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/17/carreata-reune-apoiadores-da-reeleicao-de-lula-em-parnaiba.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T00:19:28+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "32fce61dee818869",
+      "title": "Richarlison acusa Flávio Bolsonaro de tomar posse de ilha em Angra e pede investigação da PF; Willer Tomaz desafia o jogador do Tottenham - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: richarlison acusa Flávio Bolsonaro de tomar posse de ilha em Angra e pede investigação da PF; Willer Tomaz desafia o jogador do Tottenham. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeWVuZVl4LXk4a1hDSkFCS1Q1YnNUa181aFg1NlEzcUd6bkR2X3ZxNHJYWnJNZVRnVld3MjhIaE9ZUXE4UVh1ZF8xbVVrUGxQS0JhSGZWaGhnaFB0YzVJd3lyX3Y3VHdxdmxnWGk4YWpNaDlHT0JGM2xiQW5oeDlmblEtRzNsMjB5OU1tZGVISlc0MnV4bU1kN3FDOVlfM0hzU3FoZU9KQldPTGRsMXBtbzBCZndXbFpRdTJKOWlDYmNQMVZweGNGLU1CVE42VUJwdHB1VGwySUw1SWpMeTFkbk5vb1JSZ9IB9AFBVV95cUxNS3JhdmwxU1ZXdFVwOWZUWUJPSU93STd2OVJZZDVjV3dOWDNzWUZrRlMzT0M0MGR6YTdFYWltZUpCQVJEOXQ1RVhLOGtSaGRleGlzb0tNTUFtX1RSeVd3NktaR2tTd1VhVnlSUUR0NXBMV1kwdWJqc0o4cFZUcXhlTnV5WVlCZnlhVkdGTUQxbF9JU1ZnTU94eGRXLUgweUduQUpWd3k3NmJKdjJFV2FvbG16NnZrdWNuU0h5QjdmNGd5VWZ0MnhYdHFyOVFSQWpLV3RORGFTVUJWbU9IWE9uem1vNHJjRlRQWmszbnVELUhqQk9J?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-18T00:04:31+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ce9a33c4c894ab7c",
+      "title": "Manifestantes fazem ato de apoio à eleição de Flávio Bolsonaro em Teresina",
+      "summary": "O veículo G1 publicou uma atualização sobre: manifestantes fazem ato de apoio à eleição de Flávio Bolsonaro em Teresina. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/17/ato-flavio-bolsonaro.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T00:04:17+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4178212afd21438b",
+      "title": "Campanha de Lula teme 'voto oculto' pró-Flávio na reta final",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: campanha de Lula teme 'voto oculto' pró-Flávio na reta final. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/campanha-de-lula-teme-voto-oculto-pro-flavio-na-reta-final.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-18T00:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f4421d11cde7c021",
+      "title": "Brasil não atinge meta de vacinação para a maioria das vacinas da rede pública",
+      "summary": "O veículo G1 publicou uma atualização sobre: brasil não atinge meta de vacinação para a maioria das vacinas da rede pública. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/brasil-nao-atinge-meta-de-vacinacao-para-a-maioria-das-vacinas-da-rede-publica.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T23:58:14+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6fe31442cd4c0ead",
+      "title": "Amiga de Lulinha afirma que quer fazer delação premiada e chama presidente de mentiroso",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: amiga de Lulinha afirma que quer fazer delação premiada e chama presidente de mentiroso. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/amiga-de-lulinha-afirma-que-quer-fazer-delacao-premiada-e-chama-presidente-de-mentiroso.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T23:43:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "176e2a643268c34b",
+      "title": "Amiga de Lulinha diz à CNN que Lula mentiu e que filho de presidente se reuniu com ministros",
+      "summary": "O veículo VEJA publicou uma atualização sobre: amiga de Lulinha diz à CNN que Lula mentiu e que filho de presidente se reuniu com ministros. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/amiga-de-lulinha-diz-a-cnn-que-lula-mentiu-e-que-filho-de-presidente-se-reuniu-com-ministros/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T23:35:20+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2bfcc2f2625037e0",
+      "title": "Governo federal anuncia envio de cinco novas aeronaves para combate a incêndios no Amazonas",
+      "summary": "O veículo G1 publicou uma atualização sobre: governo federal anuncia envio de cinco novas aeronaves para combate a incêndios no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/governo-federal-anuncia-envio-de-cinco-novas-aeronaves-para-combate-a-incendios-no-amazonas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T23:32:54+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e0c081f8d2951e8b",
+      "title": "Incêndio atinge indústria de alimentos em Sete Lagoas",
+      "summary": "O veículo G1 publicou uma atualização sobre: incêndio atinge indústria de alimentos em Sete Lagoas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/17/incendio-atinge-industria-de-alimentos-em-sete-lagoas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T23:31:59+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "fb4fb0648e0d310c",
       "title": "'Lula não é o primeiro nem será o último a aprovar medidas às vésperas de eleições', diz leitor",
@@ -16,6 +156,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "62ef837d41c859ae",
+      "title": "Lobista diz que Lulinha reuniu-se inúmeras vezes com ministros e quer depor para PF sem poupar Lula - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: lobista diz que Lulinha reuniu-se inúmeras vezes com ministros e quer depor para PF sem poupar Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR1UtYlZnM1E1NGpKbDI1dDloc3NLUkVzdGNENkxNNTZXV3BpNXFzNW9MaWlBOE9OU014blVYbzNDajJNZ2JOWHhESVVZaFBPdVRuSUdoNk44QXQ4YkFiQUo3MmNKakVHNU9jX2hlXzFvRkVpNWljMDZ2YzZjRTk4aTJYYWVRcl9aelFrNTNia3YyWmpKWVZJTjRlUl9TSVF0MDJOcUk2eW45QWVsdFVSR0VsdHUzYXJNS05vMldsdEZQa09uODMtcmxhX1RfdEkzVm1mR3VXY2hXYUly?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-17T23:27:15+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -90,20 +244,6 @@
       "archive": false
     },
     {
-      "id": "c824cfaa8ced05a3",
-      "title": "Posto citado em investigação que levou à prisão de Canella recebeu mais de R$ 37 milhões da Prefeitura de Belford Roxo",
-      "summary": "O veículo G1 publicou uma atualização sobre: posto citado em investigação que levou à prisão de Canella recebeu mais de R$ 37 milhões da Prefeitura de Belford Roxo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/17/posto-investigacao-canella-prefeitura-de-belford-roxo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T22:51:57+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f9ea99f083cf7d95",
       "title": "Trump rifa a Ucrânia",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: trump rifa a Ucrânia. Consulte a reportagem para contexto, dados e declarações.",
@@ -118,20 +258,6 @@
       "archive": false
     },
     {
-      "id": "43e82e19f91e42de",
-      "title": "Manifestantes fazem ato pró-Lula em BH",
-      "summary": "O veículo G1 publicou uma atualização sobre: manifestantes fazem ato pró-Lula em BH. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/17/manifestantes-fazem-ato-pro-lula-em-bh.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T22:44:10+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9159140e16f333a0",
       "title": "Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos",
       "summary": "O veículo G1 publicou uma atualização sobre: depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos. Consulte a reportagem para contexto, dados e declarações.",
@@ -139,20 +265,6 @@
       "source": "G1",
       "published_at": "2026-10-17T22:42:12+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f639bd9c73fd75b7",
-      "title": "Governo amplia frota aérea e mobiliza militares contra incêndios no Amazonas",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo amplia frota aérea e mobiliza militares contra incêndios no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/governo-amplia-frota-aerea-e-mobiliza-militares-contra-incendios-no-amazonas.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T22:39:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -223,76 +335,6 @@
       "source": "G1",
       "published_at": "2026-10-17T22:01:58+00:00",
       "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2ff6620970a7b956",
-      "title": "Na BA, Flávio Bolsonaro recebe título de cidadão soteropolitano e promete concluir ponte Salvador-Itaparica se for eleito",
-      "summary": "O veículo G1 publicou uma atualização sobre: na BA, Flávio Bolsonaro recebe título de cidadão soteropolitano e promete concluir ponte Salvador-Itaparica se for eleito. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/17/flavio-bolsonaro-passeata-em-salvador.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T22:01:14+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "25ffe2e22b60451d",
-      "title": "Lula e Flávio Bolsonaro tentam mobilizar eleitores em estados sem 2º turno para governador",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula e Flávio Bolsonaro tentam mobilizar eleitores em estados sem 2º turno para governador. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-e-flavio-bolsonaro-tentam-mobilizar-eleitores-em-estados-sem-2o-turno-para-governador.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T22:01:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a5807c374d671562",
-      "title": "Incêndio atinge prefeitura de Limoges e derruba telhado do prédio de 1883",
-      "summary": "O veículo G1 publicou uma atualização sobre: incêndio atinge prefeitura de Limoges e derruba telhado do prédio de 1883. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/incendio-prefeitura-limoges-franca.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T21:52:46+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8c65aec5a8e47907",
-      "title": "Rio Tietê atinge mais que o dobro do volume normal e prefeitura interdita rua em Salto",
-      "summary": "O veículo G1 publicou uma atualização sobre: rio Tietê atinge mais que o dobro do volume normal e prefeitura interdita rua em Salto. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/17/rio-tiete-atinge-mais-que-o-dobro-do-volume-normal-e-prefeitura-interdita-rua-em-salto.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T21:51:28+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "190ac851f7f3d9d5",
-      "title": "Richarlison pede que PF investigue Flávio Bolsonaro por posse de imóvel de luxo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: richarlison pede que PF investigue Flávio Bolsonaro por posse de imóvel de luxo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/richarlison-pede-que-pf-investigue-flavio-bolsonaro-por-posse-de-imovel-de-luxo.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T21:46:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -538,20 +580,6 @@
       "archive": false
     },
     {
-      "id": "0893cc874265a79c",
-      "title": "Concurso da Saúde no AP tem inscrições prorrogadas novamente; veja novo prazo",
-      "summary": "O veículo G1 publicou uma atualização sobre: concurso da Saúde no AP tem inscrições prorrogadas novamente; veja novo prazo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/17/concurso-da-saude-no-ap-tem-inscricoes-prorrogadas-novamente-veja-novo-prazo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T19:58:49+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "7e54f773c128890e",
       "title": "Justiça Federal manda Meta restabelecer contas estudantis do RS",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: justiça Federal manda Meta restabelecer contas estudantis do RS. Consulte a reportagem para contexto, dados e declarações.",
@@ -716,6 +744,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bf8bf435e61dd38a",
+      "title": "Presidente do PT defende pena maior para crime hediondo - 17/10/2026 - Cotidiano - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: presidente do PT defende pena maior para crime hediondo - 17/10/2026 - Cotidiano. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcXAzb3ZQUWdVQVp3eG1PVnh0ZjQ4X3J3a2twd2F4V09PbEZiUGVGZWVQbDZqZzVEMXhFVjkwZHdwYWxkQnNGQzBGYm9qcUU2LUtnTjJiUmZjMEJ4a3c5ZnF3NXpBWk5EUHFsb1lVU2o0dGpFT1VsVzI0U3RNRDJGTWh2MGlqSWFSMzhOMzFHYndrQUNta0RxMHBzZ0tqWmxHT29EUUZUd2RVUWlXZlktdUtfTkhMRU9jNl9ROUo3SHk3c0VGZWhnMW5haDJ5eTQ0YjduME9oNGQ1WE1wRi1EaThrQmlTNy1IbHRBb09PaWxKRm5KdjB1SmlHVkQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T17:39:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1476,20 +1518,6 @@
       "archive": false
     },
     {
-      "id": "87fcfe4b9ddead56",
-      "title": "Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-lula-e-flavio-divergem-sobre-ajuste-fiscal-e-papel-do-estado",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T11:20:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "988817321ffedb5c",
       "title": "Professor ensina sorvete caseiro no liquidificador e sem sorveteira - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: professor ensina sorvete caseiro no liquidificador e sem sorveteira. Consulte a reportagem para contexto, dados e declarações.",
@@ -1563,15 +1591,15 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 29
+      "items": 34
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 71
+      "items": 68
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 45
+      "items": 44
     },
     "VEJA": {
       "status": "ok",
@@ -1607,7 +1635,7 @@
     },
     "Agência Brasil · Internacional": {
       "status": "ok",
-      "items": 5
+      "items": 4
     },
     "Agência Câmara": {
       "status": "ok",
@@ -1619,31 +1647,31 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 68
+      "items": 66
     },
     "Estadão": {
       "status": "ok",
-      "items": 30
+      "items": 33
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 44
+      "items": 45
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 55
+      "items": 53
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 50
+      "items": 48
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 54
+      "items": 53
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 38
+      "items": 35
     }
   },
   "notes": [
