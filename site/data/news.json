@@ -1,10 +1,108 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T07:40:26.334842+00:00",
-  "last_success_at": "2026-10-18T07:40:26.334842+00:00",
+  "last_checked_at": "2026-10-18T08:41:19.551076+00:00",
+  "last_success_at": "2026-10-18T08:41:19.551076+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "8cad8a9ea106088f",
+      "title": "Perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas",
+      "summary": "O veículo G1 publicou uma atualização sobre: perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/18/perdao-de-dividas-de-meis-pode-aliviar-contas-mas-nao-resolve-causas-dizem-especialistas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T08:00:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8cad8a9ea106088f",
+      "title": "Perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas",
+      "summary": "O veículo G1 publicou uma atualização sobre: perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/18/perdao-de-dividas-de-meis-pode-aliviar-contas-mas-nao-resolve-causas-dizem-especialistas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T08:00:01+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3cd6fb8bcca3124a",
+      "title": "Baiana que enfrentou câncer de mama transformou experiência em tratamento para saúde íntima de mulheres",
+      "summary": "O veículo G1 publicou uma atualização sobre: baiana que enfrentou câncer de mama transformou experiência em tratamento para saúde íntima de mulheres. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ba/bahia/saudenabahia/noticia/2026/10/18/fisioterapeuta-que-enfrentou-cancer-de-mama-transformou-experiencia-em-pesquisa-sobre-tratamento-para-saude-intima-de-mulheres.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T08:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d555ea3b1b95d1d3",
+      "title": "Neandertal pode ter sido morto em confronto cara a cara há 75 mil anos; caso traz rara evidência de violência no Paleolítico",
+      "summary": "O veículo G1 publicou uma atualização sobre: neandertal pode ter sido morto em confronto cara a cara há 75 mil anos; caso traz rara evidência de violência no Paleolítico. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ciencia/noticia/2026/10/18/neandertal-confronto-75-mil-anos-rara-evidencia-de-violencia-no-paleolitico.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T08:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "56c3ba04807cf519",
+      "title": "Dragas usadas no garimpo ilegal na Amazônia conseguem registro sem licença ambiental, aponta MPF",
+      "summary": "O veículo G1 publicou uma atualização sobre: dragas usadas no garimpo ilegal na Amazônia conseguem registro sem licença ambiental, aponta MPF. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/18/dragas-usadas-no-garimpo-ilegal-na-amazonia-conseguem-registro-sem-licenca-ambiental-aponta-mpf.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T08:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b4cac763f52fbb2a",
+      "title": "O que aconteceu com o experimento de Bukele para transformar El Salvador no 'país do bitcoin'",
+      "summary": "O veículo G1 publicou uma atualização sobre: o que aconteceu com o experimento de Bukele para transformar El Salvador no 'país do bitcoin'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/18/o-que-aconteceu-com-o-experimento-de-bukele-para-transformar-el-salvador-no-pais-do-bitcoin.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T08:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "20cc3f739fecdaba",
+      "title": "Plebiscito sobre desmembramento de municípios do Paraná com votação nas urnas será inédito no país",
+      "summary": "O veículo G1 publicou uma atualização sobre: plebiscito sobre desmembramento de municípios do Paraná com votação nas urnas será inédito no país. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/18/plebiscito-sobre-desmembramento-de-municipios-do-parana-com-votacao-nas-urnas-sera-inedito-no-pais.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T07:30:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "d2c234e9270b369d",
       "title": "Ampliar mandato em PEC do fim da reeleição pode ser inconstitucional, dizem especialistas",
@@ -244,20 +342,6 @@
       "archive": false
     },
     {
-      "id": "74557fab05a0dd6a",
-      "title": "Mega-Sena 3071 pode pagar R$ 170 milhões neste domingo; g1 transmite ao vivo",
-      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena 3071 pode pagar R$ 170 milhões neste domingo; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-3071-pode-pagar-r-170-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T03:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9a812ad6f40c506a",
       "title": "Nostalgia e expectativa de lucro impulsionam mercado de cartas de Pokémon, com preços de até R$ 86 milhões",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: nostalgia e expectativa de lucro impulsionam mercado de cartas de Pokémon, com preços de até R$ 86 milhões. Consulte a reportagem para contexto, dados e declarações.",
@@ -328,68 +412,12 @@
       "archive": false
     },
     {
-      "id": "0172c59fd7f4fb17",
-      "title": "Lula aumenta em 5 pontos vantagem sobre Flávio entre beneficiários do Bolsa Família, diz Datafolha",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula aumenta em 5 pontos vantagem sobre Flávio entre beneficiários do Bolsa Família, diz Datafolha. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-aumenta-em-5-pontos-vantagem-sobre-flavio-entre-beneficiarios-do-bolsa-familia-diz-datafolha.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f334d7fe368ef207",
       "title": "Enquanto mundo debate os riscos, IA já foi à guerra",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: enquanto mundo debate os riscos, IA já foi à guerra. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/enquanto-mundo-debate-os-riscos-ia-ja-foi-a-guerra.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-18T02:00:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e5a716e5d001c39c",
-      "title": "Lula ultrapassa Flávio Bolsonaro em índice de popularidade digital após fôlego no 2º turno",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula ultrapassa Flávio Bolsonaro em índice de popularidade digital após fôlego no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-ultrapassa-flavio-bolsonaro-em-indice-de-popularidade-digital-apos-folego-no-2o-turno.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "290db326a054123d",
-      "title": "Flávio comemora entrevista de lobista e deputada do PL quer proteção para testemunha - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: flávio comemora entrevista de lobista e deputada do PL quer proteção para testemunha. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzVQY1pmRG5IMVphOTkydUFPX0l5eE1fTUhHc3pHY2xUWEFONUhKVlJseFhlTHBLU05VN2RNbS1mMnhXS3llS3FZOHM5Ni0tNUc4MFVhM3FBbU5SUFhHMkZtVlMxdVdiSUlCZ0ZZQUg2aURVaFRMbXItNW01R1dpejRXYjNIbnVtLVZicXlfNDkyaGJDUnJZcHI3cnptU3VoWkVCRDIteWNmUE1FaEM0Zno0eU93ZGxDUnJqNVM0cTRQZFhoS0tkU0NzNE95S05PYmhNcg?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-18T01:45:15+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5b61bb20114f7b67",
-      "title": "Donald Trump suspende sanções previstas contra parceiros comerciais da Rússia",
-      "summary": "O veículo G1 publicou uma atualização sobre: donald Trump suspende sanções previstas contra parceiros comerciais da Rússia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/donald-trump-suspende-sancoes-previstas-contra-parceiros-comerciais-da-russia.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T01:42:36+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
@@ -426,20 +454,6 @@
       "archive": false
     },
     {
-      "id": "95cced7bc68e8ce4",
-      "title": "Papa recebe alta do hospital depois de cirurgia para remover câncer no pulmão",
-      "summary": "O veículo G1 publicou uma atualização sobre: papa recebe alta do hospital depois de cirurgia para remover câncer no pulmão. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/papa-recebe-alta-do-hospital-depois-de-cirurgia-para-remover-cancer-no-pulmao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T00:37:37+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "411e86a2ee68b656",
       "title": "Protestos nos EUA tentam mobilizar eleitores para voto antecipado contra Trump nas eleições de meio de mandato - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: protestos nos EUA tentam mobilizar eleitores para voto antecipado contra Trump nas eleições de meio de mandato. Consulte a reportagem para contexto, dados e declarações.",
@@ -461,34 +475,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-17T23:41:46+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2bfcc2f2625037e0",
-      "title": "Governo federal anuncia envio de cinco novas aeronaves para combate a incêndios no Amazonas",
-      "summary": "O veículo G1 publicou uma atualização sobre: governo federal anuncia envio de cinco novas aeronaves para combate a incêndios no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/governo-federal-anuncia-envio-de-cinco-novas-aeronaves-para-combate-a-incendios-no-amazonas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T23:32:54+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "afc04f7713e752c3",
-      "title": "Incêndio atinge indústria de alimentos em Sete Lagoas - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: incêndio atinge indústria de alimentos em Sete Lagoas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzZTYkRTTl9lVG9SWG5pZXAyM2JlVUF6bHNpSzJuNUZkRG9oWlAxRnVvSjg1RnFhY09SNUlPRWVGRHN6ZHczRGRLN3VRd1hzQW50N0xjSVJmbFB4WXpNZWVfSDBfclNla0VFX09Ja3JCZkJFWnd5aXJuSGFRbV9YV1M1T1I4RG40WnNoRVdXNE10MExmd1oyS195cnk3aHhVY3dlZVVUSW8xRGlMU3g2SS1KeEpTUdIBxAFBVV95cUxQdWFFR3hNaXRQTGVOYWlNX19qWVFiX21sVnY5cV9YTU9iUno2UzZ2Wkt4WFBRMzhXTFlxb2lwVlU0aUhzLUhxSm9FbktsSmJuZDQ3dnVJdGNyRXdWdE5mb3EwUm4tSjdxclZVSkRXSjJCUHhMeVFsOWE0dW52c05fbzJ2LXVZYnktZHZpbVJxYm1GSHZKRVlMQ2t6N3dLVHRRZjBkamx6MGhGQlgxeFBzbmtNVlk4VGJiY25Rb3V3NkstaGpO?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-17T23:31:59+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -538,20 +524,6 @@
       "archive": false
     },
     {
-      "id": "32a8c4078c8fe2c2",
-      "title": "Posto de sócio de Márcio Canella recebeu R$ 37 milhões, diz polícia - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: posto de sócio de Márcio Canella recebeu R$ 37 milhões, diz polícia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZE1LZG5fa18zbHYtYnRETnZJeWJvc3FSR3lrbmZJWVY0Qm9QeUhHWjFJdnZSblZFcHZ3ZElCcWlsNVZCdGI5MWJmc3dwWUhqdnZPYzB0UEhYeDY4cEpta2VNaXNoMVU1cEpkMHdDbVNnNjd2VEc2NjZTbURLNjBGajAwX3luYkpGemlKcG9RR3FZTjJOWk1WNUtvUmMtOUNaNGFmRG1oTzZMN0dlRlg2QnJBNi1MX1pD?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-17T22:51:57+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f9ea99f083cf7d95",
       "title": "Trump rifa a Ucrânia",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: trump rifa a Ucrânia. Consulte a reportagem para contexto, dados e declarações.",
@@ -562,20 +534,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a89bd125f38f60f8",
-      "title": "Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb1B5SUhCUjlRWmdId0p0ZTN1RjRyQlZBY1NURnFYUFQwYklsdWpybWwySXVwRzItYVE2LUZNRTVtdTdZTVNrRGtianYyY2xrSGlKSTVaaGF1dk9QTVYtZVF3YUFSOU01VU1nN0VtQ1BPTmlJM0ltTWpnUjV0M1FYck1SSklaMEdNb1RfYnAza0pvTUR4a3JhRUlwdmNZeEY0cE1Uc0pmbEhvUjRsTlN3ME9ZT1RCRVZZblNSYlRwNEVRSldlMHM4bFVDY3kyNk1NNXdEdlpSLXQ1Y3U4MHAxNDR2Q1FFeUNSVzJQRTR2SXlxVDJuSUxWNk5aVnl6Y0RpMWM4ejZB0gGUAkFVX3lxTE5mQ0ZxYTRRdUVJb0o4ck5mQjRoZjlTbzBsdFloR2JnU2JCWktvX3FlbFFxbUlVMkRPRU8wX0FGa3V2S085b2xoYVBwa0l0NGJDdXVIQkRGd2FjUjlubU9pclhJaXNhRTQyTGxVMkNGRFV4SnNsMURnMTFJekFNU3ZyaDJTY29CbzBUQ2F4Y3BZNlZTQ1FsUlhIeFdfa2hYUHFQZGt6ZVNWN1pJZlFRcGc5N2FPRkxkOGFBNUl3ZDktWFUxZFk5Q1NGbEhjUGl6YldaNWpmUm1rNGZGSWNldm51dVMzWGdfY2pmdnExV2ltSnZhYzNnQVQ1Y1Bldkk4a2ctVC0tbFlhaVkwb2ZxU2F0M2RSTw?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-17T22:42:12+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -684,6 +642,20 @@
       "url": "https://veja.abril.com.br/mundo/para-impedir-alta-do-petroleo-trump-desiste-de-sancoes-comerciais-a-russia/",
       "source": "VEJA",
       "published_at": "2026-10-17T20:32:24+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "959d280206b8ca4f",
+      "title": "Arrecadação de imposto corporativo cai nos EUA após incentivos fiscais de Trump",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: arrecadação de imposto corporativo cai nos EUA após incentivos fiscais de Trump. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/arrecadacao-de-imposto-corporativo-cai-nos-eua-apos-incentivos-fiscais-de-trump.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T20:30:00+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
@@ -818,6 +790,20 @@
       "archive": false
     },
     {
+      "id": "e15d8ad14db02e39",
+      "title": "Presidente do PT defende endurecer pena para crime hediondo e diz que Lula criará ministério da Segurança após PEC",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: presidente do PT defende endurecer pena para crime hediondo e diz que Lula criará ministério da Segurança após PEC. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/presidente-do-pt-defende-endurecer-pena-para-crime-hediondo-e-diz-que-lula-criara-ministerio-da-seguranca-apos-pec.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T17:39:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "d3198eef3d225425",
       "title": "Edinho Silva defende aprovação da PEC da Segurança Pública e debate sobre maioridade penal após votação - Portal VV8",
       "summary": "O veículo Portal VV8 publicou uma atualização sobre: edinho Silva defende aprovação da PEC da Segurança Pública e debate sobre maioridade penal após votação - Portal VV8. Consulte a reportagem para contexto, dados e declarações.",
@@ -825,6 +811,20 @@
       "source": "Portal VV8",
       "published_at": "2026-10-17T17:31:21+00:00",
       "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ed1e3f361b94a3fa",
+      "title": "O conselho que Toffoli recebeu para isolar ministros no cabo de guerra dentro do TSE - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: o conselho que Toffoli recebeu para isolar ministros no cabo de guerra dentro do TSE. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOelhGRTAtQXRHOEozZzVUTkpwcHVDcDdzVTFWVEpWOFVSQ3duQ19GVzR5WDFiNkhTbG43VGVjRGZ3QmRvNExKcWFTZFB4VkEwdVhPY2ZKbzhfSHg2Nk5zZEtaT3dpczRaYjFjckFuUmItMjZDN2NDdGh3QnlzeVZKZHJ6cUVLaDdqeEQzYmhqNjc3OFJkSE1rVGJSd3ZMM0I4aXg0WnVGMk9EcHA5Ni12MzNRUTFZYzNKaWdtaA?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-17T16:46:30+00:00",
+      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1521,15 +1521,15 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 20
+      "items": 19
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 67
+      "items": 68
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 43
+      "items": 42
     },
     "VEJA": {
       "status": "ok",
@@ -1585,15 +1585,15 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 49
+      "items": 48
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 51
+      "items": 52
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 47
     },
     "Eleições · Lula": {
       "status": "ok",
