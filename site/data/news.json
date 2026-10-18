@@ -1,10 +1,80 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T09:40:41.276421+00:00",
-  "last_success_at": "2026-10-18T09:40:41.276421+00:00",
+  "last_checked_at": "2026-10-18T10:40:14.447709+00:00",
+  "last_success_at": "2026-10-18T10:40:14.447709+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "30c323c9eece1581",
+      "title": "Papa Leão XIV conduz oração no Vaticano um dia após deixar hospital e diz que vai retomar suas atividades",
+      "summary": "O veículo G1 publicou uma atualização sobre: papa Leão XIV conduz oração no Vaticano um dia após deixar hospital e diz que vai retomar suas atividades. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/18/papa-leao-xiv-conduz-oracao-no-vaticano-um-dia-apos-deixar-hospital.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T10:00:36+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d2449b6e7fdeb67b",
+      "title": "Feira de empregabilidade oferece mais de 120 vagas de trabalho em Caruaru",
+      "summary": "O veículo G1 publicou uma atualização sobre: feira de empregabilidade oferece mais de 120 vagas de trabalho em Caruaru. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/10/18/feira-de-empregabilidade-oferece-mais-de-120-vagas-de-trabalho-em-caruaru.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T10:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2591437b87a1a602",
+      "title": "Do Centro-Oeste mineiro para o Senado: Domingos Sávio (PL) promete ajudar municípios do interior e defende mudanças no judiciário",
+      "summary": "O veículo G1 publicou uma atualização sobre: do Centro-Oeste mineiro para o Senado: Domingos Sávio (PL) promete ajudar municípios do interior e defende mudanças no judiciário. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/18/do-centro-oeste-mineiro-para-o-senado-domingos-savio-pl-promete-ajudar-municipios-do-interior-e-defende-mudancas-no-judiciario.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T10:00:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "82a6e0f5ce6d2650",
+      "title": "Produtores de Caroebe estão em alerta com doença que atinge bananeiras e não tem tratamento",
+      "summary": "O veículo G1 publicou uma atualização sobre: produtores de Caroebe estão em alerta com doença que atinge bananeiras e não tem tratamento. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/18/produtores-de-caroebe-estao-em-alerta-com-doenca-que-atinge-bananeiras-e-nao-tem-tratamento.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T10:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "86c7a68427a3041f",
+      "title": "Da militância no Triângulo para o Senado: Marília Campos defende articulação para combate ao crime organizado e diálogo no Congresso",
+      "summary": "O veículo G1 publicou uma atualização sobre: da militância no Triângulo para o Senado: Marília Campos defende articulação para combate ao crime organizado e diálogo no Congresso. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/18/da-militancia-no-triangulo-para-o-senado-marilia-campos-defende-articulacao-para-combate-ao-crime-organizado-e-dialogo-no-congresso.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T10:00:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "2799d6e52418f6c5",
       "title": "Família é avisada sobre morte de vigilante acreano em missão na guerra na Ucrânia e tenta contato: 'Queria ir para ajudar'",
@@ -328,72 +398,16 @@
       "archive": false
     },
     {
-      "id": "9f0e9ee4af3d1095",
-      "title": "Elon Musk pode desligar a internet de uma guerra? Entenda o poder da Starlink",
-      "summary": "O veículo G1 publicou uma atualização sobre: elon Musk pode desligar a internet de uma guerra? Entenda o poder da Starlink. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/10/18/elon-musk-pode-desligar-a-internet-de-uma-guerra-entenda-o-poder-da-starlink.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T06:00:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "97990b809eeec4c3",
-      "title": "Chefe do Exército britânico diz que governo deve preparar população para tempos de guerra",
-      "summary": "O veículo G1 publicou uma atualização sobre: chefe do Exército britânico diz que governo deve preparar população para tempos de guerra. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/18/chefe-do-exercito-britanico-diz-que-governo-deve-preparar-populacao-para-tempos-de-guerra.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T04:23:37+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "32cd995a91e46f19",
-      "title": "Governo do RS promove curso sobre masculinidades, equidade de gênero e prevenção das violências",
-      "summary": "O veículo G1 publicou uma atualização sobre: governo do RS promove curso sobre masculinidades, equidade de gênero e prevenção das violências. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/18/governo-do-rs-promove-curso-sobre-masculinidades-equidade-de-genero-e-prevencao-das-violencias.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T04:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "72a074cd70e03c8a",
-      "title": "Confira o que Flávio Bolsonaro e Lula levaram para a propaganda eleitoral no rádio neste 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: confira o que Flávio Bolsonaro e Lula levaram para a propaganda eleitoral no rádio neste 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/campanha-eleitoral-radio-flavio-bolsonaro-lula.ghtml",
-      "source": "G1",
+      "id": "3318f2d2a1666074",
+      "title": "Flávio Bolsonaro é o filho do Riocentro - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio Bolsonaro é o filho do Riocentro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlZ4amxfS2FVZm1QejFmMjFzWTRLWlNrS0RSN05ONG5PMDh5VEpzWm00WXJ2b2R2VmR0ZGsxXzRGYUcxTFNHdUJnSHRCT05ZN2hCR0I4VzdVZDBYb05BNTZWR0FuR3FBTE5iaGZ5STJmT05Ydmt6WnhCRjNvcUFaR1dSMmVYdWlma3pOWFpUc01HTlBNUFN3S2R6bFBLclRLWGNSdHVWdEE1NFJkRWlSa19Gb9IBwgFBVV95cUxPTndDbTRNcmd1S0JMSXBtdXh0bjlNTDhoWjVCWUd6Y0p6b2hJSXpzYzJaTjJnZVM2cENJblNabllCMnR2N0R0bVZFc19WQTd3LUcxNzAzSjk2RHlrN0ZHaC01RDE3Q3lMWm43UXpxeHBJaFNENFJRTWRHaGM3dFBzTkVxb2hqWUw3Ym1USk1FUDV6MXdEV3ZGRzkwVl90eG1MZl8xMTUyWVQwY09DVndYcVltTjdic3N2dHY1X0R0Q1FJdw?oc=5",
+      "source": "O GLOBO",
       "published_at": "2026-10-18T03:00:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "74557fab05a0dd6a",
-      "title": "Mega-Sena 3071 pode pagar R$ 170 milhões neste domingo; g1 transmite ao vivo",
-      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena 3071 pode pagar R$ 170 milhões neste domingo; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-3071-pode-pagar-r-170-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T03:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -678,6 +692,20 @@
       "archive": false
     },
     {
+      "id": "959d280206b8ca4f",
+      "title": "Arrecadação de imposto corporativo cai nos EUA após incentivos fiscais de Trump",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: arrecadação de imposto corporativo cai nos EUA após incentivos fiscais de Trump. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/arrecadacao-de-imposto-corporativo-cai-nos-eua-apos-incentivos-fiscais-de-trump.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T20:30:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "f3860f7e0a0e6299",
       "title": "Cortes em auxílios sociais podem gerar retração em cidades do interior",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: cortes em auxílios sociais podem gerar retração em cidades do interior. Consulte a reportagem para contexto, dados e declarações.",
@@ -702,6 +730,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0d8f017c4a1e7f89",
+      "title": "Aliança com EUA ou China trazem riscos para o Brasil e Zelenski é a prova disso; entenda - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: aliança com EUA ou China trazem riscos para o Brasil e Zelenski é a prova disso; entenda. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWXBzaUpYdzVTM3BrWXFfNlpjTnJvRmxsU1k3N2pvNVVQcDMxVXZYVFdTMW5NTWhhM0RzNEVjaWxSMXNzaGdKZXFUbGdnTmh0N1F3Qkh2aW42bkVIOHlqTHUtLVpLRk1JUEFRSkpTcDh3VnBhd0VlMjhaUm54RkZGX2xOVDhpVFM5LXNlMHNOMk8zdmxVb2lSdEhjeHpvQlg3SkJGdldCNHZTZFozOUtLaW41Z0dfY1F0eWdEbkY1Q0ZPZGs2dlhvRGt3QjRZYnlLQzBuTUpZb0JQVk9LRmFjbdIB5gFBVV95cUxOWGdhNmQwb1VjdUpVM1lBQXFsX0xHcEllTzVWb1Y3bGQ5akl5TGFtZnd2ZUpnVDlVSEVJSmpyNVVkV2d5MlNEYm0wWEVpUVhteTgteUFTUERIQ3FtVC1odF8wekVJWDFIZjE4QlZaNlBheklhOUd6MU1nMFl3RU56TE9LTUZYWEhmZmVQbFFyMzFEdUlEQlVVaVUtSmtkSml0ZFlCclQtMG1KVFJSLUR3eGFpeTBTX0ExX1NaZDBYWTBrMVBOd1lxN1FsUjdpMktBVzJjV1VGWHlYMG8zNG5ZMTlyNlZFdw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-17T20:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1154,20 +1196,6 @@
       "archive": false
     },
     {
-      "id": "6e5da5e62a4af617",
-      "title": "Áudio: Projeto prevê incentivo para patrocínio de pesquisa científica",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Projeto prevê incentivo para patrocínio de pesquisa científica. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-preve-incentivo-para-patrocinio-de-pesquisa-cientifica",
-      "source": "Senado Federal",
-      "published_at": "2026-10-16T20:05:46+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "773e0545863281c7",
       "title": "Cadu de Lula faz caminhada em Parnamirim e promete obras viárias e conclusão de Hospital Metropolitano",
       "summary": "O veículo G1 publicou uma atualização sobre: cadu de Lula faz caminhada em Parnamirim e promete obras viárias e conclusão de Hospital Metropolitano. Consulte a reportagem para contexto, dados e declarações.",
@@ -1177,20 +1205,6 @@
       "category": "Eleições",
       "candidate": "lula",
       "election_type": "Proposta",
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c1b486e838cd824d",
-      "title": "Motta determina adoção imediata da nova escala de trabalho na Câmara dos Deputados",
-      "summary": "O veículo Agência Câmara publicou uma atualização sobre: motta determina adoção imediata da nova escala de trabalho na Câmara dos Deputados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.camara.leg.br/noticias/1311899-motta-determina-adocao-imediata-da-nova-escala-de-trabalho-na-camara-dos-deputados",
-      "source": "Agência Câmara",
-      "published_at": "2026-10-16T19:53:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
       "via_aggregator": false,
       "curated": false,
       "archive": false
@@ -1294,6 +1308,20 @@
       "archive": false
     },
     {
+      "id": "34472b68cbb31c64",
+      "title": "Do trabalho sem limite ao fim da 6x1: veja avanço da jornada no Brasil",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: do trabalho sem limite ao fim da 6x1: veja avanço da jornada no Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/do-trabalho-sem-limites-ao-fim-da-escala-6x1-veja-evolucao-da-jornada",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-16T16:31:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "877d801e962cb8d9",
       "title": "Nova regra garante aposentadoria especial a agentes de saúde; entenda",
       "summary": "O veículo VEJA publicou uma atualização sobre: nova regra garante aposentadoria especial a agentes de saúde; entenda. Consulte a reportagem para contexto, dados e declarações.",
@@ -1364,20 +1392,6 @@
       "archive": false
     },
     {
-      "id": "2bd145cbe708349a",
-      "title": "A cada 72 segundos, uma pessoa morre por doença cardiovascular no país",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: a cada 72 segundos, uma pessoa morre por doença cardiovascular no país. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/cada-72-segundos-uma-pessoa-morre-por-doenca-cardiovascular-no-pais",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T14:14:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "bec7917419df8217",
       "title": "Flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica. Consulte a reportagem para contexto, dados e declarações.",
@@ -1385,20 +1399,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-16T13:00:00+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "31f72c02d3ab4849",
-      "title": "O estado de saúde de papa Leão XIV após retirada de câncer - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: o estado de saúde de papa Leão XIV após retirada de câncer. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzdjLWJMR1UzbUVVYVplWVhvWmZnRF9SUjlyRHliN3hqLUVoS3Z6T2pDMEJQeVpiVExpUlVWNURwQVBNYzBZaG9yMHBHeWcyYTlUTTlwSzNNazVjTVYwWU5xZVhwclJOQVRHbG9QVHJtaVllbS1hT1V2djRIZ0FVWVZIYWN0a1gwYnB2T0VKNXg2cTZDUXc?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-16T12:46:23+00:00",
-      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1430,20 +1430,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f8ed5bba3976a10f",
-      "title": "Painel: Ex-ministro de Bolsonaro, Weintraub diz que não irá votar e cita suspeitas de corrupção contra Flávio - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: Ex-ministro de Bolsonaro, Weintraub diz que não irá votar e cita suspeitas de corrupção contra Flávio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZVZhU3FOaVpWYUVhWXZnOHhtZE90NUd6UURPeGJDRTdUMVZxY3pfWXR4TXRhS1YyY204dG5aNVdocG1vclB3ZmIyN3o5eHpjRF9sTm80eElnSjZFaTJBX3FwdEw4TFJxOG1RQ1M3ajF6QS1WMG45WmpVSzFmRjJ1OUViSFVOR1NEek4tZ2p0VnNLbHhrSDVvQm5RdWtraDRJdnFiQy13V3dIWER6b0N2WG04LUpONHFxSERaMDgzZmdDZ0hBbFFCR3gwR0x0TGRvOXllbHJackhpY2JKYVlULTlqelpseENNc1VHelNYME0?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T09:00:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1549,7 +1535,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 16
+      "items": 19
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1557,11 +1543,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 41
+      "items": 40
     },
     "VEJA": {
       "status": "ok",
-      "items": 10
+      "items": 8
     },
     "The New York Times": {
       "status": "ok",
@@ -1605,7 +1591,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 65
+      "items": 63
     },
     "Estadão": {
       "status": "ok",
@@ -1613,11 +1599,11 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 49
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 53
+      "items": 54
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1625,11 +1611,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 47
+      "items": 46
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 29
+      "items": 28
     }
   },
   "notes": [
