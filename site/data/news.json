@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T04:42:05.743295+00:00",
-  "last_success_at": "2026-10-18T04:42:05.743295+00:00",
+  "last_checked_at": "2026-10-18T05:40:16.381495+00:00",
+  "last_success_at": "2026-10-18T05:40:16.381495+00:00",
   "coverage_window_hours": 84,
   "items": [
     {
@@ -440,6 +440,20 @@
       "archive": false
     },
     {
+      "id": "32a8c4078c8fe2c2",
+      "title": "Posto de sócio de Márcio Canella recebeu R$ 37 milhões, diz polícia - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: posto de sócio de Márcio Canella recebeu R$ 37 milhões, diz polícia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZE1LZG5fa18zbHYtYnRETnZJeWJvc3FSR3lrbmZJWVY0Qm9QeUhHWjFJdnZSblZFcHZ3ZElCcWlsNVZCdGI5MWJmc3dwWUhqdnZPYzB0UEhYeDY4cEpta2VNaXNoMVU1cEpkMHdDbVNnNjd2VEc2NjZTbURLNjBGajAwX3luYkpGemlKcG9RR3FZTjJOWk1WNUtvUmMtOUNaNGFmRG1oTzZMN0dlRlg2QnJBNi1MX1pD?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-17T22:51:57+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "f9ea99f083cf7d95",
       "title": "Trump rifa a Ucrânia",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: trump rifa a Ucrânia. Consulte a reportagem para contexto, dados e declarações.",
@@ -454,16 +468,16 @@
       "archive": false
     },
     {
-      "id": "9159140e16f333a0",
-      "title": "Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos",
+      "id": "a89bd125f38f60f8",
+      "title": "Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb1B5SUhCUjlRWmdId0p0ZTN1RjRyQlZBY1NURnFYUFQwYklsdWpybWwySXVwRzItYVE2LUZNRTVtdTdZTVNrRGtianYyY2xrSGlKSTVaaGF1dk9QTVYtZVF3YUFSOU01VU1nN0VtQ1BPTmlJM0ltTWpnUjV0M1FYck1SSklaMEdNb1RfYnAza0pvTUR4a3JhRUlwdmNZeEY0cE1Uc0pmbEhvUjRsTlN3ME9ZT1RCRVZZblNSYlRwNEVRSldlMHM4bFVDY3kyNk1NNXdEdlpSLXQ1Y3U4MHAxNDR2Q1FFeUNSVzJQRTR2SXlxVDJuSUxWNk5aVnl6Y0RpMWM4ejZB0gGUAkFVX3lxTE5mQ0ZxYTRRdUVJb0o4ck5mQjRoZjlTbzBsdFloR2JnU2JCWktvX3FlbFFxbUlVMkRPRU8wX0FGa3V2S085b2xoYVBwa0l0NGJDdXVIQkRGd2FjUjlubU9pclhJaXNhRTQyTGxVMkNGRFV4SnNsMURnMTFJekFNU3ZyaDJTY29CbzBUQ2F4Y3BZNlZTQ1FsUlhIeFdfa2hYUHFQZGt6ZVNWN1pJZlFRcGc5N2FPRkxkOGFBNUl3ZDktWFUxZFk5Q1NGbEhjUGl6YldaNWpmUm1rNGZGSWNldm51dVMzWGdfY2pmdnExV2ltSnZhYzNnQVQ1Y1Bldkk4a2ctVC0tbFlhaVkwb2ZxU2F0M2RSTw?oc=5",
       "source": "G1",
       "published_at": "2026-10-17T22:42:12+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -548,20 +562,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d122aea7a0dea639",
-      "title": "Três suspeitos morrem em confronto com a polícia e 237 kg de drogas são apreendidos em MT - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: três suspeitos morrem em confronto com a polícia e 237 kg de drogas são apreendidos em MT. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONjE2TEl6eUkxblRGWDczTFpWc191RnRhSEFMVHg1SjVraUhVSjU4RWJ4S19vd2FVVUJlWUhQajhBSGlqZFFTcVdRc3FYeDVla1lLMXhxWXJDNnhLNC1OZC10eGdjV09hQVljU3lJbmlTTy1nQXpQZkY5Zk5mcHBSNjF1eVZMMllrUFhLc2p2S042Q3VNZ2FVUVp0aERVamRmckp1NGhHNnNSaVBEV3U3aTBHYU9LR3c5c2x0MjUza0lUSHM1TldLVWRQU3J0OHB6T3VITVRzS1cyd2RpQnI5WDRvaVbSAfMBQVVfeXFMTXFHNEdGbzNCMERoX3NSVF9hbWYtYkg3by12cjhjWGZGOWp2b3ZCVW9wZXBBaks3MHBFUFRFZHkybGpvN0kxVXpTNFE4cUtxc082R0M2M1o3TWhaYmJRXzJJRkVpbkVPVURMTlp1NTV1RmUxVFJxMHhpSXNwbXV3MFMzc25idnFpQ0ZCaVNFeElnbXh5djNodGR3R3pnY2hkQUdld3Q0UElyWHFWOFB0WEhnd2IxYk9Cbno5dzZXM3d4S3VLQjhnX3BIS2w0WTJVcHU0N3dPN2JWZ0p5WTBkcXNUME9ZMDRKQ2U3MV9ET3U2WjBR?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-17T21:35:05+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1563,15 +1563,15 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 20
+      "items": 19
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 68
+      "items": 66
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 43
+      "items": 42
     },
     "VEJA": {
       "status": "ok",
@@ -1623,15 +1623,15 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 31
+      "items": 30
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 47
+      "items": 46
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 53
+      "items": 52
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1643,7 +1643,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 33
+      "items": 31
     }
   },
   "notes": [
