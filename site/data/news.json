@@ -1,10 +1,94 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T11:38:43.009198+00:00",
-  "last_success_at": "2026-10-18T11:38:43.009198+00:00",
+  "last_checked_at": "2026-10-18T12:46:57.171280+00:00",
+  "last_success_at": "2026-10-18T12:46:57.171280+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "aa894a7f05f2aee0",
+      "title": "Após deixar o hospital, Papa Leão XIV conduz oração no Vaticano",
+      "summary": "O veículo VEJA publicou uma atualização sobre: após deixar o hospital, Papa Leão XIV conduz oração no Vaticano. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/mundo/apos-deixar-o-hospital-papa-leao-xiv-conduz-oracao-no-vaticano/",
+      "source": "VEJA",
+      "published_at": "2026-10-18T12:39:25+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "146a7d1fc65c4f6b",
+      "title": "Local de votação muda em mais de 4 000 seções no 2º turno; saiba como consultar",
+      "summary": "O veículo VEJA publicou uma atualização sobre: local de votação muda em mais de 4 000 seções no 2º turno; saiba como consultar. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/local-de-votacao-muda-em-mais-de-4-000-secoes-no-2o-turno-saiba-como-consultar/",
+      "source": "VEJA",
+      "published_at": "2026-10-18T12:27:18+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "73a41b84a5c0b60a",
+      "title": "Quem é Flávio Brasileiro, deputado eleito pelo PT que foi secretário municipal aos 26 anos na Paraíba",
+      "summary": "O veículo G1 publicou uma atualização sobre: quem é Flávio Brasileiro, deputado eleito pelo PT que foi secretário municipal aos 26 anos na Paraíba. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/18/quem-e-flavio-brasileiro-deputado-eleito-pelo-pt-que-foi-secretario-municipal-aos-26-anos-na-paraiba.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T12:14:26+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "aca6e6b88e25f3a0",
+      "title": "Inspirado por professora do ensino fundamental, candidato escolhe História na Unicamp em busca de olhar crítico: 'Área ajuda sociedade a não repetir erros do passado'",
+      "summary": "O veículo G1 publicou uma atualização sobre: inspirado por professora do ensino fundamental, candidato escolhe História na Unicamp em busca de olhar crítico: 'Área ajuda sociedade a não repetir erros. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/educacao/noticia/2026/10/18/inspirado-por-professora-do-ensino-fundamental-candidato-escolhe-historia-na-unicamp-em-busca-de-olhar-critico-area-ajuda-sociedade-a-nao-repetir-erros-do-passado.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T12:01:56+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "11daa8bc34a802aa",
+      "title": "Prefeitura de Imperatriz proíbe patinetes e bicicletas elétricas em áreas de lazer da Beira Rio",
+      "summary": "O veículo G1 publicou uma atualização sobre: prefeitura de Imperatriz proíbe patinetes e bicicletas elétricas em áreas de lazer da Beira Rio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/18/prefeitura-de-imperatriz-proibe-patinetes-e-bicicletas-eletricas-em-areas-de-lazer-da-beira-rio.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T11:53:43+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9073622da8aa5186",
+      "title": "Lula planejava anunciar PEC do passe livre em entrevista na Globo, mas... - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: lula planejava anunciar PEC do passe livre em entrevista na Globo, mas.... Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNE5ac2dfRTFzSkZDMEZ6bVlCRS1pQnlhQUlIQ0FWYlk4WjJwVUVyVm1HMmZSdUFPQThVZzRGY051cHJGTGhEUXdHcWFkNkpKYWp4b0pnS2ZvczVnZkNIXzZ1VkNJb2xraVc1V0NpN0hNdnktb19Qb0s0ekkyZ1VqWEduVUdTNC10TUFFamhERWNFSmt4M2s1ZDJJSzBtS2VQS1Jrci1hcHBXdnVQaGtMWElxUEI0MUI1U1plS051T0xTWFV5RmY5Z3lKQzXSAdsBQVVfeXFMTS1vSHJ0bExnaER5MTYzd1pzbTFreERUekJmbWdnTlp3ZTdRV1hxbmlrOTdnelFPVFRJclh2Y0huczNoY1RUOVVKZ1BmeWx6NEFZcHE4SUpEV1BVWTNweno1NnRoUDE3TW9KT0RxNlIxNFpWUEctdU5tbU40cXh2M2J2WjltU2lYM3Q2VnNLLUlBSktDUXB0RWJOMHlhX2V0YW01STFOb0JGbWtsS1VRSDFqVzNuR2w4UjdrakltX2MtUGFKTUJGOUlwOGNpMk4yZl9QT2o2dXV1VDhr?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-18T11:40:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "c7ab8e472f886b21",
       "title": "Governo de SP faz alerta para vacinação contra sarampo antes da temporada de cruzeiros",
@@ -118,6 +202,20 @@
       "archive": false
     },
     {
+      "id": "b95049c7eacda6cb",
+      "title": "Eleições 2026, dólar a R$ 5 e apostas para a Bolsa estão entre as mais lidas - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: eleições 2026, dólar a R$ 5 e apostas para a Bolsa estão entre as mais lidas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcl81V291RmRrU3hBQlNwR0lVbUJCZFBuOVJGdzQtTVFGWlAwUTlvMnZkYzFnOVVHTDJOQ1BsRmI0dVFVdDhfNlY5SlZKX2hkU2lqdDY5N0FQZ3ZWNzVOZmdFMGlZR2Nkd0JHTjlGRnRKcFNDcndOeTlCQTA1dXhzbkFBVmxYRG9PMGxZbmNkMS1YcUVoLWRaSlRCSGxqQW5iaFI3S2txSWtyam1nSXdhYXNYa2VBVTBXQnpDZk1JdzRIdVRNYzhPdHN1aU5hWnpWU0hoWdIB2gFBVV95cUxQUFJaNFJIaGYzcXlBMF9NbUxCNUJpdG9tbC0zYTZRbEZ4SmZQUGwxZ0tXaHRMazRub0VyUS1acHZ6d0F3VHdqbDY4QjVkTHo4NExuWVhSb3Vzc0V5MUdtTWlBLThOZHpzLXBxWnFZMy10dkVYSm10aE9GQzAzZDB6RS1DY3pvZHI1V2NpSkZlREhfLWYzZGUzWGpHTTh6YkJYbnF0ZnJzTHctTktjYWp6LThxcmhKQjFZMk5GZTlmOUVJa2htaVBhQmI5SlpGOGM1dFFqeGdZQW5GQQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-18T11:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "b57297ba2f84a08b",
       "title": "Protestos na França levam mais de 500 mil às ruas e deixam 1 morto, 500 policiais feridos e 1.800 presos",
       "summary": "O veículo G1 publicou uma atualização sobre: protestos na França levam mais de 500 mil às ruas e deixam 1 morto, 500 policiais feridos e 1.800 presos. Consulte a reportagem para contexto, dados e declarações.",
@@ -128,6 +226,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fa72d8ec430221ac",
+      "title": "A preocupação de aliados de Flávio com possível soltura de Bolsonaro em novembro - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: a preocupação de aliados de Flávio com possível soltura de Bolsonaro em novembro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQclZNalQ1aGEzbkFmdFlxejVnd09BSDBYWjZyX0lJLTVrZkota252akV5Y0FmMnBPaHlCLUVrREJyUVY1aU1veG5jVEExWXRyOXJqV2xqZFJOcWtIUmIydTJycWZMQXAtVTlpT3Y2THNLa25HV0EydXIzT18zTDhyZGRBNEpmVVJOOUlNNFA2eVVOb1QyYm1ua3FHVmtHUjgwbTU2SXhfcW54M2dJTXZGckNZTzdXNWdfRTJjLVJmMm9aNFFlbHllQlBSakhUbnRzUlpvZlRaUWRhQjDSAeoBQVVfeXFMT2ZIdTJMZ0h2aEdDaER6a2Y1aXllX21VOVNsWHFkbndEUnFFM1VJRVZ3TUc3T2R6XzFIbXBmSXFudmRrSTVZMXgyVFkxWDRQbC1mamN4Q2tpQTY0U2Y4Mml6WGFrRWJNZkpDZzBMaWQ1cVlUN2o4NEpTcVF1clRpUUFtbmFyc0YtLTVUbHlRbUxRU05Bb1VuM3JPUUFEbHcwZ1hMdDlzZTNlMUJiZk9BRjBBX3RxX2tpRy1JLVplUmxqNDBsUnpyVDJuUFB4UjdxSC1oMGV4bWhqSnROVTdBTV85RjI4c0RoZ2ln?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-18T10:40:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -244,20 +356,6 @@
       "archive": false
     },
     {
-      "id": "4bf7588e6cd63c0b",
-      "title": "Flávio Bolsonaro comemorou exoneração de Garotinho como secretário de Segurança do Rio",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro comemorou exoneração de Garotinho como secretário de Segurança do Rio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/flavio-bolsonaro-comemorou-exoneracao-de-garotinho-como-secretario-de-seguranca-do-rio.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T09:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a95ce142c21ab8a2",
       "title": "Disputa por gabinetes no Senado mobiliza políticos eleitos e reforça ‘pequeno poder' de Alcolumbre - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: disputa por gabinetes no Senado mobiliza políticos eleitos e reforça ‘pequeno poder' de Alcolumbre. Consulte a reportagem para contexto, dados e declarações.",
@@ -268,34 +366,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8a88d76be31abfad",
-      "title": "Flávio e Lula enfrentam ‘teste de nervos’ em debate focado nos cortes para as redes - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: flávio e Lula enfrentam ‘teste de nervos’ em debate focado nos cortes para as redes. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3dNUXpHcUQtXzBIT01TekNQV3lSRi03SmhtNE5JQWw1di1PQWNhS2dzSkEyQWJzcE5VMXZmU25sWWxMck9LRGNNVGRzUjhLMEJFc3RXNVdrZzhZWnVLcmxrOXlHX2N6YTZKQjhpTGt2Y3pnODVCeTI0RnZPX0RYTzdmUlozcmJ2YXFlRHd1RUt5MXlvektDQVpXRDg2VmJkdVotRnVGUi1haVFvZFhPNjVUYTVsMExTSDhoVkR6WGk3amtVSUhDelNLaDJ6czljYnfSAdcBQVVfeXFMT1hURjlYTUdxOE1sRDZvNGlSeEdleFRwWnI0Z2Y2SlJrZFQ1Uk94NWk5U3ljeXlMQUNfUnpWbWpZTmJheno3Qnctd25RSS1GUVN6MWVBUGN2NWg4RGh5TThYNWg5dkNJTXJoNVN1anJ4N0JIMTBITGtjNFRJdFdJYTI1eXdxaS1RUEJnUEQ4WWZvQXhXUzFfYkNtRW1HM283N1h4UGp0RW5WeEo3T3V5a2IyS2E1SHhORmRQdHNOR1VnOTVvaWgyUWFiMUgyTEZLaWQ3YVFWWGM?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-18T08:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8cad8a9ea106088f",
-      "title": "Perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas",
-      "summary": "O veículo G1 publicou uma atualização sobre: perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/18/perdao-de-dividas-de-meis-pode-aliviar-contas-mas-nao-resolve-causas-dizem-especialistas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T08:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -335,20 +405,6 @@
       "source": "G1",
       "published_at": "2026-10-18T08:00:00+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "56c3ba04807cf519",
-      "title": "Dragas usadas no garimpo ilegal na Amazônia conseguem registro sem licença ambiental, aponta MPF",
-      "summary": "O veículo G1 publicou uma atualização sobre: dragas usadas no garimpo ilegal na Amazônia conseguem registro sem licença ambiental, aponta MPF. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/18/dragas-usadas-no-garimpo-ilegal-na-amazonia-conseguem-registro-sem-licenca-ambiental-aponta-mpf.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T08:00:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -482,20 +538,6 @@
       "archive": false
     },
     {
-      "id": "97990b809eeec4c3",
-      "title": "Chefe do Exército britânico diz que governo deve preparar população para tempos de guerra",
-      "summary": "O veículo G1 publicou uma atualização sobre: chefe do Exército britânico diz que governo deve preparar população para tempos de guerra. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/18/chefe-do-exercito-britanico-diz-que-governo-deve-preparar-populacao-para-tempos-de-guerra.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T04:23:37+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9a812ad6f40c506a",
       "title": "Nostalgia e expectativa de lucro impulsionam mercado de cartas de Pokémon, com preços de até R$ 86 milhões",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: nostalgia e expectativa de lucro impulsionam mercado de cartas de Pokémon, com preços de até R$ 86 milhões. Consulte a reportagem para contexto, dados e declarações.",
@@ -580,10 +622,10 @@
       "archive": false
     },
     {
-      "id": "d74c730aedc83da5",
+      "id": "411e86a2ee68b656",
       "title": "Protestos nos EUA tentam mobilizar eleitores para voto antecipado contra Trump nas eleições de meio de mandato - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: protestos nos EUA tentam mobilizar eleitores para voto antecipado contra Trump nas eleições de meio de mandato. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNGdZS1BxSmdlZGZrVnRaR1dNUmd1bTBEM2gwSXFtdHhDVzZMTWh5Wnl5elAzMmlmc0FibnJtWkhqSnZlUm1UcThoeVZ0U0Fhc1FRQlY0NkpxWTdSSW9aSXIzdGZuTG9NejI1dFBmSEVvMFQzX1A0WDRtNHh0anRweFN6YUJCRGdfaGg2UWNmYm5lSnRVMkU5QXdMd0RJbXQxbXhpVGlOQUhTSmFvN1JZSHB6Vi1FQ2Ywb09LWEZ4T1NRaVFFeFdwSHhxRDJnQTM0ZGNfUkllTjVjLVNHWDNOMUZIVGRpaEs1UzF0NWdzb1hFVFNsdHhTOEh3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNGdZS1BxSmdlZGZrVnRaR1dNUmd1bTBEM2gwSXFtdHhDVzZMTWh5Wnl5elAzMmlmc0FibnJtWkhqSnZlUm1UcThoeVZ0U0Fhc1FRQlY0NkpxWTdSSW9aSXIzdGZuTG9NejI1dFBmSEVvMFQzX1A0WDRtNHh0anRweFN6YUJCRGdfaGg2UWNmYm5lSnRVMkU5QXdMd0RJbXQxbXhpVGlOQUhTSmFvN1JZSHB6Vi1FQ2Ywb09LWEZ4T1NRaVFFeFdwSHhxRDJnQTM0ZGNfUkllTjVjLVNHWDNOMUZIVGRpaEs1UzF0NWdzb1hFVFNsdHhTOEh30gGIAkFVX3lxTFBUdW5mVEY2Wnp6Q0xCcWFHYmd2N1I2Nzh2YjZ4eENlbGdLLUpMeUdSX3YtamVDQ3lraUNsSWRjaXdsdGdxQU02WVlWNWZudTRlOElrcXQwYll5cDZ0aHRsZlRuclczSzhqN3lSUlhISVRwUGp0Z3BvSERRVXR3aFNQaFN5T3QzTGE4eFdBRjhESUlmc2xSVlc1c2Nrem4wT2pUV2licHFUbHNsOTI4T3Q2RHhjUHQ4SnlXQXRUaTdnVC1IS3JrMjI2LTNSYjhxMElqTXF1SVhCcGRqeFRKb0hBMFhiRWQ4YWdMa1ptMnZPUFpqanB4UGlNUEVHT1NZZ2p3Q2tkLUh2TA?oc=5",
       "source": "O GLOBO",
       "published_at": "2026-10-17T23:54:06+00:00",
       "category": "Internacional",
@@ -622,16 +664,16 @@
       "archive": false
     },
     {
-      "id": "ac00354ea15057bb",
-      "title": "Ministro do TSE nega pedido para impedir atos de artistas apoiadores de Lula",
+      "id": "7c7643db73db4c03",
+      "title": "Ministro do TSE nega pedido para impedir atos de artistas apoiadores de Lula - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: ministro do TSE nega pedido para impedir atos de artistas apoiadores de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/ministro-do-tse-nega-pedido-para-impedir-atos-de-artistas-apoiadores-de-lula/",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXQ4cEpDN2h6UV9FTVZlWGNtaHFvME5MbnRXTzdsY3hSU1dGVWMydl9RRWR0X0UxN3lHTjh6Q2ViaHpzWTgxUU1DVHBfY25WSVFsWGJuUW1wRXkzRnBXdzRWRkcwVFBJeDhySHE4d1RqWTA4blNUNVpWNkpBaUdTUnFMWWJYbXJKTHYxSEdCMW5uaXpjZEVnb0Q0WHJKYzlseGU3RjhacnJmb2Jpd0JZ?oc=5",
       "source": "VEJA",
       "published_at": "2026-10-17T23:00:06+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -744,6 +786,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d22b92d639320b46",
+      "title": "Ex-jogador da seleção ucraniana é encontrado morto na linha de frente da guerra com a Rússia - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: ex-jogador da seleção ucraniana é encontrado morto na linha de frente da guerra com a Rússia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc0VDNktHT2xyZDBrRGRxRmNHcnVpYkJKdGdoVHc4R2tvd29GYTRtdE5YWExsLVVuOTBvM0lLMGdTVkxBVGNUdTZvUk9td0l5dVBLNkJIN2ZESmdPRThyeDdmTDI0cXhPSXNfUEpmcFZ6cGthYUlMeTZFbWlwRXlDY2M3OFA2Vld4blRBTllhaVduMFJGM0N4UU9EWTVLdmQ1Tmh5SmRkMXU4aHlHUGdRN1FCRTd1QVY3Q19aeG5qWUJhbVkxOERyS2F2QnFNclJ0bUR4b1dSRzBhbkxBdVJVV0Vn0gHwAUFVX3lxTE5ULXVtakpYTjl3cXJNQlVTOHZtZk83RG1hQm84dEJQdWUzNXMzN2RnaEVfNXctdWV2T1h3bWVOQjNqSVUweld4TFdmODFvV0JsdTgzcEliZ2JMSC0wVGpGbUp5emxObXlKM3lRZHREQUppWFV5M2RKQ1pqUGxEdHJVLWg0ajYyUVcwTDhBWXkxYzZtc24xM0J0dF93b3pLZlNPNmZlcHRyaTRwLWxabEVqaWFiSm1zUmFtb2FXSGdPN1EweG1URmJlMVFxRFBBMXVzc2hoZ3ZudFlTRDBsek02NEpuYzlOSnlJSVI4ajhJeA?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-17T20:40:49+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1210,20 +1266,6 @@
       "archive": false
     },
     {
-      "id": "6283b4f3c369c181",
-      "title": "Congresso terá recorde de mulheres, mas barreira nos partidos limita avanço",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: congresso terá recorde de mulheres, mas barreira nos partidos limita avanço. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/10/congresso-tera-recorde-de-mulheres-mas-barreira-nos-partidos-limita-avanco",
-      "source": "Senado Federal",
-      "published_at": "2026-10-16T20:11:56+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "773e0545863281c7",
       "title": "Cadu de Lula faz caminhada em Parnamirim e promete obras viárias e conclusão de Hospital Metropolitano",
       "summary": "O veículo G1 publicou uma atualização sobre: cadu de Lula faz caminhada em Parnamirim e promete obras viárias e conclusão de Hospital Metropolitano. Consulte a reportagem para contexto, dados e declarações.",
@@ -1308,40 +1350,12 @@
       "archive": false
     },
     {
-      "id": "bd679193c6a2069c",
-      "title": "Indústria está mais dependente de bancos tradicionais para o curto e médio prazo, aponta CNI",
-      "summary": "O veículo VEJA publicou uma atualização sobre: indústria está mais dependente de bancos tradicionais para o curto e médio prazo, aponta CNI. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/economia/industria-esta-mais-dependente-de-bancos-tradicionais-para-o-curto-e-medio-prazo-aponta-cni/",
-      "source": "VEJA",
-      "published_at": "2026-10-16T17:00:18+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d26acb51350b2f65",
       "title": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo monitora saúde de amazonenses em locais afetados por queimadas. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-monitora-saude-de-amazonenses-em-locais-afetados-por-queimadas",
       "source": "Agência Brasil",
       "published_at": "2026-10-16T16:50:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "877d801e962cb8d9",
-      "title": "Nova regra garante aposentadoria especial a agentes de saúde; entenda",
-      "summary": "O veículo VEJA publicou uma atualização sobre: nova regra garante aposentadoria especial a agentes de saúde; entenda. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/economia/nova-regra-garante-aposentadoria-especial-a-agentes-de-saude-entenda/",
-      "source": "VEJA",
-      "published_at": "2026-10-16T16:28:53+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
@@ -1504,20 +1518,6 @@
       "archive": false
     },
     {
-      "id": "572597fc2b155924",
-      "title": "Docentes usam inteligência artificial para inovar e engajar alunos",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: docentes usam inteligência artificial para inovar e engajar alunos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/docentes-usam-inteligencia-artificial-para-inovar-e-engajar-alunos",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-15T17:45:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5edbf96a139fabf6",
       "title": "Pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -1549,19 +1549,19 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 21
+      "items": 24
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 65
+      "items": 64
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 39
+      "items": 38
     },
     "VEJA": {
       "status": "ok",
-      "items": 7
+      "items": 8
     },
     "The New York Times": {
       "status": "ok",
@@ -1609,15 +1609,15 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 30
+      "items": 31
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 49
+      "items": 47
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 53
+      "items": 55
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1629,7 +1629,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 28
+      "items": 29
     }
   },
   "notes": [
