@@ -1,10 +1,80 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T02:41:17.423030+00:00",
-  "last_success_at": "2026-10-18T02:41:17.423030+00:00",
+  "last_checked_at": "2026-10-18T03:41:56.616086+00:00",
+  "last_success_at": "2026-10-18T03:41:56.616086+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "72a074cd70e03c8a",
+      "title": "Confira o que Flávio Bolsonaro e Lula levaram para a propaganda eleitoral no rádio neste 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: confira o que Flávio Bolsonaro e Lula levaram para a propaganda eleitoral no rádio neste 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/campanha-eleitoral-radio-flavio-bolsonaro-lula.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4ce83f26972e1b2a",
+      "title": "No Instagram, Lula muda o discurso no segundo turno, e Flávio Bolsonaro mantém foco em voto e confronto",
+      "summary": "O veículo G1 publicou uma atualização sobre: no Instagram, Lula muda o discurso no segundo turno, e Flávio Bolsonaro mantém foco em voto e confronto. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/instagram-lula-flavio-bolsonaro-segundo-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fd632fe53584f8a7",
+      "title": "Alcolumbre conta votos e traça planos para seguir no comando do Senado em governo de Lula ou de Flávio",
+      "summary": "O veículo G1 publicou uma atualização sobre: alcolumbre conta votos e traça planos para seguir no comando do Senado em governo de Lula ou de Flávio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/18/alcolumbre-conta-votos-e-traca-planos-para-seguir-no-comando-do-senado-em-governo-de-lula-ou-de-flavio.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T03:00:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "46e714e004d9a434",
+      "title": "Jovem de escola pública aprovada em medicina na Unicamp estudava 8 horas por dia com videoaulas gratuitas",
+      "summary": "O veículo G1 publicou uma atualização sobre: jovem de escola pública aprovada em medicina na Unicamp estudava 8 horas por dia com videoaulas gratuitas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/10/18/jovem-de-escola-publica-aprovada-em-medicina-na-unicamp-estudava-8-horas-por-dia-com-videoaulas-gratuitas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T03:00:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "74557fab05a0dd6a",
+      "title": "Mega-Sena 3071 pode pagar R$ 170 milhões neste domingo; g1 transmite ao vivo",
+      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena 3071 pode pagar R$ 170 milhões neste domingo; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-3071-pode-pagar-r-170-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T03:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "9a812ad6f40c506a",
       "title": "Nostalgia e expectativa de lucro impulsionam mercado de cartas de Pokémon, com preços de até R$ 86 milhões",
@@ -230,20 +300,6 @@
       "archive": false
     },
     {
-      "id": "15e5a3fa4def3c3a",
-      "title": "O voto que a economia já não explica",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: o voto que a economia já não explica. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/o-voto-que-a-economia-ja-nao-explica.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T01:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "629e7a9eba0c9396",
       "title": "Ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram campanha de Lula - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: ministério da Justiça aciona MP e ANPD contra a Meta por falhas que afetaram campanha de Lula. Consulte a reportagem para contexto, dados e declarações.",
@@ -251,20 +307,6 @@
       "source": "Estadão",
       "published_at": "2026-10-18T00:57:00+00:00",
       "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8ae6a1e3c6a667c0",
-      "title": "Amiga de Lulinha diz à CNN que Lula mentiu e que filho de presidente se reuniu com ministros - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: amiga de Lulinha diz à CNN que Lula mentiu e que filho de presidente se reuniu com ministros. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXJCUm1faVdkU0tSallYS3ctZXdRbmZKWTJ2d2p0VHZCOVU2Z3RIM0dfY1hoSFhhSlFIVDFRQWFQWWNmR0E0WnpSTWV5TFFJN0JtVDk2UU9ZUWdDbllDcE5iWVpWOXlBNHJIQkpQdm9nWXJoVXJCZTI3Ukg5WElkWHZyNG41TVlnTkhEQ25xOHlpVkx3cXBkSnJITTAzM3VmUXFEbERHN25sMjVUZXVaczZsUEFxTTVLTUYxWGVWWEFMZGN4TE1v?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-18T00:47:35+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -524,20 +566,6 @@
       "archive": false
     },
     {
-      "id": "4b8b20659e79c7d4",
-      "title": "Por que os EUA estão retomando o pelotão de fuzilamento como método de execução",
-      "summary": "O veículo G1 publicou uma atualização sobre: por que os EUA estão retomando o pelotão de fuzilamento como método de execução. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/por-que-os-eua-estao-retomando-o-pelotao-de-fuzilamento-como-metodo-de-execucao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T21:02:24+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "822c1102146c1ecf",
       "title": "STF vai decidir índice de correção de dívidas da Fazenda Pública após emenda de 2025",
       "summary": "O veículo VEJA publicou uma atualização sobre: sTF vai decidir índice de correção de dívidas da Fazenda Pública após emenda de 2025. Consulte a reportagem para contexto, dados e declarações.",
@@ -573,20 +601,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-17T20:58:00+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b7bf55b33613d63f",
-      "title": "Estudantes denunciam deputado e ex-candidata por rasgarem panfletos na UFRR: 'Insegurança'",
-      "summary": "O veículo G1 publicou uma atualização sobre: estudantes denunciam deputado e ex-candidata por rasgarem panfletos na UFRR: 'Insegurança'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/17/estudantes-denunciam-deputado-e-ex-candidata-por-rasgarem-panfletos-na-ufrr-inseguranca.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T20:45:43+00:00",
-      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -650,34 +664,6 @@
       "archive": false
     },
     {
-      "id": "18785444db3bdf84",
-      "title": "Protestos contra Trump pedem voto antecipado nos EUA antes das eleições de meio de mandato",
-      "summary": "O veículo G1 publicou uma atualização sobre: protestos contra Trump pedem voto antecipado nos EUA antes das eleições de meio de mandato. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/17/protestos-trump-voto-antecipado-eua.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T20:28:40+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "256dd0f35fe9b1c3",
-      "title": "Polícia apreende mais de 100 kg de drogas em ônibus na BR-135; veículo seguia de SP para a Bahia",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia apreende mais de 100 kg de drogas em ônibus na BR-135; veículo seguia de SP para a Bahia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/17/policia-apreende-mais-de-100-kg-de-drogas-em-onibus-na-br-135-veiculo-seguia-de-sp-para-a-bahia.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-17T20:24:51+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9921ad5b87f67710",
       "title": "Campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno",
       "summary": "O veículo VEJA publicou uma atualização sobre: campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno. Consulte a reportagem para contexto, dados e declarações.",
@@ -699,20 +685,6 @@
       "source": "Estadão",
       "published_at": "2026-10-17T20:00:00+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "722a730d8624114a",
-      "title": "Polícia procura suspeito de roubo de carro com apoio do Águia em Mogi das Cruzes - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia procura suspeito de roubo de carro com apoio do Águia em Mogi das Cruzes. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRUtKcnF3NHJxYnNxamRHbm5LUWxMXzJSWXdKUDJYMS1rQ0RmWEtiaGhiZnR4R2JCTWZLZmQ2WmZ3U2VKYkVfYjViR1ljQWg0R2F6em44UjFOUVg3MS1xWnZ3cFNSWEJZVndyVUxaSjEtWHNwZHdTdnJxUjhObkRLekF4c1RFU3VwRzRLZjNSaWhtSXctbWFXQkdLRFc1RnQ4X3RuOHFnM1VCOVZZQWhLQ1VTSkp3UGRFY2ZEZGRFS25QQ3ZpbGtubDlZNlIxVjVPQUVMRzNKRFhZWWRpbnFpdUtKdURmXzDSAfYBQVVfeXFMTlVoQThleXhGVnUwbXA1dVZPREYtUFYyclAzeEk5VHFoRlZmZ25FUmU2OFY0Mi14RHE0elp6bUFjekdoTGg2NGZQZVdDV2dLOXYtb2dsbFk4TTAtQ0l1VklHX25XbGY5cTBHeUdWVnR4aDVGS281VGJGWUt4ekJrODk1V29ZYnIzWHl5SVZ2RFY3bjJGNUVROFFVMWVPZ0NheURMOV9yYlZYX0dPTzFfVnotNUhIcHQyRFBtSFFlV3NHZ0JfcmctbW04cFRpa3RReXNJeFpqVkpNYU8xYWFIdUhFdE13dU01WlhMZjdRS0RwdDNnZk5R?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-17T19:53:04+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -776,6 +748,20 @@
       "archive": false
     },
     {
+      "id": "71b89f17daf9acb4",
+      "title": "Rebocador da Marinha usado na primeira guerra mundial será restaurado",
+      "summary": "O veículo VEJA publicou uma atualização sobre: rebocador da Marinha usado na primeira guerra mundial será restaurado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/rebocador-da-marinha-usado-na-primeira-guerra-mundial-sera-restaurado/",
+      "source": "VEJA",
+      "published_at": "2026-10-17T19:01:29+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "87444683a079405c",
       "title": "Mortes: Empresário saiu da miséria para se tornar um mecenas da educação",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mortes: Empresário saiu da miséria para se tornar um mecenas da educação. Consulte a reportagem para contexto, dados e declarações.",
@@ -797,6 +783,20 @@
       "source": "VEJA",
       "published_at": "2026-10-17T18:41:26+00:00",
       "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "508c91178a108ccf",
+      "title": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: u.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-17T18:00:45+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -842,6 +842,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ad076eb428e1dd36",
+      "title": "Flávio Bolsonaro chama pai de 'professor' em ato com Tarcísio no Espírito Santo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro chama pai de 'professor' em ato com Tarcísio no Espírito Santo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-chama-pai-de-professor-em-ato-com-tarcisio-no-espirito-santo.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T16:31:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1266,20 +1280,6 @@
       "archive": false
     },
     {
-      "id": "7b446aa6302a2094",
-      "title": "O fim da escala 6x1",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: o fim da escala 6x1. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/infomaterias/2026/10/o-fim-da-escala-6x1",
-      "source": "Senado Federal",
-      "published_at": "2026-10-16T18:19:35+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "087e4db8fb703c6a",
       "title": "Agência de Comunicação - Mercado brasileiro de fidelidade atrai empresas estrangeiras - Estadão Blue Studio",
       "summary": "O veículo Estadão Blue Studio publicou uma atualização sobre: agência de Comunicação - Mercado brasileiro de fidelidade atrai empresas estrangeiras. Consulte a reportagem para contexto, dados e declarações.",
@@ -1434,20 +1434,6 @@
       "archive": false
     },
     {
-      "id": "bf84bb7f6a101a89",
-      "title": "Atividade econômica tem alta de 0,3% em agosto, mostra IBC-Br",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: atividade econômica tem alta de 0,3% em agosto, mostra IBC-Br. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/atividade-economica-tem-alta-de-03-em-agosto-mostra-ibc-br",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T13:29:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "31f72c02d3ab4849",
       "title": "O estado de saúde de papa Leão XIV após retirada de câncer - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: o estado de saúde de papa Leão XIV após retirada de câncer. Consulte a reportagem para contexto, dados e declarações.",
@@ -1560,20 +1546,6 @@
       "archive": false
     },
     {
-      "id": "2fbbd3b0c070424c",
-      "title": "Lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande Bahia",
-      "summary": "O veículo Jornal Grande Bahia publicou uma atualização sobre: lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande B. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYzlGRExua2NkQ3ZRb2laRGh2VWtYajVwTldWMWxWX0g1NW9BLVhicWx5UU1teEJuZlpnS3U3ZmcyMHVSZVMwa3VySjRxc003Skp3Y1pPQVM2V09vWkFjNmxUcm11bkJPdWREeklBVVVhWmFFVTF3blNRTjZfX05iYm9ZUjN6cUtZTTNvbFlhb3BIaTBfZWNzeUh1bHlIc21xLXFnaGFtX19CMEpiaF9MSXpaRG1TRnlkNUlidVdtMW43dWhfUS1oVUdjYWhLVEVIUnhhc01yVGJhWUpGZTZKRmhTRlhaR0F2Q2t1Y1o3ZlR4ZmYtbmdLYWg2eVFFa3RiRnNrdVdlcEd2UQ?oc=5",
-      "source": "Jornal Grande Bahia",
-      "published_at": "2026-10-15T19:30:10+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5edbf96a139fabf6",
       "title": "Pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -1609,7 +1581,7 @@
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 67
+      "items": 68
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1621,7 +1593,7 @@
     },
     "The New York Times": {
       "status": "ok",
-      "items": 9
+      "items": 8
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1637,7 +1609,7 @@
     },
     "Agência Brasil · Educação": {
       "status": "ok",
-      "items": 8
+      "items": 7
     },
     "Agência Brasil · Saúde": {
       "status": "ok",
@@ -1661,15 +1633,15 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 67
+      "items": 66
     },
     "Estadão": {
       "status": "ok",
-      "items": 34
+      "items": 31
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 45
+      "items": 44
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1677,7 +1649,7 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 49
+      "items": 53
     },
     "Eleições · Lula": {
       "status": "ok",
@@ -1685,7 +1657,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 38
+      "items": 33
     }
   },
   "notes": [
