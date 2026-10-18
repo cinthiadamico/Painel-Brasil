@@ -1,10 +1,122 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T21:39:13.327699+00:00",
-  "last_success_at": "2026-10-18T21:39:13.327699+00:00",
+  "last_checked_at": "2026-10-18T22:38:15.652907+00:00",
+  "last_success_at": "2026-10-18T22:38:15.652907+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "806eb4229d004736",
+      "title": "AO VIVO: acompanhe o debate entre Lula e Flávio Bolsonaro na Band",
+      "summary": "O veículo VEJA publicou uma atualização sobre: aO VIVO: acompanhe o debate entre Lula e Flávio Bolsonaro na Band. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/ao-vivo-acompanhe-o-debate-entre-lula-e-flavio-bolsonaro-na-band/",
+      "source": "VEJA",
+      "published_at": "2026-10-18T22:37:43+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bc2a11cb10746634",
+      "title": "Apoiadores de Lula fazem atos de campanha espalhados pela cidade de SP",
+      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula fazem atos de campanha espalhados pela cidade de SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/18/apoiadores-de-lula-fazem-atos-de-campanha-espalhados-pela-cidade-de-sp.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T22:30:22+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e9f849afd6d70d0b",
+      "title": "Quatro locais de votação no Ceará são alterados para 2º turno; veja quais",
+      "summary": "O veículo G1 publicou uma atualização sobre: quatro locais de votação no Ceará são alterados para 2º turno; veja quais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/18/quatro-locais-de-votacao-no-ceara-sao-alterados-para-2o-turno-veja-quais.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T22:16:26+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2cf10633816a1eca",
+      "title": "Policial civil e outros dois suspeitos são presos após roubo de malas de ônibus",
+      "summary": "O veículo G1 publicou uma atualização sobre: policial civil e outros dois suspeitos são presos após roubo de malas de ônibus. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/18/policial-civil-e-outras-duas-pessoas-sao-presos-suspeitos-de-roubar-onibus-em-itu.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T22:10:12+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "104724cd000d2efc",
+      "title": "Médico morre em troca de tiros com a polícia no noroeste de SP",
+      "summary": "O veículo G1 publicou uma atualização sobre: médico morre em troca de tiros com a polícia no noroeste de SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/18/medico-morre-em-troca-de-tiros-com-policia-no-noroeste-de-sp.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T22:01:11+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c6ef54e3c8c6f202",
+      "title": "Documentário retrata da tradição indígena à IA na medicina brasileira",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: documentário retrata da tradição indígena à IA na medicina brasileira. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/documentario-retrata-da-tradicao-indigena-a-ia-na-medicina-brasileira.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-18T22:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7021d080707ae2bb",
+      "title": "Apoiadores de Flávio Bolsonaro levam à Paulista míssil inflável que pede para Trump fazer um ataque nuclear no Brasil",
+      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Flávio Bolsonaro levam à Paulista míssil inflável que pede para Trump fazer um ataque nuclear no Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/18/apoiadores-de-flavio-bolsonaro-levam-a-paulista-missil-inflavel-que-pede-para-trump-bombardear-o-brasil.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T21:44:33+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "22db14c33027e707",
+      "title": "Flávio Bolsonaro é investigado no STF por suspeita de lavagem com advogado do caso INSS",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro é investigado no STF por suspeita de lavagem com advogado do caso INSS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-investigado-no-stf-por-suspeita-de-lavagem-com-advogado-do-caso-inss.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-18T21:44:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "59bfff86980d3979",
       "title": "Flávio x Lula no debate presidencial Band/Estadão: siga o primeiro embate entre os candidatos - Estadão",
@@ -16,6 +128,48 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7a082c56829efaca",
+      "title": "Mutirão de empregos oferece 60 vagas para trabalhadores rurais em empresa de Tatuí; veja como participar",
+      "summary": "O veículo G1 publicou uma atualização sobre: mutirão de empregos oferece 60 vagas para trabalhadores rurais em empresa de Tatuí; veja como participar. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/18/mutirao-de-empregos-oferece-60-vagas-para-trabalhadores-rurais-em-empresa-de-tatui-veja-como-participar.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T21:35:12+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fb3586546a258b83",
+      "title": "Complexo logístico na Ilha do Tatu ameaça manguezais e mobilidade, diz Prefeitura de Cubatão",
+      "summary": "O veículo G1 publicou uma atualização sobre: complexo logístico na Ilha do Tatu ameaça manguezais e mobilidade, diz Prefeitura de Cubatão. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/18/complexo-ilha-do-tatu-impactos-cubatao.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T21:33:38+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "616bbfd05b78cefb",
+      "title": "Isso é Fantástico — como a insônia e a falta de sono afetam a nossa saúde",
+      "summary": "O veículo G1 publicou uma atualização sobre: isso é Fantástico — como a insônia e a falta de sono afetam a nossa saúde. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/10/18/isso-e-fantastico-como-a-insonia-e-a-falta-de-sono-afetam-a-nossa-saude.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T21:33:01+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -90,34 +244,6 @@
       "archive": false
     },
     {
-      "id": "287e5318b79dfb3a",
-      "title": "Apoiadores realizam ato pró-Flávio no entorno do Açude Velho, em Campina Grande",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores realizam ato pró-Flávio no entorno do Açude Velho, em Campina Grande. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/18/apoiadores-realizam-ato-pro-flavio-no-acude-velho-em-campina-grande-pb.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T20:43:59+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "840d44c2878a5986",
-      "title": "Apoiadores de Lula fazem ato com Caetano Veloso, Djavan e outros artistas em Copacabana - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: apoiadores de Lula fazem ato com Caetano Veloso, Djavan e outros artistas em Copacabana. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRjJtaUxPWVhaVzFVeVJsU205emdTRG1sTTAwRm9PRko1blV1cVNSYjZzRTkyMXF1NzdvYldvY1QxQUU0aFA5ajNqWEZaME8teDBqRWM2ME1uR3pQTVNJZDlvTzVfQnRWTzB4THFLMFRMd2ttVXNDeTJsUGVNbXdwcmxOMWtWRmtrcldzUEI2WV9Va0FIV2w0NWVLZ21XYVdzaE9QNjJKMXJSZ1Q0c0tmREl3X25sRGVxUEp2aWJKcmRQYVRUanUtaWYzR3hfTDBSRndham1YZE02ekx3NTlFRktiWXAwZkFCOG9iSmlZWUTSAf8BQVVfeXFMTThMSnpmR01keHVZbHdzdWk2X2MydmhMSGhlSS1LWjd6SmVVLWFZV0hoRzM5b2dTRFJtb0FVMUNFMUNTZWlSNGthYk5WWHZrSXJOS1R0VmVjN0U2N24xQTRpeENobkg4d0hyMjZWME9rWkplbDFPYnQ1X2Zqckotc0RTb01zN1ZGSjBhSEg5YW1TQ0ktcDRENGxhMzFMTEFvQlFSMkhwSjJ4Q0VCUWN6S1JlelVKTzV3d2YtaWtTV0NNMHBpdHZEYzdkLXJpeHpsXzhkR1U5N1pNaEtGWGRRMVdObGV1bGRTM044MzFSYVZlTFdGZjdaMFc0TVduektR?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-18T20:43:05+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a51264e569a1dbd7",
       "title": "Planet Earth and Brazil’s Election",
       "summary": "O veículo The New York Times publicou uma atualização sobre: planet Earth and Brazil’s Election. Consulte a reportagem para contexto, dados e declarações.",
@@ -125,62 +251,6 @@
       "source": "The New York Times",
       "published_at": "2026-10-18T20:41:18+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "09b07144de988434",
-      "title": "Ato a favor de Lula convocado por Caetano reúne artistas e ocupa orla do Rio",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ato a favor de Lula convocado por Caetano reúne artistas e ocupa orla do Rio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-a-favor-de-lula-convocado-por-caetano-reune-artistas-e-ocupa-orla-do-rio.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T20:34:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "02ce0a726c318f80",
-      "title": "Ato a favor de Lula reúne apoiadores em Goiânia",
-      "summary": "O veículo G1 publicou uma atualização sobre: ato a favor de Lula reúne apoiadores em Goiânia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/18/ato-a-favor-de-lula-reune-apoiadores-em-goiania.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T20:33:13+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "667020157cd2e220",
-      "title": "Vantagem de Lula sobre os Bolsonaro cai em 98% das cidades do Nordeste",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vantagem de Lula sobre os Bolsonaro cai em 98% das cidades do Nordeste. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vantagem-de-lula-sobre-os-bolsonaro-cai-em-98-das-cidades-do-nordeste.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T20:33:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "79d8d0d89e56046a",
-      "title": "Organizações cobram transparência e equilíbro após denúncias de restrições a conteúdos pró-Lula",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: organizações cobram transparência e equilíbro após denúncias de restrições a conteúdos pró-Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/organizacoes-cobram-transparencia-e-equilibro-apos-denuncias-de-restricoes-a-conteudos-pro-lula.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T20:32:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -198,34 +268,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "588a1a672c7a3b0b",
-      "title": "Estadão faz série de debates sobre o que esperar do novo governo, na reta final das eleições - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: estadão faz série de debates sobre o que esperar do novo governo, na reta final das eleições. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbW94X2x4ZlA3OTI3U01sdWJBeWxEaVYzOVRmZFMxT1N2MHhtcl80aVIySHY5QXA3MDlPMDU4MDFKUldzSTNZOXNlTFdiWklwZTNBaWhENG0yWUMzSkNaNkYxSEdtY0p1c1dPRnY4c3QxR2htNkEtM3E0TTVQVGt3NjV1dWRtakgyaTg2M3VQMl9QYWNtQjBrZW9KY2JwaVZaNGswOUt5c1h3NVBzYmNzdmhEaU5UclZnSDNfeEh6Z3N1bmEzZWFVUFZUd3hLRF9WMUE?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-18T20:23:42+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "886caadc9e4ceaf0",
-      "title": "Apoiadores de Lula fazem ato unificado em Vitória",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula fazem ato unificado em Vitória. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/18/apoiadores-de-lula-fazem-ato-unificado-em-vitoria.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T20:18:46+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -366,6 +408,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6803230c6c783b9a",
+      "title": "Professor morre após caminhonete bater em poste de energia na RR-203, em Amajari",
+      "summary": "O veículo G1 publicou uma atualização sobre: professor morre após caminhonete bater em poste de energia na RR-203, em Amajari. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/18/motorista-morre-apos-caminhonete-bater-em-poste-de-energia-na-rr-203-em-amajari.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T18:47:17+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -552,34 +608,6 @@
       "archive": false
     },
     {
-      "id": "e1e9cf857df6f3c5",
-      "title": "Forças Armadas vão reforçar combate às queimadas no Amazonas, anuncia ministro da Justiça - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: forças Armadas vão reforçar combate às queimadas no Amazonas, anuncia ministro da Justiça. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3RQNlRPSHR5bmwyU2JFZU05RFg3X1M3eWctVE5hMU9IMmdtR3dhYlY2Nko1V0RqRTQwOF93UWxYQlNLZVktSHdOU2luOS1oYXVNSWtheldRWVVZU2kxOUVXOFlFdzV4eTNlSGFfZDgtVzAxdDREaEN4aWhxUFhUSGRlWnZ6anEwLVZMSFkycHZFdHEtWmw4QTNrMlZ4SDZLU0lQX0d1VXBKdVd4MVNWRXpR0gHAAUFVX3lxTE1FWVE0S3kxNHo0OEtaa2YxcUs2dUh6WVNoRFFUZUo1M0s1Q21RTTVoX0Q4REs0V2xSMVJFVUF4anFJQ2FjNTJILWl0Sy1uRGp3dW9JdDNJTzlBaEFxczhmVnVBcnhlQ01OQ0taVGRHWlFpNEh4c2FoVjktOUxueGpycThIWlF6dTRXaEt4RWZsOTBjRXhKZlFvYk15WFRIWm5aY3k4UENxUjdtd081N3hSNWZsSDUtYUVFV0Y3b29JeA?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-18T16:13:47+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b0d77226e273333a",
-      "title": "Concurso da Polícia Civil do AP encerra inscrições nesta segunda (19); salários chegam a R$ 31 mil",
-      "summary": "O veículo G1 publicou uma atualização sobre: concurso da Polícia Civil do AP encerra inscrições nesta segunda (19); salários chegam a R$ 31 mil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/18/concurso-da-policia-civil-do-ap-encerra-inscricoes-nesta-segunda-19-salarios-chegam-a-r-31-mil.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T15:54:41+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "350698e04a933c46",
       "title": "Investimentos de US$ 10 tri em data centers nos EUA enfrentam atrasos, dúvidas e críticas",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: investimentos de US$ 10 tri em data centers nos EUA enfrentam atrasos, dúvidas e críticas. Consulte a reportagem para contexto, dados e declarações.",
@@ -636,54 +664,12 @@
       "archive": false
     },
     {
-      "id": "5bc126a815fd8d31",
-      "title": "Hospital Universitário em Divinópolis amplia atendimentos para prevenção e diagnóstico do câncer de mama",
-      "summary": "O veículo G1 publicou uma atualização sobre: hospital Universitário em Divinópolis amplia atendimentos para prevenção e diagnóstico do câncer de mama. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/18/hospital-universitario-em-divinopolis-amplia-atendimentos-para-prevencao-e-diagnostico-do-cancer-de-mama.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T14:27:01+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d41064c998d13691",
       "title": "Empresas de três regiões terão aporte de R$ 450 milhões para inovação",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: empresas de três regiões terão aporte de R$ 450 milhões para inovação. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/empresas-de-tres-regioes-terao-aporte-de-r-450-milhoes-para-inovacao",
       "source": "Agência Brasil",
       "published_at": "2026-10-18T14:20:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "787f2363b47ee01d",
-      "title": "Polícia resgata 42 aves mantidas em cativeiro em Registro, SP - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia resgata 42 aves mantidas em cativeiro em Registro, SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXdZanoyNHZyckNyX21KVE52S2VEQmE1d2RvSVB2MlVJZFpNRGFySVRTaFRwbU5YS1hxVlk0TkRuYjVRbVRiMXhvMDY3YXdTMW5kQlZZblRJdkRXVXBwMW5sZ2xlUV9BcjE2ODBwWkhyWThKMXVQRUwzSmhud19yczZtdVdVMFFQVHM4SDRkTHA2eFRxbVllNVZJMUxhVUtqMHI3dThHT1hqOXRuck1WdmI0S3lqN2ZlbFpXUlRNdi3SAc8BQVVfeXFMUE93UHNVU04zWTljSFh0Q2hUdGE0eTNMRUg5STJVMURpRktxMFpBUXVQWk93Y0NRUVNXRjhfeGxrNHVUOVd4Q1A4TE1vM1BSZmFSN0pMN2hRYThsTjRLaEhwY1d2SUFzR3NrQUtXQ2M4c0lTVFYydko4QmFaRGZIQm9KSExSUXhHRzZ5MGEwUXE0NHNXNGhOSEtwQm8td1RIT0hMaEJPQl91WE11M3F5eGhmWWdyYVJZNnUxTDRGVUxLV3JSbWh4a3g5YVZEdXJj?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-18T14:11:03+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5632f547d0ce9489",
-      "title": "Mega-Sena acumula e próximo concurso pode pagar até R$ 185 milhões; confira os números sorteados",
-      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena acumula e próximo concurso pode pagar até R$ 185 milhões; confira os números sorteados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-concurso-3072-confira-os-numeros-sorteados.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T14:05:28+00:00",
       "category": "Economia",
       "candidate": null,
       "election_type": null,
@@ -790,20 +776,6 @@
       "archive": false
     },
     {
-      "id": "014e5a92b77e1063",
-      "title": "De colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: de colega a paciente: enfermeira enfrenta câncer de mama no hospital onde trabalha há 28 anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUzl0R18xMFJsVUw1czVOT0dIN2NoT1o4N1JTeE9BZ2o5Q2Zia3p1LTMwZUZQNjF1X25aVGVsS1ByTjZfWENFenk4YnQtZlNXRzdRU2FkREUwSWNVUEs1ZG1YeHc4eEZyckRrSEZRV3c4b3NVSlZLRXpqcmNrUk0tRk5MRkc0R2hzeUFuTXQ0d1lrRzI0d0FNTFJCVGY5Z1pqN0d4VnQybnBHMF9LT1pzUGRmSVhVZzJESzFEMlpBLWxKMlVBNFlpR21sTDR6LTdDOHNhbHdGTDdBckxUbjEwSV9uUml5Z9IB9AFBVV95cUxQUmdNTmk3OVpUTDdUV2g1NjJ1UWFIWHc5UDJVVDVma1BIbVhYUjZqZVROVy1fR1g5X0ticFNKakZ0cFp4UW1NM1hsZmxyMEQ4aDRyZFlRYVl2ZEJxU3djenNIV1p2ZGphemg5eGdnRFVER01aMHpTSzA0N24wakVDcXJvZFBNSmZkX041bFFmcG8zT1RyWDI5MVlPNXFLN0x1OXZtTHUwTWFIRW1fSTBFeUtRcllaeVE4RU1sQlhSZU50MGVZSkRqVjEtZ19FU1RkX3VOaFlFUndzZUxjcW5jUW5PYUFYYXREUUZLLXFfQzBUUFZL?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-18T09:00:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a95ce142c21ab8a2",
       "title": "Disputa por gabinetes no Senado mobiliza políticos eleitos e reforça ‘pequeno poder' de Alcolumbre - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: disputa por gabinetes no Senado mobiliza políticos eleitos e reforça ‘pequeno poder' de Alcolumbre. Consulte a reportagem para contexto, dados e declarações.",
@@ -902,16 +874,16 @@
       "archive": false
     },
     {
-      "id": "a501f55243fc2d2f",
-      "title": "Pacote eleitoral de Lula alcança R$ 290 bi e gera pressão sobre dívida pública",
+      "id": "1ef9869d4459b28a",
+      "title": "Pacote eleitoral de Lula alcança R$ 290 bi e gera pressão sobre dívida pública - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacote eleitoral de Lula alcança R$ 290 bi e gera pressão sobre dívida pública. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/pacote-eleitoral-de-lula-alcanca-r-290-bi-e-gera-pressao-sobre-divida-publica.shtml",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU9vWjQ1eUlfVzFidUNnX2RNbk1sUE8wei1QeEtoSjlSWl9BamxRMVI2MTR0WklnMjNBVTlRUHpFa0pYLW5wRXNoYUc0Mk9MTUdqajBna3J3UXBqRWpKM2FJVGlCeXdnZnNsZF91Wlg5bXFJYV80WUNwQWdiSDB4cUh3alctUU5hX0s0SjRiX0hRQmpfUmpQZWlfWkdKLXZSSHVtUzhhUFBYTDJCYmwtX21ic1VYdk5yM09oYXdWRnlnZHNlcDh4Mw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-18T02:00:00+00:00",
       "category": "Endividamento",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1042,16 +1014,16 @@
       "archive": false
     },
     {
-      "id": "b64dc87f085a0f52",
-      "title": "Partido Novo entra com ação no TSE contra atos musicais por democracia",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: partido Novo entra com ação no TSE contra atos musicais por democracia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/partido-novo-entra-com-acao-no-tse-contra-atos-musicais-por-democracia",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-17T20:58:00+00:00",
+      "id": "392d9355ff4eb4e9",
+      "title": "Painel: Prerrogativas aciona PF e Justiça Eleitoral para PL explicar contratação de empresa - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: Prerrogativas aciona PF e Justiça Eleitoral para PL explicar contratação de empresa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS2kxYm1yWlVPNWs3dlBxWVBmR29QU3Fuc0RnaWE5S2pIQU5UWkdFOGxEdk4yZnhSZWpiX1M5QWhJMkZCS1ZQeVN2Rkt1LXBiam41WmRsYTdRdW5SXzgxcFlEUDZxOXZOWmFRbmlYeGxydWJqUk43dHNZeE5lbHdFT1d5WGpKbG5YSWtWYmx2U0twd0lrM3RBVXJ5cUlGTFo2VzlIZFB3dzQtSldsbkpFZEwyMlZ1TTV0aG8wUU9lZmJScVJfbDRaa3k0cU1jbllWZ01PS252OUhOZw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-17T21:01:00+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1066,20 +1038,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d3c690b66e33baa7",
-      "title": "Campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmp5Qk9DT0tPZWFaMlI0MUdxNloxTUxPRHBaTHVRMy10N1ViNVczTDNqUldHVDFMTGVjU1JFSkRUWkNzWmFXZVUtRlpUTE9XTi0tb0VXemFxQ3gxMkhvQ0czZ3lXYW5mNkJzMHNJQkxXX2Y1Y2lweFdON1pBMkNmMzNJRGxBY0Z1UldfLWZVU2hXYVhsczdKYk9zdmV1NVdaOHgwUmQ3aU1PSFdqakFYRUl4LUhKNUFXcDQ1M1lIbWtVZw?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-17T20:02:33+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1315,6 +1273,20 @@
       "source": "Senado Federal",
       "published_at": "2026-10-16T21:38:11+00:00",
       "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0576b70204f77651",
+      "title": "Governo prevê crédito a empresas afetadas por fim da 6x1, diz Durigan",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo prevê crédito a empresas afetadas por fim da 6x1, diz Durigan. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-preve-credito-empresas-afetadas-por-fim-da-6x1-diz-durigan",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-16T21:36:00+00:00",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1560,6 +1532,20 @@
       "archive": false
     },
     {
+      "id": "f97ca4db9e3ea679",
+      "title": "Hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/hospital-geral-de-bonsucesso-chegou-marca-de-450-leitos-para-o-sus",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-15T22:25:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "dfe307e631ffd239",
       "title": "MEC libera novas formações online para professores",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: mEC libera novas formações online para professores. Consulte a reportagem para contexto, dados e declarações.",
@@ -1570,20 +1556,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2fbbd3b0c070424c",
-      "title": "Lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande Bahia",
-      "summary": "O veículo Jornal Grande Bahia publicou uma atualização sobre: lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande B. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYzlGRExua2NkQ3ZRb2laRGh2VWtYajVwTldWMWxWX0g1NW9BLVhicWx5UU1teEJuZlpnS3U3ZmcyMHVSZVMwa3VySjRxc003Skp3Y1pPQVM2V09vWkFjNmxUcm11bkJPdWREeklBVVVhWmFFVTF3blNRTjZfX05iYm9ZUjN6cUtZTTNvbFlhb3BIaTBfZWNzeUh1bHlIc21xLXFnaGFtX19CMEpiaF9MSXpaRG1TRnlkNUlidVdtMW43dWhfUS1oVUdjYWhLVEVIUnhhc01yVGJhWUpGZTZKRmhTRlhaR0F2Q2t1Y1o3ZlR4ZmYtbmdLYWg2eVFFa3RiRnNrdVdlcEd2UQ?oc=5",
-      "source": "Jornal Grande Bahia",
-      "published_at": "2026-10-15T19:30:10+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1619,11 +1591,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 51
+      "items": 49
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1683,19 +1655,19 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 49
+      "items": 50
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 52
+      "items": 51
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 42
+      "items": 41
     },
     "Eleições · Flávio": {
       "status": "ok",
