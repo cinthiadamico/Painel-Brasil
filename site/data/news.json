@@ -1,10 +1,94 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-19T06:58:30.722978+00:00",
-  "last_success_at": "2026-10-19T06:58:30.722978+00:00",
+  "last_checked_at": "2026-10-19T07:57:27.576721+00:00",
+  "last_success_at": "2026-10-19T07:57:27.576721+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "fab4be0d89e8a9d4",
+      "title": "Caetano Veloso chora ao ouvir Geraldo Azevedo em ato a favor de Lula",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: caetano Veloso chora ao ouvir Geraldo Azevedo em ato a favor de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/caetano-veloso-chora-ao-ouvir-geraldo-azevedo-em-ato-a-favor-de-lula.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T07:16:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3cbb6999d7499abc",
+      "title": "Emprego: confira as 137 vagas disponíveis em Petrolina, Salgueiro e Araripina",
+      "summary": "O veículo G1 publicou uma atualização sobre: emprego: confira as 137 vagas disponíveis em Petrolina, Salgueiro e Araripina. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/19/emprego-confira-as-137-vagas-disponiveis-em-petrolina-salgueiro-e-araripina.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T07:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4c8aefee5ca680a1",
+      "title": "De auxiliar de cozinha a enfermeiro: veja 59 vagas de emprego em São Luís e Atins",
+      "summary": "O veículo G1 publicou uma atualização sobre: de auxiliar de cozinha a enfermeiro: veja 59 vagas de emprego em São Luís e Atins. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/concursos-e-emprego/noticia/2026/10/19/de-auxiliar-de-cozinha-a-enfermeiro-veja-59-vagas-de-emprego-em-sao-luis-e-atins.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T07:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "51b7b5b16916533e",
+      "title": "Eleições entre Lula e Flávio Bolsonaro mostram racha de artistas e mandachuvas",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eleições entre Lula e Flávio Bolsonaro mostram racha de artistas e mandachuvas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/plastico/2026/10/eleicoes-entre-lula-e-flavio-bolsonaro-mostram-racha-de-artistas-e-mandachuvas.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f0b88d5020321f09",
+      "title": "De cinemas de rua a hotéis, disputa por incentivo da Prefeitura revela novos projetos para o centro de SP",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: de cinemas de rua a hotéis, disputa por incentivo da Prefeitura revela novos projetos para o centro de SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/de-cinemas-de-rua-a-hoteis-disputa-por-incentivo-da-prefeitura-revela-novos-projetos-para-o-centro-de-sp.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bd8a63855b222d56",
+      "title": "Coparticipação em planos de saúde avança sem limite definido, e ANS tenta rever regra de 1998",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: coparticipação em planos de saúde avança sem limite definido, e ANS tenta rever regra de 1998. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/coparticipacao-em-planos-de-saude-avanca-sem-limite-definido-e-ans-tenta-rever-regra-de-1998.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T07:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "724449b8e2eca163",
       "title": "Eleições 2026: não votei no primeiro turno, posso votar no segundo?",
@@ -160,6 +244,20 @@
       "archive": false
     },
     {
+      "id": "22c57fe80f601572",
+      "title": "Nas redes, tática de Flávio de se posicionar atrás de Lula é comparada à de Trump em debate com Hillary em 2016 - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: nas redes, tática de Flávio de se posicionar atrás de Lula é comparada à de Trump em debate com Hillary em 2016. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVUdOXzc2Mmlma0dRTkMxVzRJVkRESTd1cXpYSGVkWWJPNk9HOWY0TnpnSUFXZEdHUWtSUHEyQl9SeWtKXzljdkcyY2otZERiSHFTSTkzZW5lS2NHdGp2cXZxZEo3NmFKZERveEgyMzVleWI4b2Q1SFV4eG4xdlY5QURBYmdrZ1ZvWC1fU3c3V3BOb0lpRGlXTTJna3B5U1B5TmZObzBnZDIzNEQwcWJOY3JyYzZ6RFA5UkNVbzZzTzlOcVFwZmVXZ0dRVE4xbnZmR1o2UHZDLVpEakFhbzFScmtrUW1VU1NBNnpkNHZpMDNxQkZid2tpdDZGQmhLcm1xeTM1bHZCN3BhbHVQVUR2cEpRUdIBogJBVV95cUxOQWNmOXE2UXRXSk5rcXlTR05yanlyVWtNNXRWQWtBWFpkamNFU1RSbHRoaGprZGNvbDc0aFpmNGZLWE1yRnZmOEVaZmNBT0NrNlpkZEx0MWZVRERVYkhUZk9jTUd4UE5zM1BHUmxDcDgyc2FQZzJnRThGUzdwUkdnVWVxNE1ReGR4U05NaFVlNFB3V1IycGY2c1pKVDQ2TzNyc2kxaUU1aGw3VEhpRnZMVEozZTllQjRlZ3lsQmtvLXh4ZHA3M2hraGhBRjBYWnhHd0lISUx6Mjd0WWVXRWVFVzJHMDU5Um1DMjE3Vl92d0NvSDBXZWRLSUFjREdPRmwtZXZZbEZoTVhaV1FJY3ZnV21JeTEwZ1dndnhma3VMQThIUQ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-19T03:11:42+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "1460bab03e1fa0fe",
       "title": "Polícia investiga suspeita de explosivos em carro de Flávio, mas ameaça é descartada",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia investiga suspeita de explosivos em carro de Flávio, mas ameaça é descartada. Consulte a reportagem para contexto, dados e declarações.",
@@ -188,20 +286,6 @@
       "archive": false
     },
     {
-      "id": "df10edf23c2e18f5",
-      "title": "Quando será o debate presidencial da Globo? Veja a data e o horário",
-      "summary": "O veículo G1 publicou uma atualização sobre: quando será o debate presidencial da Globo? Veja a data e o horário. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/quando-sera-o-debate-presidencial-da-globo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "51ae1856c0f1dbf5",
       "title": "Documentário de Brasília mostra espera de mulheres com câncer de mama por tratamento no SUS",
       "summary": "O veículo G1 publicou uma atualização sobre: documentário de Brasília mostra espera de mulheres com câncer de mama por tratamento no SUS. Consulte a reportagem para contexto, dados e declarações.",
@@ -216,20 +300,6 @@
       "archive": false
     },
     {
-      "id": "3311b1aacb9da6c7",
-      "title": "Quando será o segundo turno das eleições 2026? Veja a data",
-      "summary": "O veículo G1 publicou uma atualização sobre: quando será o segundo turno das eleições 2026? Veja a data. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/quando-sera-o-segundo-turno-das-eleicoes-2026.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5360862725f33cdd",
       "title": "Bolsa Família 2026: pagamento de outubro, o primeiro com novos valores, começa nesta segunda",
       "summary": "O veículo G1 publicou uma atualização sobre: bolsa Família 2026: pagamento de outubro, o primeiro com novos valores, começa nesta segunda. Consulte a reportagem para contexto, dados e declarações.",
@@ -237,34 +307,6 @@
       "source": "G1",
       "published_at": "2026-10-19T03:00:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e0ab04a13878b7f0",
-      "title": "Debate da Band: Campanha do PT vê postura ‘desrespeitosa’ de Flávio Bolsonaro; PL acha Lula ‘raivoso’ - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: debate da Band: Campanha do PT vê postura ‘desrespeitosa’ de Flávio Bolsonaro; PL acha Lula ‘raivoso’. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1l5blhWOUZKRE5XZ0N1RFBvRnVzZVZ2ZnhjektHWjhZcGJtMy1hZmlUTHB5MWZEa1NrVE53S0tuVjBwWEJOeHZrMUJTZFZaX05kNlZiUVI5WksyeDgtQlphSWtrV2hicGphQzVWWDV5VzlZWkpKVHpSN3hjSmJpMHB4WXhpTkViTElsRi1yak9YYkpRMG55Tmtmalp3SUVubUdrYm5pQlhWcmg5ZlZwZnNLMEdXTGR6cm9uWnU1X2JDV2VJVzBaX0hFMjZNSzdTSE9QSFZETDcxckJmN1Nkcm8yY3QwTUdXUVlxWkdR0gH8AUFVX3lxTE1HOFV0d0NVR1VpREZITGZ6ZEp4NkkxM05BYW9DZlFfUnRyaTY3QzI2cVNFc1RwSG9YRVhVc1BqMHNOdTY1eENEd3hhSHNTbHJmZmNIcHp5eWhjcnRHcTRsblR3M1Q0ZTVLMzJXb1FEY2ROY05qdXpwTzMxTnJQemR5RC0xaU40TjNSaGJCMFhEeDJrR2pfc1ZWUGhfN01VUE1zbzI4RGJmMVd1MUZxVFRjbGtNeHB2OXQ4Sk9pN2EyVWdTNmFxY2xHb1pQZ1ZtN2FKX3Zqc01sZkRZYlVncHEzUmhFNWVUdDdXNUdleG0wWkNvOWVvVTM0VERXMQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-19T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6e476191603172b7",
-      "title": "O ‘troco’ de Lula em Flávio sobre o voto de Jair Bolsonaro",
-      "summary": "O veículo VEJA publicou uma atualização sobre: o ‘troco’ de Lula em Flávio sobre o voto de Jair Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/o-troco-de-lula-em-flavio-sobre-o-voto-de-jair-bolsonaro/",
-      "source": "VEJA",
-      "published_at": "2026-10-19T02:58:53+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -538,16 +580,16 @@
       "archive": false
     },
     {
-      "id": "3c251d98055d7c13",
-      "title": "STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz",
+      "id": "7c9ef66c369f3332",
+      "title": "STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: sTF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/18/stf-abre-inquerito-para-apurar-suposta-lavagem-de-dinheiro-envolvendo-flavio-bolsonaro-e-o-advogado-willer-tomaz.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOM3VVSURSRy05ZlU2RmZ5WjE4VFN6VFRSR1Z1QkNqVEs2dHV6MmlXRDRscDhUTnlnX0hwbGNuMWVmQURvNVZzenBLSTRacEVhUkw0OVRZaE1JemQ4dmd4eFNQTHN1TVd4WEw2MXh5anA2cDNhM1JOeDVwTGlBRklZQzhnOHJrMVFTS2JScVF5NHBsZ1kzcGlBZE41Y2RJT3FUVFRzWlc5TE1BVzFzVlpfUFpRMlBxam9mckFNUHoyZ21vckFjci1kNUNBeUUxQm5Sa3Z0UmRzT0VjZXREZ3Q5NWlWbkg4S0hqVzRtU2VGQm9Dbi1ucjA2OERnONIBigJBVV95cUxQc3hncVdwWWppcmpERXI1RzNNNkhmU2ZZTzZsNGhWLTBIeFRXaHFldk1vOFB6TlViWE5zM0xGM1ItYmFTMThDY2NiaEtPTHVCQWJiMzZTM2tPYUxwcklaOFdvUTNfeFcxNjk2R3JRSWZ4b2g4NmtUdy1JMFRod0l5THdzQ0dETGNuWmwwcDU0cHp4ckRSME5PS0VET0RNVU52bXJfZzhmdFBXWTVlb1l1N08xX3BfSGw3NExWN0g0VnBxZl9NWnZIUmNCeU5KMXd6Ri1QX0s5dlctYmtYZWN4cFpPbEh0cXhQNmRaMzVvMTRORTNHaWw4SXFXc3M0SjdVTEs1bjJaVGdfZw?oc=5",
       "source": "G1",
       "published_at": "2026-10-18T22:36:36+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -776,40 +818,12 @@
       "archive": false
     },
     {
-      "id": "bc4ed99ac3b2d918",
-      "title": "Polícia do Amazonas prende 11 pessoas por suspeita de envolvimento com incêndios",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia do Amazonas prende 11 pessoas por suspeita de envolvimento com incêndios. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/comitiva-federal-faz-reuniao-em-manaus-e-anuncia-apoio-das-forcas-armadas-no-combate-a-incendios.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T18:40:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "926b205bf26efff9",
       "title": "Tensões voltam a crescer; França contabiliza custos de protestos",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: tensões voltam a crescer; França contabiliza custos de protestos. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/tensoes-voltam-crescer-franca-contabiliza-custos-de-protestos",
       "source": "Agência Brasil",
       "published_at": "2026-10-18T18:02:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ef99d0f83c145f30",
-      "title": "UE enfrentará retaliação devastadora se restringir empresas dos EUA, diz embaixador do país",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: uE enfrentará retaliação devastadora se restringir empresas dos EUA, diz embaixador do país. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/ue-enfrentara-retaliacao-devastadora-se-restringir-empresas-dos-eua-diz-embaixador-do-pais.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T18:00:00+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
@@ -874,16 +888,16 @@
       "archive": false
     },
     {
-      "id": "28cb1f21524b5da4",
-      "title": "TSE altera local de votação de 402,6 mil eleitores para o 2° turno, e PT pede mais divulgação - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tSE altera local de votação de 402,6 mil eleitores para o 2° turno, e PT pede mais divulgação. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ2FtOVRwZzVCMUFIZDNmekt3amJZRlMyTEpMUmg4Q2wzZTlrWkNYeVVvVUFrSHFQbEZmMFlOcDVlOUp4bGFEWGpkTWRkTUN5bTdRZHlJbnFwaDhYbVhrUlE1R0tzQVYwSVBYdmVSVW9QdXFMdXNOamdSSHdIajR2Y2JDM0p5R080b1oyZWdiUEM3ZVNqQW9PeXEyR2VMQ1FTU2s4N2J1VDh2M2lNN1ZHTEdYdXV6Z2l5dzI5bmNUOWdEbm05QWVXd3MzT0l1T3BSUW5meDF3?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T15:27:00+00:00",
-      "category": "STF e Justiça",
+      "id": "a8ddf400b127318a",
+      "title": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-18T14:30:49+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": true,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -986,20 +1000,6 @@
       "archive": false
     },
     {
-      "id": "b95049c7eacda6cb",
-      "title": "Eleições 2026, dólar a R$ 5 e apostas para a Bolsa estão entre as mais lidas - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: eleições 2026, dólar a R$ 5 e apostas para a Bolsa estão entre as mais lidas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcl81V291RmRrU3hBQlNwR0lVbUJCZFBuOVJGdzQtTVFGWlAwUTlvMnZkYzFnOVVHTDJOQ1BsRmI0dVFVdDhfNlY5SlZKX2hkU2lqdDY5N0FQZ3ZWNzVOZmdFMGlZR2Nkd0JHTjlGRnRKcFNDcndOeTlCQTA1dXhzbkFBVmxYRG9PMGxZbmNkMS1YcUVoLWRaSlRCSGxqQW5iaFI3S2txSWtyam1nSXdhYXNYa2VBVTBXQnpDZk1JdzRIdVRNYzhPdHN1aU5hWnpWU0hoWdIB2gFBVV95cUxQUFJaNFJIaGYzcXlBMF9NbUxCNUJpdG9tbC0zYTZRbEZ4SmZQUGwxZ0tXaHRMazRub0VyUS1acHZ6d0F3VHdqbDY4QjVkTHo4NExuWVhSb3Vzc0V5MUdtTWlBLThOZHpzLXBxWnFZMy10dkVYSm10aE9GQzAzZDB6RS1DY3pvZHI1V2NpSkZlREhfLWYzZGUzWGpHTTh6YkJYbnF0ZnJzTHctTktjYWp6LThxcmhKQjFZMk5GZTlmOUVJa2htaVBhQmI5SlpGOGM1dFFqeGdZQW5GQQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-18T11:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a95ce142c21ab8a2",
       "title": "Disputa por gabinetes no Senado mobiliza políticos eleitos e reforça ‘pequeno poder' de Alcolumbre - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: disputa por gabinetes no Senado mobiliza políticos eleitos e reforça ‘pequeno poder' de Alcolumbre. Consulte a reportagem para contexto, dados e declarações.",
@@ -1021,34 +1021,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-18T08:22:17+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9d8e615b3a1e3410",
-      "title": "Ampliar mandato em PEC do fim da reeleição pode ser inconstitucional, dizem especialistas - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ampliar mandato em PEC do fim da reeleição pode ser inconstitucional, dizem especialistas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcUFWRUhyRFJmc1dIRUY2N0NJNDF4aDhtaHFYWVoxaTdIR29MR0szRFN6Vjl5QkdHQnE5b2ZxRzVIR2VKNHh6cGp6cnNMbWJXLU53X3BuOE5OUm5Ody1Md2dqaEtXYlNTUlZRUFphY0lheXNNemsxVmVIS1lfYVAtVThSRHJFMExkX2U3QUlVMkZTSTU2SkFwbDk2QnduR0xzYnljblBGczhjcHhzM3FneW1WUXZabnRHbGJhd1o4dHNHS09oUjN4cDRuMVdXRFBJYWlaSQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T07:03:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "97a68f738d1ce57d",
-      "title": "El Niño, petróleo e crise da dívida nos EUA e na Europa podem frustrar queda de juros em 2027 - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: el Niño, petróleo e crise da dívida nos EUA e na Europa podem frustrar queda de juros em 2027. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMGpIdjU0bm52UlEzRUdjUndiUDEzSnFDbzNXbmg1SGlrSEoxU2pLRXE0M0JaNng3UHJFQXVIVUFBOEhrSkF5YXBOTzhkU09OSzVIUjdvMWcxTE41Sk5xdGJmU0I5d1hPMi1rRVdHaks1ZlZ0S2kxaHR5V2RMbWVPMGVHVVdTTU1pOE0zMG9Rdnl1TVFPWFY3bnltMllFRUhXYi1Vd3l3TXBxWm5CZmpEV2NkYlYwLW56RjdIYTVZX3IxMUFSTVVkekp3SUNCUEx0SkEyeWRndjdzT3FQZlNoT1A4UGY0QdIB9AFBVV95cUxOamdrcEtlOXRVZ0YtWW82V2JkUzZ5WWxGWmM4Q2RoR0RjbDN0bFI3eHF1cGMwTGxjRVVWeW1kN1U2NXE0bjhTNGIwUkM1d09VdVVkQi1WREZiLXk1T1I2UDRHVWhtamF2UE5RMGN4eGdVdDZLWjQzbFdCRlFsSk9HWkEtbERaUVQwMXNxSXMyb2IwaGhYYzBUNm5PcFlQTzU2b3FmeHl4dGlLRTBOSnpVcGZCOFV3ckktQWZvZm5fR2ZpME1YLTV6WDBEeGR4emVqZ3BMRURUN19NN2dpa3JJdXZIYVh2d25aYzJHbE8tdl9aZ3hH?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-18T07:00:01+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1094,6 +1066,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b64dc87f085a0f52",
+      "title": "Partido Novo entra com ação no TSE contra atos musicais por democracia",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: partido Novo entra com ação no TSE contra atos musicais por democracia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/partido-novo-entra-com-acao-no-tse-contra-atos-musicais-por-democracia",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-17T20:58:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1406,6 +1392,20 @@
       "archive": false
     },
     {
+      "id": "db7caf3231275558",
+      "title": "Áudio: Emenda Constitucional garante fim da escala 6x1",
+      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Emenda Constitucional garante fim da escala 6x1. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/emenda-constitucional-garante-fim-da-escala-6x1",
+      "source": "Senado Federal",
+      "published_at": "2026-10-16T18:27:18+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "d26acb51350b2f65",
       "title": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo monitora saúde de amazonenses em locais afetados por queimadas. Consulte a reportagem para contexto, dados e declarações.",
@@ -1458,20 +1458,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "31f72c02d3ab4849",
-      "title": "O estado de saúde de papa Leão XIV após retirada de câncer - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: o estado de saúde de papa Leão XIV após retirada de câncer. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzdjLWJMR1UzbUVVYVplWVhvWmZnRF9SUjlyRHliN3hqLUVoS3Z6T2pDMEJQeVpiVExpUlVWNURwQVBNYzBZaG9yMHBHeWcyYTlUTTlwSzNNazVjTVYwWU5xZVhwclJOQVRHbG9QVHJtaVllbS1hT1V2djRIZ0FVWVZIYWN0a1gwYnB2T0VKNXg2cTZDUXc?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-16T12:46:23+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1577,15 +1563,15 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 20
+      "items": 19
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 41
+      "items": 39
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 46
+      "items": 45
     },
     "VEJA": {
       "status": "ok",
@@ -1613,7 +1599,7 @@
     },
     "Agência Brasil · Saúde": {
       "status": "ok",
-      "items": 5
+      "items": 4
     },
     "Agência Brasil · Justiça": {
       "status": "ok",
@@ -1625,7 +1611,7 @@
     },
     "Agência Câmara": {
       "status": "ok",
-      "items": 17
+      "items": 12
     },
     "Agência Senado": {
       "status": "ok",
@@ -1637,11 +1623,11 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 36
+      "items": 29
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 34
+      "items": 35
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1653,7 +1639,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 32
+      "items": 29
     },
     "Eleições · Flávio": {
       "status": "ok",
