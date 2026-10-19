@@ -1,10 +1,164 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-19T00:55:09.554352+00:00",
-  "last_success_at": "2026-10-19T00:55:09.554352+00:00",
+  "last_checked_at": "2026-10-19T01:43:18.675312+00:00",
+  "last_success_at": "2026-10-19T01:43:18.675312+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "a9d5ac6173e922ac",
+      "title": "Em debate, Lula defende legado econômico, enquanto Flávio destaca custo de vida e dívidas",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: em debate, Lula defende legado econômico, enquanto Flávio destaca custo de vida e dívidas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/em-debate-lula-defende-legado-economico-enquanto-flavio-destaca-custo-de-vida-e-dividas.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T01:38:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e52ff89f31870900",
+      "title": "Renan Santos diz que debate entre Lula e Flávio é o pior da história",
+      "summary": "O veículo VEJA publicou uma atualização sobre: renan Santos diz que debate entre Lula e Flávio é o pior da história. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/renan-santos-diz-que-debate-entre-lula-e-flavio-e-o-pior-da-historia/",
+      "source": "VEJA",
+      "published_at": "2026-10-19T01:29:13+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c255ddd3c3b82073",
+      "title": "Os escândalos que Flávio Bolsonaro e Lula usaram um contra o outro no debate da Band",
+      "summary": "O veículo VEJA publicou uma atualização sobre: os escândalos que Flávio Bolsonaro e Lula usaram um contra o outro no debate da Band. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/os-escandalos-que-flavio-bolsonaro-e-lula-usaram-um-contra-o-outro-no-debate-da-band/",
+      "source": "VEJA",
+      "published_at": "2026-10-19T01:28:52+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d658d21d8c7c4ef2",
+      "title": "Band consegue maior audiência desde 2022 e vence Globo com debate de Lula e Flávio Bolsonaro",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: band consegue maior audiência desde 2022 e vence Globo com debate de Lula e Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/band-consegue-maior-audiencia-desde-2022-e-vence-globo-com-debate-de-lula-e-flavio-bolsonaro.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T01:27:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "de64ed71455a3085",
+      "title": "Polícia apreende mais de 4,7 kg de drogas no Jardim Esperança, em Cabo Frio; dois fogem ao ver viatura",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia apreende mais de 4,7 kg de drogas no Jardim Esperança, em Cabo Frio; dois fogem ao ver viatura. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/18/policia-apreende-mais-de-47-kg-de-drogas-no-jardim-esperanca-em-cabo-frio-dois-fogem-ao-ver-viatura.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T01:22:34+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cc53284c255b3930",
+      "title": "Bate-boca entre Flávio Bolsonaro e Lula esquece dos indecisos",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: bate-boca entre Flávio Bolsonaro e Lula esquece dos indecisos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bate-boca-entre-flavio-bolsonaro-e-lula-gera-calor-nao-luz.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T01:10:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d65aad116b7bab3e",
+      "title": "Vestibular da Unicamp exige interpretação e repertório, dizem professores",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vestibular da Unicamp exige interpretação e repertório, dizem professores. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/10/vestibular-da-unicamp-exige-interpretacao-e-repertorio-dizem-professores.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T01:08:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e458b93c40f5b787",
+      "title": "Flávio Bolsonaro e Lula se enfrentam pela primeira vez em debate na Band; acompanhe ao vivo - UOL",
+      "summary": "O veículo UOL publicou uma atualização sobre: flávio Bolsonaro e Lula se enfrentam pela primeira vez em debate na Band; acompanhe ao vivo - UOL. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUldCRjBkQVI1ekx3N0twVGRqOXJFVVowbVFuN18zYkxzUDhwbHZpUzlhQnVvZjUxZUx0X1UyVHZES1BIWk1vUVQ1Zmh5N29Oc193T1dLenVCVGdsOW4tdnhWUkNhTUtPbWJWanMtMG9oSU9zMVhKRi1EVzdfVGk2SU1WYnVRbWdFNkRSLVE3T1FHSS1SQzlxUlB6SW5lN19UbzZUQjBjWFRGeGw4bnhuY3c3M1pwaG9lU3hqUEVMUjVYaEpsOWRXM0dlM2lSaGdLLXlsRHl4V19LVUhtcGJ6OWxEc3RYdnBDb3NDMThqZWIyeGt3UE5wMTBVUQ?oc=5",
+      "source": "UOL",
+      "published_at": "2026-10-19T01:03:23+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "53d07dc564a0d3bf",
+      "title": "Custeio das universidades exige reformas",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: custeio das universidades exige reformas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/custeio-das-universidades-exige-reformas.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b4e619dd32895819",
+      "title": "Debate sobre segurança pública precisa sair do palanque",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: debate sobre segurança pública precisa sair do palanque. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/debate-sobre-seguranca-publica-precisa-sair-do-palanque.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T01:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "88a00470b5db7c5c",
+      "title": "Personalidade autoritária e extrema direita",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: personalidade autoritária e extrema direita. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/personalidade-autoritaria-e-extrema-direita.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "efb106472229a685",
       "title": "Flávio Bolsonaro e Lula trocam acusações de corrupção e envolvem familiares em debate",
@@ -16,6 +170,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5df73b9128e5454c",
+      "title": "Flávio faz 'mea culpa' em debate e admite que governo Bolsonaro 'não teve o melhor resultado' na Saúde - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio faz 'mea culpa' em debate e admite que governo Bolsonaro 'não teve o melhor resultado' na Saúde. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMHc0alJ6YXM2QVB5UHVWTlhlSUlfMWV6dzNSZ2MtYnZNZ0dfNHV5Y2pIUF9zNkl3UkNfZEhveDJCa2VBaHREZDNBMjVhZHdmakxsMDI1SlpSRHhSQktkQ1lhd1BZR3p1ZUxtS2dkejF6Mjk0Y2lOcUMzcE53NXZoN0xqUXFYMG5kMHJWbGpEczI5alhkbXpPemRDcWlaNlhOajEyZUhXeVpQNF9jNDNqVHVXOU0zZ21UZ0E4al9ObVkyemZldjJQWUczbkNQcHR6Tm4yUEZIc0k0aVdTUXVIUTR2ZGR2YUktTGxmWmRxOXpFYW5EZG9ueHdqNXN0eDBn0gGPAkFVX3lxTE8zTllndFVOVUx1UlRRaE9NVWhUUXpFWU9IUzhNdko3d1hCSlQyQXVXdC1CWXpPdzA1UWZhUms2d3VHWVNOeGU0eU5Eb25LT2U4MGR0NXpIVkJBVWJnMy01T01YM1ZqaEx1bU5pYTQ0YWJOOEEyODQtTXYycUpuU0M1TjFPR2k3VXdQRk45VVJYVk1GdTNzR2gxeXVKMnd6RTFUTzhrNWNlRGJPVjJ3eEpWQ2NDQk9hNG0tXzZaRW9TX3JCdnZtWmRpRHA3cE13ZTl1MHgtTUdXbDBDZk80ay00MllTV3E4c2lCbHNQbkNiVjNZWTVqZU1JVFFmQlNaT3RTczlCQTZrN0hnajBEeHM?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-19T00:39:09+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -90,48 +258,6 @@
       "archive": false
     },
     {
-      "id": "40f03d7761eefe5f",
-      "title": "Senador eleito propõe regras mais rígidas para concessão de benefícios em ano eleitoral",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: senador eleito propõe regras mais rígidas para concessão de benefícios em ano eleitoral. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/senador-eleito-propoe-regras-mais-rigidas-para-concessao-de-beneficios-em-ano-eleitoral.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T00:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bd10f1560769928c",
-      "title": "Ato em Fernando de Noronha reúne moradores em apoio à reeleição de Lula",
-      "summary": "O veículo G1 publicou uma atualização sobre: ato em Fernando de Noronha reúne moradores em apoio à reeleição de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/10/18/ato-em-fernando-de-noronha-reune-moradores-em-apoio-a-reeleicao-de-lula.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T23:59:06+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6214f1f62ed2ddfb",
-      "title": "Quem era a estudante de direito que morreu em acidente de carro na BR-153",
-      "summary": "O veículo G1 publicou uma atualização sobre: quem era a estudante de direito que morreu em acidente de carro na BR-153. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/18/quem-era-a-estudante-de-direito-que-morreu-em-acidente-de-carro-na-br-153.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T23:58:35+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "711271e6ce08c860",
       "title": "Lula cobra PEC da Segurança e defende combate ao crime “da esquina ao andar de cima” - Diário Carioca",
       "summary": "O veículo Diário Carioca publicou uma atualização sobre: lula cobra PEC da Segurança e defende combate ao crime “da esquina ao andar de cima” - Diário Carioca. Consulte a reportagem para contexto, dados e declarações.",
@@ -156,90 +282,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1e6fe51e244e9e6b",
-      "title": "Guarujá e Mongaguá, SP, oficializam Política Municipal de Alfabetização; entenda o que muda",
-      "summary": "O veículo G1 publicou uma atualização sobre: guarujá e Mongaguá, SP, oficializam Política Municipal de Alfabetização; entenda o que muda. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/santos-regiao/educacao/noticia/2026/10/18/guaruja-e-mongagua-sp-oficializam-politica-municipal-de-alfabetizacao-entenda-o-que-muda.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T23:27:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c0635f3ac894eb6b",
-      "title": "Lula e Flávio Bolsonaro fazem o primeiro debate do 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: lula e Flávio Bolsonaro fazem o primeiro debate do 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T23:16:38+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d53e5064dbd69d74",
-      "title": "Debate na Band: em primeiro embate, Lula pergunta o que Flávio 'tem contra mulheres'; senador responde citando lobista amiga de Lulinha - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: debate na Band: em primeiro embate, Lula pergunta o que Flávio 'tem contra mulheres'; senador responde citando lobista amiga de Lulinha. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWHlPZWRIQ2dnaGhUZ2JKb2puVTAxbzZLYThOOWc1Tk5HY1pUb3RPMFFUeHFYYVpuVWsxN0laeUVRdlI2TTJXZ0tOcmlaVUxVSFV0QjNILWNuLTNJMnJuQUdUSzNfOEtOQ3RKekdCSVhXbTFwWnMwbGxPWjVPWGVjcjFzZnJfUGc5WkdHWEZybFUtMC1RV01kdmI1VG94Y3RjdGxxNkhUZmV6NU1nWklnZUFPYkFVTDBueTdnNVdsU1ZxZ2NHVjVhUUR2R2t3cEpHMktDc1ZQWWNrRmpIcS1tck1fdkRpRzF5VzlEUDBOZnc0d09lRUFmQVVfcWFMTW41bTVkd2tB0gGUAkFVX3lxTE54c0FVWGdONG02UTlYQXMzQkZqVUl2N0ZubnplYm5BSml4MzBHb0hwaDdPdHkyRTBZdGtnTHAxalZfaDlUdUFEWld4WkNhdjMxcGNqRXpEaW84OFJxejg5N3c5TFhPdUpiOE5rS2lUdUFmLTdaeGg5OFR0eHBrdEFadlZiZXM5UVJrRUtJSUJsUHN0WW92TU5hNWRla1A5WVNEd0lWTHAxQS1rMDc2WDFTbXd5bWU4VWFpVVVkQUNMWGgzWGlNbHhBYTYxZFpJa2dnMGRhT0lzUWw3dXY2OGFsNDRycTBzY3lTWFV4bTFWMmgyRm9xOFNtaU92SV9nMk9DUW04MUY5SjNkOEV4eTFCekZucQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-18T23:16:17+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5474c3dda35ddebd",
-      "title": "‘Exército do Lula’ mostra força e invade a Praça do Papa em Vitória com milhares de manifestantes - Século Diário",
-      "summary": "O veículo Século Diário publicou uma atualização sobre: ‘Exército do Lula’ mostra força e invade a Praça do Papa em Vitória com milhares de manifestantes - Século Diário. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVDA2RnlRemZ6dzBPTHJacXRjb05tWGJCbTYwc2NjN3hPV0JkWTFRaTJOaktSdjctUmNzdjVNa2tTTUgzcVVFbzRaZ09fZVdaVUg0T0lLblVMYkJjc190eGl6ZEp3MkdTVUNOWllHZkhzLWFDRUx0N3ZDRmJkOThUakFGUmVtcFVSejluNTRkeTVQREZDQ3RCTXFUeW5KdUpwTmVkZWwzY0plSFlBWUxmVGI1V1dGVVlzUi1RTi1uMEgtZEMxRUdrQlNDQ2ItclNBbHJN?oc=5",
-      "source": "Século Diário",
-      "published_at": "2026-10-18T23:14:31+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "75e4ca55aeeee485",
-      "title": "Os artistas que participaram de atos pró-Lula neste domingo em todo o Brasil",
-      "summary": "O veículo VEJA publicou uma atualização sobre: os artistas que participaram de atos pró-Lula neste domingo em todo o Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/os-artistas-que-participaram-de-atos-pro-lula-neste-domingo-em-todo-o-brasil/",
-      "source": "VEJA",
-      "published_at": "2026-10-18T23:06:13+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "17259ad1eaf2a759",
-      "title": "Como assistir ao debate da Band ao vivo entre Flávio Bolsonaro e Lula - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: como assistir ao debate da Band ao vivo entre Flávio Bolsonaro e Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR2R6cWZkVFhEOExQeXduYkNaQlU0NHNPdDJOYWtmRVU4MThDYnE3TWtNbGx4M0Z6b2tVZFFpbG1LcUE2czdXcGs5amRmcWFBQXViT0FtUW40bGZrX19PTVNmNGRJV1BXUVhwbks0VHBIWXoybUJXVmdQMThWSkRDR293QWtreFd4czZETG03cnlhNmRmTlBtS1lNMzhtUDlHR24ycmF5ZERfaUhINFZGYzFoZ3F4N1MtbW10LWNsTkZWZ9IB0AFBVV95cUxORWpPdTltSE1UNHZXeFhXakRvdG9VX282djNrLW9fajNQckk2dnItZmlIN09KYUlpbjFhc20xVzhSbWRYMVZjdDF1MG5yT0QtWk96R0xMZVpxbGJWYTJTby1DTHd0SGlIY1lNUHN3aE90QzB2dFdaOXdPTk1MbGhhSGJTcnJCT1c2WjlDNk5TU0Q1RFVMRWlFV29Oekpnc0pVZkxvYWhfLWJpVFVXUTJMckR0NDJiaFF3NWRuczVIdE00TDNUS2JURE5ORXRNa1c5?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-18T22:57:42+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -524,6 +566,20 @@
       "archive": false
     },
     {
+      "id": "bc4ed99ac3b2d918",
+      "title": "Polícia do Amazonas prende 11 pessoas por suspeita de envolvimento com incêndios",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia do Amazonas prende 11 pessoas por suspeita de envolvimento com incêndios. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/comitiva-federal-faz-reuniao-em-manaus-e-anuncia-apoio-das-forcas-armadas-no-combate-a-incendios.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-18T18:40:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "7a707b50eb8a3406",
       "title": "Eleitores da região de Jundiaí que vivem no exterior se preparam para votar no 2º turno das Eleições 2026",
       "summary": "O veículo G1 publicou uma atualização sobre: eleitores da região de Jundiaí que vivem no exterior se preparam para votar no 2º turno das Eleições 2026. Consulte a reportagem para contexto, dados e declarações.",
@@ -636,6 +692,20 @@
       "archive": false
     },
     {
+      "id": "e1e9cf857df6f3c5",
+      "title": "Forças Armadas vão reforçar combate às queimadas no Amazonas, anuncia ministro da Justiça - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: forças Armadas vão reforçar combate às queimadas no Amazonas, anuncia ministro da Justiça. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3RQNlRPSHR5bmwyU2JFZU05RFg3X1M3eWctVE5hMU9IMmdtR3dhYlY2Nko1V0RqRTQwOF93UWxYQlNLZVktSHdOU2luOS1oYXVNSWtheldRWVVZU2kxOUVXOFlFdzV4eTNlSGFfZDgtVzAxdDREaEN4aWhxUFhUSGRlWnZ6anEwLVZMSFkycHZFdHEtWmw4QTNrMlZ4SDZLU0lQX0d1VXBKdVd4MVNWRXpR0gHAAUFVX3lxTE1FWVE0S3kxNHo0OEtaa2YxcUs2dUh6WVNoRFFUZUo1M0s1Q21RTTVoX0Q4REs0V2xSMVJFVUF4anFJQ2FjNTJILWl0Sy1uRGp3dW9JdDNJTzlBaEFxczhmVnVBcnhlQ01OQ0taVGRHWlFpNEh4c2FoVjktOUxueGpycThIWlF6dTRXaEt4RWZsOTBjRXhKZlFvYk15WFRIWm5aY3k4UENxUjdtd081N3hSNWZsSDUtYUVFV0Y3b29JeA?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-18T16:13:47+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "dee19cd7d43d6ba5",
       "title": "TSE altera local de votação de 402,6 mil eleitores para o 2° turno, e PT pede mais divulgação",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tSE altera local de votação de 402,6 mil eleitores para o 2° turno, e PT pede mais divulgação. Consulte a reportagem para contexto, dados e declarações.",
@@ -684,6 +754,20 @@
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/empresas-de-tres-regioes-terao-aporte-de-r-450-milhoes-para-inovacao",
       "source": "Agência Brasil",
       "published_at": "2026-10-18T14:20:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5632f547d0ce9489",
+      "title": "Mega-Sena acumula e próximo concurso pode pagar até R$ 185 milhões; confira os números sorteados",
+      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena acumula e próximo concurso pode pagar até R$ 185 milhões; confira os números sorteados. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-concurso-3072-confira-os-numeros-sorteados.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T14:05:28+00:00",
       "category": "Economia",
       "candidate": null,
       "election_type": null,
@@ -818,16 +902,30 @@
       "archive": false
     },
     {
-      "id": "d2c234e9270b369d",
-      "title": "Ampliar mandato em PEC do fim da reeleição pode ser inconstitucional, dizem especialistas",
+      "id": "8cad8a9ea106088f",
+      "title": "Perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas",
+      "summary": "O veículo G1 publicou uma atualização sobre: perdão de dívidas de MEIs pode aliviar contas, mas não resolve causas, dizem especialistas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/empreendedorismo/noticia/2026/10/18/perdao-de-dividas-de-meis-pode-aliviar-contas-mas-nao-resolve-causas-dizem-especialistas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T08:00:01+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9d8e615b3a1e3410",
+      "title": "Ampliar mandato em PEC do fim da reeleição pode ser inconstitucional, dizem especialistas - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ampliar mandato em PEC do fim da reeleição pode ser inconstitucional, dizem especialistas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ampliar-mandato-em-pec-do-fim-da-reeleicao-pode-ser-inconstitucional-dizem-especialistas.shtml",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcUFWRUhyRFJmc1dIRUY2N0NJNDF4aDhtaHFYWVoxaTdIR29MR0szRFN6Vjl5QkdHQnE5b2ZxRzVIR2VKNHh6cGp6cnNMbWJXLU53X3BuOE5OUm5Ody1Md2dqaEtXYlNTUlZRUFphY0lheXNNemsxVmVIS1lfYVAtVThSRHJFMExkX2U3QUlVMkZTSTU2SkFwbDk2QnduR0xzYnljblBGczhjcHhzM3FneW1WUXZabnRHbGJhd1o4dHNHS09oUjN4cDRuMVdXRFBJYWlaSQ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-18T07:03:00+00:00",
       "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -846,58 +944,16 @@
       "archive": false
     },
     {
-      "id": "3434da4f63482992",
-      "title": "EUA pagam mais de US$ 1 trilhão em juros da dívida pública sob Trump",
+      "id": "6f6ae1d4a4c40ef5",
+      "title": "EUA pagam mais de US$ 1 trilhão em juros da dívida pública sob Trump - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eUA pagam mais de US$ 1 trilhão em juros da dívida pública sob Trump. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/eua-pagam-mais-de-us-1-trilhao-em-juros-da-divida-publica-sob-trump.shtml",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTlRFbU9lWkd6czBSb21udjh4YzdSSjBHRHl0MnhjLW02alBiVnZKaV9ZaUNxTzlWVjRucXV2REhoQmNNbzVWNWxUc291amxoT2VLM21WQ3d4Y0xrcGVKSTBmS2h2Nkx1NG5TWGt1b2g4TjJCVXBIVjJYMDZLeGV5bFYtM24zRW9CdEV2elRvNkkyZGxmRWQyV2N4cDFOZE5DYnhyQUtjU3ZOYnhVcjhvOGtiWWVJM2xOampN?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-18T07:00:00+00:00",
-      "category": "Endividamento",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "33556a1b7d318382",
-      "title": "Direitos de pacientes com câncer de mama incluem tratamento e cirurgia de reconstrução; saiba mais",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: direitos de pacientes com câncer de mama incluem tratamento e cirurgia de reconstrução; saiba mais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/direitos-de-pacientes-com-cancer-de-mama-incluem-tratamento-e-cirurgia-de-reconstrucao-saiba-mais.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T07:00:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1ef9869d4459b28a",
-      "title": "Pacote eleitoral de Lula alcança R$ 290 bi e gera pressão sobre dívida pública - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacote eleitoral de Lula alcança R$ 290 bi e gera pressão sobre dívida pública. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU9vWjQ1eUlfVzFidUNnX2RNbk1sUE8wei1QeEtoSjlSWl9BamxRMVI2MTR0WklnMjNBVTlRUHpFa0pYLW5wRXNoYUc0Mk9MTUdqajBna3J3UXBqRWpKM2FJVGlCeXdnZnNsZF91Wlg5bXFJYV80WUNwQWdiSDB4cUh3alctUU5hX0s0SjRiX0hRQmpfUmpQZWlfWkdKLXZSSHVtUzhhUFBYTDJCYmwtX21ic1VYdk5yM09oYXdWRnlnZHNlcDh4Mw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T02:00:00+00:00",
       "category": "Endividamento",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9a812ad6f40c506a",
-      "title": "Nostalgia e expectativa de lucro impulsionam mercado de cartas de Pokémon, com preços de até R$ 86 milhões",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: nostalgia e expectativa de lucro impulsionam mercado de cartas de Pokémon, com preços de até R$ 86 milhões. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/nostalgia-e-expectativa-de-lucro-impulsionam-mercado-de-cartas-de-pokemon-com-precos-de-ate-r-86-milhoes.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T02:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -958,34 +1014,6 @@
       "archive": false
     },
     {
-      "id": "6008795bbad90d86",
-      "title": "Polícia afasta três delegados, investigador e carcereiro após suspeitas de regalias a Milton Leite - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia afasta três delegados, investigador e carcereiro após suspeitas de regalias a Milton Leite. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObjJaejhDWlc1eW5xaHoteW0zQVpsWGdjZjZ3T3B2WnBxSFhKXzdYWHhRcGFHRVJYU0lUZXNwaEZTMlpER3p3MzNuOVlVajg3VUhRSllnSThwSXltbHJNbWVubTNHdENkXzFoWGpMNVpiMWY5THAzMVpja3M0bmo5bHFsWXNLNDRhc3Y0YUdsYzQtdlRIdFNYSF9NTFRmNlh4bGE1NWZjS2otcUotUERHTEtVMmU1VndPME1obTdVSjBaR3pFYUUxbG9EYmhYLVVsd2FaNEk4NWJLZVJTeEg1Ni1HdDhSUQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T22:57:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ade1364e850d1682",
-      "title": "Querem mudar o jeito de escolher o presidente, deputados, STFs e levar bandidos ao poder",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: querem mudar o jeito de escolher o presidente, deputados, STFs e levar bandidos ao poder. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/querem-mudar-o-jeito-de-escolher-o-presidente-deputados-stfs-e-levar-bandidos-ao-poder.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T22:21:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "4175a17466bd2340",
       "title": "TSE mantém no ar capa de VEJA com denúncias de Vorcaro contra Lula, depois de perícia",
       "summary": "O veículo VEJA publicou uma atualização sobre: tSE mantém no ar capa de VEJA com denúncias de Vorcaro contra Lula, depois de perícia. Consulte a reportagem para contexto, dados e declarações.",
@@ -996,20 +1024,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7a520008774e0e3e",
-      "title": "Homem condenado por matar esposa em MG é preso 21 anos após o crime - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: homem condenado por matar esposa em MG é preso 21 anos após o crime. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFFPVV94cXoyVWg0OVFmWmI5b0VTaWM0RF9Ta250Mllnc3RRbV9uenZsYUR2cjRQT1M5V0UtUFg1bm1FOG54dUt1VFA0RlR2aS1iSXNMZzR0ZGpKMjZwZkVHWnM3aUFBcnZpWkhzTXlSWlk1RTBJQ3hVb1VOdTVQLTBXaWs1R09hUXFwQ21aZ3RocHFjUGRfSnBJOEpYWXczc1Q0Zmp6QXNWRHVvR0xDSC15Nk9td28wTDYxbnNB?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-17T21:29:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1266,20 +1280,6 @@
       "archive": false
     },
     {
-      "id": "0576b70204f77651",
-      "title": "Governo prevê crédito a empresas afetadas por fim da 6x1, diz Durigan",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo prevê crédito a empresas afetadas por fim da 6x1, diz Durigan. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-preve-credito-empresas-afetadas-por-fim-da-6x1-diz-durigan",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-16T21:36:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "bf561c27a3c445d3",
       "title": "Exames no Farmácia Popular, Saúde da Família e rede de câncer: os planos de Lula para a Saúde - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: exames no Farmácia Popular, Saúde da Família e rede de câncer: os planos de Lula para a Saúde. Consulte a reportagem para contexto, dados e declarações.",
@@ -1328,6 +1328,20 @@
       "url": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-preve-incentivo-para-patrocinio-de-pesquisa-cientifica",
       "source": "Senado Federal",
       "published_at": "2026-10-16T20:05:46+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c1b486e838cd824d",
+      "title": "Motta determina adoção imediata da nova escala de trabalho na Câmara dos Deputados",
+      "summary": "O veículo Agência Câmara publicou uma atualização sobre: motta determina adoção imediata da nova escala de trabalho na Câmara dos Deputados. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.camara.leg.br/noticias/1311899-motta-determina-adocao-imediata-da-nova-escala-de-trabalho-na-camara-dos-deputados",
+      "source": "Agência Câmara",
+      "published_at": "2026-10-16T19:53:00+00:00",
       "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
@@ -1430,20 +1444,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bec7917419df8217",
-      "title": "Flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio votou contra projeto que suspende posse de arma de policial que comete violência doméstica. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSXN4OENqOWpCSW1yeno5dFdwc2JEckNzSE1HakdqLU5tNEt1N082cElQOXN6X21xZVpFRW9VUVBJd2hzcTRtd3VEX0JvQzJlc1VCdTBGeWN1bGdlTkxJaFItVGRtUE15dEVkZGZLOHZQXzF6YVRPRC11UXpyT0VtUEhUNk9YMkpOVU03NmY0M2F5LXRyT2pNdzc4eVJhQW02S2Jybi1uRlloTHh0ZzBTRnREUXZZcGNWbDVTNEp5Vy1HNmsyUmVRMGIwZ3ZIeUo3Zk5xdEltb2laNDM1UmVTZg?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-16T13:00:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1599,7 +1599,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 35
+      "items": 39
     },
     "VEJA": {
       "status": "ok",
@@ -1647,11 +1647,11 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 64
+      "items": 67
     },
     "Estadão": {
       "status": "ok",
-      "items": 32
+      "items": 33
     },
     "G1 · Busca alternativa": {
       "status": "ok",
@@ -1659,15 +1659,15 @@
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 47
+      "items": 48
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 51
+      "items": 52
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 40
+      "items": 38
     },
     "Eleições · Flávio": {
       "status": "ok",
