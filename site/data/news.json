@@ -1,21 +1,49 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-19T16:09:12.111276+00:00",
-  "last_success_at": "2026-10-19T16:09:12.111276+00:00",
+  "last_checked_at": "2026-10-19T16:46:56.740484+00:00",
+  "last_success_at": "2026-10-19T16:46:56.740484+00:00",
   "coverage_window_hours": 84,
   "items": [
     {
-      "id": "3d6cea2e7d0ec61c",
-      "title": "Google e McKinsey fecham acordo para comprar crédito de remoção de carbono na amazônia",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: google e McKinsey fecham acordo para comprar crédito de remoção de carbono na amazônia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/google-e-mckinsey-fecham-acordo-para-comprar-credito-de-remocao-de-carbono-na-amazonia.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T16:05:00+00:00",
+      "id": "1f4b98f76ac94396",
+      "title": "Ri Happy pede recuperação extrajudicial por dívida de R$ 827 milhões",
+      "summary": "O veículo VEJA publicou uma atualização sobre: ri Happy pede recuperação extrajudicial por dívida de R$ 827 milhões. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/coluna/faria-lima-news/ri-happy-pede-recuperacao-extrajudicial-por-divida-de-r-827-milhoes/",
+      "source": "VEJA",
+      "published_at": "2026-10-19T16:39:45+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "659a8adf33452869",
+      "title": "Volkswagen planeja congelar salários de 660 mil funcionários até 2030",
+      "summary": "O veículo VEJA publicou uma atualização sobre: volkswagen planeja congelar salários de 660 mil funcionários até 2030. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/economia/volkswagen-planeja-congelar-salarios-de-660-mil-funcionarios-ate-2030/",
+      "source": "VEJA",
+      "published_at": "2026-10-19T16:36:28+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5e75f82b661d53a3",
+      "title": "Como a Globo criou a maior fake news da campanha presidencial - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: como a Globo criou a maior fake news da campanha presidencial. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWtqT2ZhTzRGdVJOZVA5OXhHcW5rTjJZdTRYNDVUc1FnYUxLalpRblpSaVFRNk9rWkx3dG5TNXdqME4zeUhrT3FnZ2FUTXV4bThrT2hoeFRfQjNhZXZfejZGUXZ1QU9VSmtQN3JPWi16YmZjdlJpajVYQmlzaGd6djFhSEhNNUhvSFVKS0oyQ1Q3TVNGRnMyYkgxOA?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-19T16:34:33+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -25,7 +53,7 @@
       "summary": "O veículo VEJA publicou uma atualização sobre: os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1BLVktYMmZYR2J6djIyaWNhenFUOU1BMkVzWlJlNjNBZlppdXQyRDFsck44N3NfaHBwM19nMnc5SGsxODY2ZmQ5blZTRm9qR3NFRlVnTERNYUQtV0Y2ZUVSWnFlVW5NenZ2Nng2eWpRd1VRMmd2S2dvOGJjR3E3c01FRFlVdFh4Y0pGYlVJcnpqcjY3WkVhZzhFX2ZoNDFmQ1N2ZjBNUUQ4aldmSFlaVjYxWTFKVnQtbWc?oc=5",
       "source": "VEJA",
-      "published_at": "2026-10-19T16:03:27+00:00",
+      "published_at": "2026-10-19T16:34:32+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -34,12 +62,12 @@
       "archive": false
     },
     {
-      "id": "6145d643891f8032",
-      "title": "O que pesquisas qualitativas falaram sobre Lula e Flávio no debate e como isso vai refletir nas campanhas",
-      "summary": "O veículo G1 publicou uma atualização sobre: o que pesquisas qualitativas falaram sobre Lula e Flávio no debate e como isso vai refletir nas campanhas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/19/o-que-pesquisas-qualitativas-falaram-sobre-lula-e-flavio-no-debate-e-como-isso-vai-refletir-nas-campanhas.ghtml",
+      "id": "5d22243987072c55",
+      "title": "Greve dos ônibus em Macapá chega ao 5º dia; sindicato diz que empresa descumpriu acordo",
+      "summary": "O veículo G1 publicou uma atualização sobre: greve dos ônibus em Macapá chega ao 5º dia; sindicato diz que empresa descumpriu acordo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/19/greve-dos-onibus-em-macapa-chega-ao-5o-dia-sindicato-diz-que-empresa-descumpriu-acordo.ghtml",
       "source": "G1",
-      "published_at": "2026-10-19T16:00:45+00:00",
+      "published_at": "2026-10-19T16:34:20+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -48,13 +76,237 @@
       "archive": false
     },
     {
-      "id": "68da76f252c37ffd",
-      "title": "Deputado André Janones é internado com arritmia em São Paulo",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: deputado André Janones é internado com arritmia em São Paulo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/deputado-andre-janones-e-internado-com-arritmia-em-sao-paulo",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-19T15:57:00+00:00",
+      "id": "20c466b27da35f04",
+      "title": "Deputada federal Roberta Roma deixa unidade semi-intensiva e é transferida para quarto após ser internada em Salvador",
+      "summary": "O veículo G1 publicou uma atualização sobre: deputada federal Roberta Roma deixa unidade semi-intensiva e é transferida para quarto após ser internada em Salvador. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/19/deputada-federal-roberta-roma-deixa-unidade-semi-intensiva.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T16:30:07+00:00",
       "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8d2aa74b231eb013",
+      "title": "Pesquisa AtlasIntel: como os eleitores avaliam as medidas de Lula durante a eleição",
+      "summary": "O veículo VEJA publicou uma atualização sobre: pesquisa AtlasIntel: como os eleitores avaliam as medidas de Lula durante a eleição. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/pesquisa-atlasintel-como-os-eleitores-avaliam-as-medidas-de-lula-durante-a-eleicao/",
+      "source": "VEJA",
+      "published_at": "2026-10-19T16:28:52+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c449d0849a8d70ed",
+      "title": "Eleitores de três cidades da PB têm mudanças nos locais de votação para o 2º turno das eleições",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleitores de três cidades da PB têm mudanças nos locais de votação para o 2º turno das eleições. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/19/oito-secoes-eleitorais-sofrem-mudancas-no-local-de-votacao-na-paraiba.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T16:26:57+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d84f973ec0ee7efb",
+      "title": "Tiro de deputado do PL em balada em SP atingiu apresentador Fred Bruno, da TV Globo: ‘Senti um impacto muito grande no meu pé’",
+      "summary": "O veículo G1 publicou uma atualização sobre: tiro de deputado do PL em balada em SP atingiu apresentador Fred Bruno, da TV Globo: ‘Senti um impacto muito grande no meu pé’. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/tiro-de-deputado-do-pl-em-balada-em-sp-acertou-apresentador-fred-bruno-da-tv-globo-senti-um-impacto-muito-grande-no-meu-pe.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T16:26:16+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c7b017f0ea720bf8",
+      "title": "TSE proíbe Nikolas e Marçal de republicar conteúdos falsos sobre Lula e restringe impulsionamento",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tSE proíbe Nikolas e Marçal de republicar conteúdos falsos sobre Lula e restringe impulsionamento. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-proibe-nikolas-e-marcal-de-republicar-conteudos-falsos-sobre-lula-e-restringe-impulsionamento.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T16:26:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e44ad890f230efbd",
+      "title": "Lula expôs Flávio em casos de corrupção, e senador acertou ao deixar petista 'visivelmente irritado', avaliam aliados",
+      "summary": "O veículo G1 publicou uma atualização sobre: lula expôs Flávio em casos de corrupção, e senador acertou ao deixar petista 'visivelmente irritado', avaliam aliados. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/19/lula-expos-flavio-em-casos-de-corrupcao-e-senador-acertou-ao-deixar-petista-visivelmente-irritado-avaliam-aliados.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T16:24:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "49e0d938508412a5",
+      "title": "Provas de português para estrangeiros começam nesta terça-feira",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: provas de português para estrangeiros começam nesta terça-feira. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/provas-de-portugues-para-estrangeiros-comecam-nesta-terca-feira",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-19T16:24:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "290a292dc61a9ef6",
+      "title": "E-Commerce Brasil amplia atuação e cria nova agenda de encontros para o mercado digital",
+      "summary": "O veículo G1 publicou uma atualização sobre: e-Commerce Brasil amplia atuação e cria nova agenda de encontros para o mercado digital. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/especial-publicitario/e-commerce-brasil/noticia/2026/10/19/e-commerce-brasil-amplia-atuacao-e-cria-nova-agenda-de-encontros-para-o-mercado-digital.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T16:23:57+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3699193fad0926f8",
+      "title": "TJ-SP abre concurso para escrevente com salário de R$ 6.782; veja como participar",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tJ-SP abre concurso para escrevente com salário de R$ 6.782; veja como participar. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/tj-sp-abre-concurso-para-escrevente-com-salario-de-r-6782-veja-como-participar.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T16:23:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "55ab3a519b79672c",
+      "title": "Ministério da Agricultura confirma foco da doença de Newcastle em granja de perus em SC",
+      "summary": "O veículo G1 publicou uma atualização sobre: ministério da Agricultura confirma foco da doença de Newcastle em granja de perus em SC. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T16:20:43+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4d2fde32831b024a",
+      "title": "Áudio: TSE revisa mudanças nos locais de votação para o segundo turno",
+      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: TSE revisa mudanças nos locais de votação para o segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/tse-revisa-mudancas-nos-locais-de-votacao-para-o-segundo-turno-1",
+      "source": "Senado Federal",
+      "published_at": "2026-10-19T16:19:50+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "65b6e34d888cc91b",
+      "title": "Polícia Civil investiga morte de adolescente de 12 anos em Rosana",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia Civil investiga morte de adolescente de 12 anos em Rosana. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/19/policia-civil-investiga-morte-de-adolescente-de-12-anos-em-rosana.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T16:18:41+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c4280d0361dfea6f",
+      "title": "Campanhas de Lula e Flávio Bolsonaro minimizam impacto do debate e avaliam mudanças para o da Globo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: campanhas de Lula e Flávio Bolsonaro minimizam impacto do debate e avaliam mudanças para o da Globo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/campanhas-de-lula-e-flavio-bolsonaro-minimizam-impacto-do-debate-e-avaliam-mudancas-para-o-da-globo.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T16:18:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "baf1cb7a842957e2",
+      "title": "Suprema Corte dos Estados Unidos rejeita recurso de suposto mentor dos atentados de 11/9",
+      "summary": "O veículo G1 publicou uma atualização sobre: suprema Corte dos Estados Unidos rejeita recurso de suposto mentor dos atentados de 11/9. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/19/suprema-corte-dos-estados-unidos-rejeita-recurso-de-suposto-mentor-dos-atentados-de-119.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T16:17:29+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d150977fef04c15d",
+      "title": "Alcolumbre adia PEC da Segurança Pública para depois da eleição para evitar disputa sobre maioridade",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: alcolumbre adia PEC da Segurança Pública para depois da eleição para evitar disputa sobre maioridade. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/alcolumbre-adia-pec-da-seguranca-publica-para-depois-da-eleicao-para-evitar-disputa-sobre-maioridade.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T16:17:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "427f6060067d0cd3",
+      "title": "Guerra política nas redes incentiva incêndios criminosos na Amazônia, diz presidente do Ibama",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: guerra política nas redes incentiva incêndios criminosos na Amazônia, diz presidente do Ibama. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/guerra-politica-nas-redes-incentiva-incendios-criminosos-na-amazonia-diz-presidente-do-ibama.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T16:16:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2a8452dfecab33c1",
+      "title": "2º turno no TO: candidatos ao governo trocam acusações e discutem saúde e segurança em debate",
+      "summary": "O veículo G1 publicou uma atualização sobre: 2º turno no TO: candidatos ao governo trocam acusações e discutem saúde e segurança em debate. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/19/2o-turno-no-to-candidatos-ao-governo-trocam-acusacoes-e-discutem-saude-e-seguranca-em-debate.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T16:15:57+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -104,20 +356,6 @@
       "archive": false
     },
     {
-      "id": "b3fd95945d4294e2",
-      "title": "Eleições 2026: Após boatos, TRE-SP afirma que nenhum local de votação teve alteração para o 2º turno no Vale e região",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Após boatos, TRE-SP afirma que nenhum local de votação teve alteração para o 2º turno no Vale e região. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/eleicoes/2026/noticia/2026/10/19/eleicoes-2026-apos-boatos-tre-afirma-que-nenhum-local-de-votacao-teve-alteracao-para-o-2o-turno-no-vale-e-regiao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T15:48:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "7623653c0767c7b7",
       "title": "STF e Congresso articulam poupar Dino em possível onda de impeachments com Senado radicalizado",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: sTF e Congresso articulam poupar Dino em possível onda de impeachments com Senado radicalizado. Consulte a reportagem para contexto, dados e declarações.",
@@ -133,8 +371,8 @@
     },
     {
       "id": "8f08efc85e4ae216",
-      "title": "Justiça dos EUA emitem ordem de prisão a Raúl Castro, diz procurador-geral da Flórida",
-      "summary": "O veículo G1 publicou uma atualização sobre: justiça dos EUA emitem ordem de prisão a Raúl Castro, diz procurador-geral da Flórida. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Justiça dos EUA emite ordem de prisão a Raúl Castro, diz procurador-geral da Flórida",
+      "summary": "O veículo G1 publicou uma atualização sobre: justiça dos EUA emite ordem de prisão a Raúl Castro, diz procurador-geral da Flórida. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/mundo/noticia/2026/10/19/justica-dos-eua-emitem-ordem-de-prisao-a-raul-castro.ghtml",
       "source": "G1",
       "published_at": "2026-10-19T15:47:58+00:00",
@@ -146,111 +384,13 @@
       "archive": false
     },
     {
-      "id": "2dbedcef168fd4f1",
-      "title": "Lula se volta para propaganda nas redes após campanha à moda antiga no 1º turno",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula se volta para propaganda nas redes após campanha à moda antiga no 1º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-se-volta-para-propaganda-nas-redes-apos-campanha-a-moda-antiga-no-1o-turno.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T15:47:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7017f3dd3c77b715",
-      "title": "PT fugiu do tema da segurança, e Lula já concordava com redução da maioridade, diz Camilo Santana",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pT fugiu do tema da segurança, e Lula já concordava com redução da maioridade, diz Camilo Santana. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/pt-fugiu-do-tema-da-seguranca-e-lula-ja-concordava-com-reducao-da-maioridade-diz-camilo-santana.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T15:46:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4dc7aac89dac96d6",
-      "title": "DF não tem mudanças em locais de votação no 2º turno, afirma TRE; saiba como conferir",
-      "summary": "O veículo G1 publicou uma atualização sobre: dF não tem mudanças em locais de votação no 2º turno, afirma TRE; saiba como conferir. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/19/df-nao-tem-mudancas-em-locais-de-votacao-no-2o-turno-afirma-tre.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T15:45:14+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d731d3b6f756c6dc",
-      "title": "PF faz busca em ex-servidor do STJ suspeito de vazar decisões a amigo de Flávio Bolsonaro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pF faz busca em ex-servidor do STJ suspeito de vazar decisões a amigo de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/pf-faz-busca-em-ex-servidor-do-stj-suspeito-de-vazar-decisoes-a-amigo-de-flavio-bolsonaro.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T15:42:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a31d20a88017d7e4",
-      "title": "Polícia israelense prende suspeitos de ataques de colonos contra jornalista dos EUA e diplomatas europeus",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia israelense prende suspeitos de ataques de colonos contra jornalista dos EUA e diplomatas europeus. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Polícia de Israel prende 10 suspeitos por ataques a jornalista e diplomatas na Cisjordânia",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia de Israel prende 10 suspeitos por ataques a jornalista e diplomatas na Cisjordânia. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/mundo/noticia/2026/10/19/policia-israelense-prende-suspeitos-de-ataques-de-colonos-contra-jornalista-dos-eua-e-diplomatas-europeus.ghtml",
       "source": "G1",
       "published_at": "2026-10-19T15:40:09+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "221b9cdae18f7d77",
-      "title": "Homem acamado tem 82% do corpo queimado após ter casa invadida por 6 criminosos em SC",
-      "summary": "O veículo G1 publicou uma atualização sobre: homem acamado tem 82% do corpo queimado após ter casa invadida por 6 criminosos em SC. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/homem-acamado-corpo-queimado-casa-invadida.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T15:39:05+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "320f7a2131b139c1",
-      "title": "Volks planeja congelar salários até 2030 em todo o mundo, afirma conselho de trabalhadores",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: volks planeja congelar salários até 2030 em todo o mundo, afirma conselho de trabalhadores. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/volks-planeja-congelar-salarios-ate-2030-em-todo-o-mundo-afirma-conselho-de-trabalhadores.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T15:39:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "21a2b791ee64b39e",
-      "title": "Conheça a equipe escalada por Douglas Ruas para cuidar da transição de governo no Rio",
-      "summary": "O veículo VEJA publicou uma atualização sobre: conheça a equipe escalada por Douglas Ruas para cuidar da transição de governo no Rio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/conheca-a-equipe-escalada-por-douglas-ruas-para-cuidar-da-transicao-de-governo-no-rio/",
-      "source": "VEJA",
-      "published_at": "2026-10-19T15:34:51+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -580,20 +720,6 @@
       "archive": false
     },
     {
-      "id": "8a66febb76f1309d",
-      "title": "Escola classifica estudantes entre os melhores do país em avaliação nacional",
-      "summary": "O veículo G1 publicou uma atualização sobre: escola classifica estudantes entre os melhores do país em avaliação nacional. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/especial-publicitario/colegio-jean-piaget/apontando-caminhos/noticia/2026/10/19/escola-classifica-estudantes-entre-os-melhores-do-pais-em-avaliacao-nacional.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T14:23:36+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "4a0807031477cc05",
       "title": "Projeto reserva 5% das compras públicas de alimentos para produtos típicos de biomas locais",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto reserva 5% das compras públicas de alimentos para produtos típicos de biomas locais. Consulte a reportagem para contexto, dados e declarações.",
@@ -608,62 +734,6 @@
       "archive": false
     },
     {
-      "id": "db12f3399bf4b2d1",
-      "title": "Governo antecipa calendário do Bolsa Família a seis dias do 2º turno; veja as datas",
-      "summary": "O veículo G1 publicou uma atualização sobre: governo antecipa calendário do Bolsa Família a seis dias do 2º turno; veja as datas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/19/bolsa-familia-pagamentos-calendario.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T14:21:25+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0fa1abdefbfec725",
-      "title": "Após ser atingido por dois tiros, homem corre e se esconde em matagal até a chegada da polícia na zona rural de Jaíba",
-      "summary": "O veículo G1 publicou uma atualização sobre: após ser atingido por dois tiros, homem corre e se esconde em matagal até a chegada da polícia na zona rural de Jaíba. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/19/apos-ser-atingido-por-dois-tiros-homem-corre-e-se-esconde-em-matagal-ate-a-chegada-da-policia-na-zona-rural-de-jaiba.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T14:18:19+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "56ffeefaddea5e4c",
-      "title": "Ri Happy pede recuperação extrajudicial para renegociar R$ 827 milhões em dívidas",
-      "summary": "O veículo G1 publicou uma atualização sobre: ri Happy pede recuperação extrajudicial para renegociar R$ 827 milhões em dívidas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/19/ri-happy-pede-recuperacao-extrajudicial.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T14:12:20+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "222fd0daa7625c79",
-      "title": "Com cacau caro, Lindt troca CEO após piora nas vendas; entenda",
-      "summary": "O veículo G1 publicou uma atualização sobre: com cacau caro, Lindt troca CEO após piora nas vendas; entenda. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/19/cacau-chocolate-ceo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T14:11:40+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "637e9fa0d1d0cc40",
       "title": "Sob suspeita de embriaguez, deputado do PL é detido pela polícia após atirar em bar de SP",
       "summary": "O veículo VEJA publicou uma atualização sobre: sob suspeita de embriaguez, deputado do PL é detido pela polícia após atirar em bar de SP. Consulte a reportagem para contexto, dados e declarações.",
@@ -671,20 +741,6 @@
       "source": "VEJA",
       "published_at": "2026-10-19T14:08:08+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "80ee03b44b5aee98",
-      "title": "Mais de 700 vagas de emprego serão oferecidas durante o Senac Capacitar em Manaus; saiba como participar",
-      "summary": "O veículo G1 publicou uma atualização sobre: mais de 700 vagas de emprego serão oferecidas durante o Senac Capacitar em Manaus; saiba como participar. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/10/19/mais-de-700-vagas-de-emprego-serao-oferecidas-durante-o-senac-capacitar-em-manaus-saiba-como-participar.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T14:05:45+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -958,20 +1014,6 @@
       "archive": false
     },
     {
-      "id": "82dd9fc56633cbf6",
-      "title": "Rússia ataca Ucrânia sem alerta dos EUA de novo, diz Zelenski",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: rússia ataca Ucrânia sem alerta dos EUA de novo, diz Zelenski. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/russia-ataca-ucrania-sem-alerta-dos-eua-de-novo-diz-zelenski.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T12:24:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d3e44ce89201d5cb",
       "title": "Protesto fecha Louvre e premiê francês pede toque de recolher após onda de violência",
       "summary": "O veículo VEJA publicou uma atualização sobre: protesto fecha Louvre e premiê francês pede toque de recolher após onda de violência. Consulte a reportagem para contexto, dados e declarações.",
@@ -1007,20 +1049,6 @@
       "source": "VEJA",
       "published_at": "2026-10-19T11:56:01+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "28efce41854e6268",
-      "title": "Zelensky denuncia EUA por falta de aviso antes de ataques russos; governo Trump nega",
-      "summary": "O veículo VEJA publicou uma atualização sobre: zelensky denuncia EUA por falta de aviso antes de ataques russos; governo Trump nega. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/mundo/zelensky-denuncia-eua-por-falta-de-aviso-antes-de-ataques-russos-governo-trump-nega/",
-      "source": "VEJA",
-      "published_at": "2026-10-19T11:45:49+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1076,20 +1104,6 @@
       "url": "https://www.camara.leg.br/noticias/1307050-projeto-torna-obrigatorio-indicar-a-cor-de-roupa-na-etiqueta-para-auxiliar-daltonicos",
       "source": "Agência Câmara",
       "published_at": "2026-10-19T11:22:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1b2abbe7eef54663",
-      "title": "A reta final do Congresso às vésperas do segundo turno – e como ele pode ajudar Lula",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a reta final do Congresso às vésperas do segundo turno – e como ele pode ajudar Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/a-reta-final-do-congresso-as-vesperas-do-segundo-turno-e-como-ele-pode-ajudar-lula/",
-      "source": "VEJA",
-      "published_at": "2026-10-19T10:30:18+00:00",
       "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
@@ -1210,27 +1224,13 @@
       "archive": false
     },
     {
-      "id": "49201e5f2026bc15",
-      "title": "Flávio Bolsonaro é investigado em 2º inquérito no STF para apurar suspeitas de lavagem com advogado - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: flávio Bolsonaro é investigado em 2º inquérito no STF para apurar suspeitas de lavagem com advogado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb2lwajhidHJMYzZITE9PTmVCNGJKZUdXYk5lc296dXdqbWE2Sjl1VHJhRzZDUXFEdWtoSm5VUkVyYjQyTVQ1SW1Ld2ZyR0c2LXpRWE0xZlFoOXFwMVRqNjFaTDJKclhvOXBycjRkMUxvMXpLMDRaRTlITDFNYkxDbzdQMVR0M2xBd1o1NEFWRVQ1NHhKTlI1QVlmdTRLTWdadVl6RU83R29DeVFUYTlRYVZwcmxhSm54M0R2OU9MYnJ4SDFtUDNrbEFTcWhCdE9t0gHWAUFVX3lxTE16Yjk5bzhjWWJkS0pnU25aTl9JcElnZV9VeFF2X0ltaXVZdU43c0hWQzNLc2VVYzRnNVRWS1dCSUZ4R2Z6LTJnT2g3eGhtSU1HdEFQOF90MVloRFB4cEhEalV1cWFLd24yR09zdE5SbWxkaC1yb3N4djFJbGktbXFXSkFJN0NzN0JlX3lFeE44aFUxZ3E1c1dMeUdXYmVjUDZDWjhWdFBrS2Z5bC1SaUpaVi01YkVoSlVhRE5ONTk3cUIxTnVfZ2ZLVFhXSVdSQWc3Zks3cXc?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-18T22:33:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "49b62e4f4e153ffa",
-      "title": "TSE fará ‘intensivão’ para julgar candidatos suspeitos de ligação com o crime organizado",
-      "summary": "O veículo VEJA publicou uma atualização sobre: tSE fará ‘intensivão’ para julgar candidatos suspeitos de ligação com o crime organizado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/tse-fara-intensivao-para-julgar-candidatos-suspeitos-de-ligacao-com-o-crime-organizado/",
-      "source": "VEJA",
-      "published_at": "2026-10-18T19:24:35+00:00",
-      "category": "STF e Justiça",
+      "id": "94cb1c71af7c2054",
+      "title": "Minerais críticos e estratégicos empregam 129 mil pessoas no Brasil",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: minerais críticos e estratégicos empregam 129 mil pessoas no Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/minerais-criticos-e-estrategicos-empregam-129-mil-pessoas-no-brasil",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-18T20:12:00+00:00",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1280,6 +1280,34 @@
       "archive": false
     },
     {
+      "id": "d41064c998d13691",
+      "title": "Empresas de três regiões terão aporte de R$ 450 milhões para inovação",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: empresas de três regiões terão aporte de R$ 450 milhões para inovação. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/empresas-de-tres-regioes-terao-aporte-de-r-450-milhoes-para-inovacao",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-18T14:20:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b283692beb753cb0",
+      "title": "BB recebe até 31 de outubro inscrições para projetos de impacto social",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: bB recebe até 31 de outubro inscrições para projetos de impacto social. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bb-recebe-ate-31-de-outubro-inscricoes-para-projetos-de-impacto-social",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-18T13:15:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "16a791c836b602cd",
       "title": "Cotado a ministro, Sachsida já entregou pacote de 200 propostas econômicas a Flávio - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: cotado a ministro, Sachsida já entregou pacote de 200 propostas econômicas a Flávio. Consulte a reportagem para contexto, dados e declarações.",
@@ -1315,6 +1343,20 @@
       "source": "Estadão",
       "published_at": "2026-10-18T08:30:00+00:00",
       "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1ef9869d4459b28a",
+      "title": "Pacote eleitoral de Lula alcança R$ 290 bi e gera pressão sobre dívida pública - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacote eleitoral de Lula alcança R$ 290 bi e gera pressão sobre dívida pública. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU9vWjQ1eUlfVzFidUNnX2RNbk1sUE8wei1QeEtoSjlSWl9BamxRMVI2MTR0WklnMjNBVTlRUHpFa0pYLW5wRXNoYUc0Mk9MTUdqajBna3J3UXBqRWpKM2FJVGlCeXdnZnNsZF91Wlg5bXFJYV80WUNwQWdiSDB4cUh3alctUU5hX0s0SjRiX0hRQmpfUmpQZWlfWkdKLXZSSHVtUzhhUFBYTDJCYmwtX21ic1VYdk5yM09oYXdWRnlnZHNlcDh4Mw?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-18T02:00:00+00:00",
+      "category": "Endividamento",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1462,20 +1504,6 @@
       "archive": false
     },
     {
-      "id": "bf561c27a3c445d3",
-      "title": "Exames no Farmácia Popular, Saúde da Família e rede de câncer: os planos de Lula para a Saúde - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: exames no Farmácia Popular, Saúde da Família e rede de câncer: os planos de Lula para a Saúde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0xnUUtaWmpiZXlwdV9pOFNyQlUzYi1zZnc4S1FHV3hYWV9PS3U0YXhDUV9WWTNwcmRDVldmNVMxcjVSd3B3UmVocGZwNjRvcGxzVlNYMUNMblJGRnI2RUlRbk1FVy1kX2JEekR3bmtBLWhrVHZrUlVmVnR6XzZiOS1oQjdIbnVpUTFBcTRsaUlXS2hsVV96UE9iOUNCZElCQzNQZmhNU3NGVkdnckhoX0owTzZEZnhqdUJGWmVCYmM2aVVZ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-16T21:14:48+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e30749f8e0ebe291",
       "title": "Projeto amplia recursos no Orçamento para negociação de contratos habitacionais antigos",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto amplia recursos no Orçamento para negociação de contratos habitacionais antigos. Consulte a reportagem para contexto, dados e declarações.",
@@ -1521,19 +1549,19 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 21
+      "items": 31
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 46
+      "items": 47
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 46
+      "items": 48
     },
     "VEJA": {
       "status": "ok",
-      "items": 8
+      "items": 5
     },
     "The New York Times": {
       "status": "ok",
@@ -1541,7 +1569,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 3
+      "items": 4
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1553,7 +1581,7 @@
     },
     "Agência Brasil · Educação": {
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     "Agência Brasil · Saúde": {
       "status": "ok",
@@ -1577,23 +1605,23 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 68
+      "items": 67
     },
     "Estadão": {
       "status": "ok",
-      "items": 35
+      "items": 37
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 43
+      "items": 46
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 51
+      "items": 47
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 56
+      "items": 57
     },
     "Eleições · Lula": {
       "status": "ok",
@@ -1601,7 +1629,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 20
+      "items": 21
     }
   },
   "notes": [
