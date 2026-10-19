@@ -1,14 +1,182 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-18T23:35:25.648335+00:00",
-  "last_success_at": "2026-10-18T23:35:25.648335+00:00",
+  "last_checked_at": "2026-10-19T00:55:09.554352+00:00",
+  "last_success_at": "2026-10-19T00:55:09.554352+00:00",
   "coverage_window_hours": 84,
   "items": [
     {
+      "id": "efb106472229a685",
+      "title": "Flávio Bolsonaro e Lula trocam acusações de corrupção e envolvem familiares em debate",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro e Lula trocam acusações de corrupção e envolvem familiares em debate. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-lula-trocam-acusacoes-de-corrupcao-e-envolvem-familiares-em-debate.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T00:43:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0c31c1a065aa7e27",
+      "title": "Onda de queimadas no Amazonas sufoca cidades, mobiliza força-tarefa e gera suspeita de ação criminosa",
+      "summary": "O veículo G1 publicou uma atualização sobre: onda de queimadas no Amazonas sufoca cidades, mobiliza força-tarefa e gera suspeita de ação criminosa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/10/18/onda-de-queimadas-no-amazonas-sufoca-cidades-mobiliza-forca-tarefa-e-gera-suspeita-de-acao-criminosa.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T00:34:11+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6b975644807cee62",
+      "title": "Ato de apoiadores de Lula em Copacabana reúne 56,4 mil pessoas às 18h, segundo metodologia da USP",
+      "summary": "O veículo G1 publicou uma atualização sobre: ato de apoiadores de Lula em Copacabana reúne 56,4 mil pessoas às 18h, segundo metodologia da USP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/18/ato-de-apoiadores-de-lula-em-copacabana-estimativa-publico.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T00:26:42+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ad8e47344d2f5730",
+      "title": "Sistema do TSE aponta mudanças em locais de votação mesmo quando endereço permanece o mesmo",
+      "summary": "O veículo G1 publicou uma atualização sobre: sistema do TSE aponta mudanças em locais de votação mesmo quando endereço permanece o mesmo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/sistema-do-tse-aponta-mudancas-em-locais-de-votacao-mesmo-quando-endereco-permanece-o-mesmo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T00:19:51+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "01540a77aa614abe",
+      "title": "Rubio diz que Trump vai avaliar decisão sobre sanções contra a Rússia",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: rubio diz que Trump vai avaliar decisão sobre sanções contra a Rússia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/rubio-diz-que-trump-vai-avaliar-decisao-sobre-sancoes-contra-a-russia.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T00:18:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "776059c80e0ad234",
+      "title": "Avião que saiu de Israel faz pouso de emergência após ameaça de bomba",
+      "summary": "O veículo G1 publicou uma atualização sobre: avião que saiu de Israel faz pouso de emergência após ameaça de bomba. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/18/aviao-que-saiu-de-israel-faz-pouso-de-emergencia-apos-ameaca-de-bomba.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T00:12:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "40f03d7761eefe5f",
+      "title": "Senador eleito propõe regras mais rígidas para concessão de benefícios em ano eleitoral",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: senador eleito propõe regras mais rígidas para concessão de benefícios em ano eleitoral. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/senador-eleito-propoe-regras-mais-rigidas-para-concessao-de-beneficios-em-ano-eleitoral.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bd10f1560769928c",
+      "title": "Ato em Fernando de Noronha reúne moradores em apoio à reeleição de Lula",
+      "summary": "O veículo G1 publicou uma atualização sobre: ato em Fernando de Noronha reúne moradores em apoio à reeleição de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/10/18/ato-em-fernando-de-noronha-reune-moradores-em-apoio-a-reeleicao-de-lula.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T23:59:06+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6214f1f62ed2ddfb",
+      "title": "Quem era a estudante de direito que morreu em acidente de carro na BR-153",
+      "summary": "O veículo G1 publicou uma atualização sobre: quem era a estudante de direito que morreu em acidente de carro na BR-153. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/18/quem-era-a-estudante-de-direito-que-morreu-em-acidente-de-carro-na-br-153.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T23:58:35+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "711271e6ce08c860",
+      "title": "Lula cobra PEC da Segurança e defende combate ao crime “da esquina ao andar de cima” - Diário Carioca",
+      "summary": "O veículo Diário Carioca publicou uma atualização sobre: lula cobra PEC da Segurança e defende combate ao crime “da esquina ao andar de cima” - Diário Carioca. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMlBpQlh2Uk85bURPUkx1WmxJWG5kT205ZEg0TFdraWtxWlJMd1dMUnFRWUVwaXl1YkxtWkZzSjBYTmlBdVNQMnZRS3pQWU1ZeTZiazJ6X0VXaWtBT0ZNbU1hTzBRSHAteTV1VDZQaFBDX1lmMUdzbVF6YXluZmhYcDZDVmhDZWlCMndLSHdOeU8zbUppVEx2bktvSzduTVJZVlRPc1hKTzI4a0pJT3Y3VWtaUHBqZDItNE00MkZmYzBTd0lCakRqMEs2aFJtUjBWVjVPZnlDNXFBdw?oc=5",
+      "source": "Diário Carioca",
+      "published_at": "2026-10-18T23:58:01+00:00",
+      "category": "Eleições",
+      "candidate": "lula",
+      "election_type": "Proposta",
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cffc4cb03ff5cc9e",
+      "title": "Márcio Canella e ex-secretário da Polícia Civil são presos em operação contra lavagem de R$ 7 bilhões",
+      "summary": "O veículo G1 publicou uma atualização sobre: márcio Canella e ex-secretário da Polícia Civil são presos em operação contra lavagem de R$ 7 bilhões. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/10/18/marcio-canella-e-ex-secretario-da-policia-civil-sao-presos-em-operacao-contra-lavagem-de-r-7-bilhoes.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T23:57:35+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1e6fe51e244e9e6b",
+      "title": "Guarujá e Mongaguá, SP, oficializam Política Municipal de Alfabetização; entenda o que muda",
+      "summary": "O veículo G1 publicou uma atualização sobre: guarujá e Mongaguá, SP, oficializam Política Municipal de Alfabetização; entenda o que muda. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/santos-regiao/educacao/noticia/2026/10/18/guaruja-e-mongagua-sp-oficializam-politica-municipal-de-alfabetizacao-entenda-o-que-muda.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-18T23:27:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "c0635f3ac894eb6b",
-      "title": "Lula e Flávio Bolsonaro fazem o primeiro debate",
-      "summary": "O veículo G1 publicou uma atualização sobre: lula e Flávio Bolsonaro fazem o primeiro debate. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Lula e Flávio Bolsonaro fazem o primeiro debate do 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: lula e Flávio Bolsonaro fazem o primeiro debate do 2º turno. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/politica/noticia/2026/10/18/lula-e-flavio-bolsonaro-fazem-o-primeiro-debate.ghtml",
       "source": "G1",
       "published_at": "2026-10-18T23:16:38+00:00",
@@ -16,6 +184,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d53e5064dbd69d74",
+      "title": "Debate na Band: em primeiro embate, Lula pergunta o que Flávio 'tem contra mulheres'; senador responde citando lobista amiga de Lulinha - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: debate na Band: em primeiro embate, Lula pergunta o que Flávio 'tem contra mulheres'; senador responde citando lobista amiga de Lulinha. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWHlPZWRIQ2dnaGhUZ2JKb2puVTAxbzZLYThOOWc1Tk5HY1pUb3RPMFFUeHFYYVpuVWsxN0laeUVRdlI2TTJXZ0tOcmlaVUxVSFV0QjNILWNuLTNJMnJuQUdUSzNfOEtOQ3RKekdCSVhXbTFwWnMwbGxPWjVPWGVjcjFzZnJfUGc5WkdHWEZybFUtMC1RV01kdmI1VG94Y3RjdGxxNkhUZmV6NU1nWklnZUFPYkFVTDBueTdnNVdsU1ZxZ2NHVjVhUUR2R2t3cEpHMktDc1ZQWWNrRmpIcS1tck1fdkRpRzF5VzlEUDBOZnc0d09lRUFmQVVfcWFMTW41bTVkd2tB0gGUAkFVX3lxTE54c0FVWGdONG02UTlYQXMzQkZqVUl2N0ZubnplYm5BSml4MzBHb0hwaDdPdHkyRTBZdGtnTHAxalZfaDlUdUFEWld4WkNhdjMxcGNqRXpEaW84OFJxejg5N3c5TFhPdUpiOE5rS2lUdUFmLTdaeGg5OFR0eHBrdEFadlZiZXM5UVJrRUtJSUJsUHN0WW92TU5hNWRla1A5WVNEd0lWTHAxQS1rMDc2WDFTbXd5bWU4VWFpVVVkQUNMWGgzWGlNbHhBYTYxZFpJa2dnMGRhT0lzUWw3dXY2OGFsNDRycTBzY3lTWFV4bTFWMmgyRm9xOFNtaU92SV9nMk9DUW04MUY5SjNkOEV4eTFCekZucQ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-18T23:16:17+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -48,82 +230,12 @@
       "archive": false
     },
     {
-      "id": "7b98153a76a9eaac",
-      "title": "Em debate, Lula ficará de frente com outros adversários além de Flávio Bolsonaro",
-      "summary": "O veículo VEJA publicou uma atualização sobre: em debate, Lula ficará de frente com outros adversários além de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/em-debate-lula-ficara-de-frente-com-outros-adversarios-alem-de-flavio-bolsonaro/",
-      "source": "VEJA",
-      "published_at": "2026-10-18T22:53:02+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "58e3a56246c98cce",
-      "title": "Campanha de Flávio Bolsonaro realiza manifestação na Paulista",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: campanha de Flávio Bolsonaro realiza manifestação na Paulista. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/campanha-de-flavio-bolsonaro-realiza-manifestacao-na-paulista",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-18T22:44:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3b3eb46b02867c3d",
-      "title": "Apoiadores fazem ato a favor de Lula em Sorocaba",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores fazem ato a favor de Lula em Sorocaba. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/noticia/2026/10/18/apoiadores-fazem-ato-a-favor-de-lula-em-sorocaba.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T22:43:25+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2431cfd878b36827",
-      "title": "Míssil inflável levado a ato de Flávio Bolsonaro em SP pede ataque de Trump no Brasil",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: míssil inflável levado a ato de Flávio Bolsonaro em SP pede ataque de Trump no Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/missil-inflavel-levado-a-ato-de-flavio-bolsonaro-em-sp-pede-ataque-de-trump-no-brasil.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T22:41:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "806eb4229d004736",
-      "title": "AO VIVO: acompanhe o debate entre Lula e Flávio Bolsonaro na Band",
-      "summary": "O veículo VEJA publicou uma atualização sobre: aO VIVO: acompanhe o debate entre Lula e Flávio Bolsonaro na Band. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/ao-vivo-acompanhe-o-debate-entre-lula-e-flavio-bolsonaro-na-band/",
-      "source": "VEJA",
-      "published_at": "2026-10-18T22:37:43+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "840d44c2878a5986",
-      "title": "Apoiadores de Lula fazem ato com Caetano Veloso, Djavan e outros artistas em Copacabana - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: apoiadores de Lula fazem ato com Caetano Veloso, Djavan e outros artistas em Copacabana. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRjJtaUxPWVhaVzFVeVJsU205emdTRG1sTTAwRm9PRko1blV1cVNSYjZzRTkyMXF1NzdvYldvY1QxQUU0aFA5ajNqWEZaME8teDBqRWM2ME1uR3pQTVNJZDlvTzVfQnRWTzB4THFLMFRMd2ttVXNDeTJsUGVNbXdwcmxOMWtWRmtrcldzUEI2WV9Va0FIV2w0NWVLZ21XYVdzaE9QNjJKMXJSZ1Q0c0tmREl3X25sRGVxUEp2aWJKcmRQYVRUanUtaWYzR3hfTDBSRndham1YZE02ekx3NTlFRktiWXAwZkFCOG9iSmlZWUTSAf8BQVVfeXFMTThMSnpmR01keHVZbHdzdWk2X2MydmhMSGhlSS1LWjd6SmVVLWFZV0hoRzM5b2dTRFJtb0FVMUNFMUNTZWlSNGthYk5WWHZrSXJOS1R0VmVjN0U2N24xQTRpeENobkg4d0hyMjZWME9rWkplbDFPYnQ1X2Zqckotc0RTb01zN1ZGSjBhSEg5YW1TQ0ktcDRENGxhMzFMTEFvQlFSMkhwSjJ4Q0VCUWN6S1JlelVKTzV3d2YtaWtTV0NNMHBpdHZEYzdkLXJpeHpsXzhkR1U5N1pNaEtGWGRRMVdObGV1bGRTM044MzFSYVZlTFdGZjdaMFc0TVduektR?oc=5",
+      "id": "17259ad1eaf2a759",
+      "title": "Como assistir ao debate da Band ao vivo entre Flávio Bolsonaro e Lula - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: como assistir ao debate da Band ao vivo entre Flávio Bolsonaro e Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR2R6cWZkVFhEOExQeXduYkNaQlU0NHNPdDJOYWtmRVU4MThDYnE3TWtNbGx4M0Z6b2tVZFFpbG1LcUE2czdXcGs5amRmcWFBQXViT0FtUW40bGZrX19PTVNmNGRJV1BXUVhwbks0VHBIWXoybUJXVmdQMThWSkRDR293QWtreFd4czZETG03cnlhNmRmTlBtS1lNMzhtUDlHR24ycmF5ZERfaUhINFZGYzFoZ3F4N1MtbW10LWNsTkZWZ9IB0AFBVV95cUxORWpPdTltSE1UNHZXeFhXakRvdG9VX282djNrLW9fajNQckk2dnItZmlIN09KYUlpbjFhc20xVzhSbWRYMVZjdDF1MG5yT0QtWk96R0xMZVpxbGJWYTJTby1DTHd0SGlIY1lNUHN3aE90QzB2dFdaOXdPTk1MbGhhSGJTcnJCT1c2WjlDNk5TU0Q1RFVMRWlFV29Oekpnc0pVZkxvYWhfLWJpVFVXUTJMckR0NDJiaFF3NWRuczVIdE00TDNUS2JURE5ORXRNa1c5?oc=5",
       "source": "O GLOBO",
-      "published_at": "2026-10-18T22:37:21+00:00",
+      "published_at": "2026-10-18T22:57:42+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -156,48 +268,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bc2a11cb10746634",
-      "title": "Apoiadores de Lula fazem atos de campanha espalhados pela cidade de SP",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula fazem atos de campanha espalhados pela cidade de SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/18/apoiadores-de-lula-fazem-atos-de-campanha-espalhados-pela-cidade-de-sp.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T22:30:22+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "819a9c3af71e1984",
-      "title": "Flávio leva dupla da Lava-Jato para debate na Band - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio leva dupla da Lava-Jato para debate na Band. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFVRYXJ6Z3AwV0RUTzdaR29nQ0hIR3Y5bDN5QkkzT3NBWGd5clZlX04zV1RzSG1qczNaUkhhcFh1NW5xdW9rMnpwYVA3QlB1WVo5QU94LVhRTzNXaUlHMXBRd3k1ejZyMVN0TTctU0g0QjQxX21GQkdZYm50Y21UX3NMVmpQd2hBdFQydDlYaWFLakhKTmhOSXowTzR1QWNYdHNSRV9xZTk1S0NsVlRvYk9ua9IBwgFBVV95cUxQUUFESGNPSXRReXR6aTdJU3AySks4UGlOblBNQzlsXzFHRGdOc2NWTVlJbzFmMjN2MHBxR0lrbzM1MFl2clNsZHRoSzBWcDFhSHRZZTBTUWRDTEtqeDZpUWxYdDRWVFU1Zy1MNUpqcHA1WHQwMlRDT1hSWVBGMTZQOGhVYWxvQ2lnUmxscUdGekdpYTdPb0ZheDQ4T1ZkY3FxcWJOQnVIQnpoVEx0Wk9QUW9JaThyblpyMk5oODVQamlXdw?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-18T22:29:48+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e9f849afd6d70d0b",
-      "title": "Quatro locais de votação no Ceará são alterados para 2º turno; veja quais",
-      "summary": "O veículo G1 publicou uma atualização sobre: quatro locais de votação no Ceará são alterados para 2º turno; veja quais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/18/quatro-locais-de-votacao-no-ceara-sao-alterados-para-2o-turno-veja-quais.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T22:16:26+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -524,20 +594,6 @@
       "archive": false
     },
     {
-      "id": "77033bb9e4a70d19",
-      "title": "Protestos na Itália e Albânia seguem por mais um dia com confronto com a polícia",
-      "summary": "O veículo G1 publicou uma atualização sobre: protestos na Itália e Albânia seguem por mais um dia com confronto com a polícia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/18/segundo-dia-de-protestos-em-milao-tem-saques-e-confronto-com-a-policia.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T17:45:05+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c7e61c2e38124ac7",
       "title": "No ápice, ato de Flávio Bolsonaro na Paulista reúne 71,9 mil pessoas, segundo metodologia da USP",
       "summary": "O veículo G1 publicou uma atualização sobre: no ápice, ato de Flávio Bolsonaro na Paulista reúne 71,9 mil pessoas, segundo metodologia da USP. Consulte a reportagem para contexto, dados e declarações.",
@@ -566,48 +622,6 @@
       "archive": false
     },
     {
-      "id": "188a6b82cef8000c",
-      "title": "O que se sabe sobre 27 pessoas que passaram mal após comer bombons em escola de Pitangueiras, SP",
-      "summary": "O veículo G1 publicou uma atualização sobre: o que se sabe sobre 27 pessoas que passaram mal após comer bombons em escola de Pitangueiras, SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/18/o-que-se-sabe-sobre-27-pessoas-que-passaram-mal-apos-comer-bombons-em-escola-de-pitangueiras-sp.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T16:27:40+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "80ae6e53043f2bc3",
-      "title": "Preso por estupro confessa assassinato de grávida no ES; crime levou marido da vítima à prisão",
-      "summary": "O veículo G1 publicou uma atualização sobre: preso por estupro confessa assassinato de grávida no ES; crime levou marido da vítima à prisão. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/18/preso-por-estupro-confessa-assassinato-de-gravida-no-es-crime-levou-marido-da-vitima-a-prisao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T16:17:53+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "43be5130ddd3e236",
-      "title": "China propõe controlar exportações de tecnologias para equipamentos solares",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: china propõe controlar exportações de tecnologias para equipamentos solares. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/china-propoe-controlar-exportacoes-sobre-tecnologias-para-equipamentos-solares.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T16:15:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b76ab99f023de4ac",
       "title": "Termina neste domingo prazo escolher idioma da prova do Enem 2026",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: termina neste domingo prazo escolher idioma da prova do Enem 2026. Consulte a reportagem para contexto, dados e declarações.",
@@ -615,34 +629,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-18T16:15:00+00:00",
       "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e1e9cf857df6f3c5",
-      "title": "Forças Armadas vão reforçar combate às queimadas no Amazonas, anuncia ministro da Justiça - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: forças Armadas vão reforçar combate às queimadas no Amazonas, anuncia ministro da Justiça. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3RQNlRPSHR5bmwyU2JFZU05RFg3X1M3eWctVE5hMU9IMmdtR3dhYlY2Nko1V0RqRTQwOF93UWxYQlNLZVktSHdOU2luOS1oYXVNSWtheldRWVVZU2kxOUVXOFlFdzV4eTNlSGFfZDgtVzAxdDREaEN4aWhxUFhUSGRlWnZ6anEwLVZMSFkycHZFdHEtWmw4QTNrMlZ4SDZLU0lQX0d1VXBKdVd4MVNWRXpR0gHAAUFVX3lxTE1FWVE0S3kxNHo0OEtaa2YxcUs2dUh6WVNoRFFUZUo1M0s1Q21RTTVoX0Q4REs0V2xSMVJFVUF4anFJQ2FjNTJILWl0Sy1uRGp3dW9JdDNJTzlBaEFxczhmVnVBcnhlQ01OQ0taVGRHWlFpNEh4c2FoVjktOUxueGpycThIWlF6dTRXaEt4RWZsOTBjRXhKZlFvYk15WFRIWm5aY3k4UENxUjdtd081N3hSNWZsSDUtYUVFV0Y3b29JeA?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-18T16:13:47+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "350698e04a933c46",
-      "title": "Investimentos de US$ 10 tri em data centers nos EUA enfrentam atrasos, dúvidas e críticas",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: investimentos de US$ 10 tri em data centers nos EUA enfrentam atrasos, dúvidas e críticas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/investimentos-de-us-10-tri-em-data-centers-nos-eua-enfrentam-atrasos-duvidas-e-criticas.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T15:45:00+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -679,8 +665,8 @@
     },
     {
       "id": "1cd3c8e38529cc73",
-      "title": "Flávio diz na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho; Goiânia também teve ato - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: flávio diz na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho; Goiânia também teve ato. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Flávio diz na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho; Belém, Goiânia e Natal também tiveram atos - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: flávio diz na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho; Belém, Goiânia e Natal também tiveram atos. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHhqUU9QQUNTbzNzdldJMnhQZllOellhaTNCclA0RTZVTlZNOXpoWnUxY0U5cVYyLXUtdWtaY3oycVBzOEJTU0lBMEVJUXNiWVFsNVFjX2RpMGJiTnpERm1wcGZqNHc4SXl6eENmcUx3eDRuR1hLQldDLWowcnRKcy1xOHFuTnVMM3JVSHA0a2loNndxMzltMWNxZndZc0HSAa4BQVVfeXFMT19sQnAySGVZSk5HUmlXNVdJd2NwVFZSQTE2bWN4T05KTWVuYWRPcEk0RGV4YzdFNy1TUUx4OWR1bm1LRG4zWjNrMnFRN3V1ZjJPZGI1Q0FQSjZnSFlUWE9yRGthQk9xRzVFSVBPWU1DUzRPZ2Q3eER6a0F3NmNTQ0lUa05DT1hQV2F3MlY0a3dPekV2OEw5VkZ3TEJlX0RpQnlCcFdFWkd5Ql92bmNB?oc=5",
       "source": "G1",
       "published_at": "2026-10-18T14:27:49+00:00",
@@ -698,20 +684,6 @@
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/empresas-de-tres-regioes-terao-aporte-de-r-450-milhoes-para-inovacao",
       "source": "Agência Brasil",
       "published_at": "2026-10-18T14:20:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5632f547d0ce9489",
-      "title": "Mega-Sena acumula e próximo concurso pode pagar até R$ 185 milhões; confira os números sorteados",
-      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena acumula e próximo concurso pode pagar até R$ 185 milhões; confira os números sorteados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/18/mega-sena-concurso-3072-confira-os-numeros-sorteados.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-18T14:05:28+00:00",
       "category": "Economia",
       "candidate": null,
       "election_type": null,
@@ -1042,20 +1014,6 @@
       "archive": false
     },
     {
-      "id": "822c1102146c1ecf",
-      "title": "STF vai decidir índice de correção de dívidas da Fazenda Pública após emenda de 2025",
-      "summary": "O veículo VEJA publicou uma atualização sobre: sTF vai decidir índice de correção de dívidas da Fazenda Pública após emenda de 2025. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/stf-vai-decidir-indice-de-correcao-de-dividas-da-fazenda-publica-apos-emenda-de-2025/",
-      "source": "VEJA",
-      "published_at": "2026-10-17T21:01:15+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f3860f7e0a0e6299",
       "title": "Cortes em auxílios sociais podem gerar retração em cidades do interior",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: cortes em auxílios sociais podem gerar retração em cidades do interior. Consulte a reportagem para contexto, dados e declarações.",
@@ -1308,6 +1266,20 @@
       "archive": false
     },
     {
+      "id": "0576b70204f77651",
+      "title": "Governo prevê crédito a empresas afetadas por fim da 6x1, diz Durigan",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo prevê crédito a empresas afetadas por fim da 6x1, diz Durigan. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-preve-credito-empresas-afetadas-por-fim-da-6x1-diz-durigan",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-16T21:36:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "bf561c27a3c445d3",
       "title": "Exames no Farmácia Popular, Saúde da Família e rede de câncer: os planos de Lula para a Saúde - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: exames no Farmácia Popular, Saúde da Família e rede de câncer: os planos de Lula para a Saúde. Consulte a reportagem para contexto, dados e declarações.",
@@ -1359,20 +1331,6 @@
       "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "773e0545863281c7",
-      "title": "Cadu de Lula faz caminhada em Parnamirim e promete obras viárias e conclusão de Hospital Metropolitano",
-      "summary": "O veículo G1 publicou uma atualização sobre: cadu de Lula faz caminhada em Parnamirim e promete obras viárias e conclusão de Hospital Metropolitano. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/16/cadu-de-lula-faz-caminhada-em-parnamirim-e-promete-obras-viarias-e-conclusao-de-hospital-metropolitano.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-16T20:00:52+00:00",
-      "category": "Eleições",
-      "candidate": "lula",
-      "election_type": "Proposta",
       "via_aggregator": false,
       "curated": false,
       "archive": false
@@ -1588,6 +1546,20 @@
       "archive": false
     },
     {
+      "id": "2fbbd3b0c070424c",
+      "title": "Lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande Bahia",
+      "summary": "O veículo Jornal Grande Bahia publicou uma atualização sobre: lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande B. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYzlGRExua2NkQ3ZRb2laRGh2VWtYajVwTldWMWxWX0g1NW9BLVhicWx5UU1teEJuZlpnS3U3ZmcyMHVSZVMwa3VySjRxc003Skp3Y1pPQVM2V09vWkFjNmxUcm11bkJPdWREeklBVVVhWmFFVTF3blNRTjZfX05iYm9ZUjN6cUtZTTNvbFlhb3BIaTBfZWNzeUh1bHlIc21xLXFnaGFtX19CMEpiaF9MSXpaRG1TRnlkNUlidVdtMW43dWhfUS1oVUdjYWhLVEVIUnhhc01yVGJhWUpGZTZKRmhTRlhaR0F2Q2t1Y1o3ZlR4ZmYtbmdLYWg2eVFFa3RiRnNrdVdlcEd2UQ?oc=5",
+      "source": "Jornal Grande Bahia",
+      "published_at": "2026-10-15T19:30:10+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "5edbf96a139fabf6",
       "title": "Pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -1619,15 +1591,15 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 30
+      "items": 34
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 48
+      "items": 43
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 32
+      "items": 35
     },
     "VEJA": {
       "status": "ok",
@@ -1639,7 +1611,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 4
+      "items": 5
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1675,31 +1647,31 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 65
+      "items": 64
     },
     "Estadão": {
       "status": "ok",
-      "items": 31
+      "items": 32
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 27
+      "items": 30
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 50
+      "items": 47
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 52
+      "items": 51
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 42
+      "items": 40
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 27
+      "items": 26
     }
   },
   "notes": [
