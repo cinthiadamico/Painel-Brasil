@@ -1,10 +1,52 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-19T03:45:46.139848+00:00",
-  "last_success_at": "2026-10-19T03:45:46.139848+00:00",
+  "last_checked_at": "2026-10-19T04:45:26.758210+00:00",
+  "last_success_at": "2026-10-19T04:45:26.758210+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "ef36729c720eca9d",
+      "title": "Debate entre Lula e Flávio Bolsonaro teve distorções e dados falsos; veja checagem",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: debate entre Lula e Flávio Bolsonaro teve distorções e dados falsos; veja checagem. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/debate-entre-lula-e-flavio-bolsonaro-teve-distorcoes-e-dados-falsos-veja-checagem.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T04:04:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fa8b3cedab3475a1",
+      "title": "Arrogância e nervosismo em um ‘circo dos horrores’: colunistas avaliam debate entre Flávio e Lula - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: arrogância e nervosismo em um ‘circo dos horrores’: colunistas avaliam debate entre Flávio e Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXhyVFdJWWNpbmZON0YzMEZYb0RXSTdBT0ptNTdiazQ0cmlUZk40MmZ2M0ZyUUhocXQyVHhrTVphWW1QdVNZSlVkVENXOXhmZmRYX0laLUxmajBvd29Fd2ZMRl9PdWlLZm9xODFIcjFfenBDOGROSGt5VTFSRWpuQ3lZYkk5Nl9vdGZtcWwyYm5lTm5fTWhrZTJPUzMtT1hucmZKRzhpeC1hNURRSHhiejVZUWc4NXgxV3F1VVFpVUw1azRtbzg5R2xKeHZaanlZcHhCWmZMa9IB3AFBVV95cUxQZlJvckNXNC1CQXU3Tl9IR3UwbzBXTEdUSlc3QV9aczhtbWVIZXZzYVBaRDJsMTFsYlJHU09DemkyWUR6NVhTSlQzLVp1MTh4a2hsd0hmZDRpVngydEUyTTUtNVVqS0pCbXlDNGRxaDFJWFZ3RFVTMGhKYnhsampIUjQxeFVvYTZtZE9MMXBpbDc1S0hiam5HdkNPaUZLSkJ4R1JYUjhjZWV6WEtOZUw3RTJjS3NZcWpWOHFJQ3JxRHNPZFIxVDczVlY0T0U1THQ0WW15SkZEZHlrTlpY?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-19T03:53:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "67ce8101d87794ad",
+      "title": "Primeiro debate entre Lula e Flávio Bolsonaro tem troca de acusações e poucas propostas",
+      "summary": "O veículo VEJA publicou uma atualização sobre: primeiro debate entre Lula e Flávio Bolsonaro tem troca de acusações e poucas propostas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/primeiro-debate-entre-lula-e-flavio-bolsonaro-tem-troca-de-acusacoes-e-poucas-propostas/",
+      "source": "VEJA",
+      "published_at": "2026-10-19T03:47:55+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "044121d6472cb464",
       "title": "Debate de Lula e Flávio Bolsonaro é marcado por Vorcaro e Luchsinger",
@@ -184,48 +226,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5069fda2cff28e28",
-      "title": "Grupo pede investigação de Flávio Bolsonaro por posse de imóvel e vê advocacia administrativa",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: grupo pede investigação de Flávio Bolsonaro por posse de imóvel e vê advocacia administrativa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/grupo-pede-investigacao-de-flavio-bolsonaro-por-posse-de-imovel-e-ve-advocacia-administrativa.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T02:40:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1495c0f490e62778",
-      "title": "As gafes do presidente Lula durante o debate na Band",
-      "summary": "O veículo VEJA publicou uma atualização sobre: as gafes do presidente Lula durante o debate na Band. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/as-gafes-do-presidente-lula-durante-o-debate-presidencial-na-band/",
-      "source": "VEJA",
-      "published_at": "2026-10-19T02:39:16+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3318f2d2a1666074",
-      "title": "Em livro e discursos, Flávio Bolsonaro defendeu golpe, ditadura e torturador - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: em livro e discursos, Flávio Bolsonaro defendeu golpe, ditadura e torturador. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONlZ4amxfS2FVZm1QejFmMjFzWTRLWlNrS0RSN05ONG5PMDh5VEpzWm00WXJ2b2R2VmR0ZGsxXzRGYUcxTFNHdUJnSHRCT05ZN2hCR0I4VzdVZDBYb05BNTZWR0FuR3FBTE5iaGZ5STJmT05Ydmt6WnhCRjNvcUFaR1dSMmVYdWlma3pOWFpUc01HTlBNUFN3S2R6bFBLclRLWGNSdHVWdEE1NFJkRWlSa19Gb9IBwgFBVV95cUxPTndDbTRNcmd1S0JMSXBtdXh0bjlNTDhoWjVCWUd6Y0p6b2hJSXpzYzJaTjJnZVM2cENJblNabllCMnR2N0R0bVZFc19WQTd3LUcxNzAzSjk2RHlrN0ZHaC01RDE3Q3lMWm43UXpxeHBJaFNENFJRTWRHaGM3dFBzTkVxb2hqWUw3Ym1USk1FUDV6MXdEV3ZGRzkwVl90eG1MZl8xMTUyWVQwY09DVndYcVltTjdic3N2dHY1X0R0Q1FJdw?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-19T02:30:32+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -538,16 +538,16 @@
       "archive": false
     },
     {
-      "id": "616bbfd05b78cefb",
-      "title": "Isso é Fantástico — como a insônia e a falta de sono afetam a nossa saúde",
+      "id": "6e00adf24fbc12af",
+      "title": "Isso é Fantástico — como a insônia e a falta de sono afetam a nossa saúde - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: isso é Fantástico — como a insônia e a falta de sono afetam a nossa saúde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/10/18/isso-e-fantastico-como-a-insonia-e-a-falta-de-sono-afetam-a-nossa-saude.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa3JuU21fVVpMYThIcFF5Z193eTh4TDNNR2xtTUdnS3FSNjI4c0Q0Si02WkJLa2Mxa3Q5NUhzd1czMXpqSndCQUdFdkxQTElSSVZLdnFTdTFxS2pTWGdjRUVCRElyMkhDSkp0T1A4aHNKWklBdlBXckxaVUNyNmNmV2thWnEtSElIaDNkZ19BTTlxRFhSX0x5aC1kTTlrcUY2SExfWXVuUzJwRjhOa0tLanE0NUc2LTJ5Q1NDVEFPR3hUcExFcF8tbVByOW4xVDctQ3hQTzZRYmNZNExOUlVpd2dlZUpXa1J0Z3fSAfgBQVVfeXFMUHRKeVhGaXhKaUJ3WV9SVFN3c05IaHBoUnB5cTl1cmw1bWhtdVZPUWZ1VEhTbHgxYi1jaHF4NndSSGpRaGlYdVhLd1pRWi1PTXpPMndlSzZDM2ZTOUhuRXZ0M1VkTHBFaUdNSDhtN18xT250OG1DcEU1cmFndHg0Z012RGtpNjhockozYUF5SnExZk1GQU1fNDJla2ludzdBSUdYNHNzTndLV3FpajlCZU9fdXJXX1RnQUJCRXQ4SDhpOXVOYjB2MzlCd21xZWFoRnRMSGNLbm5SaUlFY2d1b1pVcGxrcjhMM0Z5b25vSTBUS3RiSTZKSHA?oc=5",
       "source": "G1",
       "published_at": "2026-10-18T21:33:01+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1577,7 +1577,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 35
+      "items": 22
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1589,7 +1589,7 @@
     },
     "VEJA": {
       "status": "ok",
-      "items": 13
+      "items": 14
     },
     "The New York Times": {
       "status": "ok",
@@ -1633,31 +1633,31 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 67
+      "items": 70
     },
     "Estadão": {
       "status": "ok",
-      "items": 35
+      "items": 36
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 32
+      "items": 35
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 46
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 50
+      "items": 51
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 34
+      "items": 37
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 24
+      "items": 22
     }
   },
   "notes": [
