@@ -1,14 +1,126 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-19T08:51:09.316763+00:00",
-  "last_success_at": "2026-10-19T08:51:09.316763+00:00",
+  "last_checked_at": "2026-10-19T09:48:26.567683+00:00",
+  "last_success_at": "2026-10-19T09:48:26.567683+00:00",
   "coverage_window_hours": 84,
   "items": [
     {
+      "id": "b3eb237c047c013a",
+      "title": "Nova pesquisa BTG/Nexus mostra quem ainda pode mudar de voto na reta final do segundo turno entre Flávio e Lula",
+      "summary": "O veículo VEJA publicou uma atualização sobre: nova pesquisa BTG/Nexus mostra quem ainda pode mudar de voto na reta final do segundo turno entre Flávio e Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/nova-pesquisa-btg-nexus-mostra-quem-ainda-pode-mudar-de-voto-na-reta-final-do-segundo-turno-entre-flavio-e-lula/",
+      "source": "VEJA",
+      "published_at": "2026-10-19T09:35:28+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "78ff5c406f1a4703",
+      "title": "BTG/Nexus: Flávio Bolsonaro tem 50,3% dos votos válidos, e Lula, 49,7%",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: bTG/Nexus: Flávio Bolsonaro tem 50,3% dos votos válidos, e Lula, 49,7%. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-503-e-lula-497-dos-votos-validos.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T09:24:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "84d71ce07f13c29f",
+      "title": "A nova pesquisa BTG/Nexus sobre a disputa Flávio x Lula a menos de uma semana do segundo turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a nova pesquisa BTG/Nexus sobre a disputa Flávio x Lula a menos de uma semana do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-nova-pesquisa-btg-nexus-sobre-a-disputa-flavio-x-lula-a-menos-de-uma-semana-do-segundo-turno/",
+      "source": "VEJA",
+      "published_at": "2026-10-19T09:20:33+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e20828b6b18d9e2c",
+      "title": "Ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: ukraine Uses F-16s to Shoot Down Russia’s Jet-Powered Drones. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/19/world/europe/ukraine-f16-fighter-jets-drones-russia.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-19T09:15:28+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0c5b260b7c817d11",
+      "title": "'Caótico' e 'tenso': o que imprensa internacional disse sobre debate entre Lula e Flávio Bolsonaro",
+      "summary": "O veículo G1 publicou uma atualização sobre: 'Caótico' e 'tenso': o que imprensa internacional disse sobre debate entre Lula e Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/19/caotico-e-tenso-o-que-imprensa-internacional-disse-sobre-debate-entre-lula-e-flavio-bolsonaro.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T09:15:09+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "32237b27cee76884",
+      "title": "Supermaratona para o Enem 2026: veja videoaulas de revisão para a prova",
+      "summary": "O veículo G1 publicou uma atualização sobre: supermaratona para o Enem 2026: veja videoaulas de revisão para a prova. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/10/19/supermaratona-para-o-enem-2026-veja-videoaulas-de-revisao-para-a-prova.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T09:00:01+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b44ca06921bb7e70",
+      "title": "Novo presidente de comissão que revisa Código Civil prevê projeto mais enxuto",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: novo presidente de comissão que revisa Código Civil prevê projeto mais enxuto. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/novo-presidente-de-comissao-que-revisa-codigo-civil-preve-projeto-mais-enxuto.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T09:00:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "96cf6a4fb3c790aa",
+      "title": "Sem regras objetivas, helipontos do governo de SP e da prefeitura são usados por voos privados sem cobrança de taxa",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: sem regras objetivas, helipontos do governo de SP e da prefeitura são usados por voos privados sem cobrança de taxa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/sem-regras-objetivas-helipontos-do-governo-de-sp-e-da-prefeitura-sao-usados-por-voos-privados-sem-cobranca-de-taxa.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-19T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "c44112617e66aa86",
-      "title": "Deputado estadual Marcelo Aguiar (PL) é detido após disparar arma acidentalmente em festa, dizem testemunhas",
-      "summary": "O veículo G1 publicou uma atualização sobre: deputado estadual Marcelo Aguiar (PL) é detido após disparar arma acidentalmente em festa, dizem testemunhas. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Deputado estadual Marcelo Aguiar (PL) é detido em São Paulo após disparar arma acidentalmente em festa, dizem testemunhas",
+      "summary": "O veículo G1 publicou uma atualização sobre: deputado estadual Marcelo Aguiar (PL) é detido em São Paulo após disparar arma acidentalmente em festa, dizem testemunhas. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/deputado-estadual-marcelo-aguiar-pl-e-detido-apos-disparar-arma-acidentalmente-em-festa-dizem-testemunhas.ghtml",
       "source": "G1",
       "published_at": "2026-10-19T08:38:59+00:00",
@@ -188,20 +300,6 @@
       "archive": false
     },
     {
-      "id": "f0b88d5020321f09",
-      "title": "De cinemas de rua a hotéis, disputa por incentivo da Prefeitura revela novos projetos para o centro de SP",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: de cinemas de rua a hotéis, disputa por incentivo da Prefeitura revela novos projetos para o centro de SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/de-cinemas-de-rua-a-hoteis-disputa-por-incentivo-da-prefeitura-revela-novos-projetos-para-o-centro-de-sp.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T07:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "bd8a63855b222d56",
       "title": "Coparticipação em planos de saúde avança sem limite definido, e ANS tenta rever regra de 1998",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: coparticipação em planos de saúde avança sem limite definido, e ANS tenta rever regra de 1998. Consulte a reportagem para contexto, dados e declarações.",
@@ -209,34 +307,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-19T07:00:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8ca3f0e2b2e9bead",
-      "title": "‘Do Lula se espera tudo, até o ajuste fiscal’, diz Felipe Miranda - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: ‘Do Lula se espera tudo, até o ajuste fiscal’, diz Felipe Miranda. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0o2R3VPa2VtWVpHTVJBaHFJLUl0QlRhSlZSSnoxU1JqWjZlMEZkNmo3V3RyX3dUenR1NUU2ajNTZW90a0RPRjc3QXhRSDljSkcweEw1U1hTemtfSEg4Qkg0SE9aTjBXUk5mRmpBRzhQR1N5VmtRWmVfLWVlUjZRSzU5N0xCRXhqOG9HYV8ySlhJSjE4ckYzbEdTd3lYRl9vanByXzUyVmh3czFodFhUX0FuZW9relBkNzJWTEMzVGRSb3E4bHRZ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-19T06:47:26+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "724449b8e2eca163",
-      "title": "Eleições 2026: não votei no primeiro turno, posso votar no segundo?",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: não votei no primeiro turno, posso votar no segundo?. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/eleicoes-2026-nao-votei-no-primeiro-turno-posso-votar-no-segundo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-19T06:00:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -279,20 +349,6 @@
       "source": "The New York Times",
       "published_at": "2026-10-19T04:54:19+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ef36729c720eca9d",
-      "title": "Debate entre Lula e Flávio Bolsonaro teve distorções e dados falsos; veja checagem",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: debate entre Lula e Flávio Bolsonaro teve distorções e dados falsos; veja checagem. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/debate-entre-lula-e-flavio-bolsonaro-teve-distorcoes-e-dados-falsos-veja-checagem.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T04:04:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -510,6 +566,20 @@
       "archive": false
     },
     {
+      "id": "2afa7c1f70a9c3d4",
+      "title": "Avião procedente de Israel faz pouso de emergência na Bulgária após ameaça de bomba - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: avião procedente de Israel faz pouso de emergência na Bulgária após ameaça de bomba. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNFM2RldjTTNzWXhUVG1abDFGXzV0RWluMFZGS1IxNExudUctVllQcmJtamxFbDdqYVBTQmFBWl9JVDhLWlZlMUo4aFpOWm9wTGEwZ29FUDZYRE5LVk0wOU81b0tMajl6SWJMdkhFLUhwRjVDbTl5YU9fYW51WHNReC01cUhmYWRvZ3dSWjBCVlFQSkNNWHJxVm5WdHJqd0w4Y2pRMld4U29hS1BueWdIbGFOb0JZSkRJRHNlaUdKaU5wZkFCVWR1WnJFR3d4OTRyRGFyOGxn0gHkAUFVX3lxTE1KS3lmYXRSMFJDaWRHTTc4SWtTV25JazdKZE9NR2J6aDVuVGczOGpraFhFNFpFVG00U3NodXREMFJzSEs2dE5KMk81cjc5N2pYdDBCRFN2bnpQRkkxWWV5V3lORzN6QXIwZTNrOEZuQ2N6dzN2VWNXcTJLMnVVaDZWRmt2blhDdnotX2hRYVoxRkp2SUxMY3IzM2Rldjl3VDVkbzJ3bUpUcS11aXZwVnZpT0hOX3B3Q1JmT01GUEtIbGJVVU1FUlBHMlN0R0o5VHFaMXJ1Mm5hOTZZeC01S0x2blZKVg?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-19T00:59:04+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "edacba34906f0e5c",
       "title": "Lula critica atuação de Bolsonaro na pandemia, e Flávio admite falhas do pai na saúde - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: lula critica atuação de Bolsonaro na pandemia, e Flávio admite falhas do pai na saúde. Consulte a reportagem para contexto, dados e declarações.",
@@ -538,16 +608,16 @@
       "archive": false
     },
     {
-      "id": "ad8e47344d2f5730",
-      "title": "Sistema do TSE aponta mudanças em locais de votação mesmo quando endereço permanece o mesmo",
+      "id": "acb861fe2663b65e",
+      "title": "Sistema do TSE aponta mudanças em locais de votação mesmo quando endereço permanece o mesmo - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: sistema do TSE aponta mudanças em locais de votação mesmo quando endereço permanece o mesmo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/sistema-do-tse-aponta-mudancas-em-locais-de-votacao-mesmo-quando-endereco-permanece-o-mesmo.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObEJ5eUh1bHVVcjU4WENQbGdKaHYtVGw2Y0V3VjI1emh6WW5IM3dwZ1RDVHNoYVpVOEN5R2VycVR0UkpaNDdCMk9mRnlCMDJWbnFzeWM0b3ZlX2ViNXQxT2FEQVZIQnc3cTFkX3kwUFU0Vk1qeGZ2WDl0U3ZpSDlNVVgyMDl3OTVyR0I0alBxdTllUWRvZ1ZQTWdtdVFSVFcyaTExY0FKR2FfMVQtbU0yT1hFdWE0RG9COEtpd3FUcnZrTTFEbjRyVnNVN3pRN2M2ZXJnd2FjVTZvbnBkSFAteVpaTTlZQWJHcmx2dVl0S1E5QdIBgAJBVV95cUxNMkc3VEtDTXE3eUtRWGpVLWJiSU5vZWZ6ZFE0NmJqSkZnNGtHYnlNUVVJN29lakx2RHFWWjVDUi10M2FSaHlab2liSzA1WmMteE02bXBvcTUyWUZOZk5FR2F2MVB2QTVseEVLTlJsVmNZXzE1Zkt6M096YUZKV2cwRkFEbTlfNHU1clF0ZnZjVGt6WUNBc3ltNWY3TkJYbExMT2VBUk5YUW9IbGJRS29nUXVXZXM2VU53c1NNUWt1SkxBLXZ1aFVxTDN1RDI1WkI3YmNaU0NwLWhBWkZBQjNhaVRldElPWEFWcnQxV2xXNUZubmVWTW5yN2JBbHRMdkRh?oc=5",
       "source": "G1",
       "published_at": "2026-10-19T00:19:51+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -562,20 +632,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2c00d64b61a14ea9",
-      "title": "Avião que saiu de Israel faz pouso de emergência após ameaça de bomba - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: avião que saiu de Israel faz pouso de emergência após ameaça de bomba. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenItNDlxeE1xc1dsOUdEVF9jVHRRV3o4TmJLV2hlTm5QRWlIM2E5a2hnOU5oZTdTMDQ3eVZ3OXF1alR0Rzg2YS15d3dEQzFtbFNOdEh5QnVmaFF1MnM4NTVpd0pabEtORFVyeC12LVkzNnFpLXhkMEtVX3Y2XzZlaUMxQ3AyTEdleFJsMUdLWXFlSmEzbGtTakV2aFZ6aUZNdTFTdXNLaVBqUktCX2JSb0J4T2JIT3VLQjItX2Fn0gHMAUFVX3lxTE9XWWFvX2RmWG1IbkF6RkpkdmVoZ1BJcEpXNS1qczdYSlRrS3VRMDFKZXF0dy1QczVhTWNWV1E5UExjRDRBRnlUSzhWSENPVll4OVV6MERCQ0U2V0hTeTQyQkxWOU42a0hORGlrMENaUmNadDRkQWlVNjk5WUJVd080N1lrWEdLOV9zbXdHSDJkTXc3SWdNeVlWRUhhYmxxR2ozT1hqdFZuU2g0YmFTV21abzQ0X2FQSWVLNnFOQW1EczNFcVZfZTRhLVZ3dA?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-19T00:12:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -636,16 +692,16 @@
       "archive": false
     },
     {
-      "id": "4f1c0afd874d8d4c",
-      "title": "Às vésperas da eleição em Israel, Trump declara ‘apoio pleno e total’ a Netanyahu",
+      "id": "bcb1c2bda7b1658f",
+      "title": "Às vésperas da eleição em Israel, Trump declara ‘apoio pleno e total’ a Netanyahu - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: às vésperas da eleição em Israel, Trump declara ‘apoio pleno e total’ a Netanyahu. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/mundo/as-vesperas-da-eleicao-em-israel-trump-declara-apoio-pleno-e-total-a-netanyahu/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnlDMENvTlQxOHVRd2RGaFdZc3NaWFdRTE1mZklsWHB6SnFCcFJZeEZYTmNfc0prWm12Xzhid3V3NXVhMklldTBUUXZhTTYzVzdDWjViaGY2dDFpajZ0UkhlVzhNUTFZUWRfZVJncHFudXJtRGpuNW5IY19iU090dmNnUU1oYnNLeEZVYmluenFPZlI0d0huNF9RNWdWWk4zd1BVX29HTWdNR2F0eVpndA?oc=5",
       "source": "VEJA",
       "published_at": "2026-10-18T21:04:55+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -818,20 +874,6 @@
       "archive": false
     },
     {
-      "id": "28cb1f21524b5da4",
-      "title": "TSE altera local de votação de 402,6 mil eleitores para o 2° turno, e PT pede mais divulgação - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tSE altera local de votação de 402,6 mil eleitores para o 2° turno, e PT pede mais divulgação. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ2FtOVRwZzVCMUFIZDNmekt3amJZRlMyTEpMUmg4Q2wzZTlrWkNYeVVvVUFrSHFQbEZmMFlOcDVlOUp4bGFEWGpkTWRkTUN5bTdRZHlJbnFwaDhYbVhrUlE1R0tzQVYwSVBYdmVSVW9QdXFMdXNOamdSSHdIajR2Y2JDM0p5R080b1oyZWdiUEM3ZVNqQW9PeXEyR2VMQ1FTU2s4N2J1VDh2M2lNN1ZHTEdYdXV6Z2l5dzI5bmNUOWdEbm05QWVXd3MzT0l1T3BSUW5meDF3?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-18T15:27:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a8ddf400b127318a",
       "title": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
       "summary": "O veículo The New York Times publicou uma atualização sobre: zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia. Consulte a reportagem para contexto, dados e declarações.",
@@ -847,8 +889,8 @@
     },
     {
       "id": "1cd3c8e38529cc73",
-      "title": "Flávio diz na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho; Belém, Cuiabá, Goiânia e Natal também tiveram atos - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: flávio diz na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho; Belém, Cuiabá, Goiânia e Natal também tiveram atos. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Flávio diz na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho; Belém, Cuiabá, Goiânia, Macapá e Natal também tiveram atos - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: flávio diz na Paulista que Jair Bolsonaro vai colocar faixa presidencial no filho; Belém, Cuiabá, Goiânia, Macapá e Natal também tiveram atos. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHhqUU9QQUNTbzNzdldJMnhQZllOellhaTNCclA0RTZVTlZNOXpoWnUxY0U5cVYyLXUtdWtaY3oycVBzOEJTU0lBMEVJUXNiWVFsNVFjX2RpMGJiTnpERm1wcGZqNHc4SXl6eENmcUx3eDRuR1hLQldDLWowcnRKcy1xOHFuTnVMM3JVSHA0a2loNndxMzltMWNxZndZc0HSAa4BQVVfeXFMT19sQnAySGVZSk5HUmlXNVdJd2NwVFZSQTE2bWN4T05KTWVuYWRPcEk0RGV4YzdFNy1TUUx4OWR1bm1LRG4zWjNrMnFRN3V1ZjJPZGI1Q0FQSjZnSFlUWE9yRGthQk9xRzVFSVBPWU1DUzRPZ2Q3eER6a0F3NmNTQ0lUa05DT1hQV2F3MlY0a3dPekV2OEw5VkZ3TEJlX0RpQnlCcFdFWkd5Ql92bmNB?oc=5",
       "source": "G1",
       "published_at": "2026-10-18T14:27:49+00:00",
@@ -870,20 +912,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8336234b8f9fa7e7",
-      "title": "Chefe do Exército britânico diz que governo deve preparar população para tempos de guerra - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: chefe do Exército britânico diz que governo deve preparar população para tempos de guerra. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVnRBbzZRVzVyZ0UxZmcwSTdxZktYZ2M5eHdyOWhDQlhmUFVkSUJUSW0zYlhJSE14eXRhdlhfYnNTRnVseHdYTGdTazA2MjVuNTJPQnBrVldLdDg3a2VwWmN3YkhtbGxzbWRYSmpxRGZ3SE9SUW05NjZMN2FHUUQ2QjZMbTNjMVJTOFh2RXNzeW0zWmhzMnc0dk1PMWRub2ZWOHQzOWFOcUZsZFB4cnJRUkNQTXNUcmtTeFByWEZua3hCWTQ2d2E4azNIeEJBaWN20gHWAUFVX3lxTE1ZbUFLSGhtaWtvZjV4eUI1ekFTRmpoblhNdUhXVHVxeVM2Nk9LaU4xOW0wRkNWNlZLb19DemNOcGdTODJGNkhReElMaHJablh5MnZ6a1JGcmdYdTJWTEFqcVVjanhxa3p0NDVjVVB1ZWMtZVVMdmtLVzkwaVY3U1pBUlhyZ3I2RU9rUVdFakJlUHFSMnVSZ0FGWHBMaHdZTFVwM0VyZXZYNW1Cel9NUmFWNUlVNlhfZ21HUU9WVzUxbV92R09wUkFJV1FsWHJZYnoydVRyR2c?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-18T12:48:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -937,20 +965,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-18T11:24:07+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "383e6cf2d2de427b",
-      "title": "Novo ministro da Defesa do Irã ameaça causar 'enormes danos' aos Estados Unidos se voltarem a atacá-los - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: novo ministro da Defesa do Irã ameaça causar 'enormes danos' aos Estados Unidos se voltarem a atacá-los. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVW4tZFN2MkU2ck1wUV9OQkZrSWROX0hjcVdVUkV2VHBueTc0YklvYmZyX2l6Q2UzbHBQSjh5X0hDT3FYeHlkZVZtZ3R5NWFQV25aSHo2dkh4ay1BVTA2TXE2X1p2T2dtRDBqV1NUX2JuOGlLQmZYU1IxQWFiZWxEejhva1JGYXlObzUxSUw5N0NGZzNMOVhuSUxESDdwNldyQ2ZkYUZwRjZhQUNhSHRjb3M4aFVPTERkNEFBT29OZklxRmNtRUE0SUhpWm8yNjFocl9JaXFmbmNaZ2pTNzJQaVJyUllZZ01GZlgtWkdVRG3SAf8BQVVfeXFMT0t6MGU1MFZpV1dUaDdPdHRORThWNGtUckVvRmo4dDVDb05RSkgyR0ktVmRJR0VPal9waG9ISzdoR0N5bmhNdUpEMFlVX21lZHBxVFNYVUJGbFVXUTNxV2o4VzROODFMcUZIZV81QXZDVzM2NVBIT1d4MG1YOXRMYnI4aDNHcTZkLThJZ2tVQ1ZsUWRpUjAzd1JhaUlGR19XOEZnU3ZuYV9XVFREaHRqOXg2ZHV2S2dhZS1HTkdlREZYYVZCaUtLcWt6RDN0clozNGNfWXhxazNsTUc0YkxLbjBzSUlSbVVpUlJqa0tmbjM5c0lNUG81elExbW5lc0tB?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-18T10:15:37+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1038,6 +1052,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d3c690b66e33baa7",
+      "title": "Campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: campanha de Lula pede ao STF passe livre no transporte interestadual durante segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmp5Qk9DT0tPZWFaMlI0MUdxNloxTUxPRHBaTHVRMy10N1ViNVczTDNqUldHVDFMTGVjU1JFSkRUWkNzWmFXZVUtRlpUTE9XTi0tb0VXemFxQ3gxMkhvQ0czZ3lXYW5mNkJzMHNJQkxXX2Y1Y2lweFdON1pBMkNmMzNJRGxBY0Z1UldfLWZVU2hXYVhsczdKYk9zdmV1NVdaOHgwUmQ3aU1PSFdqakFYRUl4LUhKNUFXcDQ1M1lIbWtVZw?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-17T20:02:33+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1350,20 +1378,6 @@
       "archive": false
     },
     {
-      "id": "db7caf3231275558",
-      "title": "Áudio: Emenda Constitucional garante fim da escala 6x1",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Emenda Constitucional garante fim da escala 6x1. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/emenda-constitucional-garante-fim-da-escala-6x1",
-      "source": "Senado Federal",
-      "published_at": "2026-10-16T18:27:18+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d26acb51350b2f65",
       "title": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo monitora saúde de amazonenses em locais afetados por queimadas. Consulte a reportagem para contexto, dados e declarações.",
@@ -1476,20 +1490,6 @@
       "archive": false
     },
     {
-      "id": "fa99ad71f13eb6b7",
-      "title": "Museu da UFRJ irá receber mais R$ 10 milhões para restauração",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: museu da UFRJ irá receber mais R$ 10 milhões para restauração. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/museu-da-ufrj-ira-receber-mais-r-10-milhoes-para-restauracao",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-15T22:30:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5edbf96a139fabf6",
       "title": "Pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pacheco no STF tem apoio na corte e no Congresso, mas aliados de Lula temem discussão na eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -1521,7 +1521,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 20
+      "items": 16
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1529,11 +1529,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 45
+      "items": 47
     },
     "VEJA": {
       "status": "ok",
-      "items": 14
+      "items": 10
     },
     "The New York Times": {
       "status": "ok",
@@ -1553,7 +1553,7 @@
     },
     "Agência Brasil · Educação": {
       "status": "ok",
-      "items": 6
+      "items": 5
     },
     "Agência Brasil · Saúde": {
       "status": "ok",
@@ -1569,7 +1569,7 @@
     },
     "Agência Câmara": {
       "status": "ok",
-      "items": 11
+      "items": 10
     },
     "Agência Senado": {
       "status": "ok",
@@ -1585,11 +1585,11 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 35
+      "items": 36
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 47
+      "items": 45
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1597,7 +1597,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 28
+      "items": 27
     },
     "Eleições · Flávio": {
       "status": "ok",
