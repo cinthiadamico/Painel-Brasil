@@ -1,10 +1,24 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-19T04:45:26.758210+00:00",
-  "last_success_at": "2026-10-19T04:45:26.758210+00:00",
+  "last_checked_at": "2026-10-19T05:42:58.971734+00:00",
+  "last_success_at": "2026-10-19T05:42:58.971734+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "a51264e569a1dbd7",
+      "title": "Planet Earth and Brazil’s Election",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: planet Earth and Brazil’s Election. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/18/world/amazon-brazil-election-climate-france-alberta.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-19T04:54:19+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "ef36729c720eca9d",
       "title": "Debate entre Lula e Flávio Bolsonaro teve distorções e dados falsos; veja checagem",
@@ -482,6 +496,20 @@
       "archive": false
     },
     {
+      "id": "a393aa47f42fe4f5",
+      "title": "Lula rebate Flávio na Band e defende combate ao crime organizado “da esquina ao andar de cima” - Revista Fórum",
+      "summary": "O veículo Revista Fórum publicou uma atualização sobre: lula rebate Flávio na Band e defende combate ao crime organizado “da esquina ao andar de cima” - Revista Fórum. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdGdCZDB3elc3dVh5MHRZR0sxLWFZTUtURVFDRWV1cG1RbV9sNUNoMEY2cmNuR3gwTUwyRmVCbTh2ZjU3X2xNUEh4Q0w1VC1fOE1sM0w2SjRzZVQtdXVtcHdYMW4xWm41d1pFZXo5X2JSY1RUYkY0OERkRXozRTkxZnlFaVljT0tJNFFESXhPdVdCdXhSdnZoNEVRdlFVZUV3LXlrVF9QZVNNdHN3ekNIRHh3Nm5FcFJ6dC1jTzJOdEMwWHpsWHZMM1lB?oc=5",
+      "source": "Revista Fórum",
+      "published_at": "2026-10-18T23:32:55+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "3c251d98055d7c13",
       "title": "STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz",
       "summary": "O veículo G1 publicou uma atualização sobre: sTF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz. Consulte a reportagem para contexto, dados e declarações.",
@@ -572,20 +600,6 @@
       "url": "https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-nao-quer-afastar-russia-de-negociacoes-e-acusa-zelensky-de-prolongar-guerra.ghtml",
       "source": "G1",
       "published_at": "2026-10-18T20:50:50+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a51264e569a1dbd7",
-      "title": "Planet Earth and Brazil’s Election",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: planet Earth and Brazil’s Election. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/18/world/amazon-brazil-election-climate-france-alberta.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-18T20:41:18+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
@@ -842,20 +856,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2aed0b08a43593b5",
-      "title": "Desenvolvedores de GTA 6 visitaram clubes de striptease e andaram com a polícia em Miami - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: desenvolvedores de GTA 6 visitaram clubes de striptease e andaram com a polícia em Miami. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdFpVOE9PVk5mWXNQTXZBR3VYN1g1M2hURFFyXzF0eW0zVHpIY1h3NkcxdlJIM2QyZVVIanYtclM2bEQtODBlMXdFU0FaSHlULWtKb2VEV04wcEYzVjN0WnhrWjJrZDlfUzQ2cldSZ1FfQUVGd1RuZ3lDSXdQal9zWk93dVFWNWtBVHBvU0pOVGV6UDk5Yi1zYmxlcWhYMEgyNllqdWl0anhpWUIxT21WamlqSzUwM1U0c2xQT0trek9ra0hwRGNaWGxmc9IB0AFBVV95cUxNX1pMRklaU2VLNF94LU10bUJyRm9XSzd2Y1BOMHI2X04yRXVXeW10TGtDNW5pSzBKV014Q0FNdHVqd25YcHZFdkFwSjZ6TEV3MVBfM2c0TW5Cak9tN0hFN05UZFVRQUltNnJ5VGRVT3dFU0dYVUNnNTcyX0RzNGgxZl81ckRDZ0wtWjJucGgyMERaZTRpTXM3VTNPRmJkc3RWeE96cjBXWGhxUld4OW5hSHVyaXdUQ3RqZEJITUc3THU3SGhxYlkwTTB3WjRDNHJE?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-18T16:15:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1577,11 +1577,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 22
+      "items": 20
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 42
+      "items": 40
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1633,7 +1633,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 70
+      "items": 67
     },
     "Estadão": {
       "status": "ok",
@@ -1649,15 +1649,15 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 51
+      "items": 49
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 37
+      "items": 34
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 22
+      "items": 21
     }
   },
   "notes": [
