@@ -1,10 +1,52 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-20T04:41:59.729618+00:00",
-  "last_success_at": "2026-10-20T04:41:59.729618+00:00",
+  "last_checked_at": "2026-10-20T05:42:25.467843+00:00",
+  "last_success_at": "2026-10-20T05:42:25.467843+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "68af3821ffef308a",
+      "title": "Feira virtual gratuita abre até 30 mil vagas para estágios e empregos no DF",
+      "summary": "O veículo G1 publicou uma atualização sobre: feira virtual gratuita abre até 30 mil vagas para estágios e empregos no DF. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/feira-virtual-gratuita-abre-ate-30-mil-vagas-para-estagios-e-empregos-no-df.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T05:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d9c7a8ade747691c",
+      "title": "Como americanos enfrentam a alta da inflação: 'Já fiz coisas insanas para sobreviver'",
+      "summary": "O veículo G1 publicou uma atualização sobre: como americanos enfrentam a alta da inflação: 'Já fiz coisas insanas para sobreviver'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/20/como-americanos-enfrentam-a-alta-da-inflacao-ja-fiz-coisas-insanas-para-sobreviver.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T05:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a13ff8afba7cf350",
+      "title": "Ex-vereador de Queimados é morto a tiros pela polícia na Avenida Brasil, no RJ",
+      "summary": "O veículo G1 publicou uma atualização sobre: ex-vereador de Queimados é morto a tiros pela polícia na Avenida Brasil, no RJ. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/20/ex-vereador-de-queimados-e-morto-a-tiros-na-avenida-brasil-no-rj.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T04:40:32+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "5e75f82b661d53a3",
       "title": "Como a Globo criou a maior fake news da campanha presidencial - VEJA",
@@ -216,20 +258,6 @@
       "archive": false
     },
     {
-      "id": "87c2d2e4d754057f",
-      "title": "Pesquisa aponta quais serão os profissionais mais requisitados no Paraná em 2027; veja cargos em alta, com salários de até R$ 71 mil",
-      "summary": "O veículo G1 publicou uma atualização sobre: pesquisa aponta quais serão os profissionais mais requisitados no Paraná em 2027; veja cargos em alta, com salários de até R$ 71 mil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pr/parana/noticia/2026/10/20/pesquisa-aponta-quais-serao-os-profissionais-mais-requisitados-no-parana-em-2027-veja-cargos-em-alta-com-salarios-de-ate-r-71-mil.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:01:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "36443b6865736a95",
       "title": "Mortes, mutilações e suspeita de alunos operando pacientes: o que a polícia apura em clínica do Rio",
       "summary": "O veículo G1 publicou uma atualização sobre: mortes, mutilações e suspeita de alunos operando pacientes: o que a polícia apura em clínica do Rio. Consulte a reportagem para contexto, dados e declarações.",
@@ -356,20 +384,6 @@
       "archive": false
     },
     {
-      "id": "353d344a11710bc4",
-      "title": "Mudanças nos locais de votação afetam cerca de 130 mil eleitores; dados são atualizados diariamente pelo TSE",
-      "summary": "O veículo G1 publicou uma atualização sobre: mudanças nos locais de votação afetam cerca de 130 mil eleitores; dados são atualizados diariamente pelo TSE. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/19/mudancas-nos-locais-de-votacao-afetam-cerca-de-130-mil-eleitores-dados-sao-atualizados-diariamente-pelo-tse.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T01:03:56+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "14613b305a626982",
       "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
       "summary": "O veículo The New York Times publicou uma atualização sobre: trump’s Push for Deals With Russia Powers His Frustration With Ukraine. Consulte a reportagem para contexto, dados e declarações.",
@@ -377,20 +391,6 @@
       "source": "The New York Times",
       "published_at": "2026-10-20T01:00:18+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "633893a4c59ba59e",
-      "title": "Polícia prende quadrilha que usava carros de aplicativo para roubar passageiros em Minas Gerais",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia prende quadrilha que usava carros de aplicativo para roubar passageiros em Minas Gerais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/19/policia-prende-quadrilha-que-usava-carros-de-aplicativo-para-roubar-passageiros-em-minas-gerais.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T00:55:32+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -888,6 +888,20 @@
       "archive": false
     },
     {
+      "id": "9eb9240d199db09a",
+      "title": "2º turno: 130 mil eleitores de 22 estados votarão em local diferente",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: 2º turno: 130 mil eleitores de 22 estados votarão em local diferente. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/2o-turno-130-mil-eleitores-de-22-estados-votarao-em-local-diferente",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-19T19:57:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "5a5daaacfe4aee37",
       "title": "Como é a rotina da educadora de 101 anos que dirige a escola que ela mesma fundou: ‘Eu não me canso’ - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: como é a rotina da educadora de 101 anos que dirige a escola que ela mesma fundou: ‘Eu não me canso’. Consulte a reportagem para contexto, dados e declarações.",
@@ -1252,20 +1266,6 @@
       "archive": false
     },
     {
-      "id": "118f3d79e989d370",
-      "title": "Pagamentos de outubro do Bolsa Família começam nesta segunda",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: pagamentos de outubro do Bolsa Família começam nesta segunda. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/pagamentos-de-outubro-do-bolsa-familia-comecam-nesta-segunda",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-19T13:04:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "06e2d5677a865e07",
       "title": "Áudio: Projeto amplia Fundeb para atenção a alunos autistas e com doenças raras",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Projeto amplia Fundeb para atenção a alunos autistas e com doenças raras. Consulte a reportagem para contexto, dados e declarações.",
@@ -1521,7 +1521,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 27
+      "items": 25
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1529,7 +1529,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 51
+      "items": 50
     },
     "VEJA": {
       "status": "ok",
@@ -1557,7 +1557,7 @@
     },
     "Agência Brasil · Saúde": {
       "status": "ok",
-      "items": 5
+      "items": 4
     },
     "Agência Brasil · Justiça": {
       "status": "ok",
@@ -1569,7 +1569,7 @@
     },
     "Agência Câmara": {
       "status": "ok",
-      "items": 17
+      "items": 16
     },
     "Agência Senado": {
       "status": "ok",
@@ -1577,7 +1577,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 67
+      "items": 65
     },
     "Estadão": {
       "status": "ok",
@@ -1585,7 +1585,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 51
+      "items": 50
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1593,7 +1593,7 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 55
+      "items": 56
     },
     "Eleições · Lula": {
       "status": "ok",
