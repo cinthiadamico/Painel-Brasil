@@ -1,10 +1,94 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-20T03:44:21.848755+00:00",
-  "last_success_at": "2026-10-20T03:44:21.848755+00:00",
+  "last_checked_at": "2026-10-20T04:41:59.729618+00:00",
+  "last_success_at": "2026-10-20T04:41:59.729618+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "5e75f82b661d53a3",
+      "title": "Como a Globo criou a maior fake news da campanha presidencial - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: como a Globo criou a maior fake news da campanha presidencial. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWtqT2ZhTzRGdVJOZVA5OXhHcW5rTjJZdTRYNDVUc1FnYUxLalpRblpSaVFRNk9rWkx3dG5TNXdqME4zeUhrT3FnZ2FUTXV4bThrT2hoeFRfQjNhZXZfejZGUXZ1QU9VSmtQN3JPWi16YmZjdlJpajVYQmlzaGd6djFhSEhNNUhvSFVKS0oyQ1Q3TVNGRnMyYkgxOA?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-20T04:37:53+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ee054673df323814",
+      "title": "Os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1BLVktYMmZYR2J6djIyaWNhenFUOU1BMkVzWlJlNjNBZlppdXQyRDFsck44N3NfaHBwM19nMnc5SGsxODY2ZmQ5blZTRm9qR3NFRlVnTERNYUQtV0Y2ZUVSWnFlVW5NenZ2Nng2eWpRd1VRMmd2S2dvOGJjR3E3c01FRFlVdFh4Y0pGYlVJcnpqcjY3WkVhZzhFX2ZoNDFmQ1N2ZjBNUUQ4aldmSFlaVjYxWTFKVnQtbWc?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-20T04:35:55+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "713adfeac187261c",
+      "title": "Zelensky diz que sistema da SpaceX usado na guerra ficou mais lento e afeta tropas ucranianas",
+      "summary": "O veículo G1 publicou uma atualização sobre: zelensky diz que sistema da SpaceX usado na guerra ficou mais lento e afeta tropas ucranianas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/20/zelensky-diz-que-sistema-da-spacex-usado-na-guerra-ficou-mais-lento.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T04:08:58+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9ddb7a34b691a392",
+      "title": "Doença de Newcastle: mais de 130 granjas são monitoradas após confirmação de foco em SC",
+      "summary": "O veículo G1 publicou uma atualização sobre: doença de Newcastle: mais de 130 granjas são monitoradas após confirmação de foco em SC. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/doenca-newcastle-130-granjas-monitoradas-confirmacao-foco-sc.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2e989af673ac6ab6",
+      "title": "Bacharela em direito denuncia agressão da PM durante abordagem: 'Eles empurraram e bati na quina da porta'",
+      "summary": "O veículo G1 publicou uma atualização sobre: bacharela em direito denuncia agressão da PM durante abordagem: 'Eles empurraram e bati na quina da porta'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/20/mulher-denuncia-agressao-pm-recife.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9ddb7a34b691a392",
+      "title": "Doença de Newcastle: mais de 130 granjas são monitoradas após confirmação de foco em SC",
+      "summary": "O veículo G1 publicou uma atualização sobre: doença de Newcastle: mais de 130 granjas são monitoradas após confirmação de foco em SC. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/doenca-newcastle-130-granjas-monitoradas-confirmacao-foco-sc.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "5c697c61a758335a",
       "title": "Polícia apura se deputado Marcelo Aguiar cometeu importunação sexual contra mulheres e se deu tiro intencional ou acidental",
@@ -138,62 +222,6 @@
       "url": "https://g1.globo.com/pr/parana/noticia/2026/10/20/pesquisa-aponta-quais-serao-os-profissionais-mais-requisitados-no-parana-em-2027-veja-cargos-em-alta-com-salarios-de-ate-r-71-mil.ghtml",
       "source": "G1",
       "published_at": "2026-10-20T03:01:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5d48fd1ed7198694",
-      "title": "Diretor de operação de vendas e de dados: veja profissões em alta em 2027 em BH e com até R$ 84 mil de salário, segundo pesquisa",
-      "summary": "O veículo G1 publicou uma atualização sobre: diretor de operação de vendas e de dados: veja profissões em alta em 2027 em BH e com até R$ 84 mil de salário, segundo pesquisa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/20/diretor-de-operacao-de-vendas-e-de-dados-veja-profissoes-em-alta-em-2027-em-bh-e-com-ate-r-84-mil-de-salario-segundo-pesquisa.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:01:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "08e49430c6139ba8",
-      "title": "Salário de até R$ 14,4 mil: tecnologia deve liderar remuneração em Belém em 2027, diz guia",
-      "summary": "O veículo G1 publicou uma atualização sobre: salário de até R$ 14,4 mil: tecnologia deve liderar remuneração em Belém em 2027, diz guia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/10/20/salario-de-ate-r-144-mil-tecnologia-deve-liderar-remuneracao-em-belem-em-2027-diz-guia.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c0afb08cff95a967",
-      "title": "Eleições 2026: acompanhe a apuração em todo o Brasil",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: acompanhe a apuração em todo o Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-2026-acompanhe-a-apuracao-em-todo-o-brasil.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "63bdccee7314244c",
-      "title": "Eleições 2026: campanhas já declararam quase R$ 290 milhões em gastos com a Meta, mais que o dobro de 2022",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: campanhas já declararam quase R$ 290 milhões em gastos com a Meta, mais que o dobro de 2022. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-declaracao-gastos-meta.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:00:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -902,20 +930,6 @@
       "archive": false
     },
     {
-      "id": "422509434b2b2bae",
-      "title": "Opinião - João Pereira Coutinho: Na França, a guerra civil molecular faz parte da paisagem há muitos anos - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: opinião - João Pereira Coutinho: Na França, a guerra civil molecular faz parte da paisagem há muitos anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNckhIUFNqZkE5aVF4WlZQcTNwSHVIbXVLOXFmb3lRY0lIMmhWVjRNTGF2R2hkZklzZVpOZkROaGNyVUpvbF9oUFNWbmFkNENtaWppLTdGdHQ0MXMyakVUaXRQSjVaTHJNdUw4ZUFPQWRwZHZKamw3aGhKM1lqNlI0akxOY0dMZm51dGlnUDYwa1JIZ0JqT1pycWZULXhmbGNTRGNEUzlhSF9tY3k3cldRQjcyMWdfNEJCNTlFRFBwUms1bmxBa1YzSVZCR2dsVHYyLUVsVkx6YmZMQnc?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T19:27:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ffee943bd7c638c7",
       "title": "Projeto cria sistema nacional para registrar e acompanhar crianças e adolescentes órfãos",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto cria sistema nacional para registrar e acompanhar crianças e adolescentes órfãos. Consulte a reportagem para contexto, dados e declarações.",
@@ -1280,20 +1294,6 @@
       "archive": false
     },
     {
-      "id": "1969717368f72566",
-      "title": "Economistas aumentam previsão da inflação no próximo ano - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: economistas aumentam previsão da inflação no próximo ano. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPamxMbDhyaDczcWhYZzNycW9QNXZMUWlySlNjWGZvdDBXWVJEaXBxWmlaaUN5b1QzUk0xTEdjOHQ4ZjUxa2pLV0RvRVdrWlpRTnIzYlRmNTA1ZGpOVlNvQTV1cGtfNHRmLXZWbm9TUW56UjFPWllVQmRNTWxjcnBockF1MVRHbkh2Z2Iwdzl6YmtzT2dmQXRqLXE2cWxWQ0dydDJRU3czZWVIZXpt?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T12:20:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c0feb52f1be9fc90",
       "title": "Estudantes bloqueiam acesso ao Museu do Louvre em apoio ao movimento estudantil e protesto contra repressão policial - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: estudantes bloqueiam acesso ao Museu do Louvre em apoio ao movimento estudantil e protesto contra repressão policial. Consulte a reportagem para contexto, dados e declarações.",
@@ -1521,11 +1521,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 46
+      "items": 27
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 47
+      "items": 48
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1541,7 +1541,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 7
+      "items": 8
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1577,7 +1577,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 66
+      "items": 67
     },
     "Estadão": {
       "status": "ok",
@@ -1585,11 +1585,11 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 52
+      "items": 51
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 54
+      "items": 55
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1597,7 +1597,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 17
+      "items": 16
     },
     "Eleições · Flávio": {
       "status": "ok",
