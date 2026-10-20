@@ -1,10 +1,52 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-20T07:50:11.234765+00:00",
-  "last_success_at": "2026-10-20T07:50:11.234765+00:00",
+  "last_checked_at": "2026-10-20T08:46:01.327396+00:00",
+  "last_success_at": "2026-10-20T08:46:01.327396+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "e17bada981fab2b6",
+      "title": "Mulher que ficou presa por 'equívoco' é absolvida 1 ano depois pela Justiça no RS",
+      "summary": "O veículo G1 publicou uma atualização sobre: mulher que ficou presa por 'equívoco' é absolvida 1 ano depois pela Justiça no RS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/20/mulher-que-ficou-presa-por-equivoco-e-absolvida-rs.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T08:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "833a6e5e8df02423",
+      "title": "Homem que bloqueou contato da polícia não devolveu Pix de mais de R$ 700 enviado por engano",
+      "summary": "O veículo G1 publicou uma atualização sobre: homem que bloqueou contato da polícia não devolveu Pix de mais de R$ 700 enviado por engano. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/20/homem-que-bloqueou-contato-da-policia-nao-devolveu-pix-de-mais-de-r-700-enviado-por-engano.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T08:30:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a22278a241f4f7a5",
+      "title": "Podcast trata de mensagens de Vorcaro que implicam Nunes Marques e a política",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: podcast trata de mensagens de Vorcaro que implicam Nunes Marques e a política. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-trata-de-mensagens-de-vorcaro-que-implicam-nunes-marques-e-a-politica.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T08:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "5e75f82b661d53a3",
       "title": "Como a Globo criou a maior fake news da campanha presidencial - VEJA",
@@ -114,6 +156,48 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e713e691b36742bd",
+      "title": "Do cansaço à agressividade: campanhas admitem erros e recalculam rota após indecisos reprovarem Flávio e Lula em debate - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: do cansaço à agressividade: campanhas admitem erros e recalculam rota após indecisos reprovarem Flávio e Lula em debate. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNRmFwNmZ5d0xGclphckxJMFpzSjRSQTFVa2tJcEc0V1NWRVlETWhCbWZocmtyYUxaeU1GS3poSk05U1JXZXBZX3NxaUhlYTVyV2hwZG1oUXNHZFA2NHVjYkRZUnp0UGNCRkRPbC1fZE1sWDJOX19QQmlOSGFpcmxLckgzYXk0alY1MVBsSkdxNFp2RDR2RkFOemVhbEhHTnRYV25sMGdCdHMzMmQtQVJDckdfRVJubHRBTHBibUxkTXJUT01YQXk2T1NjaUFGdFB1VTQyVi1CdWlBaXl0Y3dfUmV6N2g0Vk1HbXdGVi15dGFNaHUtTk9KS2s2Y2RKOG5IYUZiN2gwX0JGQlV6Mno1cVFTVmdJUjN1VnVz0gGqAkFVX3lxTE8xZVpwbzFReEVSUWMtUlUwcmd3Y2xGRnZkSEVRVWJWODdpUU5JdTA3STlOQ3dGSlhwYkdvX2ctQWJjNmR0YzlLbG1MTHdiRVVORHZfRFl3aXktLXRWVEszUVZJRWhZdDJGTDZSY2lvVkJMNFZtMjV4SHU4MVZjaVR5M0h1dGRyZjR6dzJWbGpBVllaMnJTZGkyMHg5RHdGd0tZWlo5Q2tNQ0pacEppb19jMXlSNkFyVUdBVnVPS1c0d3g0ckU0OWJOQnNKT0VpLXA0V0F2cVFCMS1FT1NBQU1keEU3QnlPVUhJWjRqS2U4TmEzeVJvQzVaSW9yMkF5TUtDb0J5N2xvRENSd09oYWFrTld2dDdQdS1TbWZYUFNUeWlmOUJvOVRTWXc?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-20T06:30:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7e260c9d0590edd5",
+      "title": "Flávio planeja nova visita ao pai antes do debate da Globo em busca de orientações para reta final contra Lula - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio planeja nova visita ao pai antes do debate da Globo em busca de orientações para reta final contra Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQeXM4WWFLZ1ZHU3RibHdEYnZwWWRoWjM2SGluVzFVbTc3NFFPV25GSVdyTjY2bnNJRERBUVBXZ0ptZDNkLWc1Q1ZEUUZuRnBYRHo4RUxpRTVJMy1xSVZrM1puQU5WMFZXUkl6VXVlZ1N3YUNpTllEMmtlbXpOSGxsRGRldUhFMVlIQjB1ZUthZUFsQ29ON2N6VjdQakswWVdmakZrM0MtSGsxY1dBZzZxcEtidHpDY2d4S1pSUUFpaWhyREgyeUlCY1J1M2xjTWtHdG5Ickkxb28zTm5tZUFfeVZSRUFGdHdCNnRWVFRhSGJLUzVCaFlVcklBdTdidkxpYlZIY1pmQmNFSzBUQWpKatIBnwJBVV95cUxORnpkNXFLbjh6NGVJQS1GRi1nakFnc1NxNnlIWXpqcTd2emw5UXlVcFJGeGpDdWZZSTdXaTJXVjFCVlQxaVRaaUdJYXFYcFZFZXVxMGFPbXZWeGRONmtHOEo4QmtNbGxRWjRrVWlFMm1lT0JWRU5vcWxhN0NkQWdSWjdEY2xKRXRZRG5RWWplWGdCRGRIdUpLMVJpTk43anBfV1BMcmh1RG9SdjNMQkVCdHVZa1lMY013X0JocUZCeTVJNy1ZU0hISU5LQ2Rwb25LUGhQX1FqdG5QNXU5NzRfZ0pkVl9FdW45V0g0cjFGQWx5c2xncFJhYUlWamo5aFd6RW5ZWkRIZWVTLWZVQVRFNVhKbUM1Mnh6b3VMVXpKVQ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-20T06:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "90237c35f2b14036",
+      "title": "De Milei a Vorcaro, como canais de Lula e Flávio no WhatsApp pautaram a guerra digital com memes e cortes sobre debate - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: de Milei a Vorcaro, como canais de Lula e Flávio no WhatsApp pautaram a guerra digital com memes e cortes sobre debate. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOazk0RTFHdW5ZV1F0TmVEWF9TSWt1eExHb2I0d3M1NUlfOS1GQVhQUFhMQTNrRy10SnJHWjFUSWJvdHRrU2hvQWtvai0wel9qcmJJcFUyeE5YejNmd2FxOXFqOW9FSWNzSDROdE5tWDlMVEF5dGFPSHFBYUY4Yk9fUkkxdnBJeTdKdExqdV9pQXF2enFYekhleFNlVXhOV2xSNHNSeFVyNlprc2JHU0o2TUpFYlVMamNQd1pfNTJHRzhwQU0wOHRSLXBYblp2cXRfTVNiZGZESXk3M1B0eGdzZVhhcjhkQkJrOVg0bkxVblFtQ2ZkRzBsaENzY0lWR3RONDNQQWNSUkxYY2pjNU0zOVRMeHpZb2ZkREHSAagCQVVfeXFMTjVjalB1VzdWNTA4TWF2UzMwSmRZRjdCS09NVmJXRGlfN3lEQWFrZDVCd2xOYnF4WjVVVVdjQVlBUXF3V0xaUUJFeTViT1RvM1h5blN1NW5mM3V5a0hmZzBpRmZUemJHcjRMQjRWa2ZmWTZCcUVoTldWOWJjd2lXekFmNk45NXMyN1BCa1U2c25CZTMyd3o2ZC1pYmFTcDVyUzBldlBBaTRpVEZDNjcwaFJfeUdRdDhXOHRwc2l1d1Vsa01VVVFwQ1VMdmVEeEFyNDdVRllYOTdUYXFkX2pGMnhhSFlWM3RxVUZONGZHc2VrWWo4aXJyTURPcW04RGU0Ri13cUJNcmhLSkJ3MnpDa3hKakdwSlFCUGZZVUtvNWJrUllOR3BTMms?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-20T06:30:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -230,20 +314,6 @@
       "archive": false
     },
     {
-      "id": "2e989af673ac6ab6",
-      "title": "Bacharela em direito denuncia agressão da PM durante abordagem: 'Eles empurraram e bati na quina da porta'",
-      "summary": "O veículo G1 publicou uma atualização sobre: bacharela em direito denuncia agressão da PM durante abordagem: 'Eles empurraram e bati na quina da porta'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/20/mulher-denuncia-agressao-pm-recife.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T04:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9ddb7a34b691a392",
       "title": "Doença de Newcastle: mais de 130 granjas são monitoradas após confirmação de foco em SC",
       "summary": "O veículo G1 publicou uma atualização sobre: doença de Newcastle: mais de 130 granjas são monitoradas após confirmação de foco em SC. Consulte a reportagem para contexto, dados e declarações.",
@@ -272,20 +342,6 @@
       "archive": false
     },
     {
-      "id": "985d5d7e54ff97f8",
-      "title": "Guia aponta profissões procuradas e salários de até R$ 80 mil em Porto Alegre",
-      "summary": "O veículo G1 publicou uma atualização sobre: guia aponta profissões procuradas e salários de até R$ 80 mil em Porto Alegre. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/20/guia-aponta-profissoes-procuradas-e-salarios-de-ate-r-80-mil-em-porto-alegre.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:05:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "fa9221dafd98d20f",
       "title": "Salário de até R$ 80 mil: mercado financeiro, dados e auditoria devem liderar remuneração no DF em 2027, diz guia",
       "summary": "O veículo G1 publicou uma atualização sobre: salário de até R$ 80 mil: mercado financeiro, dados e auditoria devem liderar remuneração no DF em 2027, diz guia. Consulte a reportagem para contexto, dados e declarações.",
@@ -293,34 +349,6 @@
       "source": "G1",
       "published_at": "2026-10-20T03:05:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "001b2632e91a456d",
-      "title": "Prazo, liquidez e perfil: entenda como escolher um investimento",
-      "summary": "O veículo G1 publicou uma atualização sobre: prazo, liquidez e perfil: entenda como escolher um investimento. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/norte-fluminense/especial-publicitario/sicoob-sul-sicoob-mais-que-uma-escolha-financeira/noticia/2026/10/20/prazo-liquidez-e-perfil-entenda-como-escolher-um-investimento.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:04:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c9dc8ff43a6b6885",
-      "title": "Empresa ligada a vereador preso usava mensagens para divulgar candidatura antes da eleição",
-      "summary": "O veículo G1 publicou uma atualização sobre: empresa ligada a vereador preso usava mensagens para divulgar candidatura antes da eleição. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/20/empresa-ligada-a-vereador-preso-usava-mensagens-para-divulgar-candidatura-antes-da-eleicao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:02:08+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -454,6 +482,20 @@
       "archive": false
     },
     {
+      "id": "a0f668231d41d731",
+      "title": "Ato político na UFRN termina em bate-boca e agressões entre militantes do PL e estudantes - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: ato político na UFRN termina em bate-boca e agressões entre militantes do PL e estudantes. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVDg3TUVtTDJ1bVVqeDZkcmI3b0ZZdUtmTTc0M1hicHRfVlM3a09oZU1QSmlpMmdvUFBjRjhSTWt2aXFXMkFnMWMzRmpPbUltS1hpcmVOR2JVT0ZYM2dsQ3BzY2oydkNZaGEyR0xNRExWaFg2NFByMjVZWS1SLUt4VU5ZUjZ0bHhtTm5ta1FFREhEQWFNaWViRE5GUC1Nei03YlhhTzJybUdEeXNOMW1xdXloV2dIZ0pqTG91YklIVWx5OW9ab201Tk9iS1pNS1psWHFMa0lKUThyVWlUd01jNEppXzdaOXRvNDJJZmZtUdIB_gFBVV95cUxQVmNIT2FReldLRm1MUWtWVUE1QnNfUnloSXo5V2ZLZWN0bjBJdWJNWDJYNlhvSmtOS2NrSTkxYnZRSjRzMExnejg5Y2E0ekV6aWk1RTdrMWMwZWo3dHhrVWVGX2VhVFVKVFZCc0NSV0NIR3FON0djOTRjV0NrNnZ4d1V2YVBtbHRMUUFSZjZ6XzhNWlJYX2pFYkM1Q1ZkNDFOVzBoWGx0UFY5aUtOVGtQTDVQYUpYcFpqR2NoUURUMDZhZVpTb3RYNm5PU0I5QTY2emY1VmR0azdhT085b0tTamtwZEdlTjNJOEhjZmY4M05BZEY4SFhaX0RTRlhZdw?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-20T00:32:28+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "fe2dd88826e2cc14",
       "title": "Lula fala em 'briguinha' com Congresso por tarifa zero para transporte com financiamento por emendas",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula fala em 'briguinha' com Congresso por tarifa zero para transporte com financiamento por emendas. Consulte a reportagem para contexto, dados e declarações.",
@@ -503,6 +545,20 @@
       "source": "VEJA",
       "published_at": "2026-10-19T23:45:13+00:00",
       "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d5cc500d03d3987f",
+      "title": "Justiça encerra recuperação judicial da Americanas",
+      "summary": "O veículo G1 publicou uma atualização sobre: justiça encerra recuperação judicial da Americanas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/19/justica-do-rj-fim-de-recuperacao-judicial-da-americanas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-19T23:24:34+00:00",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -958,20 +1014,6 @@
       "archive": false
     },
     {
-      "id": "cb70c771fe817467",
-      "title": "Ataque russo deixa mais de 500.000 casas sem energia na Ucrânia",
-      "summary": "O veículo VEJA publicou uma atualização sobre: ataque russo deixa mais de 500.000 casas sem energia na Ucrânia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/mundo/ataque-russo-deixa-mais-de-500-000-casas-sem-energia-na-ucrania/",
-      "source": "VEJA",
-      "published_at": "2026-10-19T19:42:24+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "93254fcb2cb518f5",
       "title": "Diretora-geral do Senado lança livro com lições de liderança para mulheres",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: diretora-geral do Senado lança livro com lições de liderança para mulheres. Consulte a reportagem para contexto, dados e declarações.",
@@ -1084,20 +1126,6 @@
       "archive": false
     },
     {
-      "id": "24498395b358732a",
-      "title": "Flávio propõe retomar regra de transição de dois anos no Bolsa Família para quem conseguir emprego - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: flávio propõe retomar regra de transição de dois anos no Bolsa Família para quem conseguir emprego. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUVGY3NGblphaWlFWUxmRnZvN1JFNUp0TjV5bnJzS1l2a1lHdHdZcVJ4WjZ0N3JMcWNXczc2Z0Z6UGdEYTZPSnk4bEZkRjFjdDMwNUNIQ05ubWh2NUM5R0E1bnNLNnJBU1JtLTNYYVc3cnVvV3hpTFpDZEljMkFWS3hpU09YSkJKMXZocFJMRDBjYUl6WGNZN9IBngFBVV95cUxQWUNoQnBvSXBicDdlQ0NJdEhIRndENldVcjlOb2MwLTA4TG9JdkZYUC00eUFNQUg4WGQzRTJ3X0gwNW4xTlEyOXhqeG1jZURZdUJSRFVTbTNOT3ZoOUdMbU9PeHpqU1o0bWhlS2EwM0UwYk13bW45a29UN1MtTE5SYUJwVDZuaVpSVDFKbjFWdC1LMUk3a3FZOGREYThTdw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-19T17:45:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "af988b5f5ee6bba1",
       "title": "Debate vira ‘pão e circo’ e deixa eleitor de fora, avalia professor da USP",
       "summary": "O veículo VEJA publicou uma atualização sobre: debate vira ‘pão e circo’ e deixa eleitor de fora, avalia professor da USP. Consulte a reportagem para contexto, dados e declarações.",
@@ -1192,6 +1220,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9a1f4766dc368f57",
+      "title": "Os criminosos já entenderam que crime digital é melhor do que roubar celular, diz pesquisador - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: os criminosos já entenderam que crime digital é melhor do que roubar celular, diz pesquisador. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaUN4cTVZdlhtZTQwWjVHZmwwV18tT3ZxamJ1a1dBbXJORUE3T0diVE9FVFVGQk9SaFR0OVgzRENmemZtd1l4aXVuUXNmeXd3YjVGWXRWMHdDWnpuRnByT1BBYy1nUERHdWJBb3BrUmFHd3A3ZHlXSnV5dWppTmJHZUxNaHl4NVF6amVzTmhyV2xmVU42Sy1CUG1sOWlDNzVRZXFyNzBfcmpVNDdMREd0dVhOa2V6QmhwZmtkdTVEZ04tTS1QR21QeNIBzgFBVV95cUxNeVA0TUx3MW90MlZCLXo0cjNCaGFOQ19XNnVEa085MkkzM0t5MzVDTGZiS3BLcjg4S1JGa2hUYm10Slp5RlVacy1vUzg0SllRVUkxeTl1ZlhYTWp0ekRNdVdndk9EY3BxNllnaG81NEdobjlZY2lkSEJtS2N2WXdnNndfUVNSS2lJNkpjSTh6SUkwYmlUc3h4TGJrQVB1ckVMQzJ1M3V3TXJqd3pQR1huT19oOVg1WFpWcjNxUVE1b3J2SUtUa0NQY0liVHVGUQ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-19T15:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1336,20 +1378,6 @@
       "archive": false
     },
     {
-      "id": "b111ab0406a52404",
-      "title": "Polícia isola área por suspeita de bomba em carro de Flávio após debate na Band - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: polícia isola área por suspeita de bomba em carro de Flávio após debate na Band. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNU9SMGIzaEI5a0ZzS0RUNng2VE5RZXBZNXdHSmNjTXYzNDZmczN4Tmh2YklfWW5CeFBzR3h5SG9GU25XLVRTY3JYR3BuQjU4WEQ4eGl5U0tneU9YT1RWUlRWQWREX3huNzBlRHR2amNvenE1WnpWM1BPZDh2dU4wM1VtUTJkUFJ6R0VvYmY3b0NQNlpMRmxUbkFMT3Q0d1RJVXZuSF9WaHFqTG82ZmFmUVRPTDhaUQ?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-19T02:24:50+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5df73b9128e5454c",
       "title": "Flávio faz 'mea culpa' em debate e admite que governo Bolsonaro 'não teve o melhor resultado' na Saúde - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio faz 'mea culpa' em debate e admite que governo Bolsonaro 'não teve o melhor resultado' na Saúde. Consulte a reportagem para contexto, dados e declarações.",
@@ -1357,20 +1385,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-19T00:39:09+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a393aa47f42fe4f5",
-      "title": "Lula rebate Flávio na Band e defende combate ao crime organizado “da esquina ao andar de cima” - Revista Fórum",
-      "summary": "O veículo Revista Fórum publicou uma atualização sobre: lula rebate Flávio na Band e defende combate ao crime organizado “da esquina ao andar de cima” - Revista Fórum. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdGdCZDB3elc3dVh5MHRZR0sxLWFZTUtURVFDRWV1cG1RbV9sNUNoMEY2cmNuR3gwTUwyRmVCbTh2ZjU3X2xNUEh4Q0w1VC1fOE1sM0w2SjRzZVQtdXVtcHdYMW4xWm41d1pFZXo5X2JSY1RUYkY0OERkRXozRTkxZnlFaVljT0tJNFFESXhPdVdCdXhSdnZoNEVRdlFVZUV3LXlrVF9QZVNNdHN3ekNIRHh3Nm5FcFJ6dC1jTzJOdEMwWHpsWHZMM1lB?oc=5",
-      "source": "Revista Fórum",
-      "published_at": "2026-10-18T23:32:55+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1521,11 +1535,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 18
+      "items": 12
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 47
+      "items": 45
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1565,11 +1579,11 @@
     },
     "Agência Brasil · Internacional": {
       "status": "ok",
-      "items": 2
+      "items": 1
     },
     "Agência Câmara": {
       "status": "ok",
-      "items": 16
+      "items": 15
     },
     "Agência Senado": {
       "status": "ok",
@@ -1581,7 +1595,7 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 37
+      "items": 38
     },
     "G1 · Busca alternativa": {
       "status": "ok",
@@ -1589,7 +1603,7 @@
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 55
+      "items": 56
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1601,7 +1615,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 20
+      "items": 18
     }
   },
   "notes": [
