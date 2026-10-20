@@ -1,10 +1,38 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-20T05:42:25.467843+00:00",
-  "last_success_at": "2026-10-20T05:42:25.467843+00:00",
+  "last_checked_at": "2026-10-20T06:53:09.620076+00:00",
+  "last_success_at": "2026-10-20T06:53:09.620076+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "9c8c5606e7569bfe",
+      "title": "As mentiras da Globo sobre os áudios de Vorcaro denunciando Lula - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: as mentiras da Globo sobre os áudios de Vorcaro denunciando Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2pDRE4taGI0bGxreWZ5WTR6TF9TblJqQzFzX2puSnNqbnZuWEowUUlfcFFTVXBLQUFsZFpocG1SNUZCb2R1OE1NMmhnWlFGaEV6cEIyeVJDSFVqS1ZYelZOcHBvSHB1UFBNRjFJSGU1cUpvZEVpTHVQdW9KaUhRaXUwbmFocS1yVC1WZ29ubFdSamNSNWlKSU1iRkRQRUU?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-20T06:28:20+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e79bf1049ed1dde6",
+      "title": "Flávio Bolsonaro promete BR-319 e apoio contra queimadas em Manaus",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro promete BR-319 e apoio contra queimadas em Manaus. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-promete-br-319-e-apoio-contra-queimadas-em-manaus.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T06:03:00+00:00",
+      "category": "Eleições",
+      "candidate": "flavio",
+      "election_type": "Proposta",
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "68af3821ffef308a",
       "title": "Feira virtual gratuita abre até 30 mil vagas para estágios e empregos no DF",
@@ -146,20 +174,6 @@
       "archive": false
     },
     {
-      "id": "9c8c5606e7569bfe",
-      "title": "As mentiras da Globo sobre os áudios de Vorcaro denunciando Lula - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: as mentiras da Globo sobre os áudios de Vorcaro denunciando Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2pDRE4taGI0bGxreWZ5WTR6TF9TblJqQzFzX2puSnNqbnZuWEowUUlfcFFTVXBLQUFsZFpocG1SNUZCb2R1OE1NMmhnWlFGaEV6cEIyeVJDSFVqS1ZYelZOcHBvSHB1UFBNRjFJSGU1cUpvZEVpTHVQdW9KaUhRaXUwbmFocS1yVC1WZ29ubFdSamNSNWlKSU1iRkRQRUU?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-20T03:27:36+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "985d5d7e54ff97f8",
       "title": "Guia aponta profissões procuradas e salários de até R$ 80 mil em Porto Alegre",
       "summary": "O veículo G1 publicou uma atualização sobre: guia aponta profissões procuradas e salários de até R$ 80 mil em Porto Alegre. Consulte a reportagem para contexto, dados e declarações.",
@@ -258,20 +272,6 @@
       "archive": false
     },
     {
-      "id": "36443b6865736a95",
-      "title": "Mortes, mutilações e suspeita de alunos operando pacientes: o que a polícia apura em clínica do Rio",
-      "summary": "O veículo G1 publicou uma atualização sobre: mortes, mutilações e suspeita de alunos operando pacientes: o que a polícia apura em clínica do Rio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/fantastico/noticia/2026/10/20/mortes-mutilacoes-e-suspeita-de-alunos-operando-pacientes-o-que-a-policia-apura-em-clinica-do-rio.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:00:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "490ea5953e300257",
       "title": "Profissões em alta para 2027: veja cargos com salários de até R$ 93,5 mil",
       "summary": "O veículo G1 publicou uma atualização sobre: profissões em alta para 2027: veja cargos com salários de até R$ 93,5 mil. Consulte a reportagem para contexto, dados e declarações.",
@@ -293,6 +293,20 @@
       "source": "G1",
       "published_at": "2026-10-20T03:00:00+00:00",
       "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "36443b6865736a95",
+      "title": "Mortes, mutilações e suspeita de alunos operando pacientes: o que a polícia apura em clínica do Rio",
+      "summary": "O veículo G1 publicou uma atualização sobre: mortes, mutilações e suspeita de alunos operando pacientes: o que a polícia apura em clínica do Rio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/10/20/mortes-mutilacoes-e-suspeita-de-alunos-operando-pacientes-o-que-a-policia-apura-em-clinica-do-rio.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T03:00:00+00:00",
+      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1070,20 +1084,6 @@
       "archive": false
     },
     {
-      "id": "b0bcd88ba2315b8c",
-      "title": "Flávio quer mudar a gestão do ensino superior; o que diz o plano? - Agora RN",
-      "summary": "O veículo Agora RN publicou uma atualização sobre: flávio quer mudar a gestão do ensino superior; o que diz o plano? - Agora RN. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHJEdDd2MTlMOGpmeHVuM2hCU1dKZGlSb01ZbkRNMndaeTJfNXV5SnN5OHBjREhqQjhONDFIQmRwM2xiVWxPeU1POEk1bXdQYzY3Y19BSWhuSXJPYjdDRTE2ZUVEcExqbURxWkZtckJFa0R4Z0dkTC1uNTFzcVZsc2xEbDdEcTJt?oc=5",
-      "source": "Agora RN",
-      "published_at": "2026-10-19T17:00:00+00:00",
-      "category": "Eleições",
-      "candidate": "flavio",
-      "election_type": "Proposta",
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "cdb8cbc2b37529bf",
       "title": "Quem venceu o debate entre Flávio Bolsonaro e Lula na Band, segundo professor da USP",
       "summary": "O veículo VEJA publicou uma atualização sobre: quem venceu o debate entre Flávio Bolsonaro e Lula na Band, segundo professor da USP. Consulte a reportagem para contexto, dados e declarações.",
@@ -1521,15 +1521,15 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 25
+      "items": 20
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 48
+      "items": 46
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 50
+      "items": 51
     },
     "VEJA": {
       "status": "ok",
@@ -1577,15 +1577,15 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 65
+      "items": 66
     },
     "Estadão": {
       "status": "ok",
-      "items": 38
+      "items": 37
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 50
+      "items": 47
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1593,15 +1593,15 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 56
+      "items": 55
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 16
+      "items": 15
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 21
+      "items": 20
     }
   },
   "notes": [
