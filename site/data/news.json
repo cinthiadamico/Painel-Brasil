@@ -1,10 +1,234 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-20T00:56:07.945792+00:00",
-  "last_success_at": "2026-10-20T00:56:07.945792+00:00",
+  "last_checked_at": "2026-10-20T01:44:41.498568+00:00",
+  "last_success_at": "2026-10-20T01:44:41.498568+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "5959886c6d15003c",
+      "title": "Performance de Flávio Bolsonaro em debate revela inspiração em Marçal, Trump e Jair",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: performance de Flávio Bolsonaro em debate revela inspiração em Marçal, Trump e Jair. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/performance-de-flavio-bolsonaro-em-debate-revela-inspiracao-em-marcal-trump-e-jair.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T01:41:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2931434e6b5a69be",
+      "title": "A última pesquisa PoderData sobre a disputa Flávio x Lula no segundo turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a última pesquisa PoderData sobre a disputa Flávio x Lula no segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-ultima-pesquisa-poderdata-sobre-a-disputa-flavio-x-lula-no-segundo-turno/",
+      "source": "VEJA",
+      "published_at": "2026-10-20T01:38:57+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ee054673df323814",
+      "title": "Os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1BLVktYMmZYR2J6djIyaWNhenFUOU1BMkVzWlJlNjNBZlppdXQyRDFsck44N3NfaHBwM19nMnc5SGsxODY2ZmQ5blZTRm9qR3NFRlVnTERNYUQtV0Y2ZUVSWnFlVW5NenZ2Nng2eWpRd1VRMmd2S2dvOGJjR3E3c01FRFlVdFh4Y0pGYlVJcnpqcjY3WkVhZzhFX2ZoNDFmQ1N2ZjBNUUQ4aldmSFlaVjYxWTFKVnQtbWc?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-20T01:37:07+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5e75f82b661d53a3",
+      "title": "Como a Globo criou a maior fake news da campanha presidencial - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: como a Globo criou a maior fake news da campanha presidencial. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWtqT2ZhTzRGdVJOZVA5OXhHcW5rTjJZdTRYNDVUc1FnYUxLalpRblpSaVFRNk9rWkx3dG5TNXdqME4zeUhrT3FnZ2FUTXV4bThrT2hoeFRfQjNhZXZfejZGUXZ1QU9VSmtQN3JPWi16YmZjdlJpajVYQmlzaGd6djFhSEhNNUhvSFVKS0oyQ1Q3TVNGRnMyYkgxOA?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-20T01:37:07+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "58e7e5c960cd1ca2",
+      "title": "Flávio Bolsonaro, candidato do PL à Presidência, faz campanha no Amazonas e no Pará",
+      "summary": "O veículo G1 publicou uma atualização sobre: flávio Bolsonaro, candidato do PL à Presidência, faz campanha no Amazonas e no Pará. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/19/flavio-bolsonaro-candidato-do-pl-a-presidencia-faz-campanha-no-amazonas-e-no-para.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T01:33:16+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ba7caa51d7d9904a",
+      "title": "Justiça decreta fim da recuperação judicial da Americanas",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: justiça decreta fim da recuperação judicial da Americanas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/justica-decreta-fim-da-recuperacao-judicial-da-americanas",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-20T01:26:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "88ffc5880a3abec9",
+      "title": "Flávio faz motociata no Pará; Lula participa de marcha no RS",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: flávio faz motociata no Pará; Lula participa de marcha no RS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-motociata-no-para-lula-participa-de-marcha-no-rs",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-20T01:25:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9be71d2d35f311e7",
+      "title": "A variável de instabilidade na campanha de Lula, segundo cientista político",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a variável de instabilidade na campanha de Lula, segundo cientista político. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-variavel-de-instabilidade-na-campanha-de-lula-segundo-cientista-politico/",
+      "source": "VEJA",
+      "published_at": "2026-10-20T01:15:14+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a5331f2a46aaac60",
+      "title": "Lula oferece fim de sigilos de Janja e Lulinha, e cobra de Flávio Bolsonaro dados de offshore de Willer Tomaz",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula oferece fim de sigilos de Janja e Lulinha, e cobra de Flávio Bolsonaro dados de offshore de Willer Tomaz. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-oferece-fim-de-sigilos-de-janja-e-lulinha-e-cobra-de-flavio-bolsonaro-dados-de-offshore-de-willer-tomaz.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T01:07:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b2ab8e99af5e5d49",
+      "title": "Vereador é preso por descumprimento de medida protetiva no sudoeste da Bahia",
+      "summary": "O veículo G1 publicou uma atualização sobre: vereador é preso por descumprimento de medida protetiva no sudoeste da Bahia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/19/vereador-e-preso-por-descumprimento-de-medida-protetiva-em-jacaraci.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T01:05:45+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "353d344a11710bc4",
+      "title": "Mudanças nos locais de votação afetam cerca de 130 mil eleitores; dados são atualizados diariamente pelo TSE",
+      "summary": "O veículo G1 publicou uma atualização sobre: mudanças nos locais de votação afetam cerca de 130 mil eleitores; dados são atualizados diariamente pelo TSE. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/19/mudancas-nos-locais-de-votacao-afetam-cerca-de-130-mil-eleitores-dados-sao-atualizados-diariamente-pelo-tse.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T01:03:56+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "14613b305a626982",
+      "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: trump’s Push for Deals With Russia Powers His Frustration With Ukraine. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-20T01:00:18+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ec949385787c8eae",
+      "title": "Como reencantar as políticas e sonhar futuros",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: como reencantar as políticas e sonhar futuros. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/como-reencantar-as-politicas-e-sonhar-futuros.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6bce7e2cae66fbc5",
+      "title": "Quando será o debate para governo do Amazonas na Rede Amazônica? Veja a data e o horário",
+      "summary": "O veículo G1 publicou uma atualização sobre: quando será o debate para governo do Amazonas na Rede Amazônica? Veja a data e o horário. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/19/quando-sera-o-debate-para-governo-do-amazonas-na-rede-amazonica-veja-a-data-e-o-horario.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T00:57:15+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "633893a4c59ba59e",
+      "title": "Polícia prende quadrilha que usava carros de aplicativo para roubar passageiros em Minas Gerais",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia prende quadrilha que usava carros de aplicativo para roubar passageiros em Minas Gerais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/19/policia-prende-quadrilha-que-usava-carros-de-aplicativo-para-roubar-passageiros-em-minas-gerais.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T00:55:32+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "234ac9132ee1f42e",
+      "title": "Polícia Civil prende suspeito de roubar pulseira de ouro avaliada em R$ 50 mil em Boa Vista",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia Civil prende suspeito de roubar pulseira de ouro avaliada em R$ 50 mil em Boa Vista. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/19/policia-civil-prende-suspeito-de-roubar-pulseira-de-ouro-avaliada-em-r-50-mil-em-boa-vista.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T00:55:06+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "7248288c297cea58",
       "title": "Volodymyr Zelensky acusa Donald Trump de querer forçar a Ucrânia a se render",
@@ -34,62 +258,6 @@
       "archive": false
     },
     {
-      "id": "c93a5ce5df796995",
-      "title": "Eleições 2026: veja como foi a agenda dos candidatos ao governo do TO no 2º turno nesta segunda-feira (19)",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: veja como foi a agenda dos candidatos ao governo do TO no 2º turno nesta segunda-feira (19). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/19/eleicoes-2026-veja-como-foi-a-agenda-dos-candidatos-ao-governo-do-to-no-2o-turno-nesta-segunda-feira-19.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T00:38:57+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "62411b220e241c3d",
-      "title": "O que realmente significa a movimentação de Flávio e Lula nas últimas pesquisas",
-      "summary": "O veículo VEJA publicou uma atualização sobre: o que realmente significa a movimentação de Flávio e Lula nas últimas pesquisas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/o-que-realmente-significa-a-movimentacao-de-flavio-e-lula-nas-ultimas-pesquisas/",
-      "source": "VEJA",
-      "published_at": "2026-10-20T00:35:47+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "14613b305a626982",
-      "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: trump’s Push for Deals With Russia Powers His Frustration With Ukraine. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-20T00:33:09+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4cb5bd05256333ae",
-      "title": "Governos da Itália e da França realizam reuniões de emergência sobre protestos",
-      "summary": "O veículo G1 publicou uma atualização sobre: governos da Itália e da França realizam reuniões de emergência sobre protestos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/19/governos-da-italia-e-da-franca-realizam-reunioes-de-emergencia-sobre-protestos.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T00:33:04+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "962b468eb00550cb",
       "title": "Ato político na UFRN termina em bate-boca e agressões entre militantes do PL e estudantes",
       "summary": "O veículo G1 publicou uma atualização sobre: ato político na UFRN termina em bate-boca e agressões entre militantes do PL e estudantes. Consulte a reportagem para contexto, dados e declarações.",
@@ -104,20 +272,6 @@
       "archive": false
     },
     {
-      "id": "c9abc5e085a000b6",
-      "title": "Vitória de Lula ou de Flávio não leva ao mesmo 2030",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vitória de Lula ou de Flávio não leva ao mesmo 2030. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/vitoria-de-lula-ou-de-flavio-nao-leva-ao-mesmo-2030.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T00:32:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "fe2dd88826e2cc14",
       "title": "Lula fala em 'briguinha' com Congresso por tarifa zero para transporte com financiamento por emendas",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula fala em 'briguinha' com Congresso por tarifa zero para transporte com financiamento por emendas. Consulte a reportagem para contexto, dados e declarações.",
@@ -125,104 +279,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-20T00:32:00+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ba9be703d88653a8",
-      "title": "Professores da USP entregam a Alckmin carta em apoio à reeleição de Lula",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: professores da USP entregam a Alckmin carta em apoio à reeleição de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/professores-da-usp-entregam-a-alckmin-carta-em-apoio-a-reeleicao-de-lula.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T00:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "41ddf35717b8977b",
-      "title": "'Pior debate presidencial da história brasileira', diz leitor sobre encontro entre Flávio Bolsonaro e Lula",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Pior debate presidencial da história brasileira', diz leitor sobre encontro entre Flávio Bolsonaro e Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/pior-debate-presidencial-da-historia-brasileira-diz-leitor-sobre-encontro-entre-flavio-bolsonaro-e-lula.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T00:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9c8c5606e7569bfe",
-      "title": "As mentiras da Globo sobre os áudios de Vorcaro denunciando Lula - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: as mentiras da Globo sobre os áudios de Vorcaro denunciando Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2pDRE4taGI0bGxreWZ5WTR6TF9TblJqQzFzX2puSnNqbnZuWEowUUlfcFFTVXBLQUFsZFpocG1SNUZCb2R1OE1NMmhnWlFGaEV6cEIyeVJDSFVqS1ZYelZOcHBvSHB1UFBNRjFJSGU1cUpvZEVpTHVQdW9KaUhRaXUwbmFocS1yVC1WZ29ubFdSamNSNWlKSU1iRkRQRUU?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-20T00:26:40+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d007ddc53ffc8707",
-      "title": "Governo endurece regras de bloqueio contra ligações abusivas de telemarketing",
-      "summary": "O veículo G1 publicou uma atualização sobre: governo endurece regras de bloqueio contra ligações abusivas de telemarketing. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/19/governo-endurece-regras-de-bloqueio-contra-ligacoes-abusivas-de-telemarketing.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T00:25:15+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4073590109b51269",
-      "title": "Governo Lula preparou documentos para reajustar Bolsa Família na véspera do anúncio e sob sigilo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo Lula preparou documentos para reajustar Bolsa Família na véspera do anúncio e sob sigilo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-lula-preparou-documentos-para-reajustar-bolsa-familia-na-vespera-do-anuncio-e-sob-sigilo.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T00:23:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "126c164a57c8931d",
-      "title": "Justiça torna ré policial militar acusada de matar mulher durante abordagem na Zona Leste de SP",
-      "summary": "O veículo G1 publicou uma atualização sobre: justiça torna ré policial militar acusada de matar mulher durante abordagem na Zona Leste de SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/justica-torna-re-policial-militar-acusada-de-matar-mulher-durante-abordagem-na-zona-leste-de-sp.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T00:15:20+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9c640f19191a4bc2",
-      "title": "Entidades do serviço público defendem Lula e atacam gestão Bolsonaro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: entidades do serviço público defendem Lula e atacam gestão Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/entidades-do-servico-publico-defendem-lula-e-atacam-gestao-bolsonaro.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T00:14:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -636,20 +692,6 @@
       "archive": false
     },
     {
-      "id": "e0435486d52fe20a",
-      "title": "Prefeitura de Ubá é alvo de operação do Ministério Público e da Polícia Civil - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: prefeitura de Ubá é alvo de operação do Ministério Público e da Polícia Civil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS1lkTWRZVjV3dFJCREFqUjR6N083LTVERHpHOWJuWHcwamRCWThkMWZZRk1IODMzTjUxamVSTGt5QWJYYVExUnoxNU1OaDlRc0FueG1aQ2JSa2Nvb01wSUhOYjVVVjg0UEI3WGUtUVUzNVAxSTlGQklNU0pTcmg5WXBaVF83TUE2eGZoNFprbVIxVklyeGRFajE1d0JpeGxPc2xvVTk3UWxVNVV5bEVqZHNOa0U3dmE5T2s5SHQtTnJ0WHBIdENhNHlUbEJUeVQtZ3FydmlB0gHkAUFVX3lxTE5sUEJVT0RrMDU3RW02TFY2Q2xUdUxLa00yc1lIRmhaeU9vRWF3ZzI4N3picnA0T3dtcmZMRUd0M3Y2VlFoOFBGQ2UtYWhvR2tHbWh1RjNGQ09rWTdTeWFCU3dNR0RNWlNZWFZ0bzFWaDdSaVFwTkRvYTA4dGJGSlk2VTVKUzA5WGlWY0IwV0dNSXEydl9meUJfOFh1X1plME05M19YeUEtek94TnlTNUpjVFNmSmZ5aE5PMk1PVVZLdG8tVUxSaFJTbzIzbXM3eWUzNGUwWU5OUnRES2xETDBueEFkMw?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-19T21:38:31+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "067f1a6deea5389d",
       "title": "Lula diz que pedirá ao TSE abertura de seu sigilo bancário e desafia Flávio Bolsonaro a fazer o mesmo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula diz que pedirá ao TSE abertura de seu sigilo bancário e desafia Flávio Bolsonaro a fazer o mesmo. Consulte a reportagem para contexto, dados e declarações.",
@@ -688,6 +730,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "feba28025ef2b7cf",
+      "title": "Lula anuncia ofício ao TSE abrindo sigilos dele e de 5 filhos e exigindo o mesmo de Flávio Bolsonaro - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: lula anuncia ofício ao TSE abrindo sigilos dele e de 5 filhos e exigindo o mesmo de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQnZsOUJpcWMyMXEyMWtBX05tYzRlSU9XQnVtTnA4b1hYUmJDY29JeThRalhvcXQxVUoxakZicFFsYTJHZHBlQ0ctangxMVpTeWxpTmRJbkFKcUFIWm13LU51MTd1RkhCLWwtRzJOdjlnT0VwVkR6VE1pZUJoRUpCTC1ZbnR5TWJxVnJ0cVZqLWVTd3QzMlltcUhua0pTNTFmVGUxMEEzd1JZekxxd1BZaEpRTmQza3NnZnJjd3pidkcwc1hDeHBPZDVyNUFRWUJqd0JYVXFfa3pibDY5X2hJ0gHkAUFVX3lxTFBZZG1Cdl9UVFZaOUlUeklTdnhXX0JzLUN1Q2JzUWc4NXFNV3VNaG9HZWxXVE1JZnFWRk0wNFRJT2p3ankwMWM5RXZ3bk1CdFpjZWdISjNnczZ6aDg2S2czSm1vbUtrakoxX2FxWGd3SkRnMUdMV3NhYmhmRzlCYVNzRnZJdjVLVUNvTzVpUFJ6dmJ1dEZsSkVHNXAtSy16YmJWdFJaS1ZENEZqbDVrQzhNcTFkNm0zSTNyVlRkWFhNRkhoR2F3WUJhcGVMVGtfME5JRXBvcmJZRXg3OHJ6RlNUaHU1Qw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-19T21:08:24+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -758,20 +814,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a3c71b1a789c183b",
-      "title": "Plantão de emprego em Fortaleza oferta mais de 400 vagas em bares e restaurantes na quarta-feira (21) - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: plantão de emprego em Fortaleza oferta mais de 400 vagas em bares e restaurantes na quarta-feira (21). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQkNYNHZWYVFCLUV0WU9FdlBReHJ1NjJsWF9KN1M5aVRwSE5VeGVTbE9wYmZHSE1wbmNzUVVGOHZSaDNQdFlvSUVCR3duNGtjSmJVWW1WMlpJd2NqWFFIWE5sNzEyVVRkRkU4YnVEVWVYSHdWeEtRZzVQOVBCZDJBZHoyZWx1enZ6ckpVZGx1eUVBaW9aOVlyZjA1LXVZekszWngwU0ZLdjUwWXdaSG53LXFnNGFxcHJUMUpuTXpoWWMxd25sWGFQUnhtNGVWeTJGWEUybXM5LUdIUmlHRWlkVFFjYkFxc2U5UGlVMEJUUHU3dm96aW9B?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-19T20:44:49+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -867,34 +909,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-19T20:21:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3659865eabba75ae",
-      "title": "DF e mais 4 estados não tiveram locais de votação alterados",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: dF e mais 4 estados não tiveram locais de votação alterados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/df-e-outros-4-estados-nao-tiveram-locais-de-votacao-alterados",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-19T20:13:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d1b56c4b64340456",
-      "title": "TSE ainda atualiza locais de votação para o 2º turno a poucos dias da eleição",
-      "summary": "O veículo VEJA publicou uma atualização sobre: tSE ainda atualiza locais de votação para o 2º turno a poucos dias da eleição. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/tse-ainda-atualiza-locais-de-votacao-para-o-2o-turno-a-poucos-dias-da-eleicao/",
-      "source": "VEJA",
-      "published_at": "2026-10-19T20:07:46+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1308,20 +1322,6 @@
       "archive": false
     },
     {
-      "id": "15d03a042496069d",
-      "title": "Áudio: Exercício ilegal da profissão de biólogo pode virar crime",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Exercício ilegal da profissão de biólogo pode virar crime. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/exercicio-ilegal-da-profissao-de-biologo-pode-virar-crime",
-      "source": "Senado Federal",
-      "published_at": "2026-10-19T13:19:15+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "118f3d79e989d370",
       "title": "Pagamentos de outubro do Bolsa Família começam nesta segunda",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: pagamentos de outubro do Bolsa Família começam nesta segunda. Consulte a reportagem para contexto, dados e declarações.",
@@ -1535,11 +1535,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 38
+      "items": 41
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 47
+      "items": 45
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1547,7 +1547,7 @@
     },
     "VEJA": {
       "status": "ok",
-      "items": 12
+      "items": 11
     },
     "The New York Times": {
       "status": "ok",
@@ -1555,7 +1555,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 8
+      "items": 7
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1595,15 +1595,15 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 37
+      "items": 38
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 45
+      "items": 47
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 54
+      "items": 53
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1611,7 +1611,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 22
+      "items": 20
     },
     "Eleições · Flávio": {
       "status": "ok",
