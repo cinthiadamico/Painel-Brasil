@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-20T09:43:23.802918+00:00",
-  "last_success_at": "2026-10-20T09:43:23.802918+00:00",
+  "last_checked_at": "2026-10-20T10:42:59.844304+00:00",
+  "last_success_at": "2026-10-20T10:42:59.844304+00:00",
   "coverage_window_hours": 84,
   "items": [
     {
-      "id": "bc51ecf85bb83b29",
-      "title": "Dançando na beira do abismo: governo francês demora para reagir",
-      "summary": "O veículo VEJA publicou uma atualização sobre: dançando na beira do abismo: governo francês demora para reagir. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/coluna/mundialista/dancando-na-beira-do-abismo-governo-frances-demora-para-reagir/",
+      "id": "2e2e4f483fb2c91a",
+      "title": "A opinião da população sobre redução da maioridade penal e outras pautas de segurança, segundo pesquisa Real Time Big Data",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a opinião da população sobre redução da maioridade penal e outras pautas de segurança, segundo pesquisa Real Time Big Data. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-opiniao-da-populacao-sobre-reducao-da-maioridade-penal-e-outras-pautas-de-seguranca-segundo-pesquisa-real-time-big-data/",
       "source": "VEJA",
-      "published_at": "2026-10-20T09:33:07+00:00",
+      "published_at": "2026-10-20T10:40:06+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -20,12 +20,12 @@
       "archive": false
     },
     {
-      "id": "9c8c5606e7569bfe",
-      "title": "As mentiras da Globo sobre os áudios de Vorcaro denunciando Lula - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: as mentiras da Globo sobre os áudios de Vorcaro denunciando Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2pDRE4taGI0bGxreWZ5WTR6TF9TblJqQzFzX2puSnNqbnZuWEowUUlfcFFTVXBLQUFsZFpocG1SNUZCb2R1OE1NMmhnWlFGaEV6cEIyeVJDSFVqS1ZYelZOcHBvSHB1UFBNRjFJSGU1cUpvZEVpTHVQdW9KaUhRaXUwbmFocS1yVC1WZ29ubFdSamNSNWlKSU1iRkRQRUU?oc=5",
+      "id": "ee054673df323814",
+      "title": "Os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1BLVktYMmZYR2J6djIyaWNhenFUOU1BMkVzWlJlNjNBZlppdXQyRDFsck44N3NfaHBwM19nMnc5SGsxODY2ZmQ5blZTRm9qR3NFRlVnTERNYUQtV0Y2ZUVSWnFlVW5NenZ2Nng2eWpRd1VRMmd2S2dvOGJjR3E3c01FRFlVdFh4Y0pGYlVJcnpqcjY3WkVhZzhFX2ZoNDFmQ1N2ZjBNUUQ4aldmSFlaVjYxWTFKVnQtbWc?oc=5",
       "source": "VEJA",
-      "published_at": "2026-10-20T09:29:42+00:00",
+      "published_at": "2026-10-20T10:38:23+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -34,12 +34,12 @@
       "archive": false
     },
     {
-      "id": "50dffad41d7eb3ca",
-      "title": "Inscrições do concurso da prefeitura de Conceição, na PB, são reabertas nesta terça (20); veja novo prazo",
-      "summary": "O veículo G1 publicou uma atualização sobre: inscrições do concurso da prefeitura de Conceição, na PB, são reabertas nesta terça (20); veja novo prazo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/20/inscricoes-do-concurso-da-prefeitura-de-conceicao-na-pb-sao-reabertas-veja-novo-prazo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T09:17:31+00:00",
+      "id": "5821040267027d1a",
+      "title": "A diferença na escolha de ricos e pobres entre Flávio e Lula, segundo nova pesquisa Real Time Big Data",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a diferença na escolha de ricos e pobres entre Flávio e Lula, segundo nova pesquisa Real Time Big Data. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-diferenca-na-escolha-de-ricos-e-pobres-entre-flavio-e-lula-segundo-nova-pesquisa-real-time-big-data/",
+      "source": "VEJA",
+      "published_at": "2026-10-20T10:34:14+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -48,13 +48,237 @@
       "archive": false
     },
     {
-      "id": "d2d651ed43680256",
-      "title": "Em busca de virada, Lula faz ‘despedida’ do Nordeste antes do segundo turno",
-      "summary": "O veículo VEJA publicou uma atualização sobre: em busca de virada, Lula faz ‘despedida’ do Nordeste antes do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/em-busca-de-virada-lula-faz-despedida-do-nordeste-antes-do-segundo-turno/",
+      "id": "05c610c9432f3ec6",
+      "title": "Campanha de Flávio vai tratar polêmica sobre Bolsa Família como ‘nova fake news sobre Nossa Senhora’",
+      "summary": "O veículo VEJA publicou uma atualização sobre: campanha de Flávio vai tratar polêmica sobre Bolsa Família como ‘nova fake news sobre Nossa Senhora’. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/campanha-de-flavio-vai-tratar-polemica-sobre-bolsa-familia-como-nova-fake-news-sobre-nossa-senhora/",
       "source": "VEJA",
-      "published_at": "2026-10-20T09:00:06+00:00",
+      "published_at": "2026-10-20T10:30:53+00:00",
       "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "838042ea1a18f755",
+      "title": "Congresso eleito tem perfil ambiental pior do que o anterior",
+      "summary": "O veículo VEJA publicou uma atualização sobre: congresso eleito tem perfil ambiental pior do que o anterior. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/coluna/balanco-social/congresso-eleito-tem-perfil-ambiental-pior-do-que-o-anterior/",
+      "source": "VEJA",
+      "published_at": "2026-10-20T10:30:10+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6008977b5f678449",
+      "title": "Beneficiários com NIS de final 2 recebem Bolsa Família de outubro",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: beneficiários com NIS de final 2 recebem Bolsa Família de outubro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-2-recebem-bolsa-familia-de-outubro",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-20T10:30:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e5e09ab8663503d7",
+      "title": "Prefeitura de Poços de Caldas atrasa repasses a instituições; Apae alerta para risco aos atendimentos",
+      "summary": "O veículo G1 publicou uma atualização sobre: prefeitura de Poços de Caldas atrasa repasses a instituições; Apae alerta para risco aos atendimentos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/20/prefeitura-de-pocos-de-caldas-atrasa-repasses-a-instituicoes-apae-alerta-para-risco-aos-atendimentos.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T10:18:11+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "180d8676da6321ea",
+      "title": "Governo Trump veta uso da IA chinesa DeepSeek em agências governamentais; China critica medida",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo Trump veta uso da IA chinesa DeepSeek em agências governamentais; China critica medida. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/governo-trump-veta-uso-da-ia-chinesa-deepseek-em-agencias-governamentais-china-critica-medida.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T10:17:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ec05f1990fc49336",
+      "title": "Empresários são presos por desviar armas de lojas para abastecer organizações criminosas no ES e RJ",
+      "summary": "O veículo G1 publicou uma atualização sobre: empresários são presos por desviar armas de lojas para abastecer organizações criminosas no ES e RJ. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/20/empresarios-sao-presos-por-desviar-armas-de-lojas-para-abastecer-organizacoes-criminosas-no-es-e-rj.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T10:15:57+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f643844ac8aed3ca",
+      "title": "A nova pesquisa Real Time Big Data sobre a disputa Flávio x Lula a cinco dias do segundo turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a nova pesquisa Real Time Big Data sobre a disputa Flávio x Lula a cinco dias do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-nova-pesquisa-real-time-big-data-sobre-a-disputa-flavio-x-lula-a-cinco-dias-do-segundo-turno/",
+      "source": "VEJA",
+      "published_at": "2026-10-20T10:12:37+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a0ee2e6bcc5bbc7d",
+      "title": "Pediatra e dedicada a recém-nascidos: saiba quem era a médica que morreu e causou comoção entre colegas e instituições de saúde em Goiás",
+      "summary": "O veículo G1 publicou uma atualização sobre: pediatra e dedicada a recém-nascidos: saiba quem era a médica que morreu e causou comoção entre colegas e instituições de saúde em Goiás. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/10/20/pediatra-e-dedicada-a-recem-nascidos-saiba-quem-era-a-medica-que-morreu-e-causou-comocao-entre-colegas-e-instituicoes-de-saude-em-goias.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T10:02:26+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "899d946d69a619eb",
+      "title": "As mudanças que caso Erasmo Carlos pode trazer para relacionamentos afetivos na Justiça",
+      "summary": "O veículo VEJA publicou uma atualização sobre: as mudanças que caso Erasmo Carlos pode trazer para relacionamentos afetivos na Justiça. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/as-mudancas-que-caso-erasmo-carlos-pode-trazer-para-relacionamentos-afetivos-na-justica/",
+      "source": "VEJA",
+      "published_at": "2026-10-20T10:00:09+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "afd40271446ef79c",
+      "title": "Polícia desmonta acampamento pelo direito à moradia em Lisboa e prende manifestantes",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia desmonta acampamento pelo direito à moradia em Lisboa e prende manifestantes. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/20/policia-desmantela-acampamento-protesto-moradia-lisboa.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T09:59:12+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "abb7346875827e2a",
+      "title": "México suspende importação de frango do Brasil após surto de doença aviária",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: méxico suspende importação de frango do Brasil após surto de doença aviária. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/mexico-suspende-importacao-de-frango-do-brasil-apos-surto-de-doenca-aviaria.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T09:59:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "22237dc6d23ba29b",
+      "title": "Nova pesquisa Real Time Big Data, estratégias de Flávio e Lula para último debate e mais destaques desta terça",
+      "summary": "O veículo VEJA publicou uma atualização sobre: nova pesquisa Real Time Big Data, estratégias de Flávio e Lula para último debate e mais destaques desta terça. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/nova-pesquisa-real-time-big-data-estrategias-de-flavio-e-lula-para-ultimo-debate-e-mais-destaques-desta-terca/",
+      "source": "VEJA",
+      "published_at": "2026-10-20T09:58:38+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d084f783694d500b",
+      "title": "Prefeitura de BH e governo de MG abrem cadastro escolar de 2027 nesta terça-feira; veja como fazer",
+      "summary": "O veículo G1 publicou uma atualização sobre: prefeitura de BH e governo de MG abrem cadastro escolar de 2027 nesta terça-feira; veja como fazer. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/20/prefeitura-de-bh-e-governo-de-mg-abrem-cadastro-escolar-de-2027-nesta-terca-feira-veja-como-fazer.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T09:56:59+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1c369d42817a01f8",
+      "title": "Irã e Rússia nunca trabalharam tão próximos, diz chanceler iraniano",
+      "summary": "O veículo G1 publicou uma atualização sobre: irã e Rússia nunca trabalharam tão próximos, diz chanceler iraniano. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/20/ira-e-russia-nunca-trabalharam-tao-proximos-diz-chanceler-iraniano.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T09:56:24+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5c9a3aa7d584a1f7",
+      "title": "Flávio Bolsonaro enfrenta resistência de parlamentares no fim do mandato; entenda - GP1",
+      "summary": "O veículo GP1 publicou uma atualização sobre: flávio Bolsonaro enfrenta resistência de parlamentares no fim do mandato; entenda - GP1. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY01TM3M4ckdrcTU0ZmMtUnJTVU50UXVQemh3UllLenB1MVkxYlJIY1hVMlRQQV9NbUkzaWFIdWg5LUprdTFnSmhzS0F2QTlkRXVPbDhXLUFiVlBwOGUyLXBfampKYnBNVzk0aFdNWE5jLW5uMDZwXzNaelBJSG5nVHpsanpaM0E3RWF6Tm1SYWJORnkxX0ptNUg5UHZ1V0lVUE1tX1BVTXBUeFoyQjdic21UY2M3aE5GYy1qMVpFTG04SjhtdFJmUU5sQVluTVYtd3l4RUpkQWrSAd4BQVVfeXFMUDRscU5Ub2YxbnJQOUUxNWZWdGNKYUdXaVBSMUR0UXhEaV8xSXk1R2ZXVnJuaFdCNEU4bGs4LUpwenpVdkZNRU8ybzJ3T3czdDRuaUlSQ3lIekg5c0VzSUhZcVVtcmVJcDB3UTBfRmtuNVYyZ21CYmdISUNZWTN0MXJaVVllVFFzeGJYZTIySGZXbG1WQ1BPT2FhU1dMSEp0bnZ0Wkh1WGVfcTdSNFNGSTA5b1hWeG9WT1Nnbm5qZDRwM25LNmpQcmhNWjRMeTNIWG5kX2pXZEdES0RsN1JR?oc=5",
+      "source": "GP1",
+      "published_at": "2026-10-20T09:55:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "797f5688bae2dc0f",
+      "title": "Homem morre após ser esfaqueado no peito; filho é suspeito do crime no PI",
+      "summary": "O veículo G1 publicou uma atualização sobre: homem morre após ser esfaqueado no peito; filho é suspeito do crime no PI. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/20/morre-esfaqueado-filho.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T09:51:14+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "87fbe0f9882fb330",
+      "title": "Saiba como consultar o seu local de votação",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: saiba como consultar o seu local de votação. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/saiba-como-consultar-o-seu-local-de-votacao",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-20T09:45:00+00:00",
+      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -76,48 +300,6 @@
       "archive": false
     },
     {
-      "id": "cb9d0ba24501fc16",
-      "title": "Quando será o debate dos candidatos ao governo do Acre? Veja a data e o horário",
-      "summary": "O veículo G1 publicou uma atualização sobre: quando será o debate dos candidatos ao governo do Acre? Veja a data e o horário. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/20/quando-sera-o-debate-dos-candidatos-ao-governo-do-acre-veja-a-data-e-o-horario.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T09:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "68cc3edd21bff4cd",
-      "title": "Concurso em MT oferece mais de 5 mil vagas e salários de até R$ 4,6 mil",
-      "summary": "O veículo G1 publicou uma atualização sobre: concurso em MT oferece mais de 5 mil vagas e salários de até R$ 4,6 mil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/20/concurso-em-mt-oferece-mais-de-5-mil-vagas-e-salarios-de-ate-r-46-mil.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T09:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5800aea035f0b332",
-      "title": "Guia salarial 2027: veja quanto ganham profissionais de diferentes áreas em Manaus, com salários de até R$ 14,4 mil",
-      "summary": "O veículo G1 publicou uma atualização sobre: guia salarial 2027: veja quanto ganham profissionais de diferentes áreas em Manaus, com salários de até R$ 14,4 mil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/20/guia-salarial-2027-veja-quanto-ganham-profissionais-de-diferentes-areas-em-manaus-com-salarios-de-ate-r-144-mil.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T09:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "1e87783f1302ce77",
       "title": "Mourão crê em soltura de presos por tentativa de golpe e alívio a ministros do STF",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mourão crê em soltura de presos por tentativa de golpe e alívio a ministros do STF. Consulte a reportagem para contexto, dados e declarações.",
@@ -125,20 +307,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-20T09:00:00+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e17bada981fab2b6",
-      "title": "Mulher que ficou presa por 'equívoco' é absolvida 1 ano depois pela Justiça no RS",
-      "summary": "O veículo G1 publicou uma atualização sobre: mulher que ficou presa por 'equívoco' é absolvida 1 ano depois pela Justiça no RS. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/20/mulher-que-ficou-presa-por-equivoco-e-absolvida-rs.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T08:30:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -156,48 +324,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a22278a241f4f7a5",
-      "title": "Podcast trata de mensagens de Vorcaro que implicam Nunes Marques e a política",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: podcast trata de mensagens de Vorcaro que implicam Nunes Marques e a política. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-trata-de-mensagens-de-vorcaro-que-implicam-nunes-marques-e-a-politica.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T08:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5e75f82b661d53a3",
-      "title": "Como a Globo criou a maior fake news da campanha presidencial - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: como a Globo criou a maior fake news da campanha presidencial. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWtqT2ZhTzRGdVJOZVA5OXhHcW5rTjJZdTRYNDVUc1FnYUxLalpRblpSaVFRNk9rWkx3dG5TNXdqME4zeUhrT3FnZ2FUTXV4bThrT2hoeFRfQjNhZXZfejZGUXZ1QU9VSmtQN3JPWi16YmZjdlJpajVYQmlzaGd6djFhSEhNNUhvSFVKS0oyQ1Q3TVNGRnMyYkgxOA?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-20T07:40:28+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ee054673df323814",
-      "title": "Os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1BLVktYMmZYR2J6djIyaWNhenFUOU1BMkVzWlJlNjNBZlppdXQyRDFsck44N3NfaHBwM19nMnc5SGsxODY2ZmQ5blZTRm9qR3NFRlVnTERNYUQtV0Y2ZUVSWnFlVW5NenZ2Nng2eWpRd1VRMmd2S2dvOGJjR3E3c01FRFlVdFh4Y0pGYlVJcnpqcjY3WkVhZzhFX2ZoNDFmQ1N2ZjBNUUQ4aldmSFlaVjYxWTFKVnQtbWc?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-20T07:38:36+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -223,20 +349,6 @@
       "source": "G1",
       "published_at": "2026-10-20T07:00:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8397e0c76ee0a871",
-      "title": "'Só soltou quando os policiais algemaram', diz mãe de menina de 14 anos que imobilizou ladrão com mata-leão em SC",
-      "summary": "O veículo G1 publicou uma atualização sobre: 'Só soltou quando os policiais algemaram', diz mãe de menina de 14 anos que imobilizou ladrão com mata-leão em SC. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/so-soltou-quando-policiais-algemaram-mae-menina-14-anos-imobilizou-ladrao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T07:00:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -301,8 +413,8 @@
     },
     {
       "id": "a13ff8afba7cf350",
-      "title": "Ex-vereador de Queimados é morto a tiros pela polícia na Avenida Brasil, no RJ",
-      "summary": "O veículo G1 publicou uma atualização sobre: ex-vereador de Queimados é morto a tiros pela polícia na Avenida Brasil, no RJ. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Ex-vereador de Queimados é morto a tiros pela polícia na Avenida Brasil, na Zona Norte do Rio",
+      "summary": "O veículo G1 publicou uma atualização sobre: ex-vereador de Queimados é morto a tiros pela polícia na Avenida Brasil, na Zona Norte do Rio. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/20/ex-vereador-de-queimados-e-morto-a-tiros-na-avenida-brasil-no-rj.ghtml",
       "source": "G1",
       "published_at": "2026-10-20T04:40:32+00:00",
@@ -342,16 +454,16 @@
       "archive": false
     },
     {
-      "id": "5c697c61a758335a",
-      "title": "Polícia apura se deputado Marcelo Aguiar cometeu importunação sexual contra mulheres e se deu tiro intencional ou acidental",
+      "id": "b6c5bf281474a538",
+      "title": "Polícia apura se deputado Marcelo Aguiar cometeu importunação sexual contra mulheres e se deu tiro intencional ou acidental - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: polícia apura se deputado Marcelo Aguiar cometeu importunação sexual contra mulheres e se deu tiro intencional ou acidental. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/20/policia-apura-se-deputado-marcelo-aguiar-cometeu-importunacao-sexual-contra-mulheres-e-se-deu-tiro-intencional-ou-acidental.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQWktVTzE5Z2x3b1gwMVk2SE9WNkVORGs4T01Zb1N6TEphQlVfT1ZIRm9PMTM2WFhDRUR1RVR4Q0ZSaHJjTWg5dWthN09FaFlJSXJtN25RT2Ruc2Zzc3Mwa1FmSEtvaGNvNHZzV1hGVVhucHA4RmNpaDVqYU95aVVwOXpnWU8tV0MyaTdGVGxxMklLRlBYNFRfb3l6RUNHQ1ZOc21YOXNxbTVYdjdjaGxnM2ZUeTdsZExMSi1tVmtNQWJXbWE4ODFCMU1QOU1uTHp6SVE4SkRGLUxMZ0lVNFFQbW5lcDJnbGt6a0c3Ull4dDRpYi1YVHJGQTVDVjNNdHBzZjNPVXo4b2ZPQ0E4T19F0gGeAkFVX3lxTE9uYU42QWNMRUo1N0EwazlZRGRxbWZ1dFAyMHFjd2F3czF6c21WdzUtUDgzMExUT1pLY3R4dDNnSVNTVmdhaUJzazNOS09vQzNCN1VkSUUxNnhCb2thVFdLLTluOWNnVEp1NUNZeXVyUmVFMUxnSGpkMjVTVEVKY2RzTmhlSHljSXZENEc5VmhmdC14TFZkSWtKYUh4YUpYUHlDa3NDOXd4Q3dIeFc0dmNXWFpOdEQxNXB2YW5rV3ZOSmE0VXI1TThKWGR0Z0lEWlpNQmJtTFEyOTFnM3FWdkVxUEItR25EZC1wNnZYMktucjBKSS15S0NYaU5heFUyQy1sOGxGSGRWWC1kcUpHTS0zdE1mLXI3MUtrV0N6cXc?oc=5",
       "source": "G1",
       "published_at": "2026-10-20T03:30:00+00:00",
       "category": "Segurança",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -433,20 +545,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-20T02:30:00+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "afd4b35c95b24024",
-      "title": "Imóveis no exterior e artigos de luxo: Ex-presidente do Ideflor-Bio e mulher são investigados por desvio de mais de R$ 14 milhões no PA",
-      "summary": "O veículo G1 publicou uma atualização sobre: imóveis no exterior e artigos de luxo: Ex-presidente do Ideflor-Bio e mulher são investigados por desvio de mais de R$ 14 milhões no PA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/10/19/ex-presidente-do-ideflor-bio-e-mulher-sao-investigados-por-desvio-de-mais-de-r-14-milhoes-no-pa.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T02:18:04+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -580,16 +678,16 @@
       "archive": false
     },
     {
-      "id": "913e96f6b4db2d85",
-      "title": "Peça-chave na campanha de Lula, Janones deve ficar mais dois dias no hospital",
+      "id": "b70b39c70675b5d4",
+      "title": "Peça-chave na campanha de Lula, Janones deve ficar mais dois dias no hospital - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: peça-chave na campanha de Lula, Janones deve ficar mais dois dias no hospital. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/peca-chave-na-campanha-de-lula-janones-deve-ficar-mais-dois-dias-no-hospital/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFRHcW9VNVppSmpWMF9JRmpzTHNMZGx3eVdvdTNDNG5lWGRtZTlJZE9obURpWWtKb1hfa05mUjJRaEZRSHVVbFU5NjFKVENqekhiOFFLQmRZN1pWTWdPOF9BVnlBcElVQjBjX2lUc1FUN1JfRGlvMS1VVml4UjRyOEMtV3l0Q3BoclcxY3FHNmNQdk1ZVXR5Q0NGUlpnNng0RkRmSWJxU1lMUXg0d3pYbWF3?oc=5",
       "source": "VEJA",
       "published_at": "2026-10-19T22:43:39+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -790,20 +888,6 @@
       "archive": false
     },
     {
-      "id": "feba28025ef2b7cf",
-      "title": "Lula anuncia ofício ao TSE abrindo sigilos dele e de 5 filhos e exigindo o mesmo de Flávio Bolsonaro - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: lula anuncia ofício ao TSE abrindo sigilos dele e de 5 filhos e exigindo o mesmo de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQnZsOUJpcWMyMXEyMWtBX05tYzRlSU9XQnVtTnA4b1hYUmJDY29JeThRalhvcXQxVUoxakZicFFsYTJHZHBlQ0ctangxMVpTeWxpTmRJbkFKcUFIWm13LU51MTd1RkhCLWwtRzJOdjlnT0VwVkR6VE1pZUJoRUpCTC1ZbnR5TWJxVnJ0cVZqLWVTd3QzMlltcUhua0pTNTFmVGUxMEEzd1JZekxxd1BZaEpRTmQza3NnZnJjd3pidkcwc1hDeHBPZDVyNUFRWUJqd0JYVXFfa3pibDY5X2hJ0gHkAUFVX3lxTFBZZG1Cdl9UVFZaOUlUeklTdnhXX0JzLUN1Q2JzUWc4NXFNV3VNaG9HZWxXVE1JZnFWRk0wNFRJT2p3ankwMWM5RXZ3bk1CdFpjZWdISjNnczZ6aDg2S2czSm1vbUtrakoxX2FxWGd3SkRnMUdMV3NhYmhmRzlCYVNzRnZJdjVLVUNvTzVpUFJ6dmJ1dEZsSkVHNXAtSy16YmJWdFJaS1ZENEZqbDVrQzhNcTFkNm0zSTNyVlRkWFhNRkhoR2F3WUJhcGVMVGtfME5JRXBvcmJZRXg3OHJ6RlNUaHU1Qw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-19T21:08:24+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "701a7c67456c5b87",
       "title": "Revalida 2026/2: divulgado resultado de casos de logística e de saúde",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: revalida 2026/2: divulgado resultado de casos de logística e de saúde. Consulte a reportagem para contexto, dados e declarações.",
@@ -916,20 +1000,6 @@
       "archive": false
     },
     {
-      "id": "9bc45e18f1293a4e",
-      "title": "Ameaça de bomba obriga voo que partiu de Israel a realizar pouso de emergência na Bulgária",
-      "summary": "O veículo VEJA publicou uma atualização sobre: ameaça de bomba obriga voo que partiu de Israel a realizar pouso de emergência na Bulgária. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/mundo/ameaca-de-bomba-obriga-voo-que-partiu-de-israel-a-realizar-pouso-de-emergencia-na-bulgaria/",
-      "source": "VEJA",
-      "published_at": "2026-10-19T20:33:35+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "1754878d3afeac64",
       "title": "Projeto cria política nacional para proteger povos e comunidades tradicionais de terreiro",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto cria política nacional para proteger povos e comunidades tradicionais de terreiro. Consulte a reportagem para contexto, dados e declarações.",
@@ -1014,20 +1084,6 @@
       "archive": false
     },
     {
-      "id": "04255b8c4e3edb84",
-      "title": "Áudio: Carga máxima de trabalho passará a 42 horas semanais em 15 de dezembro",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Carga máxima de trabalho passará a 42 horas semanais em 15 de dezembro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/carga-maxima-de-trabalho-passara-a-42-horas-semanais-em-15-de-dezembro",
-      "source": "Senado Federal",
-      "published_at": "2026-10-19T19:19:03+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c695ef58fb051eb2",
       "title": "França decreta toque de recolher parcial após protestos terminarem em violência",
       "summary": "O veículo VEJA publicou uma atualização sobre: frança decreta toque de recolher parcial após protestos terminarem em violência. Consulte a reportagem para contexto, dados e declarações.",
@@ -1094,20 +1150,6 @@
       "candidate": "flavio",
       "election_type": "Fala",
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "24498395b358732a",
-      "title": "Flávio propõe retomar regra de transição de dois anos no Bolsa Família para quem conseguir emprego - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: flávio propõe retomar regra de transição de dois anos no Bolsa Família para quem conseguir emprego. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUVGY3NGblphaWlFWUxmRnZvN1JFNUp0TjV5bnJzS1l2a1lHdHdZcVJ4WjZ0N3JMcWNXczc2Z0Z6UGdEYTZPSnk4bEZkRjFjdDMwNUNIQ05ubWh2NUM5R0E1bnNLNnJBU1JtLTNYYVc3cnVvV3hpTFpDZEljMkFWS3hpU09YSkJKMXZocFJMRDBjYUl6WGNZN9IBngFBVV95cUxQWUNoQnBvSXBicDdlQ0NJdEhIRndENldVcjlOb2MwLTA4TG9JdkZYUC00eUFNQUg4WGQzRTJ3X0gwNW4xTlEyOXhqeG1jZURZdUJSRFVTbTNOT3ZoOUdMbU9PeHpqU1o0bWhlS2EwM0UwYk13bW45a29UN1MtTE5SYUJwVDZuaVpSVDFKbjFWdC1LMUk3a3FZOGREYThTdw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-19T17:45:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1308,20 +1350,6 @@
       "archive": false
     },
     {
-      "id": "b9478cb1f4fc7968",
-      "title": "Projeto obriga integração da rede de atendimento a crianças vítimas de violência sexual",
-      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto obriga integração da rede de atendimento a crianças vítimas de violência sexual. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.camara.leg.br/noticias/1306360-projeto-obriga-integracao-da-rede-de-atendimento-a-criancas-vitimas-de-violencia-sexual",
-      "source": "Agência Câmara",
-      "published_at": "2026-10-19T12:28:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c0feb52f1be9fc90",
       "title": "Estudantes bloqueiam acesso ao Museu do Louvre em apoio ao movimento estudantil e protesto contra repressão policial - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: estudantes bloqueiam acesso ao Museu do Louvre em apoio ao movimento estudantil e protesto contra repressão policial. Consulte a reportagem para contexto, dados e declarações.",
@@ -1342,34 +1370,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORV9IMVFtanFNMHFXYThqdENqS3dXbWw5SWUwTFJqYlBKZXZFS2UyYmQzZElseG14QUQ0STlBQ2JZWDN1Vl93TEgzQjRVN050clg2WDhnZldTeHBfdW1ZSmdnRmFxRThuUW1mWHBvS2pQQ2stc05sSkdqaGRnbF9ocjNBb1I1UDN6eUVBc2hLMlVaZ1ltdGRSdlZyNkplQUk4SUxMLTd1Q01VTHFOQWkyRUNiOWZ3dzhmMm1Jc0Z6ekI4blY2cWQ0b25BUlQ2YVpYaHgxMlplTmd2Zk80TU4yMHpvREZLdGlJ?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-19T07:00:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7ee70c9db3b25cd6",
-      "title": "Polícia investiga suspeita de explosivos em carro de Flávio, mas ameaça é descartada - 19/10/2026 - Política - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia investiga suspeita de explosivos em carro de Flávio, mas ameaça é descartada - 19/10/2026 - Política. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVEhWYWl2d2FPUVpyOG9md3czQWhwVk5DdklRM05KcFNCTVhDaDROb0pxMm9WcUFBVHN3RmZfNlJvSjRTVC1NR0J1Yi0tUXh6Zjhxc2lUMU1LWVVjMU5aWFR6ZzEyNERybF8yMTB5b29PMFZzMWpPYTctMFdZUjREaF9UbjRxLURXc1BSZUpQOG1FSGhwYkRFa3lzVThYUUxfXzlXMnQwdktRcVViZTl3dDZURmRnc1NUMHRJdWpNRzk5MDkyZXd3d2dWN3BQdw?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-19T03:09:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5df73b9128e5454c",
-      "title": "Flávio faz 'mea culpa' em debate e admite que governo Bolsonaro 'não teve o melhor resultado' na Saúde - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio faz 'mea culpa' em debate e admite que governo Bolsonaro 'não teve o melhor resultado' na Saúde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMHc0alJ6YXM2QVB5UHVWTlhlSUlfMWV6dzNSZ2MtYnZNZ0dfNHV5Y2pIUF9zNkl3UkNfZEhveDJCa2VBaHREZDNBMjVhZHdmakxsMDI1SlpSRHhSQktkQ1lhd1BZR3p1ZUxtS2dkejF6Mjk0Y2lOcUMzcE53NXZoN0xqUXFYMG5kMHJWbGpEczI5alhkbXpPemRDcWlaNlhOajEyZUhXeVpQNF9jNDNqVHVXOU0zZ21UZ0E4al9ObVkyemZldjJQWUczbkNQcHR6Tm4yUEZIc0k0aVdTUXVIUTR2ZGR2YUktTGxmWmRxOXpFYW5EZG9ueHdqNXN0eDBn0gGPAkFVX3lxTE8zTllndFVOVUx1UlRRaE9NVWhUUXpFWU9IUzhNdko3d1hCSlQyQXVXdC1CWXpPdzA1UWZhUms2d3VHWVNOeGU0eU5Eb25LT2U4MGR0NXpIVkJBVWJnMy01T01YM1ZqaEx1bU5pYTQ0YWJOOEEyODQtTXYycUpuU0M1TjFPR2k3VXdQRk45VVJYVk1GdTNzR2gxeXVKMnd6RTFUTzhrNWNlRGJPVjJ3eEpWQ2NDQk9hNG0tXzZaRW9TX3JCdnZtWmRpRHA3cE13ZTl1MHgtTUdXbDBDZk80ay00MllTV3E4c2lCbHNQbkNiVjNZWTVqZU1JVFFmQlNaT3RTczlCQTZrN0hnajBEeHM?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-19T00:39:09+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
@@ -1521,7 +1521,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 12
+      "items": 18
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1533,7 +1533,7 @@
     },
     "VEJA": {
       "status": "ok",
-      "items": 10
+      "items": 13
     },
     "The New York Times": {
       "status": "ok",
@@ -1549,7 +1549,7 @@
     },
     "Agência Brasil · Economia": {
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     "Agência Brasil · Educação": {
       "status": "ok",
@@ -1581,11 +1581,11 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 38
+      "items": 40
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 42
+      "items": 40
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1593,15 +1593,15 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 57
+      "items": 56
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 14
+      "items": 13
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 19
+      "items": 16
     }
   },
   "notes": [
