@@ -1,10 +1,122 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-20T06:53:09.620076+00:00",
-  "last_success_at": "2026-10-20T06:53:09.620076+00:00",
+  "last_checked_at": "2026-10-20T07:50:11.234765+00:00",
+  "last_success_at": "2026-10-20T07:50:11.234765+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "5e75f82b661d53a3",
+      "title": "Como a Globo criou a maior fake news da campanha presidencial - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: como a Globo criou a maior fake news da campanha presidencial. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWtqT2ZhTzRGdVJOZVA5OXhHcW5rTjJZdTRYNDVUc1FnYUxLalpRblpSaVFRNk9rWkx3dG5TNXdqME4zeUhrT3FnZ2FUTXV4bThrT2hoeFRfQjNhZXZfejZGUXZ1QU9VSmtQN3JPWi16YmZjdlJpajVYQmlzaGd6djFhSEhNNUhvSFVKS0oyQ1Q3TVNGRnMyYkgxOA?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-20T07:40:28+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ee054673df323814",
+      "title": "Os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1BLVktYMmZYR2J6djIyaWNhenFUOU1BMkVzWlJlNjNBZlppdXQyRDFsck44N3NfaHBwM19nMnc5SGsxODY2ZmQ5blZTRm9qR3NFRlVnTERNYUQtV0Y2ZUVSWnFlVW5NenZ2Nng2eWpRd1VRMmd2S2dvOGJjR3E3c01FRFlVdFh4Y0pGYlVJcnpqcjY3WkVhZzhFX2ZoNDFmQ1N2ZjBNUUQ4aldmSFlaVjYxWTFKVnQtbWc?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-20T07:38:36+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "14613b305a626982",
+      "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: trump’s Push for Deals With Russia Powers His Frustration With Ukraine. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-20T07:19:14+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c3e17928de263980",
+      "title": "Emprego: confira as 106 vagas disponíveis em Petrolina, Salgueiro e Araripina",
+      "summary": "O veículo G1 publicou uma atualização sobre: emprego: confira as 106 vagas disponíveis em Petrolina, Salgueiro e Araripina. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/20/emprego-confira-as-106-vagas-disponiveis-em-petrolina-salgueiro-e-araripina.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8397e0c76ee0a871",
+      "title": "'Só soltou quando os policiais algemaram', diz mãe de menina de 14 anos que imobilizou ladrão com mata-leão em SC",
+      "summary": "O veículo G1 publicou uma atualização sobre: 'Só soltou quando os policiais algemaram', diz mãe de menina de 14 anos que imobilizou ladrão com mata-leão em SC. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/20/so-soltou-quando-policiais-algemaram-mae-menina-14-anos-imobilizou-ladrao.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dec9405d818a1046",
+      "title": "Jeep Compass 2027 ganha versões híbridas, mas ainda custa e consome mais que rivais chineses",
+      "summary": "O veículo G1 publicou uma atualização sobre: jeep Compass 2027 ganha versões híbridas, mas ainda custa e consome mais que rivais chineses. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/20/jeep-compass-2027.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7201371410a48825",
+      "title": "Governo Lula quer criar órgão para centralizar gestão de aposentadorias de servidores",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo Lula quer criar órgão para centralizar gestão de aposentadorias de servidores. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-lula-quer-criar-orgao-para-centralizar-gestao-de-aposentadorias-de-servidores.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1ed100f4f4254c6e",
+      "title": "Desempenho de Flávio e desgaste de Gonet antecipam discussão sobre sucessão na PGR",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: desempenho de Flávio e desgaste de Gonet antecipam discussão sobre sucessão na PGR. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/desempenho-de-flavio-e-desgaste-de-gonet-antecipam-discussao-sobre-sucessao-na-pgr.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "9c8c5606e7569bfe",
       "title": "As mentiras da Globo sobre os áudios de Vorcaro denunciando Lula - VEJA",
@@ -62,6 +174,20 @@
       "archive": false
     },
     {
+      "id": "b5ac604eb82e7faa",
+      "title": "A mudança de postura que aliados de Flávio Bolsonaro defendem contra Lula no debate na Globo - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: a mudança de postura que aliados de Flávio Bolsonaro defendem contra Lula no debate na Globo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSEZxSXlmbnFhdV9CdVR0eVhkdTZhbGV4RTZLR3g5MTF6YndCdUxydUE4UHByX0NBYjNNSG1fSllqQUVyUGl5azVoQldyZlpIMlg4eEd3dDl3TzIyODlLNGFpRFIwRExyTVNOQmd3LWFFWm9BVkFRbmNWdzN3bVFzWHJicS1CWnFLZllzT0JoNmpmY3JqQk5LY2FpbmtndnJfbTlyNVRrbjUyLVlNN3JyVFBYaDI0WGVGTDIxb0pWNl9sWGJHQUFVd1RLVURNeDZwaHlpWWtZUG05bGhtY3hpMFVYaUJqZWstX3fSAfgBQVVfeXFMUHppLXUxNzJMNzR3LXVUS3Nma1psTmY4TERkLUxoWjgtM2F0WHc3akswR0dFX1FtUnZla2VGUTl6M0I4TVZzcG5NV3JqRGN4RE1DblZTZjNQaTJXRWwya2V3MXEwdDNkWkh3LTlTTlN3OVlIbUNBWDRDWFY5QVN5bEtfbDlmQjhnc3docV9nSjk5VkltN0VydW9JSmVzNkNoLUFyVG9DelJ6aXZ0dGFqUEJFd1k1VDhPRi1sRllKaTlfbUpHNjhybmVFN25rUFp2c2lBZEdYLTZrRXZFUnpXVkQ0YWlkcFEwZkVlbVlUNWNrNUNEZ0NhcnQ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-20T05:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "a13ff8afba7cf350",
       "title": "Ex-vereador de Queimados é morto a tiros pela polícia na Avenida Brasil, no RJ",
       "summary": "O veículo G1 publicou uma atualização sobre: ex-vereador de Queimados é morto a tiros pela polícia na Avenida Brasil, no RJ. Consulte a reportagem para contexto, dados e declarações.",
@@ -72,34 +198,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5e75f82b661d53a3",
-      "title": "Como a Globo criou a maior fake news da campanha presidencial - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: como a Globo criou a maior fake news da campanha presidencial. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWtqT2ZhTzRGdVJOZVA5OXhHcW5rTjJZdTRYNDVUc1FnYUxLalpRblpSaVFRNk9rWkx3dG5TNXdqME4zeUhrT3FnZ2FUTXV4bThrT2hoeFRfQjNhZXZfejZGUXZ1QU9VSmtQN3JPWi16YmZjdlJpajVYQmlzaGd6djFhSEhNNUhvSFVKS0oyQ1Q3TVNGRnMyYkgxOA?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-20T04:37:53+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ee054673df323814",
-      "title": "Os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: os detalhes da perícia que comprova a autenticidade do áudio de Vorcaro sobre Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1BLVktYMmZYR2J6djIyaWNhenFUOU1BMkVzWlJlNjNBZlppdXQyRDFsck44N3NfaHBwM19nMnc5SGsxODY2ZmQ5blZTRm9qR3NFRlVnTERNYUQtV0Y2ZUVSWnFlVW5NenZ2Nng2eWpRd1VRMmd2S2dvOGJjR3E3c01FRFlVdFh4Y0pGYlVJcnpqcjY3WkVhZzhFX2ZoNDFmQ1N2ZjBNUUQ4aldmSFlaVjYxWTFKVnQtbWc?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-20T04:35:55+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -230,48 +328,6 @@
       "archive": false
     },
     {
-      "id": "a751edd03f4ca07e",
-      "title": "Macaé lidera ranking estadual de Inserção Econômica e é 10ª no Sudeste",
-      "summary": "O veículo G1 publicou uma atualização sobre: macaé lidera ranking estadual de Inserção Econômica e é 10ª no Sudeste. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/10/20/macae-lidera-ranking-estadual-de-insercao-economica-e-e-10a-no-sudeste.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:02:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ee1c2772d11dcc17",
-      "title": "Profissões em alta para 2027 em Fortaleza: veja cargos mais procurados e salários que chegam a R$ 80 mil",
-      "summary": "O veículo G1 publicou uma atualização sobre: profissões em alta para 2027 em Fortaleza: veja cargos mais procurados e salários que chegam a R$ 80 mil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/20/guia-salarial-2027-fortaleza.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:02:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "95d64f677b0dfeb6",
-      "title": "Engenharia, dados e IA estão entre as áreas com maior demanda no RJ em 2027; veja salários",
-      "summary": "O veículo G1 publicou uma atualização sobre: engenharia, dados e IA estão entre as áreas com maior demanda no RJ em 2027; veja salários. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/20/engenharia-dados-e-ia-estao-entre-as-areas-com-maior-demanda-no-rj-em-2027-veja-salarios.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T03:01:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "490ea5953e300257",
       "title": "Profissões em alta para 2027: veja cargos com salários de até R$ 93,5 mil",
       "summary": "O veículo G1 publicou uma atualização sobre: profissões em alta para 2027: veja cargos com salários de até R$ 93,5 mil. Consulte a reportagem para contexto, dados e declarações.",
@@ -391,20 +447,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-20T01:26:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "14613b305a626982",
-      "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: trump’s Push for Deals With Russia Powers His Frustration With Ukraine. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-20T01:00:18+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -748,16 +790,16 @@
       "archive": false
     },
     {
-      "id": "507c2f25eb8ef641",
-      "title": "Inflação dos alimentos de Bolsonaro é o dobro da do governo Lula",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: inflação dos alimentos de Bolsonaro é o dobro da do governo Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/10/inflacao-dos-alimentos-de-bolsonaro-e-o-dobro-da-do-governo-lula.shtml",
+      "id": "92f966ea264c993a",
+      "title": "Opinião - Vaivém: Inflação dos alimentos de Bolsonaro é o dobro da do governo Lula - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: opinião - Vaivém: Inflação dos alimentos de Bolsonaro é o dobro da do governo Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUmhTcUxab05UYVdaWjZmek1HSU5FN1FnNkhJSjg3UWdENDA2VGIxTFdaWFJSS3VscWZWRmpQcUNoVUpBRDhKQ3laZTFpOXl6ZU5lT25fTlJEcVRmRHI3Q0w4X1VRU3Iza0hpak4tNDJ5V1dEY1NScG10eWx4dHkyeW8tTjVHVEhsaUxXZGFUNDcyd2hNVWFjVml0QldaQ0tuSGNtU0ZiRVctTE0xSXo0bEsyaXNjS0xTYjZsaU5kUFM?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-19T20:46:00+00:00",
       "category": "Economia",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -895,20 +937,6 @@
       "source": "Senado Federal",
       "published_at": "2026-10-19T20:00:29+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9eb9240d199db09a",
-      "title": "2º turno: 130 mil eleitores de 22 estados votarão em local diferente",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: 2º turno: 130 mil eleitores de 22 estados votarão em local diferente. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/2o-turno-130-mil-eleitores-de-22-estados-votarao-em-local-diferente",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-19T19:57:00+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1168,20 +1196,6 @@
       "archive": false
     },
     {
-      "id": "25f2a6d96a877249",
-      "title": "XP prevê crescimento de apenas 1% em 2027 e alerta para inflação resistente",
-      "summary": "O veículo VEJA publicou uma atualização sobre: xP prevê crescimento de apenas 1% em 2027 e alerta para inflação resistente. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/economia/xp-preve-crescimento-de-apenas-1-em-2027-e-alerta-para-inflacao-resistente/",
-      "source": "VEJA",
-      "published_at": "2026-10-19T15:00:29+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "60060cf26408da76",
       "title": "Anvisa determina apreensão de lote falsificado de toxina botulínica",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: anvisa determina apreensão de lote falsificado de toxina botulínica. Consulte a reportagem para contexto, dados e declarações.",
@@ -1189,20 +1203,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-19T14:59:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a31ad7d1ae02fb5a",
-      "title": "Economia cresce 0,5% em agosto após dois meses de recuo, estima FGV",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: economia cresce 0,5% em agosto após dois meses de recuo, estima FGV. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/economia-cresce-05-em-agosto-apos-dois-meses-de-recuo-estima-fgv",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-19T14:52:00+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1521,15 +1521,15 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 20
+      "items": 18
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 46
+      "items": 47
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 51
+      "items": 48
     },
     "VEJA": {
       "status": "ok",
@@ -1577,7 +1577,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 66
+      "items": 67
     },
     "Estadão": {
       "status": "ok",
@@ -1585,7 +1585,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 47
+      "items": 46
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1593,11 +1593,11 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 55
+      "items": 57
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 15
+      "items": 14
     },
     "Eleições · Flávio": {
       "status": "ok",
