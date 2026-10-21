@@ -1,10 +1,38 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-21T04:43:13.858248+00:00",
-  "last_success_at": "2026-10-21T04:43:13.858248+00:00",
+  "last_checked_at": "2026-10-21T05:42:30.885004+00:00",
+  "last_success_at": "2026-10-21T05:42:30.885004+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "a84dcf9b70e7ef78",
+      "title": "Aquecimento global vai passar de 1,5°C e pode chegar a 2,8°C, diz ONU",
+      "summary": "O veículo G1 publicou uma atualização sobre: aquecimento global vai passar de 1,5°C e pode chegar a 2,8°C, diz ONU. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/21/aquecimento-global-vai-passar-de-15c-e-pode-chegar-a-28c-diz-onu.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T05:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9c50e707985374f5",
+      "title": "Por que o mercado reage às eleições antes mesmo de a economia mudar?",
+      "summary": "O veículo G1 publicou uma atualização sobre: por que o mercado reage às eleições antes mesmo de a economia mudar?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/21/por-que-o-mercado-reage-as-eleicoes-antes-mesmo-de-a-economia-mudar.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T05:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "23b4d42ad9c785a8",
       "title": "Deputado estadual eleito diz ter sofrido tentativa de assalto na Zona Sul de SP",
@@ -156,6 +184,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a7573d1f8a02644a",
+      "title": "Primeira pesquisa Quaest para presidente após debate entre Flávio e Lula é divulgada - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: primeira pesquisa Quaest para presidente após debate entre Flávio e Lula é divulgada. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeXhJdlV4bnQzM2UxSXR0aEZmMkVxSXZTcktFN2xfc2lqT1Z0WFEtTS1PS014dTFISHdGLXJzLUNhY1JQaUhtcWZ6QmFiclZrNlR4T0dXaHdOLWVXZDM1UkhiX1NhdXNkbjhJNGcwMkIwUGFMQkJDV2swZ2ktY195Uy0zdXdRaWhYN1kyemV3RmFHM3FVbU51SjFsUzFJLXA5OWFXWUZXZXM4OUVFZFZQRXF2UlFxVDhSQkR5RVMwZEZqZEN6RkdDM01WM3AwcTh5RmtGcl9Yd9IB5gFBVV95cUxOeVphVUVkZjh3WEpRdlFkYWVwY3dENTBxaUJuMXhodFNkSTF3SW1HNkxtcVc4cWV1MFJscEU1NnRqV0ZJUFBoQzJwQl9FMlppRjN6RGNIUFUyM3FXcTJYTERoSlZkakJjOXdYaHNyRjVhYjM0dVhUdmdsSzRKVmVWUnRVUzZxdmxBOURleU1rVk1HRGwyOHVlQm9nSWNaS3BJNzgtb2RNOEM3WE1abmMtSERYV2stNlpsSXVZMy1tSzVrc1ZyWTlFa3JBQXF6WS1NYkNNSndvOGdmOE9sdDJPLURhc05VQQ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-21T03:00:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -370,20 +412,6 @@
       "archive": false
     },
     {
-      "id": "5c184077eec87b57",
-      "title": "São Paulo: a nova correlação de forças que Tarcísio encontrará - Nexo Jornal",
-      "summary": "O veículo Nexo Jornal publicou uma atualização sobre: são Paulo: a nova correlação de forças que Tarcísio encontrará - Nexo Jornal. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEpGcVFHNEh2dTA5WWJuRFNHVDRSOW1FWG5wanExcmJMQ09FQ3hnTUd5UTN0TDVFcEhBRDVLTWZKQ3pJYmU1d2kzQlBMdWJHZDRsRlZpaW1zQUlwZjNzS0pZUWZ3TjBNUWNnY213aUhaU1A4TGZrYlZFQ0VnbElGSERYN2ZJTms3LTAxeE85dnJVdw?oc=5",
-      "source": "Nexo Jornal",
-      "published_at": "2026-10-21T01:57:51+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "febaa2d8b799c93d",
       "title": "Atividades de robótica, inteligência artificial e oportunidades de emprego marcam primeiro dia do Senac Capacitar em Manaus",
       "summary": "O veículo G1 publicou uma atualização sobre: atividades de robótica, inteligência artificial e oportunidades de emprego marcam primeiro dia do Senac Capacitar em Manaus. Consulte a reportagem para contexto, dados e declarações.",
@@ -478,34 +506,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3fca1b495ba890d4",
-      "title": "Volodymyr Zelensky diz que voltou a receber ajuda americana contra ataques da Rússia",
-      "summary": "O veículo G1 publicou uma atualização sobre: volodymyr Zelensky diz que voltou a receber ajuda americana contra ataques da Rússia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/20/zelensky-diz-que-voltou-a-receber-ajuda-americana-contra-ataques-da-russia.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T00:57:07+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b724d2f6b8182c03",
-      "title": "UFC lança concurso para professor efetivo em Fortaleza com salário de R$ 6,3 mil - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: uFC lança concurso para professor efetivo em Fortaleza com salário de R$ 6,3 mil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWV8yYUFaejZWUFFhdWhmaW1TeTQtbEJpWVFnWl9tVWtrUEtSS2dXbXZMNHhjUUtTR0JlSUNrRHdsSHNvV0MtenZvaTl6NWpQd2p6X0c3OEFSZFVEMUhnZmlTeVdxNC1mSG1CVFQ0aHpXQzNCSUZiY3hGdURGV3djNjkwcnZfVFFCRjVUUW84c0ZCalBKWXdIeE0xV045TVlSQkUyZENZX3cydEtIbkpPUnh6aG01X3VjcUNZUlVmQTIwbHRpenNZYTBMYjhkeVFDdy0yVktQRzVLX3PSAeoBQVVfeXFMT0FqMU5Ic3BBOHpBZzZhNGtVcXBVRHZQdV96dTN2WUVLdGljaW5Fb1dfSk5oMzZmdkRSbTFmb0dDWHplVWZCdy1ydVJ5alJFbUZENno2SzVNSFVGeG13WFBZdTU4Wkc4ZmtuNmRLdHVRMlNFWnl4R0lhay1uem9Fc1Vkek1CY0pRa005RjlwZ25rNmcwejEzYVBnM0VkNDVyQ2VvYXIxNmlqVW1BaTRwakxKSnpDQ1hERnE0SDJHbkRlZ2Y3ZkpJZFhVU1ZObDhldWtSM3FFUDZZelN4LUxRMUJzTDNTY2JqOGZn?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-21T00:54:51+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -898,20 +898,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6b1a681e0412f58b",
-      "title": "iFood paga R$ 1 bilhão por Caju e aumenta aposta no mercado de benefícios corporativos - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: iFood paga R$ 1 bilhão por Caju e aumenta aposta no mercado de benefícios corporativos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdk9kclNjcU00LVZzVHRFY2NGTjY5TnJLZWVYcXlfUzdkNUZiOTlCTmZwMng1T3d6cDdPWTJJaU5wZzJhT1JQc19fS25rUG9wZFpEX0FTTW1sclpYOG9pZ1RWS1JBT3dKc0t2MFAzSERwSi1xMnNRVkczNlhsUXhnOUJrdFRXb0JFc2hqRE1CMjhaVGZnN2lwQkVUY2lLblZHQmk3aWI0YWtCU2tLR1BHbU5qQllCRHllVUpSSG9Hd25jWHdmY1BCdmdoajgzekstNzdfNGNsZDAwdXhqaVBCYko4dFpJSWFH0gH3AUFVX3lxTE9zUTRoS1JIY0VweFBzaWNVcWlpZm5qSkVrM19TRlJZcDlLUm44amhLZUhHQWhqNmFwVFpFMVFobEVzQ0ROR0VTZkZKVG1NWFdtcDJUUDM4aVBNM2xrcWtaaFR5SUVsVEZMaVR0Mmt6ZXFNendWd2tCWEtmZXh4d1BVandNYVhuNkhUUjY1WVQxTExkM0NpS0VhUFBZaklDdUdrZkxSalNhYUxGdzF1UnE1ZDkzYTJXZFlsVTk4TENjZUJYNjNCdTRxb3Ywcmt1Q2gwTHRSeFJCTDRka2piSWVod0wtRjVhTlBOeHJZemtyZlZWOGFTcDA?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-20T21:28:03+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1469,7 +1455,7 @@
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 62
+      "items": 63
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1525,19 +1511,19 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 43
+      "items": 42
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 43
+      "items": 41
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 53
+      "items": 55
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 65
+      "items": 63
     },
     "Eleições · Lula": {
       "status": "ok",
@@ -1545,7 +1531,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 21
+      "items": 20
     }
   },
   "notes": [
