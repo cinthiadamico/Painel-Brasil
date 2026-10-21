@@ -1,10 +1,192 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-21T05:42:30.885004+00:00",
-  "last_success_at": "2026-10-21T05:42:30.885004+00:00",
+  "last_checked_at": "2026-10-21T06:54:34.148378+00:00",
+  "last_success_at": "2026-10-21T06:54:34.148378+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "5a89ecda086bebfc",
+      "title": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: china Moves to Tighten Its Grip Over Exports of Top A.I. Models. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/21/world/asia/china-moves-to-tighten-its-grip-over-exports-of-top-ai-models.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-21T06:39:10+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8c27f94baf11cb42",
+      "title": "Rubio diz que EUA não sabiam de problemas em sistema da SpaceX usado pela Ucrânia em guerra",
+      "summary": "O veículo G1 publicou uma atualização sobre: rubio diz que EUA não sabiam de problemas em sistema da SpaceX usado pela Ucrânia em guerra. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/21/rubio-diz-que-eua-nao-sabiam-de-problemas-em-sistema-da-spacex-usado-pela-ucrania-em-guerra.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T06:04:33+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0cd4946569eed99b",
+      "title": "Alzheimer: estudo identifica ondas cerebrais que podem ajudar a prever risco da doença",
+      "summary": "O veículo G1 publicou uma atualização sobre: alzheimer: estudo identifica ondas cerebrais que podem ajudar a prever risco da doença. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/saude/noticia/2026/10/21/alzheimer-estudo-identifica-ondas-cerebrais-que-podem-ajudar-a-prever-risco-da-doenca.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1665cbe119b9879c",
+      "title": "Após seis anos de atraso e crises de segurança, maior Boeing 737 MAX 10 é aprovado para voar; conheça",
+      "summary": "O veículo G1 publicou uma atualização sobre: após seis anos de atraso e crises de segurança, maior Boeing 737 MAX 10 é aprovado para voar; conheça. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/apos-seis-anos-de-atraso-e-crises-de-seguranca-maior-boeing-737-max-10-e-aprovado-para-voar-conheca.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fd9cfee9eae1aae5",
+      "title": "Os maiores salários para 2027: veja ranking de carreiras por setor, para quem quer ou não ser chefe",
+      "summary": "O veículo G1 publicou uma atualização sobre: os maiores salários para 2027: veja ranking de carreiras por setor, para quem quer ou não ser chefe. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/21/os-maiores-salarios-para-2027-veja-ranking-de-carreiras-por-setor-para-quem-quer-ou-nao-ser-chefe.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "078b8a0152188b29",
+      "title": "De produtos baratos a líderes de tecnologia: como a China passou a superar gigantes ocidentais",
+      "summary": "O veículo G1 publicou uma atualização sobre: de produtos baratos a líderes de tecnologia: como a China passou a superar gigantes ocidentais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/inovacao/noticia/2026/10/21/de-produtos-baratos-a-lideres-de-tecnologia-como-a-china-passou-a-superar-gigantes-ocidentais.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T06:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e71f9607aa5f8ee1",
+      "title": "Caso Marco Nanini: retirada de intérprete de Libras durante peça põe à prova acessibilidade prevista na Lei Brasileira de Inclusão",
+      "summary": "O veículo G1 publicou uma atualização sobre: caso Marco Nanini: retirada de intérprete de Libras durante peça põe à prova acessibilidade prevista na Lei Brasileira de Inclusão. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/21/caso-marco-nanini-retirada-de-interprete-de-libras-do-palco-lei.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "36f28f7605cb374e",
+      "title": "Acordar cansado todos os dias não é normal; entenda quando a insônia vira doença",
+      "summary": "O veículo G1 publicou uma atualização sobre: acordar cansado todos os dias não é normal; entenda quando a insônia vira doença. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/10/21/acordar-cansado-todos-os-dias-nao-e-normal-entenda-quando-a-insonia-vira-doenca.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8eebcfd154cd4b5a",
+      "title": "Enem 2026: é melhor chutar ou deixar questões em branco? Entenda a TRI",
+      "summary": "O veículo G1 publicou uma atualização sobre: enem 2026: é melhor chutar ou deixar questões em branco? Entenda a TRI. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/educacao/enem/2026/noticia/2026/10/21/enem-2026-chutar-ou-deixar-questoes-em-branco-entenda-a-tri.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T06:00:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1665cbe119b9879c",
+      "title": "Após seis anos de atraso e crises de segurança, maior Boeing 737 MAX 10 é aprovado para voar; conheça",
+      "summary": "O veículo G1 publicou uma atualização sobre: após seis anos de atraso e crises de segurança, maior Boeing 737 MAX 10 é aprovado para voar; conheça. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/apos-seis-anos-de-atraso-e-crises-de-seguranca-maior-boeing-737-max-10-e-aprovado-para-voar-conheca.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T06:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fd9cfee9eae1aae5",
+      "title": "Os maiores salários para 2027: veja ranking de carreiras por setor, para quem quer ou não ser chefe",
+      "summary": "O veículo G1 publicou uma atualização sobre: os maiores salários para 2027: veja ranking de carreiras por setor, para quem quer ou não ser chefe. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/21/os-maiores-salarios-para-2027-veja-ranking-de-carreiras-por-setor-para-quem-quer-ou-nao-ser-chefe.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T06:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "14c2e0e05dac7639",
+      "title": "Chefe da Ferrari dá nota 10 a Tesla que 'voa' e elogia Elon Musk: 'Temos que continuar sonhando'",
+      "summary": "O veículo G1 publicou uma atualização sobre: chefe da Ferrari dá nota 10 a Tesla que 'voa' e elogia Elon Musk: 'Temos que continuar sonhando'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/carros/noticia/2026/10/21/chefe-da-ferrari-da-nota-10-a-tesla-que-voa-e-elogia-elon-musk-temos-que-continuar-sonhando.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T06:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "63ebaa6dae64552f",
+      "title": "Getty Images entra com pedido de recuperação judicial nos EUA",
+      "summary": "O veículo G1 publicou uma atualização sobre: getty Images entra com pedido de recuperação judicial nos EUA. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/getty-images-entra-com-pedido-de-recuperacao-judicial-nos-eua.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T05:48:07+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "a84dcf9b70e7ef78",
       "title": "Aquecimento global vai passar de 1,5°C e pode chegar a 2,8°C, diz ONU",
@@ -146,48 +328,6 @@
       "archive": false
     },
     {
-      "id": "8423a1b873c767f1",
-      "title": "Eleições 2026: qual é a ordem de votação no segundo turno?",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: qual é a ordem de votação no segundo turno?. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/-qual-e-a-ordem-de-votacao-no-segundo-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T03:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ba413f7a33604946",
-      "title": "Lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI",
-      "summary": "O veículo G1 publicou uma atualização sobre: lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/21/lula-sanciona-nesta-quarta-lei-que-preve-perdao-de-dividas-e-aumento-do-teto-de-faturamento-para-mei.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T03:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ba413f7a33604946",
-      "title": "Lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI",
-      "summary": "O veículo G1 publicou uma atualização sobre: lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/21/lula-sanciona-nesta-quarta-lei-que-preve-perdao-de-dividas-e-aumento-do-teto-de-faturamento-para-mei.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T03:00:01+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a7573d1f8a02644a",
       "title": "Primeira pesquisa Quaest para presidente após debate entre Flávio e Lula é divulgada - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: primeira pesquisa Quaest para presidente após debate entre Flávio e Lula é divulgada. Consulte a reportagem para contexto, dados e declarações.",
@@ -198,90 +338,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "de62a629cb65a893",
-      "title": "Eleições de meio de mandato nos EUA: o que são as midterms, quando será a votação e o que está em jogo em 2026",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições de meio de mandato nos EUA: o que são as midterms, quando será a votação e o que está em jogo em 2026. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/21/eleicoes-de-meio-de-mandato-nos-eua-o-que-sao-as-midterms-quando-sera-a-votacao-e-o-que-esta-em-jogo-em-2026.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T03:00:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5ab57184df9ba413",
-      "title": "Qual é o número de Flávio Bolsonaro, candidato do PL à Presidência da República",
-      "summary": "O veículo G1 publicou uma atualização sobre: qual é o número de Flávio Bolsonaro, candidato do PL à Presidência da República. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/qual-e-o-numero-de-flavio-bolsonaro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T03:00:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a52640227a11daf2",
-      "title": "Quaest divulga nova pesquisa presidencial nesta quarta-feira (21)",
-      "summary": "O veículo G1 publicou uma atualização sobre: quaest divulga nova pesquisa presidencial nesta quarta-feira (21). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/21/quaest-divulga-nova-pesquisa-presidencial-nesta-quarta-feira-21.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "51fc0f1f92596641",
-      "title": "De Bolsa Família à maioridade penal: veja o que Flávio Bolsonaro e Lula mudaram em seus discursos",
-      "summary": "O veículo G1 publicou uma atualização sobre: de Bolsa Família à maioridade penal: veja o que Flávio Bolsonaro e Lula mudaram em seus discursos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/de-bolsa-familia-a-maioridade-penal-veja-o-que-flavio-bolsonaro-e-lula-mudaram-em-seus-discursos.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "91ac2be64d3c8edb",
-      "title": "Morte do cantor Rick: um mês após queda, destroços de helicóptero seguem no local e polícia busca pistas em celulares",
-      "summary": "O veículo G1 publicou uma atualização sobre: morte do cantor Rick: um mês após queda, destroços de helicóptero seguem no local e polícia busca pistas em celulares. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/21/morte-do-cantor-rick-um-mes-apos-queda-helicoptero-investigacao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T03:00:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a55a504d37c6570a",
-      "title": "Smart Sampa: como funciona o sistema de 58 mil câmeras de SP que teve senhas expostas por 11 meses",
-      "summary": "O veículo G1 publicou uma atualização sobre: smart Sampa: como funciona o sistema de 58 mil câmeras de SP que teve senhas expostas por 11 meses. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/21/smart-sampa-como-funciona-o-sistema-de-58-mil-cameras-de-sp-que-teve-senhas-expostas-por-11-meses.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T03:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -398,34 +454,6 @@
       "archive": false
     },
     {
-      "id": "2cfbd0593d5a290d",
-      "title": "Lula mantém liderança sobre Flávio Bolsonaro em índice de popularidade digital após debate",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula mantém liderança sobre Flávio Bolsonaro em índice de popularidade digital após debate. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-mantem-lideranca-sobre-flavio-bolsonaro-em-indice-de-popularidade-digital-apos-debate.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "febaa2d8b799c93d",
-      "title": "Atividades de robótica, inteligência artificial e oportunidades de emprego marcam primeiro dia do Senac Capacitar em Manaus",
-      "summary": "O veículo G1 publicou uma atualização sobre: atividades de robótica, inteligência artificial e oportunidades de emprego marcam primeiro dia do Senac Capacitar em Manaus. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/20/atividades-de-robotica-inteligencia-artificial-e-oportunidades-de-emprego-marcam-primeiro-dia-do-senac-capacitar-em-manaus.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T01:38:34+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "dd77d425e4940c11",
       "title": "Mega-Sena não tem acertador e prêmio vai a R$ 200 milhões",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: mega-Sena não tem acertador e prêmio vai a R$ 200 milhões. Consulte a reportagem para contexto, dados e declarações.",
@@ -447,34 +475,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-21T01:23:00+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b01b8e3468a50f67",
-      "title": "Conselho Internacional de Supervisão da Meta critica atuação da empresa durante as eleições no Brasil",
-      "summary": "O veículo G1 publicou uma atualização sobre: conselho Internacional de Supervisão da Meta critica atuação da empresa durante as eleições no Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/20/conselho-internacional-de-supervisao-da-meta-critica-atuacao-da-empresa-durante-as-eleicoes-no-brasil.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T01:11:56+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "581e54191788af53",
-      "title": "Condenado por matar ex durante festa de aniversário no TO é preso quase sete anos após crime",
-      "summary": "O veículo G1 publicou uma atualização sobre: condenado por matar ex durante festa de aniversário no TO é preso quase sete anos após crime. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/20/condenado-por-matar-ex-durante-festa-de-aniversario-no-to-e-preso-quase-sete-anos-apos-crime.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T01:09:18+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -720,20 +720,6 @@
       "archive": false
     },
     {
-      "id": "eabde99783a4b070",
-      "title": "Eleição no Brasil é a mais importante para o mundo fora dos EUA em 2026, diz Daron Acemoglu",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eleição no Brasil é a mais importante para o mundo fora dos EUA em 2026, diz Daron Acemoglu. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eleicao-no-brasil-e-a-mais-importante-para-o-mundo-fora-dos-eua-em-2026-diz-daron-acemoglu.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T23:04:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "8b46817c44eb083c",
       "title": "STF julga nesta sexta regra da distância mínima para torres de celular",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: sTF julga nesta sexta regra da distância mínima para torres de celular. Consulte a reportagem para contexto, dados e declarações.",
@@ -811,20 +797,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-20T22:08:00+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c8725814139507c5",
-      "title": "UE apresenta nova estratégia para o Ártico diante de ameaças dos EUA e da Rússia",
-      "summary": "O veículo VEJA publicou uma atualização sobre: uE apresenta nova estratégia para o Ártico diante de ameaças dos EUA e da Rússia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/mundo/ue-apresenta-nova-estrategia-para-o-artico-diante-de-ameacas-dos-eua-e-da-russia/",
-      "source": "VEJA",
-      "published_at": "2026-10-20T21:59:50+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -986,6 +958,20 @@
       "archive": false
     },
     {
+      "id": "8830db7d20210529",
+      "title": "O que o xixi pode revelar sobre a saúde e quais sinais merecem atenção",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: o que o xixi pode revelar sobre a saúde e quais sinais merecem atenção. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/o-que-o-xixi-pode-revelar-sobre-a-saude-e-quais-sinais-merecem-atencao.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T20:19:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "9a2b6bc9c9120b87",
       "title": "André Janones recebe alta e deixa hospital em São Paulo",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: andré Janones recebe alta e deixa hospital em São Paulo. Consulte a reportagem para contexto, dados e declarações.",
@@ -1140,6 +1126,20 @@
       "archive": false
     },
     {
+      "id": "fc25e7bda302a1ef",
+      "title": "Janones sai do hospital, compara Lula a Messi e diz que petista não precisa usar redes sociais - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: janones sai do hospital, compara Lula a Messi e diz que petista não precisa usar redes sociais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUHdiUWtvQVpCVS01blZoYWV4TlJCalRNYlNiTm5LRWYweUVIN0xoQ3ozb0RkRGtOd0NQZi1KSGlPTzZFWVNpV28zaXVhZElmRmFwa09NSXdwaG9RN1pRbzhzUnFxV1NDRTNXbGJDblVwN3RWSHBHWEhlcElEa3BYWTdIN1N5M25ZbEJPS253Vk1rREpLSTlBOUJQZ2hQTzJNWTBnN1ZhN0hNcHRJQ0FONlk0WW5WWTlyVjYwcWdJX0dzUS02OWxRdEdIUWxiVWgxZk9LUTNCQXZ5aTQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T17:25:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "b8ec23200a9c25b0",
       "title": "Áudio: Atuação em saúde e pesquisa é destaque em sessão pelos 60 anos da Unicamp",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Atuação em saúde e pesquisa é destaque em sessão pelos 60 anos da Unicamp. Consulte a reportagem para contexto, dados e declarações.",
@@ -1205,20 +1205,6 @@
       "category": "Eleições",
       "candidate": "flavio",
       "election_type": "Proposta",
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "18281a0009066817",
-      "title": "Governo impõe emergência zoossanitária após detectar Newcastle em SC",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo impõe emergência zoossanitária após detectar Newcastle em SC. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/governo-impoe-emergencia-zoossanitaria-apos-detectar-newcastle-em-sc",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-20T15:52:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
       "via_aggregator": false,
       "curated": false,
       "archive": false
@@ -1294,20 +1280,6 @@
       "archive": false
     },
     {
-      "id": "924d1f87320c93aa",
-      "title": "Hipertensão atinge 28% de crianças e adolescentes, mostra estudo",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: hipertensão atinge 28% de crianças e adolescentes, mostra estudo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/hipertensao-atinge-28-de-criancas-e-adolescentes-mostra-estudo",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-20T13:03:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ec5bb966e3446ce6",
       "title": "Ministério Público do Rio renova acordo para enfrentar criminalidade",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: ministério Público do Rio renova acordo para enfrentar criminalidade. Consulte a reportagem para contexto, dados e declarações.",
@@ -1360,6 +1332,34 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "720c6d36bc754c42",
+      "title": "Governo pretende realocar R$ 20 bilhões no Orçamento de 2027",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo pretende realocar R$ 20 bilhões no Orçamento de 2027. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-pretende-realocar-r-20-bilhoes-no-orcamento-de-2027",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-19T18:50:00+00:00",
+      "category": "Endividamento",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "49e0d938508412a5",
+      "title": "Provas de português para estrangeiros começam nesta terça-feira",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: provas de português para estrangeiros começam nesta terça-feira. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/provas-de-portugues-para-estrangeiros-comecam-nesta-terca-feira",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-19T16:24:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1451,15 +1451,15 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 24
+      "items": 23
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 63
+      "items": 68
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 50
+      "items": 49
     },
     "VEJA": {
       "status": "ok",
@@ -1467,7 +1467,7 @@
     },
     "The New York Times": {
       "status": "ok",
-      "items": 6
+      "items": 7
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1515,7 +1515,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 41
+      "items": 44
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1523,7 +1523,7 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 63
+      "items": 62
     },
     "Eleições · Lula": {
       "status": "ok",
@@ -1531,7 +1531,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 20
+      "items": 21
     }
   },
   "notes": [
