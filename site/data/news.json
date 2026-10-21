@@ -1,10 +1,192 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-21T02:43:04.733787+00:00",
-  "last_success_at": "2026-10-21T02:43:04.733787+00:00",
+  "last_checked_at": "2026-10-21T03:44:01.950759+00:00",
+  "last_success_at": "2026-10-21T03:44:01.950759+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "71b3e2b627ca5312",
+      "title": "Proposta dos candidatos para crédito levam a juros maiores",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: proposta dos candidatos para crédito levam a juros maiores. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2026/10/proposta-dos-candidatos-para-credito-levam-a-juros-maiores.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T03:41:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c073bb7a2ada2e97",
+      "title": "O Bolsa Família na reta final da eleição - O Assunto #1829",
+      "summary": "O veículo G1 publicou uma atualização sobre: o Bolsa Família na reta final da eleição - O Assunto #1829. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/21/o-bolsa-familia-na-reta-final-da-eleicao-o-assunto-1829.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T03:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b410038df354eaec",
+      "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: china Criticizes U.S. Ban on DeepSeek A.I. in Government Systems. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-21T03:15:01+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8270b1f350ec7ddc",
+      "title": "Lula envia ao Congresso nesta quarta PEC que prevê tarifa zero para ônibus aos finais de semana",
+      "summary": "O veículo G1 publicou uma atualização sobre: lula envia ao Congresso nesta quarta PEC que prevê tarifa zero para ônibus aos finais de semana. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/21/lula-envia-ao-congresso-nesta-quarta-pec-que-preve-tarifa-zero-para-onibus-aos-finais-de-semana.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T03:00:01+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8423a1b873c767f1",
+      "title": "Eleições 2026: qual é a ordem de votação no segundo turno?",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: qual é a ordem de votação no segundo turno?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/-qual-e-a-ordem-de-votacao-no-segundo-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T03:00:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ba413f7a33604946",
+      "title": "Lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI",
+      "summary": "O veículo G1 publicou uma atualização sobre: lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/21/lula-sanciona-nesta-quarta-lei-que-preve-perdao-de-dividas-e-aumento-do-teto-de-faturamento-para-mei.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T03:00:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ba413f7a33604946",
+      "title": "Lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI",
+      "summary": "O veículo G1 publicou uma atualização sobre: lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/10/21/lula-sanciona-nesta-quarta-lei-que-preve-perdao-de-dividas-e-aumento-do-teto-de-faturamento-para-mei.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T03:00:01+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "de62a629cb65a893",
+      "title": "Eleições de meio de mandato nos EUA: o que são as midterms, quando será a votação e o que está em jogo em 2026",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições de meio de mandato nos EUA: o que são as midterms, quando será a votação e o que está em jogo em 2026. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/21/eleicoes-de-meio-de-mandato-nos-eua-o-que-sao-as-midterms-quando-sera-a-votacao-e-o-que-esta-em-jogo-em-2026.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T03:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5ab57184df9ba413",
+      "title": "Qual é o número de Flávio Bolsonaro, candidato do PL à Presidência da República",
+      "summary": "O veículo G1 publicou uma atualização sobre: qual é o número de Flávio Bolsonaro, candidato do PL à Presidência da República. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/qual-e-o-numero-de-flavio-bolsonaro.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T03:00:00+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a52640227a11daf2",
+      "title": "Quaest divulga nova pesquisa presidencial nesta quarta-feira (21)",
+      "summary": "O veículo G1 publicou uma atualização sobre: quaest divulga nova pesquisa presidencial nesta quarta-feira (21). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/21/quaest-divulga-nova-pesquisa-presidencial-nesta-quarta-feira-21.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "51fc0f1f92596641",
+      "title": "De Bolsa Família à maioridade penal: veja o que Flávio Bolsonaro e Lula mudaram em seus discursos",
+      "summary": "O veículo G1 publicou uma atualização sobre: de Bolsa Família à maioridade penal: veja o que Flávio Bolsonaro e Lula mudaram em seus discursos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/de-bolsa-familia-a-maioridade-penal-veja-o-que-flavio-bolsonaro-e-lula-mudaram-em-seus-discursos.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "91ac2be64d3c8edb",
+      "title": "Morte do cantor Rick: um mês após queda, destroços de helicóptero seguem no local e polícia busca pistas em celulares",
+      "summary": "O veículo G1 publicou uma atualização sobre: morte do cantor Rick: um mês após queda, destroços de helicóptero seguem no local e polícia busca pistas em celulares. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/21/morte-do-cantor-rick-um-mes-apos-queda-helicoptero-investigacao.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T03:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a55a504d37c6570a",
+      "title": "Smart Sampa: como funciona o sistema de 58 mil câmeras de SP que teve senhas expostas por 11 meses",
+      "summary": "O veículo G1 publicou uma atualização sobre: smart Sampa: como funciona o sistema de 58 mil câmeras de SP que teve senhas expostas por 11 meses. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/21/smart-sampa-como-funciona-o-sistema-de-58-mil-cameras-de-sp-que-teve-senhas-expostas-por-11-meses.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T03:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "9cbac89709336356",
       "title": "Juristas e ex-ministros do STF assinam manifesto pela Constituição e democracia",
@@ -174,76 +356,6 @@
       "archive": false
     },
     {
-      "id": "1c9ee36020be3cd8",
-      "title": "Flávio Bolsonaro, candidato do PL à Presidência, se reúne com cantores sertanejos em Goiás",
-      "summary": "O veículo G1 publicou uma atualização sobre: flávio Bolsonaro, candidato do PL à Presidência, se reúne com cantores sertanejos em Goiás. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/20/flavio-bolsonaro-candidato-do-pl-a-presidencia-se-reune-com-cantores-sertanejos-em-goias.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T01:46:26+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d1f6799d15656cfc",
-      "title": "PF aponta que Willer Tomaz pagou para retirar do ar notícias que citavam relação com Flávio Bolsonaro",
-      "summary": "O veículo G1 publicou uma atualização sobre: pF aponta que Willer Tomaz pagou para retirar do ar notícias que citavam relação com Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/20/pf-aponta-que-willer-tomaz-pagou-para-retirar-do-ar-noticias-que-citavam-relacao-com-flavio-bolsonaro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T01:44:02+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cc8ffb68f7576a9c",
-      "title": "Campanha de Flávio Bolsonaro volta a acionar Nunes Marques diretamente sobre ‘Exército de Lula’; PT contesta pedido",
-      "summary": "O veículo G1 publicou uma atualização sobre: campanha de Flávio Bolsonaro volta a acionar Nunes Marques diretamente sobre ‘Exército de Lula’; PT contesta pedido. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/20/campanha-flavio-bolsonaro-nunes-marques-exercito-de-lula-pt.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T01:43:34+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9f8d0494755fa5af",
-      "title": "A última pesquisa Real Time Big Data sobre a disputa Lula x Flávio antes do segundo turno",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a última pesquisa Real Time Big Data sobre a disputa Lula x Flávio antes do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/a-ultima-pesquisa-real-time-big-data-sobre-a-disputa-lula-x-flavio-antes-do-segundo-turno/",
-      "source": "VEJA",
-      "published_at": "2026-10-21T01:40:38+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d09994ecd7267a00",
-      "title": "Presidente Lula, candidato à reeleição pelo PT, visita 3 cidades no Nordeste do Brasil",
-      "summary": "O veículo G1 publicou uma atualização sobre: presidente Lula, candidato à reeleição pelo PT, visita 3 cidades no Nordeste do Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/20/presidente-lula-candidato-a-reeleicao-pelo-pt-visita-3-cidades-no-nordeste.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T01:38:37+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "febaa2d8b799c93d",
       "title": "Atividades de robótica, inteligência artificial e oportunidades de emprego marcam primeiro dia do Senac Capacitar em Manaus",
       "summary": "O veículo G1 publicou uma atualização sobre: atividades de robótica, inteligência artificial e oportunidades de emprego marcam primeiro dia do Senac Capacitar em Manaus. Consulte a reportagem para contexto, dados e declarações.",
@@ -384,20 +496,6 @@
       "archive": false
     },
     {
-      "id": "b410038df354eaec",
-      "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: china Criticizes U.S. Ban on DeepSeek A.I. in Government Systems. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-21T00:48:25+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a9afbfe03ae56eb5",
       "title": "França vai mobilizar polícia antiterrorismo para conter novos protestos",
       "summary": "O veículo G1 publicou uma atualização sobre: frança vai mobilizar polícia antiterrorismo para conter novos protestos. Consulte a reportagem para contexto, dados e declarações.",
@@ -454,34 +552,6 @@
       "archive": false
     },
     {
-      "id": "c5b4710e7f5ee9bd",
-      "title": "Aedes aegypti: cerca de 1,8 mil cidades estão em alerta ou em situação de risco por causa do mosquito transmissor da dengue",
-      "summary": "O veículo G1 publicou uma atualização sobre: aedes aegypti: cerca de 1,8 mil cidades estão em alerta ou em situação de risco por causa do mosquito transmissor da dengue. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/20/aedes-aegypti-cerca-de-18-mil-cidades-brasileiras-estao-em-alerta-ou-em-situacao-de-risco-por-causa-do-mosquito-transmissor-da-dengue.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T00:20:18+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6dbcfa28a0987990",
-      "title": "Mega-Sena 3072 acumula e prêmio vai a R$ 200 milhões; confira os números sorteados",
-      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena 3072 acumula e prêmio vai a R$ 200 milhões; confira os números sorteados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/20/mega-sena-concurso-3072-confira-os-numeros-sorteados.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T00:02:10+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "19ed6a17ef528130",
       "title": "TSE reúne Meta e campanhas para tratar de restrições de postagens",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: tSE reúne Meta e campanhas para tratar de restrições de postagens. Consulte a reportagem para contexto, dados e declarações.",
@@ -517,20 +587,6 @@
       "source": "VEJA",
       "published_at": "2026-10-20T23:52:04+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e36a5ee92231ddcb",
-      "title": "AGU pede que Justiça retire R$ 190,3 milhões em bens de suspeitos de envolvimento com crime organizado",
-      "summary": "O veículo G1 publicou uma atualização sobre: aGU pede que Justiça retire R$ 190,3 milhões em bens de suspeitos de envolvimento com crime organizado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/20/agu-pede-que-justica-retire-r-1903-milhoes-em-bens-de-suspeitos-de-envolvimento-com-crime-organizado.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T23:45:34+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -594,20 +650,6 @@
       "archive": false
     },
     {
-      "id": "d00589270e6763d3",
-      "title": "Adolescente é agredido por dois alunos em escola municipal no interior de SP",
-      "summary": "O veículo G1 publicou uma atualização sobre: adolescente é agredido por dois alunos em escola municipal no interior de SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/20/adolescente-e-agredido-por-dois-alunos-em-escola-municipal-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T23:28:04+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "885baae4b2e99554",
       "title": "China, México e Chile restringem importações de frango do Brasil por doença de Newcastle em SC",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: china, México e Chile restringem importações de frango do Brasil por doença de Newcastle em SC. Consulte a reportagem para contexto, dados e declarações.",
@@ -646,34 +688,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dc6b2d735637a858",
-      "title": "Bebê de 11 meses internado em UTI no Acre está livre do sarampo, mas segue em estado grave, diz Saúde",
-      "summary": "O veículo G1 publicou uma atualização sobre: bebê de 11 meses internado em UTI no Acre está livre do sarampo, mas segue em estado grave, diz Saúde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ac/acre/noticia/2026/10/20/bebe-de-11-meses-internado-em-uti-no-acre-esta-livre-do-sarampo-mas-segue-em-estado-grave-diz-saude.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T23:13:19+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "85fa4def1f9e04e0",
-      "title": "STF extingue mandado de segurança que buscava garantir mandato de Michel Magul para vaga de Aava Santiago",
-      "summary": "O veículo G1 publicou uma atualização sobre: sTF extingue mandado de segurança que buscava garantir mandato de Michel Magul para vaga de Aava Santiago. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/10/20/stf-extingue-mandado-de-seguranca-que-buscava-garantir-mandato-de-michel-magul-para-vaga-de-aava-santiago.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T23:11:53+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -726,20 +740,6 @@
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/stf-julga-nesta-sexta-regra-da-distancia-minima-para-torres-de-celular.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-20T23:00:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7bc295a16a6886aa",
-      "title": "Justiça Eleitoral proíbe deputado e vereadora do PL de usar som perto de escolas e universidades no RN",
-      "summary": "O veículo G1 publicou uma atualização sobre: justiça Eleitoral proíbe deputado e vereadora do PL de usar som perto de escolas e universidades no RN. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/20/justica-eleitoral-proibe-deputado-e-vereadora-do-pl-de-usar-som-perto-de-escolas-e-universidades-no-rn.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T22:46:32+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
@@ -888,10 +888,10 @@
       "archive": false
     },
     {
-      "id": "a30de44405a3ed73",
+      "id": "6b1a681e0412f58b",
       "title": "iFood paga R$ 1 bilhão por Caju e aumenta aposta no mercado de benefícios corporativos - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: iFood paga R$ 1 bilhão por Caju e aumenta aposta no mercado de benefícios corporativos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdk9kclNjcU00LVZzVHRFY2NGTjY5TnJLZWVYcXlfUzdkNUZiOTlCTmZwMng1T3d6cDdPWTJJaU5wZzJhT1JQc19fS25rUG9wZFpEX0FTTW1sclpYOG9pZ1RWS1JBT3dKc0t2MFAzSERwSi1xMnNRVkczNlhsUXhnOUJrdFRXb0JFc2hqRE1CMjhaVGZnN2lwQkVUY2lLblZHQmk3aWI0YWtCU2tLR1BHbU5qQllCRHllVUpSSG9Hd25jWHdmY1BCdmdoajgzekstNzdfNGNsZDAwdXhqaVBCYko4dFpJSWFH?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdk9kclNjcU00LVZzVHRFY2NGTjY5TnJLZWVYcXlfUzdkNUZiOTlCTmZwMng1T3d6cDdPWTJJaU5wZzJhT1JQc19fS25rUG9wZFpEX0FTTW1sclpYOG9pZ1RWS1JBT3dKc0t2MFAzSERwSi1xMnNRVkczNlhsUXhnOUJrdFRXb0JFc2hqRE1CMjhaVGZnN2lwQkVUY2lLblZHQmk3aWI0YWtCU2tLR1BHbU5qQllCRHllVUpSSG9Hd25jWHdmY1BCdmdoajgzekstNzdfNGNsZDAwdXhqaVBCYko4dFpJSWFH0gH3AUFVX3lxTE9zUTRoS1JIY0VweFBzaWNVcWlpZm5qSkVrM19TRlJZcDlLUm44amhLZUhHQWhqNmFwVFpFMVFobEVzQ0ROR0VTZkZKVG1NWFdtcDJUUDM4aVBNM2xrcWtaaFR5SUVsVEZMaVR0Mmt6ZXFNendWd2tCWEtmZXh4d1BVandNYVhuNkhUUjY1WVQxTExkM0NpS0VhUFBZaklDdUdrZkxSalNhYUxGdzF1UnE1ZDkzYTJXZFlsVTk4TENjZUJYNjNCdTRxb3Ywcmt1Q2gwTHRSeFJCTDRka2piSWVod0wtRjVhTlBOeHJZemtyZlZWOGFTcDA?oc=5",
       "source": "O GLOBO",
       "published_at": "2026-10-20T21:28:03+00:00",
       "category": "Economia",
@@ -972,13 +972,13 @@
       "archive": false
     },
     {
-      "id": "9e105810ba25bc6c",
-      "title": "Ex-ministros da Saúde citam pandemia e ameaça ao SUS em manifesto contra Flávio Bolsonaro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ex-ministros da Saúde citam pandemia e ameaça ao SUS em manifesto contra Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ex-ministros-da-saude-citam-pandemia-e-veem-ameaca-ao-sus-com-flavio-bolsonaro.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T20:40:00+00:00",
-      "category": "Saúde",
+      "id": "d5ede7083e9cc57a",
+      "title": "Justiça Eleitoral nega transporte, água e alimentação para indígenas",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: justiça Eleitoral nega transporte, água e alimentação para indígenas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-eleitoral-nega-transporte-agua-e-alimentacao-para-indigenas",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-20T20:30:00+00:00",
+      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -993,20 +993,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-20T20:07:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e8067ccaa16b9d1a",
-      "title": "Projeto fixa em 15 dias o prazo para devedor contestar dívida na Justiça",
-      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto fixa em 15 dias o prazo para devedor contestar dívida na Justiça. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.camara.leg.br/noticias/1307881-projeto-fixa-em-15-dias-o-prazo-para-devedor-contestar-divida-na-justica",
-      "source": "Agência Câmara",
-      "published_at": "2026-10-20T20:03:00+00:00",
-      "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1056,20 +1042,6 @@
       "archive": false
     },
     {
-      "id": "08ce625d7a92729a",
-      "title": "'Falas de Flávio no Pará dão ao agro europeu argumento para convencer eurodeputados a votar contra acordo com Mercosul', diz analista - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Falas de Flávio no Pará dão ao agro europeu argumento para convencer eurodeputados a votar contra acordo com Mercosul', diz analista. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOWW9wVzZUdGFzZDNoZHVjLVc3ZTY2V2wtc3VRR1pOZUJ0cTlnc3FtU2FPMkhiY25yZjZkT09nUDRvVFB4OFllSVNBcmRWak1GTWxOZ3ExQk9rMDU1NEY4b0s5QjhOUGtlVmJKcXJ4NWpUdmg4Nm5SZThpZms0VEN4WW5XSUpJZmQyQXNFWldSNHRjTGhRRV90VFRzckFwQlhhTno4RkhJZ2J4X1Vmb1g3QzNraHFQcU1IdHpvU0k4eGozNHRHMl9QdTU3cWhqVDMwT2dGUGFJYWUyWTMxNWZPLVc4TnhmY0JCM25DcDVxZ1lMUkJtSU8wUmp5MFpObXdfZjlQNW5PNUhnLUNNZWg2c1Z5RjVuVzR4RndPc0M4ONIBrgJBVV95cUxOclVSMWxDckFHRjhvNzlETUF5TTcyY01DUnZDbXBDOV9oYkV5UEFkNHRJNzJvZ2s3d1h0VGZFekUzT1pBVXg5R1hRVXAwU3lTc3JnaHFmTnpLOExWM1oyN0lURjNiUUlvRkRjV093akM1QWZhMk1RRXk3dTdoSVpaVmFEbmtRbHlXNjktMmVfRHI0eW5rX2tOOFIwRndKVEQtXzBFTXNCTGpNOXNUWVc2SFhHSDg0WG5MUXJ3bi02SkpXWEttSG1EdFRjeUZGTDBacHZ2X2hVaWx4QTNkaXRBV1pkb1dMcEtHcjhyQWVCb1d5QjhCbzhZQW1aNGctYU9JWm1CeDRzM0p1Z3lTU0trWkFjMGI3Z2ZxUlRHQzRvM1AxaE1oV3ZHUXVJNE56dw?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-20T19:40:13+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "3ea76d6c93b5bb58",
       "title": "Saúde inicia oferta de novos medicamentos oncológicos no SUS",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: saúde inicia oferta de novos medicamentos oncológicos no SUS. Consulte a reportagem para contexto, dados e declarações.",
@@ -1098,20 +1070,6 @@
       "archive": false
     },
     {
-      "id": "e60ec483c68543d8",
-      "title": "TCU aprova contas do BC de 2025 após desvincular processo do Master",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: tCU aprova contas do BC de 2025 após desvincular processo do Master. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/tcu-aprova-contas-do-bc-de-2025-apos-desvincular-processo-do-master",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-20T19:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "919baf1c29ad0c6f",
       "title": "Cadu de Lula apresenta propostas para fortalecer economia e ampliar serviços públicos no RN",
       "summary": "O veículo G1 publicou uma atualização sobre: cadu de Lula apresenta propostas para fortalecer economia e ampliar serviços públicos no RN. Consulte a reportagem para contexto, dados e declarações.",
@@ -1121,20 +1079,6 @@
       "category": "Eleições",
       "candidate": "lula",
       "election_type": "Proposta",
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1a4f48342ce97dbb",
-      "title": "Restituições do IR batem recorde e chegam a R$ 41 bilhões em 2026",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: restituições do IR batem recorde e chegam a R$ 41 bilhões em 2026. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/restituicoes-do-ir-batem-recorde-e-chegam-r-41-bilhoes-em-2026",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-20T18:51:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
       "via_aggregator": false,
       "curated": false,
       "archive": false
@@ -1178,6 +1122,20 @@
       "candidate": "flavio",
       "election_type": "Fala",
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b41177ce60d6ae3b",
+      "title": "As conversas de Lula com ministros do STF no segundo turno - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: as conversas de Lula com ministros do STF no segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXhiTTBSX2gwdl9CMjB5XzhpZVVDeXpDWVFIU2hzQXdFNjF0ZlVkSDd2WTZfV04tRVVrNGk1ejJ1MGgzcElKTm1zbE43a2dVUmJtVTVzOW5QSjJKZWctbzdSQ1otbFc1MkJTeElqc1JkYXZ5MnJtdmstdjljUVh5TEhwcVNyMWcwS3RqdF85b2hxcUlOYjA0RTF5dGRaVk9tZ21KQml6UUtUS1kzZHVGYm1INk9jek5naC1PadIBywFBVV95cUxOaGlZak1jVlJMdm9DSEZCZFRWQk9aTzJXNGRLLTVwU01uNlJQbUxMbXNlVE5aQkJuSmo0OWtyNk1FN0w5cTlLVUZ0Z3lvdmI4WG9PQ1EtN2Q3STlXZkVCTnhkN3pJcTJrRkdxS3otS2MyY2g5YzNPeU9pNXoxeHhySndoZnlrY2psR3ZRRDNUdzZaZU91ZGQxMHpuMFZkTk9iOXZJa0tuU3lvNXd3cmtPTGYzWHgzZW1xdzYxenRYUVh1alN2bkNWVThyWQ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-20T18:11:42+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1234,6 +1192,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b4f320d72b399c22",
+      "title": "'A extrema direita nunca mais vai ter hegemonia nas redes sociais', diz Janones ao ter alta do hospital - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: 'A extrema direita nunca mais vai ter hegemonia nas redes sociais', diz Janones ao ter alta do hospital. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWm5EN0psUDRvZmxLN0ZGS2Zvd3lOVHh5UmV0NG1oVUVyWVpXR0RFZER4UlcxaTNpOUkxMEdXNk1kVTVYWERXX1Z6LVJ4bVJoOWVnemY0eW1kUzE2NGZ3RUROTy1lR2doOTh0ZWdJZlZyQXRWMHYwRkFHSVJRTDNETW94d0J3QUJaLUR5LUI3N1VwNmNfYi11ekhNbWtXS3oxaktGNmp4UDlUM1NfWkptaDAzbWVKYW9MU2ZjdjlDRnh6dWdJdlJHWV9xWEt1VWVEOXNMZUV6cmgtbkEyX1pMSHpNZFItcUlDdnlVWl90S0nSAf8BQVVfeXFMUDZvSU1kckJPdU5FbHNjaEdNZnFWdUhCRkpSNE8zaXBCQ0gxZ3FvNkluMEZIbk9vMFItelVHU0NzaWxHTlBKVUxoX2czTE5ocnZhNjFmenV1bm1XUUdrQUlxSHBqN0llazRHMDQ4aVpZTVNaVkVPRjg5SDJRVGhnTlp4eGpjY1NmdU1IeU1NdFVaY2lCbjFibVNrT2U1SUo3ei1pSW1lNVRIa1hYT3c5c2FhX3g5Tk1jQ2xwVUYwTXdwdnFpZnNUYlRqYnNxYlpVSHZwcWtzeEE1ZlRCcVdwbER1UFplUjBia0xYV2hWQ2doeGVQVkdka1Z4ZkljdlNR?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-20T16:44:16+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1350,6 +1322,20 @@
       "archive": false
     },
     {
+      "id": "924d1f87320c93aa",
+      "title": "Hipertensão atinge 28% de crianças e adolescentes, mostra estudo",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: hipertensão atinge 28% de crianças e adolescentes, mostra estudo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/hipertensao-atinge-28-de-criancas-e-adolescentes-mostra-estudo",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-20T13:03:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "ec5bb966e3446ce6",
       "title": "Ministério Público do Rio renova acordo para enfrentar criminalidade",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: ministério Público do Rio renova acordo para enfrentar criminalidade. Consulte a reportagem para contexto, dados e declarações.",
@@ -1388,6 +1374,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b70b39c70675b5d4",
+      "title": "Peça-chave na campanha de Lula, Janones deve ficar mais dois dias no hospital - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: peça-chave na campanha de Lula, Janones deve ficar mais dois dias no hospital. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFRHcW9VNVppSmpWMF9JRmpzTHNMZGx3eVdvdTNDNG5lWGRtZTlJZE9obURpWWtKb1hfa05mUjJRaEZRSHVVbFU5NjFKVENqekhiOFFLQmRZN1pWTWdPOF9BVnlBcElVQjBjX2lUc1FUN1JfRGlvMS1VVml4UjRyOEMtV3l0Q3BoclcxY3FHNmNQdk1ZVXR5Q0NGUlpnNng0RkRmSWJxU1lMUXg0d3pYbWF3?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-19T22:43:39+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1448,20 +1448,6 @@
       "archive": false
     },
     {
-      "id": "b5b016d5224173e2",
-      "title": "Ministério da Justiça aciona MPF no caso Meta: 'Falta transparência' - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: ministério da Justiça aciona MPF no caso Meta: 'Falta transparência'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaEd6R2hhWGQ3ekN6QmJqQ0ZNX2lxdWxOTUM2Z3FicmszSUd0dmh3Zk1wR1dvNUpjbUZOcEVQaTFidWZtUS1SQVl3S25CU052ejhWUC1XRGJ5Y3I3VmRZZzAwVmZCejNGQ1lBUG9YUjhJdTBYaUYwbFlQa3pyOVhlSlIxSUwza2ZUR2JZTDZBVWVSOXBFQUN6LWtIemxZUGdsTHgzWDlCREl2MTVBalRjN0RYU3gzVU1mR1d2Ymh2eVFHSFFkdDMtZ2V4bVFJX1dSUEVDX9IB4wFBVV95cUxNZURlYzh3SXFDaUZHcm1kVS1IUmZqYWJpRnNPTTViWGNDVFBnMEVYWl9BLUs0NWkwcmZ6RjRnV3VaSlRGMlZfZzF3dGNNM3JsaWVqQ0FKbXllYTRDdkQtT2hZZjRveE5LeEtYUXBHMDRfVTVrWTVuTDYxbnpPQlBjY2FOaGtJOFRITnJpXzRVUXFBdmpqdktReFZqaDFuUUllUXFacTNJZC1CQXlPV05MNnE1WGJHNFJ2UThtUGNGWl84dVZfUFUzd2U4S3MwVUFCVGRQRXBlV1N1Q29rMGJwcHh2bw?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-17T14:55:20+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "58d916d5e881a581",
       "title": "A uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP",
       "summary": "O veículo G1 publicou uma atualização sobre: a uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP. Consulte a reportagem para contexto, dados e declarações.",
@@ -1479,11 +1465,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 36
+      "items": 42
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 59
+      "items": 61
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1535,15 +1521,15 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 70
+      "items": 59
     },
     "Estadão": {
       "status": "ok",
-      "items": 42
+      "items": 43
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 41
+      "items": 39
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1551,7 +1537,7 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 64
+      "items": 69
     },
     "Eleições · Lula": {
       "status": "ok",
@@ -1559,7 +1545,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 22
+      "items": 15
     }
   },
   "notes": [
