@@ -1,10 +1,262 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-21T00:55:25.772060+00:00",
-  "last_success_at": "2026-10-21T00:55:25.772060+00:00",
+  "last_checked_at": "2026-10-21T01:45:47.041986+00:00",
+  "last_success_at": "2026-10-21T01:45:47.041986+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "9f8d0494755fa5af",
+      "title": "A última pesquisa Real Time Big Data sobre a disputa Lula x Flávio antes do segundo turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a última pesquisa Real Time Big Data sobre a disputa Lula x Flávio antes do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-ultima-pesquisa-real-time-big-data-sobre-a-disputa-lula-x-flavio-antes-do-segundo-turno/",
+      "source": "VEJA",
+      "published_at": "2026-10-21T01:40:38+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dd77d425e4940c11",
+      "title": "Mega-Sena não tem acertador e prêmio vai a R$ 200 milhões",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mega-Sena não tem acertador e prêmio vai a R$ 200 milhões. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/mega-sena-nao-tem-acertador-e-premio-vai-r-200-milhoes",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-21T01:36:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "372ed857d5c2f1af",
+      "title": "Eleições 2026: lei eleitoral exige que cidades de todo o país ofereçam transporte público gratuito no dia do 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: lei eleitoral exige que cidades de todo o país ofereçam transporte público gratuito no dia do 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/20/eleicoes-2026-lei-eleitoral-exige-que-cidades-de-todo-o-pais-oferecam-transporte-publico-gratuito-no-dia-do-2o-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T01:25:22+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3b6fec70491ad659",
+      "title": "Itamaraty acusa Milei de tentar interferir na eleição brasileira",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: itamaraty acusa Milei de tentar interferir na eleição brasileira. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/itamaraty-acusa-milei-de-tentar-interferir-na-eleicao-brasileira",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-21T01:23:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6a325c894629e57f",
+      "title": "Taxa do Lixo: prefeitura recorre à Justiça para reverter decisão que suspende cobrança em Goiânia",
+      "summary": "O veículo G1 publicou uma atualização sobre: taxa do Lixo: prefeitura recorre à Justiça para reverter decisão que suspende cobrança em Goiânia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/10/20/taxa-do-lixo-prefeitura-recorre-a-justica-para-reverter-decisao-que-suspende-cobranca-em-goiania.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T01:18:04+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "befc24851d126a8e",
+      "title": "Os bastidores de pedido de CPMI sobre filho de Lula na reta final da eleição",
+      "summary": "O veículo VEJA publicou uma atualização sobre: os bastidores de pedido de CPMI sobre filho de Lula na reta final da eleição. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/os-bastidores-de-pedido-de-cpmi-sobre-filho-de-lula-na-reta-final-da-eleicao/",
+      "source": "VEJA",
+      "published_at": "2026-10-21T01:17:32+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "735397277e799cff",
+      "title": "Veja como consultar se o seu local de votação para o 2º turno foi alterado",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: veja como consultar se o seu local de votação para o 2º turno foi alterado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-como-consultar-se-o-seu-local-de-votacao-para-o-2o-turno-foi-alterado.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T01:17:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c0ec3306dc45f5cc",
+      "title": "Post de Nikolas com mais de 100 milhões de visualizações tem áudio removido por direitos autorais",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: post de Nikolas com mais de 100 milhões de visualizações tem áudio removido por direitos autorais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/post-de-nikolas-com-mais-de-100-milhoes-de-visualizacoes-tem-audio-removido-por-direitos-autorais.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T01:15:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b01b8e3468a50f67",
+      "title": "Conselho Internacional de Supervisão da Meta critica atuação da empresa durante as eleições no Brasil",
+      "summary": "O veículo G1 publicou uma atualização sobre: conselho Internacional de Supervisão da Meta critica atuação da empresa durante as eleições no Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/20/conselho-internacional-de-supervisao-da-meta-critica-atuacao-da-empresa-durante-as-eleicoes-no-brasil.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T01:11:56+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "464cab40b2525c8d",
+      "title": "Comitê da Meta aponta falhas de moderação nas eleições brasileiras",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: comitê da Meta aponta falhas de moderação nas eleições brasileiras. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/comite-da-meta-aponta-falhas-de-moderacao-nas-eleicoes-brasileiras",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-21T01:10:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "581e54191788af53",
+      "title": "Condenado por matar ex durante festa de aniversário no TO é preso quase sete anos após crime",
+      "summary": "O veículo G1 publicou uma atualização sobre: condenado por matar ex durante festa de aniversário no TO é preso quase sete anos após crime. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/20/condenado-por-matar-ex-durante-festa-de-aniversario-no-to-e-preso-quase-sete-anos-apos-crime.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T01:09:18+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3cd83829ac85312a",
+      "title": "Rede Amazônica realiza debate entre candidatos ao governo do Amazonas no 2º turno das eleições",
+      "summary": "O veículo G1 publicou uma atualização sobre: rede Amazônica realiza debate entre candidatos ao governo do Amazonas no 2º turno das eleições. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/debate-omar-aziz-professora-maria-do-carmo-governo-amazonas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T01:02:03+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bd99e10c8432ade4",
+      "title": "'Quem não deve não teme': Leitores pedem fim de sigilo sobre dados de Flávio Bolsonaro",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Quem não deve não teme': Leitores pedem fim de sigilo sobre dados de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/quem-nao-deve-nao-teme-leitores-pedem-fim-de-sigilo-sobre-dados-de-flavio-bolsonaro.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fb41d79a7a2b8102",
+      "title": "A saúde financeira dos cidadãos",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: a saúde financeira dos cidadãos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/a-saude-financeira-dos-cidadaos.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T01:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9a82f424d0ddc1f5",
+      "title": "Afã eleitoreiro avilta políticas públicas",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: afã eleitoreiro avilta políticas públicas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/afa-eleitoreiro-avilta-politicas-publicas.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8a73af4f5d518b15",
+      "title": "Lula confirma PEC da Tarifa Zero; Flávio tem apoio de sertanejos",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: lula confirma PEC da Tarifa Zero; Flávio tem apoio de sertanejos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-confirma-pec-da-tarifa-zero-flavio-tem-apoio-de-sertanejos",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-21T01:00:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3fca1b495ba890d4",
+      "title": "Volodymyr Zelensky diz que voltou a receber ajuda americana contra ataques da Rússia",
+      "summary": "O veículo G1 publicou uma atualização sobre: volodymyr Zelensky diz que voltou a receber ajuda americana contra ataques da Rússia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/20/zelensky-diz-que-voltou-a-receber-ajuda-americana-contra-ataques-da-russia.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T00:57:07+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "32a2d3edc61d718c",
+      "title": "UFC lança concurso para professor efetivo em Fortaleza com salário de R$ 6,3 mil",
+      "summary": "O veículo G1 publicou uma atualização sobre: uFC lança concurso para professor efetivo em Fortaleza com salário de R$ 6,3 mil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ce/ceara/suachance/noticia/2026/10/20/ufc-lanca-concurso-para-professor-efetivo-em-fortaleza-com-salario-de-r-63-mil.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T00:54:51+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "c8ebcceb7aa10a54",
       "title": "As pesquisas e a guerra de quem promete mais na reta final da disputa entre Lula e Flávio",
@@ -104,20 +356,6 @@
       "archive": false
     },
     {
-      "id": "ec79985cec83fe14",
-      "title": "Professores e alunos da USP cobram checagem em tempo real no debate da Globo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: professores e alunos da USP cobram checagem em tempo real no debate da Globo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/professores-e-alunos-da-usp-cobram-checagem-em-tempo-real-no-debate-da-globo.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T00:31:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a814ce33e96976f0",
       "title": "TSE não participa de mudança de locais de votação, diz Nunes Marques",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: tSE não participa de mudança de locais de votação, diz Nunes Marques. Consulte a reportagem para contexto, dados e declarações.",
@@ -146,20 +384,6 @@
       "archive": false
     },
     {
-      "id": "93f33ee98282efe9",
-      "title": "Nordeste concentra 40% das mudanças nos locais de votação no segundo turno",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: nordeste concentra 40% das mudanças nos locais de votação no segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nordeste-concentra-40-das-mudancas-nos-locais-de-votacao-no-segundo-turno.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T00:19:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "6dbcfa28a0987990",
       "title": "Mega-Sena 3072 acumula e prêmio vai a R$ 200 milhões; confira os números sorteados",
       "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena 3072 acumula e prêmio vai a R$ 200 milhões; confira os números sorteados. Consulte a reportagem para contexto, dados e declarações.",
@@ -174,20 +398,6 @@
       "archive": false
     },
     {
-      "id": "094a954d15a1f131",
-      "title": "Veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta terça (20)",
-      "summary": "O veículo G1 publicou uma atualização sobre: veja como foi a agenda de campanha dos candidatos ao governo do Acre nesta terça (20). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/20/veja-como-foi-a-agenda-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-terca-20.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T00:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "19ed6a17ef528130",
       "title": "TSE reúne Meta e campanhas para tratar de restrições de postagens",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: tSE reúne Meta e campanhas para tratar de restrições de postagens. Consulte a reportagem para contexto, dados e declarações.",
@@ -195,34 +405,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-20T23:58:00+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6d3f4e0125e96161",
-      "title": "DPU pede à Justiça que oito cidades do CE com alta abstenção de votos no 1º turno ofertem transporte gratuito a eleitores no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: dPU pede à Justiça que oito cidades do CE com alta abstenção de votos no 1º turno ofertem transporte gratuito a eleitores no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/20/dpu-pede-a-justica-que-oito-cidades-do-ce-com-alta-abstencao-de-votos-no-1o-turno-ofertem-transporte-gratuito-a-eleitores-no-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T23:57:25+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1b3cc553946bd715",
-      "title": "Escritório de Flávio Bolsonaro faturou R$ 14 mi enquanto ele exercia mandato de senador",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: escritório de Flávio Bolsonaro faturou R$ 14 mi enquanto ele exercia mandato de senador. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/escritorio-de-flavio-bolsonaro-faturou-r-14-mi-enquanto-ele-exercia-mandato-de-senador.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T23:57:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -272,34 +454,6 @@
       "archive": false
     },
     {
-      "id": "e2c7a2dcbe4b53ae",
-      "title": "Apoiadores de Flávio Bolsonaro fazem ato em Aracaju",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Flávio Bolsonaro fazem ato em Aracaju. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/20/apoiadores-de-flavio-bolsonaro-fazem-ato-em-aracaju.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T23:44:40+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4b91434e2836f779",
-      "title": "Policiais militares de folga impedem roubo de carga de cigarros e resgatam reféns em Timon",
-      "summary": "O veículo G1 publicou uma atualização sobre: policiais militares de folga impedem roubo de carga de cigarros e resgatam reféns em Timon. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/20/policiais-militares-de-folga-impedem-roubo-de-carga-de-cigarros-e-resgatam-refens-em-timon.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T23:42:27+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f584816d8e53e9e2",
       "title": "Lula vai propor direcionar 25% das emendas obrigatórias para financiar tarifa zero",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula vai propor direcionar 25% das emendas obrigatórias para financiar tarifa zero. Consulte a reportagem para contexto, dados e declarações.",
@@ -328,34 +482,6 @@
       "archive": false
     },
     {
-      "id": "441ee8782121711a",
-      "title": "Eleições 2026: mulheres vão às urnas quase 100 mil vezes a mais que homens em MT",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: mulheres vão às urnas quase 100 mil vezes a mais que homens em MT. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/20/eleicoes-2026-mulheres-vao-as-urnas-quase-100-mil-vezes-a-mais-que-homens-em-mt.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T23:38:53+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5ecc6a37f9fd376b",
-      "title": "Geração Z ocupa praça em Lisboa contra crise da moradia e enfrenta repressão policial",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: geração Z ocupa praça em Lisboa contra crise da moradia e enfrenta repressão policial. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/geracao-z-ocupa-praca-em-lisboa-contra-crise-da-moradia-e-enfrenta-repressao-policial.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T23:37:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "56d82d5d6205d0e9",
       "title": "Hugo Motta defende diálogo e respeito entre os Poderes para fortalecer instituições",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: hugo Motta defende diálogo e respeito entre os Poderes para fortalecer instituições. Consulte a reportagem para contexto, dados e declarações.",
@@ -377,20 +503,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-20T23:31:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "48c9cd955287eba5",
-      "title": "Importações de milho pela UE disparam 40% após seca devastar safras",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: importações de milho pela UE disparam 40% após seca devastar safras. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/agro/2026/10/importacoes-de-milho-pela-ue-disparam-40-apos-seca-devastar-safras.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T23:30:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -650,40 +762,12 @@
       "archive": false
     },
     {
-      "id": "caf94309abf7b0d9",
-      "title": "Mulher suspeita de furtar 36 coletes à prova de balas do Detran se apresenta à polícia e é presa",
-      "summary": "O veículo G1 publicou uma atualização sobre: mulher suspeita de furtar 36 coletes à prova de balas do Detran se apresenta à polícia e é presa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/mulher-suspeita-de-furtar-36-coletes-balisticos-do-detran-se-apresenta-a-policia-e-e-presa.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T22:01:23+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c8725814139507c5",
       "title": "UE apresenta nova estratégia para o Ártico diante de ameaças dos EUA e da Rússia",
       "summary": "O veículo VEJA publicou uma atualização sobre: uE apresenta nova estratégia para o Ártico diante de ameaças dos EUA e da Rússia. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://veja.abril.com.br/mundo/ue-apresenta-nova-estrategia-para-o-artico-diante-de-ameacas-dos-eua-e-da-russia/",
       "source": "VEJA",
       "published_at": "2026-10-20T21:59:50+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9fe6f11de840ee35",
-      "title": "Brasileiro é condenado a 12 anos nos EUA por chefiar esquema de lavagem de US$ 30 milhões do PCC",
-      "summary": "O veículo G1 publicou uma atualização sobre: brasileiro é condenado a 12 anos nos EUA por chefiar esquema de lavagem de US$ 30 milhões do PCC. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/20/brasileiro-e-condenado-a-12-anos-nos-eua-por-chefiar-esquema-de-lavagem-de-us-30-milhoes-do-pcc.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-20T21:57:28+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
@@ -1000,20 +1084,6 @@
       "archive": false
     },
     {
-      "id": "2090a7ba174f20b4",
-      "title": "Projeto cria política nacional de incentivo às Paradas do Orgulho LGBTQIA+",
-      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto cria política nacional de incentivo às Paradas do Orgulho LGBTQIA+. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.camara.leg.br/noticias/1309845-projeto-cria-politica-nacional-de-incentivo-as-paradas-do-orgulho-lgbtqia",
-      "source": "Agência Câmara",
-      "published_at": "2026-10-20T19:47:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e1fb9524c0ff430d",
       "title": "Ataque russo contra hospital em Kiev destrói centro cirúrgico",
       "summary": "O veículo VEJA publicou uma atualização sobre: ataque russo contra hospital em Kiev destrói centro cirúrgico. Consulte a reportagem para contexto, dados e declarações.",
@@ -1056,20 +1126,6 @@
       "archive": false
     },
     {
-      "id": "9bb24d02b201b999",
-      "title": "Zelenski se reúne com emissários dos EUA em Oslo para retomar esforços diplomáticos - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: zelenski se reúne com emissários dos EUA em Oslo para retomar esforços diplomáticos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JlSzBoQlVhLUJ1MUZrNGgxSG5vM29JYkZkMGxDNEFhSnVRc3FsTjZBNDh3ckx0dUYwR2djVTc5WVUxTm1zZjNEakZ4MWcwVmhnZ2lkTWZITXRYOWtzeERMbU1oemp4RVRsSFN5LTdUdFhGR1RzSDRseDBxN250OHNEd1lwbEtWaFFkbE1VVGdTV0pSQXJKNHdHampBRlJkVmxNd0N5V0Rxd0tUZ0hR0gG0AUFVX3lxTE10MHpmOVB1cFdfb0M1bUNGZ2VSaVZacGRwWEZ0V2U2MlBmdkdRZ21naWRmVG44OFdMV1pwTVIyRkFLaWdralZkZ1d5TDFwV0xLMGJlcmw4dURhcUhEYlBRYWVjSWdHSU9XMUJOUndGTFRxeVlObTA3TWRORUM1LUM2emM5OWU3eUlsVUZWWkFVelJiUzBiSWNaelh0cHp2b1FpLWdJUGFmSTFKVllQOUhqcWNNdA?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-20T19:23:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "3ea76d6c93b5bb58",
       "title": "Saúde inicia oferta de novos medicamentos oncológicos no SUS",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: saúde inicia oferta de novos medicamentos oncológicos no SUS. Consulte a reportagem para contexto, dados e declarações.",
@@ -1091,20 +1147,6 @@
       "source": "VEJA",
       "published_at": "2026-10-20T19:06:44+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "14613b305a626982",
-      "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: trump’s Push for Deals With Russia Powers His Frustration With Ukraine. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-20T19:00:35+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1135,20 +1177,6 @@
       "category": "Eleições",
       "candidate": "lula",
       "election_type": "Proposta",
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1a4f48342ce97dbb",
-      "title": "Restituições do IR batem recorde e chegam a R$ 41 bilhões em 2026",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: restituições do IR batem recorde e chegam a R$ 41 bilhões em 2026. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/restituicoes-do-ir-batem-recorde-e-chegam-r-41-bilhoes-em-2026",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-20T18:51:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
       "via_aggregator": false,
       "curated": false,
       "archive": false
@@ -1224,16 +1252,16 @@
       "archive": false
     },
     {
-      "id": "37681ee5146d8514",
-      "title": "Janones sai do hospital, compara Lula a Messi e diz que petista não precisa usar redes sociais",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: janones sai do hospital, compara Lula a Messi e diz que petista não precisa usar redes sociais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/janones-sai-do-hospital-compara-lula-a-messi-e-diz-que-petista-nao-precisa-usar-redes-sociais.shtml",
+      "id": "478155d958b96f2b",
+      "title": "Ministério Público abre procedimento sobre falha de segurança no Smart Sampa - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ministério Público abre procedimento sobre falha de segurança no Smart Sampa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN2NTWkJVaDJoWjhVZnBrZDZFeFZkOFl5bDdINEh1cWpUOEUyWDg4anp6X3dfYXBfQVhYd2FBOGxLZlI1LTN4MDFHOGUwdTE3YkpMMEM5anpzMFhBSUcwaFBJT2ExUVBfSmZkenItN0paLTJycnFxZ3phNXF2TWNIMVlGa21xcUNuMC1abDVfQWhwWnJLUGlURk1ldTZrbzJtWDRWNlN5bFJXYk9jZ3JZVXBCZl8tUFppUE5hMXVQY2trNGxrYU15VklPOG5VMXhmMVVtNUQxSQ?oc=5",
       "source": "Folha de S.Paulo",
-      "published_at": "2026-10-20T17:25:00+00:00",
-      "category": "Saúde",
+      "published_at": "2026-10-20T17:13:00+00:00",
+      "category": "Governo federal",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1336,34 +1364,6 @@
       "archive": false
     },
     {
-      "id": "c7f494eee4b98092",
-      "title": "Estiagem: governo federal reconhece emergência em municípios do Amapá",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: estiagem: governo federal reconhece emergência em municípios do Amapá. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/estiagem-governo-federal-reconhece-emergencia-em-municipios-do-amapa",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-20T11:34:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ec5bb966e3446ce6",
-      "title": "Ministério Público do Rio renova acordo para enfrentar criminalidade",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: ministério Público do Rio renova acordo para enfrentar criminalidade. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministerio-publico-do-rio-renova-acordo-para-enfrentar-criminalidade",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-20T11:02:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f6ccec53dd917cf9",
       "title": "‘Crimes do passado coexistem com crimes do futuro no Brasil’, diz professor sobre crise da segurança - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: ‘Crimes do passado coexistem com crimes do futuro no Brasil’, diz professor sobre crise da segurança. Consulte a reportagem para contexto, dados e declarações.",
@@ -1402,20 +1402,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "720c6d36bc754c42",
-      "title": "Governo pretende realocar R$ 20 bilhões no Orçamento de 2027",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo pretende realocar R$ 20 bilhões no Orçamento de 2027. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-pretende-realocar-r-20-bilhoes-no-orcamento-de-2027",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-19T18:50:00+00:00",
-      "category": "Endividamento",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1493,7 +1479,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 30
+      "items": 33
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1501,11 +1487,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 51
+      "items": 52
     },
     "VEJA": {
       "status": "ok",
-      "items": 6
+      "items": 8
     },
     "The New York Times": {
       "status": "ok",
@@ -1525,7 +1511,7 @@
     },
     "Agência Brasil · Educação": {
       "status": "ok",
-      "items": 6
+      "items": 5
     },
     "Agência Brasil · Saúde": {
       "status": "ok",
@@ -1537,7 +1523,7 @@
     },
     "Agência Brasil · Internacional": {
       "status": "ok",
-      "items": 2
+      "items": 3
     },
     "Agência Câmara": {
       "status": "ok",
@@ -1553,7 +1539,7 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 45
+      "items": 41
     },
     "G1 · Busca alternativa": {
       "status": "ok",
@@ -1561,15 +1547,15 @@
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 52
+      "items": 54
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 66
+      "items": 64
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 16
+      "items": 17
     },
     "Eleições · Flávio": {
       "status": "ok",
