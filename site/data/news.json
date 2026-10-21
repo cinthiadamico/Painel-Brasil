@@ -1,14 +1,168 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-21T07:52:14.432924+00:00",
-  "last_success_at": "2026-10-21T07:52:14.432924+00:00",
+  "last_checked_at": "2026-10-21T08:48:42.775450+00:00",
+  "last_success_at": "2026-10-21T08:48:42.775450+00:00",
   "coverage_window_hours": 84,
   "items": [
     {
+      "id": "7e14c5e4c4d54eef",
+      "title": "Homem é morto após abordagem policial na Marginal Tietê, em SP; corpo de mulher foi encontrado próximo ao local",
+      "summary": "O veículo G1 publicou uma atualização sobre: homem é morto após abordagem policial na Marginal Tietê, em SP; corpo de mulher foi encontrado próximo ao local. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/21/homem-e-morto-apos-abordagem-policial-em-sp-corpo-de-mulher-foi-encontrado-proximo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T08:02:30+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dc7457ee98d2c8b0",
+      "title": "Mercado denunciado por obrigar funcionários a usar camisa da seleção recusou acordo e evitar interferências no período eleitoral",
+      "summary": "O veículo G1 publicou uma atualização sobre: mercado denunciado por obrigar funcionários a usar camisa da seleção recusou acordo e evitar interferências no período eleitoral. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/eleicoes/2026/noticia/2026/10/21/mercado-denunciado-por-obrigar-funcionarios-a-usar-camisa-da-selecao-recusou-acordo-e-evitar-interferencias-no-periodo-eleitoral.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T08:00:04+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "51309e2b104ca87f",
+      "title": "Pesquisa lista profissionais mais requisitados na Bahia em 2027 e aponta cargos em alta, com salários de até R$ 60 mil",
+      "summary": "O veículo G1 publicou uma atualização sobre: pesquisa lista profissionais mais requisitados na Bahia em 2027 e aponta cargos em alta, com salários de até R$ 60 mil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/21/pesquisa-lista-profissionais-mais-requisitados-na-bahia-em-2027.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f68fb6ecb7c07f17",
+      "title": "Violência contra cães, incluindo morte de animais, assusta moradores no interior de MG; polícia investiga",
+      "summary": "O veículo G1 publicou uma atualização sobre: violência contra cães, incluindo morte de animais, assusta moradores no interior de MG; polícia investiga. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/21/violencia-contra-caes-incluindo-morte-de-animais-assusta-moradores-no-interior-de-mg-policia-investiga.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "64f60aa3febcfa97",
+      "title": "Prefeitura de Feira prevê fiscalização no transporte no segundo turno após recomendação da Defensoria Pública da União",
+      "summary": "O veículo G1 publicou uma atualização sobre: prefeitura de Feira prevê fiscalização no transporte no segundo turno após recomendação da Defensoria Pública da União. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/21/prefeitura-de-feira-preve-fiscalizacao-no-transporte-no-segundo-turno-apos-recomendacao-da-dpu.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "798e5721d945b0c6",
+      "title": "Idoso carregado pelo filho morre com falta de ar em hospital do RJ após ser direcionado à porta trancada com cadeado, diz neto",
+      "summary": "O veículo G1 publicou uma atualização sobre: idoso carregado pelo filho morre com falta de ar em hospital do RJ após ser direcionado à porta trancada com cadeado, diz neto. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/21/idoso-carregado-pelo-filho-morre-com-falta-de-ar-em-hospital-do-rj-apos-ser-direcionado-a-porta-trancada-com-cadeado-diz-neto.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e484570d94e15bea",
+      "title": "Vazamento do Smart Sampa pode ajudar criminosos a planejar sequestros e atentados, alerta especialista",
+      "summary": "O veículo G1 publicou uma atualização sobre: vazamento do Smart Sampa pode ajudar criminosos a planejar sequestros e atentados, alerta especialista. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/21/vazamento-do-smart-sampa-pode-ajudar-criminosos-a-planejar-sequestros-e-atentados-alerta-especialista.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c39b91109c838e11",
+      "title": "Por que ajuste fiscal do novo presidente do Chile leva a crise com desemprego recorde",
+      "summary": "O veículo G1 publicou uma atualização sobre: por que ajuste fiscal do novo presidente do Chile leva a crise com desemprego recorde. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/por-que-ajuste-fiscal-do-novo-presidente-do-chile-leva-a-crise-com-desemprego-recorde.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c39b91109c838e11",
+      "title": "Por que ajuste fiscal do novo presidente do Chile leva a crise com desemprego recorde",
+      "summary": "O veículo G1 publicou uma atualização sobre: por que ajuste fiscal do novo presidente do Chile leva a crise com desemprego recorde. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/por-que-ajuste-fiscal-do-novo-presidente-do-chile-leva-a-crise-com-desemprego-recorde.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cd920782f7e27580",
+      "title": "Indígenas se preparam para os efeitos do El Niño na amazônia",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: indígenas se preparam para os efeitos do El Niño na amazônia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ambiente/2026/10/indigenas-se-preparam-para-os-efeitos-do-el-nino-na-amazonia.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "60319e625b0e0ffc",
+      "title": "Podcast discute Bolsa Família e planos de Lula e Flávio Bolsonaro na economia",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: podcast discute Bolsa Família e planos de Lula e Flávio Bolsonaro na economia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-discute-bolsa-familia-e-planos-de-lula-e-flavio-bolsonaro-na-economia.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "0ab1a70dd65d600b",
-      "title": "Polícia Rodoviária Federal encontra remédios para emagrecimento em moto infantil",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia Rodoviária Federal encontra remédios para emagrecimento em moto infantil. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Polícia Rodoviária Federal encontra remédios para emagrecimento dentro de moto infantil",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia Rodoviária Federal encontra remédios para emagrecimento dentro de moto infantil. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-rodoviaria-federal-encontra-remedios-para-emagrecimento-em-moto-infantil.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-21T07:46:00+00:00",
@@ -118,34 +272,6 @@
       "archive": false
     },
     {
-      "id": "c771034e995150f9",
-      "title": "Muçulmanos se dividem entre causa palestina e antipetismo para decidir voto no 2º turno",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: muçulmanos se dividem entre causa palestina e antipetismo para decidir voto no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/muculmanos-se-dividem-entre-causa-palestina-e-antipetismo-para-decidir-voto-no-2o-turno.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T07:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "167f1a9346d9720e",
-      "title": "18 integrantes da gestão Bolsonaro respondem na Justiça ou são investigados; governo Lula tem 6 casos",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 18 integrantes da gestão Bolsonaro respondem na Justiça ou são investigados; governo Lula tem 6 casos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/18-integrantes-da-gestao-bolsonaro-respondem-na-justica-ou-sao-investigados-governo-lula-tem-6-casos.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T07:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d391a78bac415225",
       "title": "Educar para o futuro é fortalecer a escola e a cidadania",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: educar para o futuro é fortalecer a escola e a cidadania. Consulte a reportagem para contexto, dados e declarações.",
@@ -153,20 +279,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-21T07:00:00+00:00",
       "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "aebe621aca270089",
-      "title": "Globo adia beijo gay entre Mau Mau e Felipe em 'Quem Ama Cuida' para depois das eleições",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: globo adia beijo gay entre Mau Mau e Felipe em 'Quem Ama Cuida' para depois das eleições. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/globo-adia-beijo-gay-entre-mau-mau-e-felipe-em-quem-ama-cuida-para-depois-das-eleicoes.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T07:00:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -230,48 +342,6 @@
       "archive": false
     },
     {
-      "id": "0cd4946569eed99b",
-      "title": "Alzheimer: estudo identifica ondas cerebrais que podem ajudar a prever risco da doença",
-      "summary": "O veículo G1 publicou uma atualização sobre: alzheimer: estudo identifica ondas cerebrais que podem ajudar a prever risco da doença. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/saude/noticia/2026/10/21/alzheimer-estudo-identifica-ondas-cerebrais-que-podem-ajudar-a-prever-risco-da-doenca.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T06:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1665cbe119b9879c",
-      "title": "Após seis anos de atraso e crises de segurança, maior Boeing 737 MAX 10 é aprovado para voar; conheça",
-      "summary": "O veículo G1 publicou uma atualização sobre: após seis anos de atraso e crises de segurança, maior Boeing 737 MAX 10 é aprovado para voar; conheça. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/apos-seis-anos-de-atraso-e-crises-de-seguranca-maior-boeing-737-max-10-e-aprovado-para-voar-conheca.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T06:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fd9cfee9eae1aae5",
-      "title": "Os maiores salários para 2027: veja ranking de carreiras por setor, para quem quer ou não ser chefe",
-      "summary": "O veículo G1 publicou uma atualização sobre: os maiores salários para 2027: veja ranking de carreiras por setor, para quem quer ou não ser chefe. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/21/os-maiores-salarios-para-2027-veja-ranking-de-carreiras-por-setor-para-quem-quer-ou-nao-ser-chefe.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T06:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "078b8a0152188b29",
       "title": "De produtos baratos a líderes de tecnologia: como a China passou a superar gigantes ocidentais",
       "summary": "O veículo G1 publicou uma atualização sobre: de produtos baratos a líderes de tecnologia: como a China passou a superar gigantes ocidentais. Consulte a reportagem para contexto, dados e declarações.",
@@ -279,20 +349,6 @@
       "source": "G1",
       "published_at": "2026-10-21T06:00:00+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e71f9607aa5f8ee1",
-      "title": "Caso Marco Nanini: retirada de intérprete de Libras durante peça põe à prova acessibilidade prevista na Lei Brasileira de Inclusão",
-      "summary": "O veículo G1 publicou uma atualização sobre: caso Marco Nanini: retirada de intérprete de Libras durante peça põe à prova acessibilidade prevista na Lei Brasileira de Inclusão. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/21/caso-marco-nanini-retirada-de-interprete-de-libras-do-palco-lei.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T06:00:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -384,20 +440,6 @@
       "archive": false
     },
     {
-      "id": "9c50e707985374f5",
-      "title": "Por que o mercado reage às eleições antes mesmo de a economia mudar?",
-      "summary": "O veículo G1 publicou uma atualização sobre: por que o mercado reage às eleições antes mesmo de a economia mudar?. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/21/por-que-o-mercado-reage-as-eleicoes-antes-mesmo-de-a-economia-mudar.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T05:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9c42a70b9807059e",
       "title": "'Overshoot' é inevitável, mas voltar a 1,5°C de aquecimento ainda é possível, diz ONU",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Overshoot' é inevitável, mas voltar a 1,5°C de aquecimento ainda é possível, diz ONU. Consulte a reportagem para contexto, dados e declarações.",
@@ -405,34 +447,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-21T05:00:00+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c4700df605dfdfd6",
-      "title": "Polícia investiga ferimentos em recém-nascido achado no lixo e tenta identificar mãe no interior de SP",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia investiga ferimentos em recém-nascido achado no lixo e tenta identificar mãe no interior de SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/21/policia-investiga-ferimentos-em-recem-nascido-achado-no-lixo-e-tenta-identificar-mae-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T04:00:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "337a2a10de6a7d96",
-      "title": "Doença de Newcastle: operação fará visitas a 1,6 mil propriedades em áreas perto de foco confirmado",
-      "summary": "O veículo G1 publicou uma atualização sobre: doença de Newcastle: operação fará visitas a 1,6 mil propriedades em áreas perto de foco confirmado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/21/doenca-newcastle-visitas-propriedades-perto-foco-sc.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T04:00:00+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -475,34 +489,6 @@
       "source": "The New York Times",
       "published_at": "2026-10-21T03:15:01+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8270b1f350ec7ddc",
-      "title": "Lula envia ao Congresso nesta quarta PEC que prevê tarifa zero para ônibus aos finais de semana",
-      "summary": "O veículo G1 publicou uma atualização sobre: lula envia ao Congresso nesta quarta PEC que prevê tarifa zero para ônibus aos finais de semana. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/21/lula-envia-ao-congresso-nesta-quarta-pec-que-preve-tarifa-zero-para-onibus-aos-finais-de-semana.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T03:00:01+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ba413f7a33604946",
-      "title": "Lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI",
-      "summary": "O veículo G1 publicou uma atualização sobre: lula sanciona nesta quarta lei que prevê perdão de dívidas e aumento do teto de faturamento para MEI. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/21/lula-sanciona-nesta-quarta-lei-que-preve-perdao-de-dividas-e-aumento-do-teto-de-faturamento-para-mei.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T03:00:01+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -790,6 +776,20 @@
       "archive": false
     },
     {
+      "id": "fa2ace5984beeb03",
+      "title": "Entidades pedem ao Congresso dos EUA investigação sobre atuação da Meta na eleição brasileira",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: entidades pedem ao Congresso dos EUA investigação sobre atuação da Meta na eleição brasileira. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/entidades-pedem-ao-congresso-dos-eua-investigacao-sobre-atuacao-da-meta-na-eleicao-brasileira.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T23:16:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "592ab7d085321eda",
       "title": "Flávio Bolsonaro pede a Alexandre de Moraes, do STF, acesso a inquérito sobre suspeitas de lavagem de dinheiro - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio Bolsonaro pede a Alexandre de Moraes, do STF, acesso a inquérito sobre suspeitas de lavagem de dinheiro. Consulte a reportagem para contexto, dados e declarações.",
@@ -912,6 +912,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "77fe9510ac8e750f",
+      "title": "Brasil define cotas para exportar com tarifas reduzidas para a Noruega",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: brasil define cotas para exportar com tarifas reduzidas para a Noruega. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/brasil-define-cotas-para-exportar-com-tarifas-reduzidas-para-noruega",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-20T21:42:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1350,20 +1364,6 @@
       "archive": false
     },
     {
-      "id": "ce363a72fdc31e67",
-      "title": "Consultas por lesões pré-cancerígenas caem após vacina contra HPV",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: consultas por lesões pré-cancerígenas caem após vacina contra HPV. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/consultas-por-lesoes-pre-cancerigenas-caem-apos-vacina-contra-hpv",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-19T22:57:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5a5daaacfe4aee37",
       "title": "Como é a rotina da educadora de 101 anos que dirige a escola que ela mesma fundou: ‘Eu não me canso’ - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: como é a rotina da educadora de 101 anos que dirige a escola que ela mesma fundou: ‘Eu não me canso’. Consulte a reportagem para contexto, dados e declarações.",
@@ -1451,11 +1451,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 21
+      "items": 23
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 68
+      "items": 69
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1467,7 +1467,7 @@
     },
     "The New York Times": {
       "status": "ok",
-      "items": 7
+      "items": 6
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1511,23 +1511,23 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 42
+      "items": 41
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 45
+      "items": 44
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 56
+      "items": 54
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 62
+      "items": 61
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 11
+      "items": 18
     },
     "Eleições · Flávio": {
       "status": "ok",
