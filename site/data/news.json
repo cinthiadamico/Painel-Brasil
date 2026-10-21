@@ -1,10 +1,66 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-21T03:44:01.950759+00:00",
-  "last_success_at": "2026-10-21T03:44:01.950759+00:00",
+  "last_checked_at": "2026-10-21T04:43:13.858248+00:00",
+  "last_success_at": "2026-10-21T04:43:13.858248+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "23b4d42ad9c785a8",
+      "title": "Deputado estadual eleito diz ter sofrido tentativa de assalto na Zona Sul de SP",
+      "summary": "O veículo G1 publicou uma atualização sobre: deputado estadual eleito diz ter sofrido tentativa de assalto na Zona Sul de SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/21/deputado-estadual-eleito-diz-ter-sofrido-tentativa-de-assalto-em-sp.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T04:30:40+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c4700df605dfdfd6",
+      "title": "Polícia investiga ferimentos em recém-nascido achado no lixo e tenta identificar mãe no interior de SP",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia investiga ferimentos em recém-nascido achado no lixo e tenta identificar mãe no interior de SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/21/policia-investiga-ferimentos-em-recem-nascido-achado-no-lixo-e-tenta-identificar-mae-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "337a2a10de6a7d96",
+      "title": "Doença de Newcastle: operação fará visitas a 1,6 mil propriedades em áreas perto de foco confirmado",
+      "summary": "O veículo G1 publicou uma atualização sobre: doença de Newcastle: operação fará visitas a 1,6 mil propriedades em áreas perto de foco confirmado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/21/doenca-newcastle-visitas-propriedades-perto-foco-sc.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "337a2a10de6a7d96",
+      "title": "Doença de Newcastle: operação fará visitas a 1,6 mil propriedades em áreas perto de foco confirmado",
+      "summary": "O veículo G1 publicou uma atualização sobre: doença de Newcastle: operação fará visitas a 1,6 mil propriedades em áreas perto de foco confirmado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/21/doenca-newcastle-visitas-propriedades-perto-foco-sc.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "71b3e2b627ca5312",
       "title": "Proposta dos candidatos para crédito levam a juros maiores",
@@ -328,34 +384,6 @@
       "archive": false
     },
     {
-      "id": "35dab045177da252",
-      "title": "Eleições no AM: Omar Aziz defende mineração sustentável e propõe alternativa ao mercúrio no Amazonas",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições no AM: Omar Aziz defende mineração sustentável e propõe alternativa ao mercúrio no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/20/eleicoes-no-am-omar-aziz-defende-mineracao-sustentavel-e-propoe-alternativa-ao-mercurio-no-amazonas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T01:56:38+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5f4f6f7b2b8b7573",
-      "title": "Deputado eleito de SP diz ter sido alvo de tiro em veículo na zona sul da capital",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: deputado eleito de SP diz ter sido alvo de tiro em veículo na zona sul da capital. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/deputado-eleito-de-sp-diz-ter-sido-alvo-de-tiro-em-veiculo-na-zona-sul-da-capital.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T01:51:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "febaa2d8b799c93d",
       "title": "Atividades de robótica, inteligência artificial e oportunidades de emprego marcam primeiro dia do Senac Capacitar em Manaus",
       "summary": "O veículo G1 publicou uma atualização sobre: atividades de robótica, inteligência artificial e oportunidades de emprego marcam primeiro dia do Senac Capacitar em Manaus. Consulte a reportagem para contexto, dados e declarações.",
@@ -468,16 +496,16 @@
       "archive": false
     },
     {
-      "id": "32a2d3edc61d718c",
-      "title": "UFC lança concurso para professor efetivo em Fortaleza com salário de R$ 6,3 mil",
+      "id": "b724d2f6b8182c03",
+      "title": "UFC lança concurso para professor efetivo em Fortaleza com salário de R$ 6,3 mil - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: uFC lança concurso para professor efetivo em Fortaleza com salário de R$ 6,3 mil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ce/ceara/suachance/noticia/2026/10/20/ufc-lanca-concurso-para-professor-efetivo-em-fortaleza-com-salario-de-r-63-mil.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWV8yYUFaejZWUFFhdWhmaW1TeTQtbEJpWVFnWl9tVWtrUEtSS2dXbXZMNHhjUUtTR0JlSUNrRHdsSHNvV0MtenZvaTl6NWpQd2p6X0c3OEFSZFVEMUhnZmlTeVdxNC1mSG1CVFQ0aHpXQzNCSUZiY3hGdURGV3djNjkwcnZfVFFCRjVUUW84c0ZCalBKWXdIeE0xV045TVlSQkUyZENZX3cydEtIbkpPUnh6aG01X3VjcUNZUlVmQTIwbHRpenNZYTBMYjhkeVFDdy0yVktQRzVLX3PSAeoBQVVfeXFMT0FqMU5Ic3BBOHpBZzZhNGtVcXBVRHZQdV96dTN2WUVLdGljaW5Fb1dfSk5oMzZmdkRSbTFmb0dDWHplVWZCdy1ydVJ5alJFbUZENno2SzVNSFVGeG13WFBZdTU4Wkc4ZmtuNmRLdHVRMlNFWnl4R0lhay1uem9Fc1Vkek1CY0pRa005RjlwZ25rNmcwejEzYVBnM0VkNDVyQ2VvYXIxNmlqVW1BaTRwakxKSnpDQ1hERnE0SDJHbkRlZ2Y3ZkpJZFhVU1ZObDhldWtSM3FFUDZZelN4LUxRMUJzTDNTY2JqOGZn?oc=5",
       "source": "G1",
       "published_at": "2026-10-21T00:54:51+00:00",
       "category": "Educação",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -489,48 +517,6 @@
       "source": "VEJA",
       "published_at": "2026-10-21T00:51:07+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a9afbfe03ae56eb5",
-      "title": "França vai mobilizar polícia antiterrorismo para conter novos protestos",
-      "summary": "O veículo G1 publicou uma atualização sobre: frança vai mobilizar polícia antiterrorismo para conter novos protestos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/20/franca-vai-mobilizar-policia-antiterrorismo-para-conter-novos-protestos.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T00:41:56+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "504da0caf01b0404",
-      "title": "Polícia prende 2º suspeito de assalto a condomínio e detém homem com relógios roubados em Ribeirão Preto",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia prende 2º suspeito de assalto a condomínio e detém homem com relógios roubados em Ribeirão Preto. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/20/policia-prende-2o-suspeito-de-assalto-a-condominio-e-detem-homem-com-relogios-roubados-em-ribeirao-preto.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T00:40:54+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "deba6230416edde7",
-      "title": "PF pede para prorrogar inquéritos que investigam Fábio Luís Lula da Silva, o Lulinha, por tráfico de influência",
-      "summary": "O veículo G1 publicou uma atualização sobre: pF pede para prorrogar inquéritos que investigam Fábio Luís Lula da Silva, o Lulinha, por tráfico de influência. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/20/pf-pede-para-prorrogar-inqueritos-que-investigam-fabio-luis-lula-da-silva-o-lulinha-por-trafico-de-influencia.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T00:33:44+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -618,6 +604,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9b3d3d24faf9e448",
+      "title": "Presidente do TSE diz que mudanças em locais de votação do primeiro para o segundo turno caíram em relação a 2022 - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: presidente do TSE diz que mudanças em locais de votação do primeiro para o segundo turno caíram em relação a 2022. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOc2F0dHpNTWUwcHo3cEE3LXRUY3gzSFpSSEZvZmliYXdjMWZ5eGRoR3VaeXdXX1p5ZEh3X3JQSzhhZHhkMlFQam9tZHBNbUtMajlSNHpnQXNYa2dycVZXeXdGekhUVWZfX2JiYmxteHY4NE5lVlhOMkR4TnNlOUJkaHlIWjdZbUgxa3U1MnYwTXVzS3o3a0M2YTR5R2lXWWRPUVY2dHJIcTdQMERsMUZ1TEZXVmpLdktTM2VGUDBKd1F6WXRCZDhfYzRHQm1HbEpucmNtLUFRdUNyMmgycGJhaVJBdUVoX1JvM1p6V2JtNXhvb18tYkVuOU1iTWdQMnBQbHpILUJ6Y2h5OUZoLXhuRnVGVHLSAaMCQVVfeXFMUGtvQU9BdTNwajQ0Z0I3SlpLdHdHLUQ3SHlxcUJGVXdUSzV3M19RbVQzN21zaFNIeFNJbDBlRTRYRXRfeDVUWWxtcVpWYnVHMjlHdzNVWkN0RUJUQ0lzNW5GTVZjMTZCR0JONzlXVE5CX3p5NWhCWklVaGFuQnUwcEtmbkZZbmxnNzdNdmZxVHFXbFZidkhyNkJyZzg2TFhuMlNoQlVCeTQwbzhzRzBNUWVlSXlxWXFFMUpLU2kwQXc5UzlMd0EzS0JzUWxqSEc3SWFIa3ZXUDRJaGU3T2V6ODk1cXA3UTZxWVVLbEtRc1l2RWVyeFdKeE85cnViTUpkLWZBbmcxenF3T0czQXN2aHU2aXA3NU1LZk5uSjR6RzE0Z2Q4?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-20T23:41:03+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -860,6 +860,20 @@
       "archive": false
     },
     {
+      "id": "c9bd357b44e0a11f",
+      "title": "Projeto de lei que propõe criação de estratégia e programa de educação financeira e previdenciária é aprovado na Alece - Flavio Pinto News",
+      "summary": "O veículo Flavio Pinto News publicou uma atualização sobre: projeto de lei que propõe criação de estratégia e programa de educação financeira e previdenciária é aprovado na Alece - Flavio Pinto News. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHVPZEVkZU9MWGxaRHZPNG53cEdQWDlRYUlqeHJpV2ZQX09FZDhBbERlMldmVDJhbkgzTzVKd1gyNmI5ZmREcHU5dVBWSmtXZ0wyeUJuT09UY1FaZjJ1QzJLaXhKWTljZzQyVlhVNnVXVWI3V3pfRU0zTUlTREFueVJhLU9NRzVaU0s0Qg?oc=5",
+      "source": "Flavio Pinto News",
+      "published_at": "2026-10-20T21:50:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "77fe9510ac8e750f",
       "title": "Brasil define cotas para exportar com tarifas reduzidas para a Noruega",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: brasil define cotas para exportar com tarifas reduzidas para a Noruega. Consulte a reportagem para contexto, dados e declarações.",
@@ -958,13 +972,13 @@
       "archive": false
     },
     {
-      "id": "93aaadb8816dd419",
-      "title": "Projeto proíbe normas técnicas que descaracterizem produtos com Indicação Geográfica",
-      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto proíbe normas técnicas que descaracterizem produtos com Indicação Geográfica. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.camara.leg.br/noticias/1307923-projeto-proibe-normas-tecnicas-que-descaracterizem-produtos-com-indicacao-geografica",
-      "source": "Agência Câmara",
-      "published_at": "2026-10-20T20:41:00+00:00",
-      "category": "Câmara e Senado",
+      "id": "9e105810ba25bc6c",
+      "title": "Ex-ministros da Saúde citam pandemia e ameaça ao SUS em manifesto contra Flávio Bolsonaro",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ex-ministros da Saúde citam pandemia e ameaça ao SUS em manifesto contra Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/ex-ministros-da-saude-citam-pandemia-e-veem-ameaca-ao-sus-com-flavio-bolsonaro.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-20T20:40:00+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1056,20 +1070,6 @@
       "archive": false
     },
     {
-      "id": "ac9beb56cb849646",
-      "title": "Lula critica autonomia do Banco Central e nega risco fiscal em sabatina",
-      "summary": "O veículo VEJA publicou uma atualização sobre: lula critica autonomia do Banco Central e nega risco fiscal em sabatina. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/economia/lula-critica-autonomia-do-banco-central-e-nega-risco-fiscal-em-sabatina/",
-      "source": "VEJA",
-      "published_at": "2026-10-20T19:06:44+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "919baf1c29ad0c6f",
       "title": "Cadu de Lula apresenta propostas para fortalecer economia e ampliar serviços públicos no RN",
       "summary": "O veículo G1 publicou uma atualização sobre: cadu de Lula apresenta propostas para fortalecer economia e ampliar serviços públicos no RN. Consulte a reportagem para contexto, dados e declarações.",
@@ -1122,20 +1122,6 @@
       "candidate": "flavio",
       "election_type": "Fala",
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b41177ce60d6ae3b",
-      "title": "As conversas de Lula com ministros do STF no segundo turno - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: as conversas de Lula com ministros do STF no segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXhiTTBSX2gwdl9CMjB5XzhpZVVDeXpDWVFIU2hzQXdFNjF0ZlVkSDd2WTZfV04tRVVrNGk1ejJ1MGgzcElKTm1zbE43a2dVUmJtVTVzOW5QSjJKZWctbzdSQ1otbFc1MkJTeElqc1JkYXZ5MnJtdmstdjljUVh5TEhwcVNyMWcwS3RqdF85b2hxcUlOYjA0RTF5dGRaVk9tZ21KQml6UUtUS1kzZHVGYm1INk9jek5naC1PadIBywFBVV95cUxOaGlZak1jVlJMdm9DSEZCZFRWQk9aTzJXNGRLLTVwU01uNlJQbUxMbXNlVE5aQkJuSmo0OWtyNk1FN0w5cTlLVUZ0Z3lvdmI4WG9PQ1EtN2Q3STlXZkVCTnhkN3pJcTJrRkdxS3otS2MyY2g5YzNPeU9pNXoxeHhySndoZnlrY2psR3ZRRDNUdzZaZU91ZGQxMHpuMFZkTk9iOXZJa0tuU3lvNXd3cmtPTGYzWHgzZW1xdzYxenRYUVh1alN2bkNWVThyWQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-20T18:11:42+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1378,20 +1364,6 @@
       "archive": false
     },
     {
-      "id": "b70b39c70675b5d4",
-      "title": "Peça-chave na campanha de Lula, Janones deve ficar mais dois dias no hospital - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: peça-chave na campanha de Lula, Janones deve ficar mais dois dias no hospital. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFRHcW9VNVppSmpWMF9JRmpzTHNMZGx3eVdvdTNDNG5lWGRtZTlJZE9obURpWWtKb1hfa05mUjJRaEZRSHVVbFU5NjFKVENqekhiOFFLQmRZN1pWTWdPOF9BVnlBcElVQjBjX2lUc1FUN1JfRGlvMS1VVml4UjRyOEMtV3l0Q3BoclcxY3FHNmNQdk1ZVXR5Q0NGUlpnNng0RkRmSWJxU1lMUXg0d3pYbWF3?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-19T22:43:39+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5a5daaacfe4aee37",
       "title": "Como é a rotina da educadora de 101 anos que dirige a escola que ela mesma fundou: ‘Eu não me canso’ - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: como é a rotina da educadora de 101 anos que dirige a escola que ela mesma fundou: ‘Eu não me canso’. Consulte a reportagem para contexto, dados e declarações.",
@@ -1399,6 +1371,34 @@
       "source": "Estadão",
       "published_at": "2026-10-19T20:02:32+00:00",
       "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b111ab0406a52404",
+      "title": "Polícia isola área por suspeita de bomba em carro de Flávio após debate na Band - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: polícia isola área por suspeita de bomba em carro de Flávio após debate na Band. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNU9SMGIzaEI5a0ZzS0RUNng2VE5RZXBZNXdHSmNjTXYzNDZmczN4Tmh2YklfWW5CeFBzR3h5SG9GU25XLVRTY3JYR3BuQjU4WEQ4eGl5U0tneU9YT1RWUlRWQWREX3huNzBlRHR2amNvenE1WnpWM1BPZDh2dU4wM1VtUTJkUFJ6R0VvYmY3b0NQNlpMRmxUbkFMT3Q0d1RJVXZuSF9WaHFqTG82ZmFmUVRPTDhaUQ?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-19T02:24:50+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a393aa47f42fe4f5",
+      "title": "Lula rebate Flávio na Band e defende combate ao crime organizado “da esquina ao andar de cima” - Revista Fórum",
+      "summary": "O veículo Revista Fórum publicou uma atualização sobre: lula rebate Flávio na Band e defende combate ao crime organizado “da esquina ao andar de cima” - Revista Fórum. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdGdCZDB3elc3dVh5MHRZR0sxLWFZTUtURVFDRWV1cG1RbV9sNUNoMEY2cmNuR3gwTUwyRmVCbTh2ZjU3X2xNUEh4Q0w1VC1fOE1sM0w2SjRzZVQtdXVtcHdYMW4xWm41d1pFZXo5X2JSY1RUYkY0OERkRXozRTkxZnlFaVljT0tJNFFESXhPdVdCdXhSdnZoNEVRdlFVZUV3LXlrVF9QZVNNdHN3ekNIRHh3Nm5FcFJ6dC1jTzJOdEMwWHpsWHZMM1lB?oc=5",
+      "source": "Revista Fórum",
+      "published_at": "2026-10-18T23:32:55+00:00",
+      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1465,11 +1465,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 42
+      "items": 24
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 61
+      "items": 62
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1529,7 +1529,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 39
+      "items": 43
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1537,15 +1537,15 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 69
+      "items": 65
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 17
+      "items": 18
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 15
+      "items": 21
     }
   },
   "notes": [
