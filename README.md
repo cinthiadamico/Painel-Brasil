@@ -44,3 +44,16 @@ Em **Settings → Pages → Build and deployment → Source**, selecione **GitHu
 Para testar localmente, rode `python -m unittest discover -s tests -v`, depois `python scripts/update.py` com acesso à internet e `python -m http.server 8000 --directory site` para visualizar no navegador. Abrir o arquivo `index.html` via `file://` pode bloquear a leitura de JSON.
 
 Este é um projeto editorial independente, sem vínculo oficial com as fontes. Resumos históricos são paráfrases com links; manchetes RSS atuais mantêm atribuição e link de origem.
+
+## Últimos sete dias e arquivo mensal (outubro de 2026)
+
+- O painel principal mostra **somente matérias dos últimos sete dias**, filtradas também no navegador, sem apagar o histórico.
+- A aba **Arquivo mensal** apresenta pastas mensais (por exemplo, `arquivo/2026-10/`) e subpastas por dia (`arquivo/2026-10/2026-10-21/materias.json`).
+- O catálogo `site/arquivo/index.json` é construído automaticamente após cada coleta e permite abrir as datas no site.
+- Os itens já arquivados permanecem disponíveis depois que deixam a janela semanal. O arquivo começou a ser preservado em outubro de 2026; notícias de dias anteriores à implantação só aparecem quando há dados pré-existentes.
+- O painel Claude original, datado de **16/10/2026**, permanece consultável na pasta de 16/10 como edição histórica, sem ser apresentado como notícia nova.
+- O workflow executa `python scripts/update.py` e `python scripts/archive.py` a cada hora.
+
+## Metrópoles
+
+A aba **Metrópoles** reúne matérias recentes de Brasil, Mundo e política. Os feeds de referência são consultas RSS do Google Notícias restritas ao domínio `metropoles.com`; os cards identificam a passagem pelo agregador e preservam os links. O dia mostrado segue o horário de Brasília. Quando não há publicação datada do dia atual, a aba mostra as últimas disponíveis e informa a diferença.
