@@ -379,7 +379,7 @@
     newFooter.replaceChildren();
     const src=[...new Set(items.map(i=>i.source).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'pt-BR'));
     const p=node('p','');p.append(node('strong','','Fontes de notícias efetivamente exibidas: '),document.createTextNode(src.length?src.join(', ')+'.':'nenhuma confirmada nesta coleta.'));
-    const p2=node('p','');p2.append(node('strong','','Metodologia: '),document.createTextNode('Manchetes e metadados recentes provêm de feeds RSS/Atom ou agregadores, sem leitura integral das reportagens. As matérias da edição original do Claude de 16/10/2026 ficam na aba Arquivo mensal, organizadas por data, e não são atualizadas ou verificadas automaticamente.'));
+    const p2=node('p','');p2.append(node('strong','','Metodologia: '),document.createTextNode('Manchetes e metadados recentes provêm de feeds RSS/Atom ou agregadores, sem leitura integral das reportagens. Edições do Claude importadas manualmente ficam na aba Arquivo mensal, por mês e data; somente uma seleção recente aparece na página inicial. As informações importadas não foram verificadas de maneira independente.'));
     const p3=node('p','');p3.append(node('strong','','Restrições de acesso: '),document.createTextNode('G1, O Globo, Folha, Estadão, VEJA e The New York Times podem bloquear a leitura automatizada de matérias completas. Isso não impede necessariamente a recepção de manchetes via RSS ou agregadores. Os resumos históricos são paráfrases próprias com links para as fontes originais.'));
     const date = node('p','footer-timestamp', 'Última coleta concluída: '+dateOf(payload.last_checked_at)+'. Última coleta bem-sucedida: '+dateOf(payload.last_success_at)+'.');
     newFooter.append(p,p2,p3,date);
