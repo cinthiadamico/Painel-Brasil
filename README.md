@@ -57,3 +57,27 @@ Este é um projeto editorial independente, sem vínculo oficial com as fontes. R
 ## Metrópoles
 
 A aba **Metrópoles** reúne matérias recentes de Brasil, Mundo e política. Os feeds de referência são consultas RSS do Google Notícias restritas ao domínio `metropoles.com`; os cards identificam a passagem pelo agregador e preservam os links. O dia mostrado segue o horário de Brasília. Quando não há publicação datada do dia atual, a aba mostra as últimas disponíveis e informa a diferença.
+
+
+## Atualização do painel original do Claude (edição de 21/10/2026)
+
+A edição enviada em `Painel Brasil (1).html` foi incorporada ao repositório como
+`imports/claude/2026-10-21.html`. São **667 cards de notícias e 22 destaques**.
+O importador `scripts/import_claude.py` extrai e preserva os **689 registros**
+em `site/arquivo/2026-10/2026-10-21/claude.json`, com 133 posições de
+Lula e 133 de Flávio Bolsonaro no arquivo eleitoral.
+
+- **Página principal**: exibe o RSS da última semana e uma seleção de matérias
+  recentes da edição do Claude sob as editorias correspondentes. Os cards
+  importados identificam a data da edição quando a data da publicação individual
+  não foi informada.
+- **Arquivo mensal**: apresenta a edição completa do Claude por
+  `?aba=arquivo&data=2026-10-21`, incluindo títulos, resumos e links.
+- **Transparência**: o conteúdo do Claude é uma importação manual, não uma
+  coleta automática nem uma checagem independente de fatos. Alterações futuras
+  no artifact do Claude exigem nova exportação/importação do HTML.
+- **Convivência**: o histórico do Claude de 16/10 permanece consultável no
+  arquivo do dia 16; a coleta RSS dos portais continua horária.
+
+O workflow executa primeiro a coleta RSS, depois a importação das edições
+Claude já enviadas ao repositório e, por último, atualiza o índice mensal.
