@@ -62,8 +62,8 @@
     if(ctx.originalElectionNote)wrapper.append(ctx.originalElectionNote);
     target.append(wrapper);
   }
-  async function loadDay(date, url){
-    if(!panel || !context)return;
+  async function loadDay(date, url, claudePath){
+    if(!panel||!context)return;
     const area=panel.querySelector('#arquivo-materias');
     if(!area)return;
     currentDate=date;
@@ -71,41 +71,85 @@
       btn.setAttribute('aria-pressed',String(btn.dataset.date===date)));
     area.replaceChildren($el('p','archive-loading','Carregando matérias de '+showDate(date)+'...'));
     const path=/^arquivo\/20\d{2}-\d{2}\/20\d{2}-\d{2}-\d{2}\/materias\.json$/;
-    let entries=[];
+    const sourcePath=/^arquivo\/20\d{2}-\d{2}\/20\d{2}-\d{2}-\d{2}\/claude\.json$/;
+    let entries=[],claudeEntries=[],failure=false;
+    const files=[];
     if(path.test(url)){
-      try{
-        const res=await fetch(url+'?v='+Date.now(),{cache:'no-store'});
-        if(!res.ok)throw Error('HTTP '+res.status);
-        const payload=await res.json();
-        if(payload.date===date&&Array.isArray(payload.items))entries=payload.items;
-      }catch(error){
-        if(date!=='2026-10-16'){
-          area.replaceChildren($el('p','archive-error','Não foi possível abrir este dia. Tente novamente mais tarde.'));
-          return;
-        }
-      }
+      files.push(fetch(url+'?v='+Date.now(),{cache:'no-store'})
+        .then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json();})
+        .then(data=>{if(data.date===date&&Array.isArray(data.items))entries=data.items;})
+        .catch(()=>{failure=true;}));
     }
+    if(claudePath&&sourcePath.test(claudePath)){
+      files.push(fetch(claudePath+'?v='+Date.now(),{cache:'no-store'})
+        .then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json();})
+        .then(data=>{if(data.edition_date===date&&Array.isArray(data.items))claudeEntries=data.items;})
+        .catch(()=>{failure=true;}));
+    }
+    await Promise.all(files);
     if(currentDate!==date)return;
     area.replaceChildren(
       $el('h3','archive-title','Matérias de '+showDate(date)),
-      $el('p','small-note',entries.length+' matérias automáticas preservadas neste dia. Todas mostram a data de publicação e a fonte original.')
+      $el('p','small-note',entries.length+' matérias coletadas automaticamente; '+
+        claudeEntries.length+' registros da edição do Claude. A edição Claude preserva títulos e resumos fornecidos, não verificados de forma independente.')
     );
     const byCategory=new Map();
     entries.forEach(item=>{
       if(!item||!item.title||!item.url)return;
-      const cat=item.category||'Outras notícias';
-      if(!byCategory.has(cat))byCategory.set(cat,[]);
-      byCategory.get(cat).push(item);
+      const category=item.category||'Outras notícias';
+      if(!byCategory.has(category))byCategory.set(category,[]);
+      byCategory.get(category).push(item);
     });
     for(const [category,news] of byCategory){
-      area.append($el('h4','archive-group-title',category));
+      area.append($el('h4','archive-group-title',category+' · portais RSS'));
       const grid=$el('div','card-grid');
       news.sort((a,b)=>String(b.published_at).localeCompare(String(a.published_at)));
       news.forEach(item=>grid.append(context.createCard(item,{category:'arquivo',color:'--accent'})));
       area.append(grid);
     }
+    if(claudeEntries.length){
+      const editorial=$el('div','archive-claude');
+      editorial.append(
+        $el('h3','archive-title','Edição do Claude · '+showDate(date)),
+        $el('p','small-note','Arquivo enviado pelo usuário. O conteúdo não foi verificado independentemente; a data da edição não indica necessariamente a data de publicação de cada matéria. Clique nas editorias abaixo.')
+      );
+      const categories=new Map();
+      for(const item of claudeEntries){
+        if(!item||!item.title||!item.url)continue;
+        let key=item.section_id||item.category||'Outros';
+        if(key==='eleicoes')key+='-'+(item.candidate||'geral');
+        if(!categories.has(key))categories.set(key,[]);
+        categories.get(key).push(item);
+      }
+      const names={
+        'destaques':'Destaques','eleicoes-lula':'Eleições · Lula',
+        'eleicoes-flavio':'Eleições · Flávio Bolsonaro',
+        'eleicoes-geral':'Eleições · outros',
+        'ruas':'Brasil nas ruas','politica':'Política & Governo',
+        'economia':'Economia','justica':'Justiça & STF',
+        'camara':'Câmara dos Deputados','senado':'Senado',
+        'intl':'Internacional & Geopolítica','saude':'Saúde',
+        'edu':'Educação','seg':'Segurança'
+      };
+      for(const [category,news] of categories){
+        const detail=$el('details','archive-month archive-editoria');
+        detail.append($el('summary','', (names[category]||category)+' · '+news.length+' matérias'));
+        detail.addEventListener('toggle',()=>{
+          if(!detail.open||detail.dataset.rendered==='true')return;
+          detail.dataset.rendered='true';
+          const grid=$el('div','card-grid');
+          news.forEach(item=>grid.append(context.createCard(item,{category:'arquivo',color:'--accent'})));
+          detail.append(grid);
+        });
+        editorial.append(detail);
+      }
+      area.append(editorial);
+    }
     if(date==='2026-10-16')originalArchive(area,context);
-    if(!entries.length&&date!=='2026-10-16')area.append($el('p','empty-state','Nenhuma matéria preservada nesta data.'));
+    if(!entries.length&&!claudeEntries.length&&date!=='2026-10-16'){
+      area.append($el('p',failure?'archive-error':'empty-state',
+        failure?'Uma ou mais fontes do arquivo não puderam ser carregadas.':'Nenhuma matéria preservada nesta data.'));
+    }
   }
   async function loadCatalogue() {
     if(!panel)return;
@@ -129,10 +173,10 @@
         month.days.forEach(day=>{
           if(!/^\d{4}-\d{2}-\d{2}$/.test(day.date))return;
           const btn=$el('button','archive-day',
-            showDate(day.date)+' · '+day.count+' matérias'+(day.claude_original?' + Claude':''));
+            showDate(day.date)+' · '+day.count+' RSS'+(day.claude_count?' + '+day.claude_count+' Claude':day.claude_original?' + Claude':''));
           btn.type='button';btn.dataset.date=day.date;
           btn.setAttribute('aria-pressed',String(day.date===currentDate));
-          btn.addEventListener('click',()=>loadDay(day.date,day.path));
+          btn.addEventListener('click',()=>loadDay(day.date,day.path,day.claude_path));
           row.append(btn);
         });
         wrap.append(row);box.append(wrap);
