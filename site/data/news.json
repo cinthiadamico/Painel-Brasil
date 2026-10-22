@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:15:00.567844+00:00",
-  "last_success_at": "2026-10-22T03:15:00.567844+00:00",
+  "last_checked_at": "2026-10-22T03:16:40.971859+00:00",
+  "last_success_at": "2026-10-22T03:16:40.971859+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -1649,15 +1649,15 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 47
+      "items": 42
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 50
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 66
+      "items": 65
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1669,7 +1669,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 63
+      "items": 62
     }
   },
   "notes": [
