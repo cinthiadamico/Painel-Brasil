@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:08:55.519205+00:00",
-  "last_success_at": "2026-10-22T03:08:55.519205+00:00",
+  "last_checked_at": "2026-10-22T03:11:06.190119+00:00",
+  "last_success_at": "2026-10-22T03:11:06.190119+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -86,6 +86,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3758b9a281a2a1d8",
+      "title": "Posts contra Lula seguem no ar após prazo de 3 horas dado por Nunes Marques - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: posts contra Lula seguem no ar após prazo de 3 horas dado por Nunes Marques - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkRCdFpmODRtRGFacTZSWERXaHFxbm16UzhEYjNNczJZYWMwNTRkRE1CRjA4d240cDF5QVJBLXVZaElzLXF2T3lUUE93dzJrUGhsNzU0UjRpOXdnbG50a2ZfVC1YNVRnSkUtTm9hVGlJRHJkenZwUHlEOHdwY19mVWVLeWY2cW5iN3RLZ1lKYV9nbXhoLTN6WGQydEpocTd1MjMyUE0zWEFiRU9zOXc?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T02:17:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -188,34 +202,6 @@
       "archive": false
     },
     {
-      "id": "874a95f2d3868a11",
-      "title": "'Imposto do pecado' vai atrasar mais que o esperado e mudará em 2028",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Imposto do pecado' vai atrasar mais que o esperado e mudará em 2028. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/10/imposto-do-pecado-vai-atrasar-mais-que-o-esperado-e-mudara-em-2028.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3d3bea3c618134d6",
-      "title": "Aliados de Flávio tentam evitar novo 'momento Zambelli' na reta final",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: aliados de Flávio tentam evitar novo 'momento Zambelli' na reta final. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/aliados-de-flavio-tentam-evitar-novo-momento-zambelli-na-reta-final.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "cf7eef7eceb91a35",
       "title": "'Oceânico' cruza ciência, crime organizado e política em drama sobre alcoolismo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Oceânico' cruza ciência, crime organizado e política em drama sobre alcoolismo. Consulte a reportagem para contexto, dados e declarações.",
@@ -258,20 +244,6 @@
       "archive": false
     },
     {
-      "id": "65f90ffdbc6d10f6",
-      "title": "Justiça rejeita suspensão imediata de serviços de startup jurídica de IA por pedido da OAB-SP",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: justiça rejeita suspensão imediata de serviços de startup jurídica de IA por pedido da OAB-SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/justica-rejeita-suspensao-imediata-de-servicos-de-startup-juridica-de-ia-por-pedido-da-oab-sp.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T01:56:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f2db3ae8127b4c4d",
       "title": "MPE diz que Meta descumpriu parte das determinações do TSE, aponta novo tratamento desigual em campanhas e pede multa",
       "summary": "O veículo G1 publicou uma atualização sobre: mPE diz que Meta descumpriu parte das determinações do TSE, aponta novo tratamento desigual em campanhas e pede multa. Consulte a reportagem para contexto, dados e declarações.",
@@ -282,6 +254,34 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8cf4889880e4b22b",
+      "title": "Flávio nega que acabará com Bolsa Família e direitos dos gays: \"Fake news\" - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio nega que acabará com Bolsa Família e direitos dos gays: \"Fake news\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaF8xbUNkVFF6TkxXV3JXOVZCdWNmMjBrdlBFR2VIelBPT0tMck1VV0ZhaGZBZWJiaXFZZy1XOWk0aTI5YUtWb29hRm05cUZjbEJPT2h6LW9WV2VSZ2xrSG9RTVJIeEw4YVUtZ1RhbnAyVkJ1Z01kMGQxaXE2bEVSNEQ1M0VpcllSVlltRjEyek1lYTBpcC1XYWxfR19mNWJQUGpWY1hqZng?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T01:35:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5863c65b2f6773d3",
+      "title": "PM apreende jovens com camiseta de Lula, mas mãe diz que flagra foi forjado - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: pM apreende jovens com camiseta de Lula, mas mãe diz que flagra foi forjado - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1hSRUlaQjNlQ0JTRmg1NmdOMVZXbW5CYVo0RC1HTjdWbXZMWHpZRjFxcXEwZFBoNGpzdW1xM1czem5qVUxjT0Y0ZXVHNzBYR1VrdjlaZzV0LVVFTnBHdlZOdDJVSWc0MmgzN3FXUTVRZGc2QjF4ZE9Ra3N6WUlxQjNCT25SQkFQcTI0ZzB5SXJVOU1vLUQzVWRDNWRjRG1Ed01aRGR0UHQwNUp1NFdDbQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T01:22:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -300,6 +300,20 @@
       "archive": false
     },
     {
+      "id": "de2f98ae20bfa16f",
+      "title": "Keiko poderá ditar leis contra o crime sem passar pelo Congresso no Peru - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: keiko poderá ditar leis contra o crime sem passar pelo Congresso no Peru - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTnBhYmJUZ2Z3NkhpQzc3UjRtV3k4YkdXSlVXQTNGdTNmUHpkcXdNWk5qV1dYb3ZSUi1Xa3gtekpiTTM5YmFyLXc1dHFSdFVYWlV2Rk53cGYzWXp2QTRnNEJidXp6TDZHX2hCUW1XOENydjdZQUd1QTZzellxcUlSUTdOdldOeTI1Q2hqVkx5UmRINXRsTm9iYzJhZEt2T25Sd3d3dEJTQTU?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T01:05:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "8963e608c453b979",
       "title": "Ato de estudantes de direita em SP tem clima de Carnaval, bebida no gargalo e ligação de Tarcísio",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ato de estudantes de direita em SP tem clima de Carnaval, bebida no gargalo e ligação de Tarcísio. Consulte a reportagem para contexto, dados e declarações.",
@@ -310,6 +324,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1c0aae48b632142c",
+      "title": "Campanha de Lula protocola no TSE pedido de cassação da chapa de Flávio - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: campanha de Lula protocola no TSE pedido de cassação da chapa de Flávio - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM241ZzJ3QUdRVFJuUXNtWnBYSTdmTTE0aWRDakh3X0xTcmEzRnR3MzNzRUpKb0ZoZGN4RFl0WXB2QmFNaWpsQXJ0S1B1bTVKQzExSjdlMDhPdVBSZ1ptYWNKU2VqQUY4Y3dpNFQzY0Zudjk5bEdZZHVIMHBvdkRyTFJmVEk4Y0hvZFdfRDloLW9fX2F1SVljaTFvb3FPLVhEU194T0l0M2M?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T00:33:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -352,6 +380,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "441dda583085ad3b",
+      "title": "EUA firma acordo com Paraguai para usar energia de Itaipu em empresa de IA - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: eUA firma acordo com Paraguai para usar energia de Itaipu em empresa de IA - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMndaanNmUV84SmdFYUt5bWhrTS1ubDNRdTJnWmFXcmRiTEJ1RFNFY0pzNG5iRlFnc1ZMYzZCTEhnM2pWd21TX3BmV3hXcVpDTEtTNXBjbGptcEpZQ2JIanR6Rkk0ZXJQWE1laEdzNkJYZ2gzZ3NuaXExLXF5ZUNyNE1BNzdta3pabVQzOHM3UG1lOWEzR2NTdGgxRU53QlRoOWtsVGZuYm8xNlU?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-21T23:57:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -436,6 +478,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fc58918fc5206f01",
+      "title": "Emirados Árabes anuncia candidatura de diplomata para a chefia da ONU - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: emirados Árabes anuncia candidatura de diplomata para a chefia da ONU - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOei1CSUVCTFI3TTlyaU1FQUE5NDFEazNLSzF3dHV6bmxEYTZTVHpBaFVDRk02TzZlUzZUbDZTVEVqcDNjYjA4bjNQYjliSEt3UUxMVHk2cmZUYmpaemp5Q3dTSmJscUtaM2c3eW1YdjRxbmNob1lwWm5TeUFHNHBfaEo3dUpfZjI0aTFka3dCbDhnYXJNM29CNnQ3ZU84bmVyRGktdQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-21T23:25:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -566,6 +622,20 @@
       "archive": false
     },
     {
+      "id": "d5053c67fcb4f19e",
+      "title": "El Salvador anuncia operação militar contra gangues no Haiti - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: el Salvador anuncia operação militar contra gangues no Haiti - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYU9zV1MzQ2NhMF9LMVhJR2p1bXBUOUxfTlNzY1lJX0kySXpTRExSc2ZUcEV6Zm9ocGFqcFk1eEsxbU9zX3F4clVNWWNiYVhQUDcza2RoT1hZM3NfaTM2X1V6MUpDOHc2T3ZjaDBXcUlyaEVFekdiWW4zWVlTa05PbnBGQ1ItQ19vMXpHeEFCNzNQNllLbWE5NA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-21T22:35:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "e1b78116dc1755ae",
       "title": "Chefe de facção presa na Bolívia volta ao presídio de onde fugiu em MT",
       "summary": "O veículo G1 publicou uma atualização sobre: chefe de facção presa na Bolívia volta ao presídio de onde fugiu em MT. Consulte a reportagem para contexto, dados e declarações.",
@@ -608,6 +678,20 @@
       "archive": false
     },
     {
+      "id": "be6a8cb767b2617e",
+      "title": "Com PSB e PDT, apoio à reeleição de Motta ultrapassa metade dos deputados da Câmara",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: com PSB e PDT, apoio à reeleição de Motta ultrapassa metade dos deputados da Câmara. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/com-psb-e-pdt-apoio-a-reeleicao-de-motta-ultrapassa-metade-dos-deputados-da-camara.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T22:19:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "62cd83c5b253fbe1",
       "title": "Tribunal de Contas do DF dá 5 dias para governo explicar envio de R$ 120 milhões da Saúde ao BRB - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: tribunal de Contas do DF dá 5 dias para governo explicar envio de R$ 120 milhões da Saúde ao BRB. Consulte a reportagem para contexto, dados e declarações.",
@@ -636,6 +720,20 @@
       "archive": false
     },
     {
+      "id": "bca65df6d8ec4fed",
+      "title": "Motta autoriza deputados eleitos a usar \"cotão\" da Câmara antes da posse - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: motta autoriza deputados eleitos a usar \"cotão\" da Câmara antes da posse - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb1NoTExycFEtYXN6bWQ1OW9sRVVyaVRScnRGTklUR0VmSi1Pc241TldESndWWng2UVo3cHRfekdZX3BpS0JRejk0S1hkVm1wUGxJOVF4VUhXYVV2QllKV00xbnNCZmtXYy1yRWJ4VkJxMGU3OUJMZ1FLaU9IX3BnNldCaEY2VWNGdGRZYi11azZKa0xBWEgxT2lLSXFzZlFLbVcta1pYTQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-21T22:11:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "8348e5d3760df0c5",
       "title": "Polícia já tem 32 inquéritos sobre clínicas de estética em Laranjeiras; mais três mulheres procuram a delegacia",
       "summary": "O veículo G1 publicou uma atualização sobre: polícia já tem 32 inquéritos sobre clínicas de estética em Laranjeiras; mais três mulheres procuram a delegacia. Consulte a reportagem para contexto, dados e declarações.",
@@ -643,6 +741,34 @@
       "source": "G1",
       "published_at": "2026-10-21T22:06:14+00:00",
       "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0d7a28aef7ec1d97",
+      "title": "Governo pode comprar até R$ 90 bi em dívidas da população para o Desenrola 3.0 em novembro, diz ministro",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo pode comprar até R$ 90 bi em dívidas da população para o Desenrola 3.0 em novembro, diz ministro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-pode-comprar-ate-r-90-bi-em-dividas-da-populacao-para-o-desenrola-30-em-novembro-diz-ministro.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T22:01:00+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2eb0680892ad7585",
+      "title": "Promotoria no Paraná abre apuração sobre câmera em banheiro de escola; gestores são afastados",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: promotoria no Paraná abre apuração sobre câmera em banheiro de escola; gestores são afastados. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/promotoria-no-pr-abre-apuracao-sobre-camera-em-banheiro-de-escola-gestores-sao-afastados.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T22:00:00+00:00",
+      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -664,6 +790,34 @@
       "archive": false
     },
     {
+      "id": "a0f6e90c73a0a71f",
+      "title": "Assessor de Putin cita preparativos para cúpula com Trump e Xi na China - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: assessor de Putin cita preparativos para cúpula com Trump e Xi na China - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkxwNzFRa1ZjOHZFeGVfcHF0ZzNXQVJzdjE5dTd5blFHYlpjRnpOdzZHdGZsR090T3EtdmVTb1FPMThYbnZxNjNfNEdUQ2JHc1JPT2o4QnpIYk1ORERLWWdvaDkzRFpyQjJMMXB0YTNadEpfMUR0TDNCbnQtWlVkQkpoS0FHaXA1WkE?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-21T21:58:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0e2b84e0851676c4",
+      "title": "Lula vai ao TSE pedir cassação da chapa de Flávio por ações da Meta - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula vai ao TSE pedir cassação da chapa de Flávio por ações da Meta - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWttV3lZMFVKUTBrRnFqNEgxUi1ROWsxRDc2UFdPZmdwS3ozdlA1YUFyeWdIamktMWluUUNLeEZMVUFqcnNCSWI4SGFJcEVxWU1zb2o4dUhjRWl0WG1ESjZldVVxTU92UDMwX2Q2S1FvLXY3eUVrT0VPS2pfdFBacUdnVU5POU9wNnkxclc0R3M2NVFJOEV4UFJnbVRrdzhFUFQ4?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-21T21:56:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "07b140ed7bc466eb",
       "title": "Flávio Bolsonaro promete 'cashback' em Pix aos moldes da reforma tributária, mas não detalha custo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro promete 'cashback' em Pix aos moldes da reforma tributária, mas não detalha custo. Consulte a reportagem para contexto, dados e declarações.",
@@ -674,6 +828,20 @@
       "candidate": "flavio",
       "election_type": "Proposta",
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "db67c1a6a4fed93b",
+      "title": "Suprema Corte dos EUA barra restrição de Trump a tratamento de presos trans - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: suprema Corte dos EUA barra restrição de Trump a tratamento de presos trans - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3ZnTkdKUExpa1NVTlYweDZrSDRsR0lJbDEtb1RlMzh5NTJ0ZW9mUUNQYmgyQURvWXc0SXBoeVY5cm1lM1pVM0cxUjM5MVY0eWVJTE1BVmlkLXB1ampqX0hhaWVlWDlpY2d6X3ROR200SUx0RGRVOEViekxfYjVXcERScHJwNkVlMzRpbnJVYzVIaWRfZjdfVUxhQ2ZOZjktSmk1VzJ5ZGZqQVkw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-21T21:41:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -702,6 +870,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "06a80d958ca455bc",
+      "title": "EUA retira funcionários da Arábia Saudita após ataques dos Houthis - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: eUA retira funcionários da Arábia Saudita após ataques dos Houthis - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczZYbkNweHBUalFWemRaem4tZzBXbnotUm50VTVmMkptT0d0TXU2UWNfYjJ5TG00SUZXc3VFVkFtclhmcW5HdFhfNWRJZ21teDI3ZUdxR0taOEY1RUNjM0lvU0RzWklZOWlEZEM5WVlBcmd0cFV2TklLV1JtTHZRcUlaNEhCd3lvdXozUENSdG13RGVvVld2eWU2SlhHc3Zs?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-21T21:36:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -744,6 +926,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7ec436fa6bf40454",
+      "title": "Dólar fecha em alta com atenção ao cenário político e temporada de balanços - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: dólar fecha em alta com atenção ao cenário político e temporada de balanços - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jUUFDa1RySkZrYlhVczBrTFJTRTNLQUZ1SWxkaC1iVXpNcjB4WGxxSFh0OTEzMExBX0NJaklxU09NWW5PZWdPbGRsdDJLME5iYjJtZGtEVWp2dDJKWEVubmQwWkI?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-21T21:18:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -800,6 +996,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2d13890992bdcfce",
+      "title": "Milei lança plano de demissão voluntária para 21 mil servidores públicos - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: milei lança plano de demissão voluntária para 21 mil servidores públicos - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEhqLVVGUnBPUU9aRWRMNTJncU81QVp3RllMdklDU3FmR0R5aEkwVGl5bEdMdGk4Z1VOZmc1NlgzVnY3ckYtUDZRRVFURXd5Y0FQcTRaMUhQbnM2NTZXYS12UTZOTk9xTUtFNkFEYjRVYUpESURZN1NjMG4yQkxxMUpxeDZOeHpqNC1ydkpqMGZfbWFoLVFGbEZjMk9reFBWY2EzZw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-21T21:08:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -916,20 +1126,6 @@
       "archive": false
     },
     {
-      "id": "e2c4801de5711292",
-      "title": "Por 6 a 5, STF exclui ISS da base do PIS/Cofins, em derrota de R$ 35,4 bi para a União - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: por 6 a 5, STF exclui ISS da base do PIS/Cofins, em derrota de R$ 35,4 bi para a União. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1VzWEJqWU1Tc1c0NzlKVzM0LWZ6a1BBelUtMlZFZGk0dDlfVjdYbXRaR1h2emFCSmFLMWJSU0d3Q2VwRUx5aVg4MjJHNlFEUjNSRmpyejMyT2l2NVg0bEpKUm5NOUdtWDE1cDFjRDE3Vld3OWpuVjgtci1jMElHRTVSLXllY3NZZUlSSVRZOXN4clBBMC1PSHhMYlF5MEpKNUZuQ0xmOHEtOWNxNUNXdmhZR21lQi1JZHfSAb8BQVVfeXFMTW1mcHl4cHZfenFkbmN3ZDNHa3laNFc3ZTBLbXNVU19BNFp3WVFOdmhncjZWOW1jZllxanY4WVkwWUF4UXVSQURXaE00cFAzRGtKVlhFbmZNVnRRY3lyZkRtR1lmTmZxMkFVRzFLVWp6Vi1uUE5NV19jdFp3bjAxdUQtVC1LN1lGTVZXc0dtRXpBa210aFhaZ0VFblR1ZTcxaUtuRFpkM0t0eWtNbkktc2pqT09LVERaS2h1WTdNNXc?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-21T20:21:25+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "8dc91d3468e937d5",
       "title": "Projeto estabelece regras de saúde e ergonomia para trabalhadores do setor têxtil",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto estabelece regras de saúde e ergonomia para trabalhadores do setor têxtil. Consulte a reportagem para contexto, dados e declarações.",
@@ -937,34 +1133,6 @@
       "source": "Agência Câmara",
       "published_at": "2026-10-21T20:19:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6cf4a350967de87c",
-      "title": "Comitê da ONU pede explicações à Meta sobre atuação eleitoral no Brasil - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: comitê da ONU pede explicações à Meta sobre atuação eleitoral no Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVRaaDNIcm9yLW1vbklFZXhtcWxOdU1fald2YWFNQW1NUktvQWl4b05ua3JZYzNYSlZwRGdPb2hmTk5yU1N2XzJ2dHEzNE9ONzhEWGwzVGN6LWpYX0FaYW94NVItcDBfeEhaQTlnWkVRUkNSMmpkVWlhM0VNNzJTaXRqOHVyYVNhZWR1cVJYczRTaHJDczJiSjd0cUh1OXBiSjR3b284a3U4MlFwQkgtZ1pjdTRMVnhSQlYxMm5UUVB4RlRjTGkzRTVvTWxXU3dhTnpPclB0Q0xwbXR00gHrAUFVX3lxTE1uSHRYdTh4ZlVWUG5xWGI5b0xKNU9PcXpZSE8xUG52YThGVGJzRlhGY0xyZWlkcU82M01iYnFyS014Vk00bFoxZ21RMURwQTNtMkhuVVhzbmRLRHE4RmU0bDVQVHF5OXRiZ2F1R2xVSGdOLThsZVRwRllJaXp5MEcxaVI4WE9oQTZ4UnFtWHBlZ1FnMDN0cjROTUZyRjdKSGVZaGZMLU1oSkR6RTloZmQxNHp5RC1ZTFMxd2VmdElMc0ZmMm1QTWxnNjJ3eTZfS2JYQmJjYmNCc245Sng0Sk9PMFNfbHotaUlIQnM?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-21T20:08:21+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8a6c416632f8a7ce",
-      "title": "STF decide que ISS não integra base de cálculo do PIS/Cofins",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: sTF decide que ISS não integra base de cálculo do PIS/Cofins. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-decide-que-iss-nao-integra-base-de-calculo-do-piscofins",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T19:56:00+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -986,86 +1154,16 @@
       "archive": false
     },
     {
-      "id": "0080d158069953f7",
-      "title": "Projeto estende regras da Lei Maria da Penha para agressões praticadas por ex-namorados",
-      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto estende regras da Lei Maria da Penha para agressões praticadas por ex-namorados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.camara.leg.br/noticias/1310401-projeto-estende-regras-da-lei-maria-da-penha-para-agressoes-praticadas-por-ex-namorados",
-      "source": "Agência Câmara",
-      "published_at": "2026-10-21T19:48:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "52bb0f509aa7909a",
-      "title": "ONU aponta falta de isenção da Meta em eleição brasileira",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: oNU aponta falta de isenção da Meta em eleição brasileira. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/onu-aponta-falta-de-isencao-da-meta-em-eleicao-brasileira",
-      "source": "Agência Brasil",
+      "id": "e117789fef0bcda9",
+      "title": "Vaticano: papa Leão XIV não precisará de tratamento adicional contra câncer - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: vaticano: papa Leão XIV não precisará de tratamento adicional contra câncer - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcG9IdlBtZXpnNFR4elpDb3pEcGZGenNmR3ZUU1pfeGxTNVhHWVJuOTUtR0kxT3hWQmtiazRnenVFSVdjVmV1eDlkQ21lRlkxaENrcURCT2poR3pFUDF4bmlfLWZUUzRFdXViSTBjV2NJOGZVN2tpa2xzRjA0bmh0THdGNWxQeW1Vc3FMLTEyUWc4cWpaYzF1QUwwMXJGMmdXTV9OWk9YZTlNblE?oc=5",
+      "source": "Metrópoles",
       "published_at": "2026-10-21T19:47:00+00:00",
-      "category": "Internacional",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bfbb2bdd26a4dbb4",
-      "title": "Áudio: Santos Dumont é lembrado durante homenagem à Força Aérea Brasileira",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Santos Dumont é lembrado durante homenagem à Força Aérea Brasileira. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/santos-dumont-e-lembrado-durante-homenagem-a-forca-aerea-brasileira",
-      "source": "Senado Federal",
-      "published_at": "2026-10-21T19:41:38+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "964a88d87379fcc2",
-      "title": "Medida provisória abre crédito extra de R$ 300 milhões para combate a incêndios na Amazônia",
-      "summary": "O veículo Agência Câmara publicou uma atualização sobre: medida provisória abre crédito extra de R$ 300 milhões para combate a incêndios na Amazônia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.camara.leg.br/noticias/1312761-medida-provisoria-abre-credito-extra-de-r-300-milhoes-para-combate-a-incendios-na-amazonia",
-      "source": "Agência Câmara",
-      "published_at": "2026-10-21T19:24:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cfef0e3d02c89c09",
-      "title": "Especialistas da ONU questionam Meta por suspeitas de favorecimento nas eleições brasileiras",
-      "summary": "O veículo VEJA publicou uma atualização sobre: especialistas da ONU questionam Meta por suspeitas de favorecimento nas eleições brasileiras. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/mundo/especialistas-da-onu-questionam-meta-por-suspeitas-de-favorecimento-nas-eleicoes-brasileiras/",
-      "source": "VEJA",
-      "published_at": "2026-10-21T18:59:25+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2c755d766d16018a",
-      "title": "Medida provisória destina mais R$ 6,5 bilhões para setores afetados por tarifaço dos EUA",
-      "summary": "O veículo Agência Câmara publicou uma atualização sobre: medida provisória destina mais R$ 6,5 bilhões para setores afetados por tarifaço dos EUA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.camara.leg.br/noticias/1312754-medida-provisoria-destina-mais-r-65-bilhoes-para-setores-afetados-por-tarifaco-dos-eua",
-      "source": "Agência Câmara",
-      "published_at": "2026-10-21T18:59:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1080,20 +1178,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "90a43536d8cf2215",
-      "title": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/negacionismo-impulsiona-sarampo-nos-eua-e-representa-ameaca-ao-brasil",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T18:40:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1136,20 +1220,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "20d2a171f6d0ecb0",
-      "title": "Transparência Internacional cobra de Flávio Bolsonaro explicação sobre faturamento de R$ 13,7 milhões de escritório de advocacia - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: transparência Internacional cobra de Flávio Bolsonaro explicação sobre faturamento de R$ 13,7 milhões de escritório de advocacia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQSzJ3U1lDMDJQUXBUQjJIMEJpWXhpMU5Ha2o2Q2luMENENDdMRHowaEFLWkUzbi1UTkpGLThFTFBoOC13dXp1RVM0cVlKYmR2WEVOT1Zqc0ZkNm5Gd2poVHk4dW5JWHFqazBvQ1FhRjlSNUQxTkxmMTFXdGpJblhuOE15OXM0ekU2U2g4c2dTRzhYcnQwN05tWTZJMENLNzRrdFBjaEVvckFfVF95UWlDX3ZZUllhU2ZNdDRNMTdGcEJreVVVRC15dzgyUno4al9TbjNiOUpyLUdFc2JQdmNpTWh4Z0l3dWRXQ2dVNVhza05HN0NHV1c5dG1OWjRfeS1pWGpURzY5ZVpkWUJZTmMzYkZLbUJ3c084Tm9mdjZBUGhBNXRXZWfSAbQCQVVfeXFMTlJhanFYT2ltOEVKRE91TkJvTC1NWG5VOUNLa2ZxZTJDeEJaSjA4NnhYNDZOSktpcGJ6T2YwLUppOV9yaXUtQmgwaHNwZlVDVERwMVdjdVN0M3M5TFFlTEdKVTRFRjVYS3BNRlNMNW5jdVFnN2pXNmtURTJyX29TT3NHLTBqTlZUWUNMUlVfRXBqbkc1bzljNUpZTVI5cGVHdVluYkNZN3R2UndhRlRtUUM0MldHX011TDM4QU4weWg5cHd3RU5ZZ0dsTE03NFZiT0N4SlZPVzVhal9maWtJZjJFUzRoZHNDaFVzakd3T0Y0ZFFoOXRBUnZoN0l6N3loYkVFTWt0WktlZWUycVVCckJBR09ocFFMMnhRZjlJZzZ5dlpxWjhtczN2Sjc2dkFCV05WOEo?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-21T17:21:23+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1210,20 +1280,6 @@
       "archive": false
     },
     {
-      "id": "82ee1ac67e927ff0",
-      "title": "SUS inicia oferta de 9 novos medicamentos de alta tecnologia contra o câncer - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: sUS inicia oferta de 9 novos medicamentos de alta tecnologia contra o câncer. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDYzYlI4WDZPVVZ4ek9rT3l2ODlKUEpzNENBbGtuTjhhV2RkRkJTdlFRSUFVMzh1eldTa21XNnVoOXNXclpZTjU5c1d4WjNuUDlCU0g5WXRwZHUwSEFNSGV0NmItMTZUUktheExGa184TUszdy1GNlZDd0FKaThwVXZqcFRmamFjT2JvSlU3eWljd1RrSTlFR2tVSWxmNzA3eG5aTVh0MG1tdXZBcl93NkhCa25zejZ4QmpJTENxcnJ2RmxyTl9GaUFwUlrSAdsBQVVfeXFMTjEwU0FhWEtVc3IyWXNsQ3NhWndsNEw2eFNBV3ZlMVpKQXRBaGNGX0JEWlJtUWI0Mm9LMURydEhMX0E4VGFtSl81YXpJdTdkOTRFX0c1NE1VVzhHYzNrckFudzk4NWRDRUlnNGVzdGJqZWg0Rk43OURRVWxGcnVTOE1XekZzZFZsMXlhX0hxNTdBR25rVlo4eHVSbFhsY0ltZ05PMER5Rzh0X01objZXczJwLVBfazBpVVdmMnplVHB6czJESndmWm1VbTJYOXhFNkdBTFphZVVNT1Rz?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-21T16:22:42+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "3285184efd47ad89",
       "title": "Em movimento semelhante ao da França, gregos vão às ruas exigir investimento em educação e melhores salários - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: em movimento semelhante ao da França, gregos vão às ruas exigir investimento em educação e melhores salários. Consulte a reportagem para contexto, dados e declarações.",
@@ -1262,20 +1318,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1a319d2941583f0b",
-      "title": "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/quedas-mais-de-330-mil-criancas-foram-internadas-no-brasil-em-10-anos",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T15:36:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1336,6 +1378,20 @@
       "archive": false
     },
     {
+      "id": "9a2377a7501c38c3",
+      "title": "Putin liberta professor dos EUA condenado na Rússia por ser mercenário - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: putin liberta professor dos EUA condenado na Rússia por ser mercenário - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmlraktwbzNIeUpLNXViWFJCbFlwRjdkY2pUYldrSjVCXzNzNHVTeFNiM2lYekFsZnd1NmRCWloyTF9LSnJTNFFDa05TN3R6bzN2MFl2dUJ6ektpZk96am5NSl9xd1g2STlDNUlCWGU2MFZ6dmliUlE0Q2hoUXZCMlg2M0JfMll6QzkzNFRESzhWcjZJQXdWNHFBQ1lnZXplRUN3aTdR?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-21T12:20:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "0dece0f18fdff8da",
       "title": "Negócios com imóveis comerciais disparam 156%, apesar dos juros altos",
       "summary": "O veículo VEJA publicou uma atualização sobre: negócios com imóveis comerciais disparam 156%, apesar dos juros altos. Consulte a reportagem para contexto, dados e declarações.",
@@ -1356,20 +1412,6 @@
       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-3-0-recebem-bolsa-familia-de-outubro",
       "source": "Agência Brasil",
       "published_at": "2026-10-21T10:28:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dd77d425e4940c11",
-      "title": "Mega-Sena não tem acertador e prêmio vai a R$ 200 milhões",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mega-Sena não tem acertador e prêmio vai a R$ 200 milhões. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/mega-sena-nao-tem-acertador-e-premio-vai-r-200-milhoes",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T01:36:00+00:00",
       "category": "Economia",
       "candidate": null,
       "election_type": null,
@@ -1504,20 +1546,6 @@
       "archive": false
     },
     {
-      "id": "b76ab99f023de4ac",
-      "title": "Termina neste domingo prazo escolher idioma da prova do Enem 2026",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: termina neste domingo prazo escolher idioma da prova do Enem 2026. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/termina-neste-domingo-prazo-escolher-idioma-da-prova-do-enem-2026",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-18T16:15:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "58d916d5e881a581",
       "title": "A uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP",
       "summary": "O veículo G1 publicou uma atualização sobre: a uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP. Consulte a reportagem para contexto, dados e declarações.",
@@ -1527,20 +1555,6 @@
       "category": "Eleições",
       "candidate": "flavio",
       "election_type": "Apoiador",
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ff2797180f98e3d5",
-      "title": "Estudantes desenvolvem plataformas para combater a desinformação",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: estudantes desenvolvem plataformas para combater a desinformação. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/estudantes-desenvolvem-plataformas-para-combater-desinformacao",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-17T13:19:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
       "via_aggregator": false,
       "curated": false,
       "archive": false
@@ -1603,17 +1617,29 @@
       "status": "ok",
       "items": 13
     },
+    "Metrópoles · Brasil": {
+      "status": "ok",
+      "items": 69
+    },
+    "Metrópoles · Mundo": {
+      "status": "ok",
+      "items": 54
+    },
+    "Metrópoles · Política": {
+      "status": "ok",
+      "items": 92
+    },
     "O Globo": {
       "status": "ok",
       "items": 70
     },
     "Estadão": {
       "status": "ok",
-      "items": 40
+      "items": 41
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 50
+      "items": 48
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1621,15 +1647,15 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 65
+      "items": 68
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 64
+      "items": 33
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 31
+      "items": 63
     }
   },
   "notes": [
