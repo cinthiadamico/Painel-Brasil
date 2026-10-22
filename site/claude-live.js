@@ -22,7 +22,8 @@
     ['Folha de S.Paulo','https://www1.folha.uol.com.br/','Reportagens e atualidades'],
     ['Estadão','https://www.estadao.com.br/','Notícias nacionais e internacionais'],
     ['VEJA','https://veja.abril.com.br/','Política e atualidades'],
-    ['The New York Times','https://www.nytimes.com/','Mundo e Brasil no exterior']
+    ['The New York Times','https://www.nytimes.com/','Mundo e Brasil no exterior'],
+    ['Metrópoles','https://www.metropoles.com/','Brasil, política, economia e mundo']
   ];
   const SLOT_NAMES = ['Fala','Proposta','Apoiador','Articulação'];
   const ROOT = document.querySelector('.wrap');
@@ -159,7 +160,7 @@
   const filters=$('filters');
   let allItems=[],active='todas',lastPayload=null;
   const filtersData = [
-    ['todas','Todas'],['destaques','Destaques'],['portais','Portais'],['eleicoes','Eleições'],
+    ['todas','Todas'],['destaques','Destaques'],['portais','Portais'],['metropoles','Metrópoles'],['eleicoes','Eleições'],
     ['ruas','Brasil nas ruas'], ...CATEGORIES.filter(c=>c[0]!=='ruas').map(c=>[c[0],c[1]]), ['arquivo','Arquivo mensal']
   ];
   function displaySection(cat){
@@ -211,7 +212,9 @@
       const matches=sortedRecent(items.filter(i=>normalizeSource(i.source)===normalizeSource(name)));
       const n=matches.length;
       card.append(node('p','',`${description}. ${n} ${n===1?'matéria recente':'matérias recentes'} na edição atual.`));
-      const health=sourceHealth[name];
+      const health=sourceHealth[name] || (name==='Metrópoles'
+        ? Object.entries(sourceHealth).find(([k])=>k.startsWith('Metrópoles'))?.[1]
+        : undefined);
       if (health) {
         const status=health.status==='erro'
           ? 'Falha temporária na coleta deste veículo'
@@ -231,6 +234,24 @@
       const src=node('div','src');const a=node('a','','Acessar site oficial ↗');a.href=url;a.target='_blank';a.rel='noopener noreferrer';src.append(a);card.append(src);grid.append(card);
     });
     sec.append(grid,node('p','small-note','A indicação de fonte e o horário vêm dos feeds ou agregadores. Um link de agregador não representa acesso automático ao texto integral do veículo.'));
+    return sec;
+  }
+  function renderMetropoles(items, sourceHealth={}) {
+    const sec=node('section','cat');sec.dataset.cat='metropoles';
+    const chosen=sortedRecent(items.filter(i=>normalizeSource(i.source).includes('metropoles')));
+    const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+    const locally=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'});
+    const todayNews=chosen.filter(i=>locally.format(new Date(i.published_at))===today);
+    const news= todayNews.length ? todayNews : chosen.slice(0,12);
+    sec.append(sectionTitle('Metrópoles · '+(todayNews.length?'matérias de hoje':'últimas matérias disponíveis'),'--accent',news.length));
+    if(!todayNews.length)sec.append(node('p','small-note','Não há manchetes com data de hoje nesta edição. Exibindo notícias recentes da última semana; após a meia-noite, pode não haver publicações do dia ainda.'));
+    const health=Object.entries(sourceHealth).filter(([k])=>k.startsWith('Metrópoles'));
+    if(health.length&&health.some(([,h])=>h.status==='erro')){
+      sec.append(node('p','caution','Alguns canais automáticos do Metrópoles estão indisponíveis. Os links do portal continuam funcionando.'));
+    }
+    sec.append(cardsGroup(news,'--accent','metropoles'));
+    const a=node('a','','Acessar Metrópoles ↗');a.href='https://www.metropoles.com/';a.target='_blank';a.rel='noopener noreferrer';
+    sec.append(a);
     return sec;
   }
   function historicalIntro(count){
@@ -322,7 +343,8 @@
       note.append(node('span','caution',message));
     }
     note.append(node('span','historical-summary','Notícias anteriores: aba Arquivo mensal'));
-    live.append(note,highlights(allItems),renderPortals(allItems,payload.source_health||{}),electionSection(allItems));
+    live.append(note,highlights(allItems),renderPortals(allItems,payload.source_health||{}),
+      renderMetropoles(allItems,payload.source_health||{}),electionSection(allItems));
     CATEGORIES.forEach(([cat,name,color])=>{
       if(cat==='ruas'){live.append(streetSection(allItems));return;}
       const list=allItems.filter(i=>classification(i)===cat).slice(0,15);
