@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-17",
+  "claude_original": false,
+  "items": [
+    {
+      "id": "58d916d5e881a581",
+      "title": "A uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP",
+      "summary": "O veículo G1 publicou uma atualização sobre: a uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/eleicoes/2026/noticia/2026/10/17/a-uma-semana-das-eleicoes-manifestantes-fazem-ato-de-apoio-a-flavio-bolsonaro-pl-em-sao-jose-dos-campos-sp.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-17T14:18:18+00:00",
+      "category": "Eleições",
+      "candidate": "flavio",
+      "election_type": "Apoiador",
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    }
+  ]
+}
