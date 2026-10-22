@@ -1,10 +1,52 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:52:34.085529+00:00",
-  "last_success_at": "2026-10-22T03:52:34.085529+00:00",
+  "last_checked_at": "2026-10-22T04:43:16.784258+00:00",
+  "last_success_at": "2026-10-22T04:43:16.784258+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "ed14d0a356beaafa",
+      "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: ‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-22T04:10:29+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "328f7e25f454a1cc",
+      "title": "De perseguição da PM a 'toque de recolher': o que se sabe sobre mortes de suspeitos de integrar facção em Ribeirão Preto",
+      "summary": "O veículo G1 publicou uma atualização sobre: de perseguição da PM a 'toque de recolher': o que se sabe sobre mortes de suspeitos de integrar facção em Ribeirão Preto. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/22/de-perseguicao-da-pm-a-toque-de-recolher-o-que-se-sabe-sobre-mortes-de-suspeitos-de-integrar-faccao-em-ribeirao-preto.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T04:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1bc2ffdfc9389041",
+      "title": "Dupla presa por furtar estações deixou bairros de Piracicaba sem água por até 15h, diz polícia",
+      "summary": "O veículo G1 publicou uma atualização sobre: dupla presa por furtar estações deixou bairros de Piracicaba sem água por até 15h, diz polícia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/22/dupla-presa-por-furtar-estacoes-deixou-bairros-de-piracicaba-sem-agua-por-ate-15h-diz-policia.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T04:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "e170165a0dff2dee",
       "title": "Segurança, economia, saúde; veja propostas de Flávio Bolsonaro e de Lula para governo",
@@ -150,20 +192,6 @@
       "title": "Datafolha divulga nova pesquisa presidencial nesta quinta-feira (22)",
       "summary": "O veículo G1 publicou uma atualização sobre: datafolha divulga nova pesquisa presidencial nesta quinta-feira (22). Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-divulga-nova-pesquisa-presidencial-nesta-quinta-feira-22.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ec45ef50ed6ce56e",
-      "title": "Egito, onde Malévola ficou presa, tem leis contra 'ato escandaloso' na rua e 'publicação de material imoral'; entenda",
-      "summary": "O veículo G1 publicou uma atualização sobre: egito, onde Malévola ficou presa, tem leis contra 'ato escandaloso' na rua e 'publicação de material imoral'; entenda. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/22/egito-onde-malevola-ficou-presa-tem-leis-contra-ato-escandaloso-na-rua-e-publicacao-de-material-imoral-entenda.ghtml",
       "source": "G1",
       "published_at": "2026-10-22T03:00:00+00:00",
       "category": "Política",
@@ -496,16 +524,16 @@
       "archive": false
     },
     {
-      "id": "7adb8a53bd36dcfd",
-      "title": "Presidente do TSE derruba 20 postagens contra Lula e proíbe que Flávio e aliados republiquem conteúdo",
+      "id": "161288f3007d6ab0",
+      "title": "Presidente do TSE derruba 20 postagens contra Lula e proíbe que Flávio e aliados republiquem conteúdo - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: presidente do TSE derruba 20 postagens contra Lula e proíbe que Flávio e aliados republiquem conteúdo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/presidente-do-tse-derruba-20-postagens-contra-lula-e-proibe-que-flavio-e-aliados-republiquem-conteudo.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbTVhZ1d2ajY5d0tNbjJqT1ZCRkdhMTcyaEFGR1N1UDh2YW8zUTQxd3lwWGJSbF83dnJoNnFxTjl3Y3JvYnc2Mk1JVVdCTnZFcmtDYU1SV3FIYk85VWtaZ0k5WE1qQXQyODhhZWJJbkRpYlN0UVA3bjJ6NVBLMEUyOUtxeUh6MW9jRDVBMzNwb2d4Nk1SN3FJcTZ3UHhUQWZQNkcweWxobFdYYkN3ZkotNDBQNWkzUnVVY2lkZm1nU3dZVG9WcEZZY05KSWxlaXdqY2lLYW13Smw3NnV4QjIxX3BKX2RFQ1RPWXlvM2d6emh6ZElXaGR3RWhWajlXdG_SAY4CQVVfeXFMT0V6VjVYWU9aTzUtMWdQcjB1WERTTVItSHFsSG9QZWpKRHJDeGwwSmNSSGNDQVN6UEJ6azYxQS13cmZzT3NRNk5QLUtEbzdNbEtCdEEycGRJX0VoMGdhWFNIc1I2TTZHcDc3RHl2aFA5aDJXcVd2LVlXa09fT01URkVXOUMwclYwbHVfeG1rT1BpcHk0NFVHRFJrakxGQTNzbmhqeVg1SHlzdUZsMk9KVjRjNkJxcDhBaUtjbUNlaUdZdTIyVFFrWjRGbXNrTjdjTEdxSWVxb3VoTkROc3hyM0VxRGV3UzFHRTBqQm02akZ0WENmbUw4ZTBQSWlzZXlNWnYtRHJHZ21uSG5la0d3?oc=5",
       "source": "G1",
       "published_at": "2026-10-21T23:25:08+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -740,20 +768,6 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSjlpRGI2Z2JpeU1sRnZaUmNXUTNtUEduMko1WFgyZWRFQk5DU3M3NHl2TndUYjk3b3ZLQjRLOTUzQnJPQ1ZPNDhLSkhvaE1MTFlrNVN4VW5vZDhOdHZuMmZPbHFjRGJlUEUzUmp6VFA2QU1YTG1OU1pRRkFNbEJOVm9sWWZNN2dRNXpMM0YtOE42d1Rhd1ZHSzdxNFZlZ1RGYWlTVDlMTmU1eE5MREhjWTBSazdValVqVmJWd19jTk5vYWRBREtBRTFabllId3QzV1lqSThSLUszQVZSQmoyMmg0Um9jLUd1c0E3UTFzcjlJdjhVdjFn0gGGAkFVX3lxTE1jakxjR1U2dGt5U3VNMVN1bWpLTHRtWmVacjNHNV9kWEVWZG43RGdieldiRHNkRWo1OGdqeGNlRlRYRmxjUlEwZ2RvZWRuZ0xkLTVTeTNiYWk4S00zUVVDNDEweWY1aUxYUGhWdGlNc0tQYXkzVDcxRXlPRUhfQTlnMnV5RnhiQW04NHFkT2JYamhubnNmZUNWN2gzY2ptYl9kTDNLVm5NNUg0NkI4UHo4SnNzelhPU2Q5aXRzRERnS296RF9aeEZwQ2VZU1VFRmFmX2lTem5Kb2Q5ekx3cUh3cGtscUE2RHdfSzVZeDN1aDJCMXRjYjhIaTktT0NaOFpEaVZrQlE?oc=5",
       "source": "G1",
       "published_at": "2026-10-21T22:16:27+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "be37548e90829a48",
-      "title": "Paciente tem reação após receber transfusão de sangue em hospital do Paraná e família denuncia que ele recebeu o tipo sanguíneo errado - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: paciente tem reação após receber transfusão de sangue em hospital do Paraná e família denuncia que ele recebeu o tipo sanguíneo errado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPd0JYRnVsazFtZjl2S1I2RnZHZEx2Z0hSVEVEWTBxcV9Ic2MtUGxvb3poTE1NbnRYYVktMVY4Y0RJaFNERTJ2djVkR3NZMGFFTHM3bzBUOVRYc2RSWWE4cHFKYXN0NXlDVUZjZUViLVJLQ1FlRFBpSkJEUmRyRHBOSVFJUGdUWUpTQ2Y0MDE5Nld0bG9KZkF5bFBEZ2x6RXI4cmV5R3ZIaTBnYXJHOWVqd3N5YjRveWNLZnVzdDM2V3JlWE1FUjBYV3NkM2ZUMnozVVZ5eXN1M2J2WlhydFA3ekZCZXJHWHJhbjBlbWtwSUdjcU1iMVM0NVdnS1ptU2ViV0FDQmVERERGX2pfUjNVdTVWMmlDTWl0Q3M3bVd0T190RFNk0gGzAkFVX3lxTE5wQjZNUEJ6WUlvNXg4MTNneTIyU1NYSldJcGJGdkx6UExJcHRhUXZkUi1UeVhHb2tkQ3JBXzBwbmpYTkgzZ3hfWnhqTUtIcGQycGZ5d25KdjZ2Y0djcUtuRVhXV1lPbUowT1RENjh1djd2RFJHU3BJbTc3MzRmUllBWVhRZnNfRkdjN3IzQjdNazFJREY2LUgyRzVmUHRsZmxWT3ZCOUhXTkpfRGMwQ3BiVlptRXJsWWc1aHltdTM5YUpwWFI2ZnBYUzBGdldsd1ZQbF9BTElpX29LbTJVZHNPVUdwVFpRYVlNREFYVmdaRnBKa0x5MzltWGpRV2JMVHRWaXM3NFU0ZjUyUzRYWVhxNl9janVVR1ZtZzFqZmZzNFprMzJFU2dQNFhjcFlaSVU4aE0?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-21T22:15:41+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
@@ -1098,20 +1112,6 @@
       "archive": false
     },
     {
-      "id": "17b09bcce2ef3ceb",
-      "title": "Casas de apostas nos EUA preveem derrota de Trump que pode ter impacto no Brasil",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: casas de apostas nos EUA preveem derrota de Trump que pode ter impacto no Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/casas-de-apostas-nos-eua-preveem-derrota-de-trump-que-pode-ter-impacto-no-brasil.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T20:46:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "6e6102978aed83a7",
       "title": "Projeto atualiza lei do crime de perseguição para detalhar condutas digitais",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto atualiza lei do crime de perseguição para detalhar condutas digitais. Consulte a reportagem para contexto, dados e declarações.",
@@ -1133,6 +1133,20 @@
       "source": "VEJA",
       "published_at": "2026-10-21T20:34:57+00:00",
       "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8fbe58c537e2616f",
+      "title": "Alckmin e ex-ministro de Bolsonaro reforçam apelo de Lula na TV a eleitores de direita",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: alckmin e ex-ministro de Bolsonaro reforçam apelo de Lula na TV a eleitores de direita. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alckmin-e-santos-cruz-reforcam-apelo-de-lula-na-tv-a-eleitores-de-direita.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T20:30:00+00:00",
+      "category": "Governo federal",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1308,20 +1322,6 @@
       "archive": false
     },
     {
-      "id": "838c7661173ca1b4",
-      "title": "Paris estende toque de recolher pela terceira noite após onda de violência na França - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: paris estende toque de recolher pela terceira noite após onda de violência na França. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDUtdlEyVEpQZkZocW5aUDBXT1lEMzFDTXJaZzBJcVBRa2UwMU5rSXVyR1g2YlVMdUhsYVdJZ0oyeVotbUdtUEVENUx5OTFpbm9KYkZIWXN0eTNpM3E4OVp5RmMwZXg5Y3B3OEJfS1pGalVkRkhEYkx5S2RVY25FTXNxQ2VoRk5DSzNWUEJkNEQ5b0JieHdQQVhBLU9qZGxFTno2WnBiQ0ZrLVJWbVM5Ty1wbmxUcGpO?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-21T15:47:41+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e3e795531d8fad26",
       "title": "Ex-ministro de Temer ganha força para integrar eventual governo Flávio - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: ex-ministro de Temer ganha força para integrar eventual governo Flávio. Consulte a reportagem para contexto, dados e declarações.",
@@ -1332,6 +1332,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1a319d2941583f0b",
+      "title": "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/quedas-mais-de-330-mil-criancas-foram-internadas-no-brasil-em-10-anos",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-21T15:36:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1563,7 +1577,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 39
+      "items": 22
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1579,7 +1593,7 @@
     },
     "The New York Times": {
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1619,11 +1633,11 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 68
+      "items": 67
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 54
+      "items": 53
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1631,15 +1645,15 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 71
+      "items": 70
     },
     "Estadão": {
       "status": "ok",
-      "items": 42
+      "items": 41
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 49
+      "items": 50
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1647,7 +1661,7 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 69
+      "items": 68
     },
     "Eleições · Lula": {
       "status": "ok",
@@ -1655,7 +1669,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 31
+      "items": 62
     }
   },
   "notes": [
