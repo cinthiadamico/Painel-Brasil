@@ -1,10 +1,108 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T05:42:11.465084+00:00",
-  "last_success_at": "2026-10-22T05:42:11.465084+00:00",
+  "last_checked_at": "2026-10-22T06:55:23.068586+00:00",
+  "last_success_at": "2026-10-22T06:55:23.068586+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "6634861a5523b967",
+      "title": "Prefeito de Nova York parabeniza Brasil por fim da 6x1: \"Passo histórico\" - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: prefeito de Nova York parabeniza Brasil por fim da 6x1: \"Passo histórico\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZVdCd2NleUhraHlFVHVkT3hoZHpsM0dFRjZDZUp3TTJlb3Z5OFp0ckRBZThjZmhYNHVlcGdUbDRNYWlvRHpRb0tiY3AwaVNnTDc3bEw3UGo5VEt3ODFtU2NXOXZPTWs3MkFfMWxDTVY1M1pTY1BVblNST2NNRDFHd1lIVEprMXJscHdFdUZtT090ZkZTR0UxS1pVeEJ6M1dJUlVlNFln?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T06:44:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b7824b7f091f99ff",
+      "title": "Tarcísio usa articulação pró-Flávio para cacifar nome para 2030, mas teria de evitar que 'fim da reeleição' esfriasse - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: tarcísio usa articulação pró-Flávio para cacifar nome para 2030, mas teria de evitar que 'fim da reeleição' esfriasse. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSUptOTJsV3FvZE9teVFjYjNfUlBOWlgxcFphcHVEUzlDRjFoaXZvQUd4dzVLY0tiaFdEc3BPaC1KOUt3bk51ajRvVTFBQWx5MG1TeVYtMVdCQWRwdHRmQnlhMFZHOUlmZkZBYWRYd0VzajUzakNGUWY2bWVwM1lUUXZFdFBZVHJkZll4dHNPOTRYc195YmZqSXY2VHU4N212Z3ZCTTBjakRMQldaY1NJX1o3dzB6SlRMLUlPTEVlZ3BJV2tJQnlvUGFKSDlRWFA5U1VkczVLSkRGdlZrSXdVVVNrQnlCZTFXMU1HSGk3S1U2YXVfaWItVUR2NkF6S2RpUW1ZUFcyMzFkMWoyMmpMRXdCZ19rUdIBpAJBVV95cUxORzVFR045YWFRZHN6VmRPMkZ2azV4MFRwRUkzY0F0SEdjb2o1bFAyaW4yOGJCOGE0TEhqNFN0emFVNWtBWFBya2t6SnlMTVRRTWRsdGxkSEZDdEl6NVhObDh2V2twODhvLWo0eHJkN0hWMElJczdHSjVrbFNYZW5lYTBjeGpMZThRdzJtX2dOUEFWRTlCRERITE9yRU9zLS1rc25USF9FRmgyODlvTWJfaE1peEtWZW9rVzMycHUwZGVzZzhZdzNXbHpaLXJwYXR4REFmeVFDaVNZTVFGejNBbWNXTG5kOVJwQzd2TC1BbEZUS2NYSVZKQUk1Y2E4NG03dUFxQVBXeHN4LVRYZHRGRVVGUDFZTXVkUzlfZEpnRVlPbGhm?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-22T06:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "14dcb5c1726d3272",
+      "title": "Eleições de meio de mandato nos EUA: quando serão as midterms?",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições de meio de mandato nos EUA: quando serão as midterms?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/22/eleicoes-de-meio-de-mandato-nos-eua-quando-serao-as-midterms.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T06:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ffef34b5c25217cd",
+      "title": "Eleições 2026: como encontrar meu título de eleitor?",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: como encontrar meu título de eleitor?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/eleicoes-2026-como-encontrar-meu-titulo-de-eleitor.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f204604b47300589",
+      "title": "Qual o futuro dos concursos públicos? Veja o que propõem Lula e Flávio Bolsonaro",
+      "summary": "O veículo G1 publicou uma atualização sobre: qual o futuro dos concursos públicos? Veja o que propõem Lula e Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/22/qual-o-futuro-dos-concursos-publicos-veja-o-que-propoem-lula-e-flavio-bolsonaro.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4b838bc3a7147b96",
+      "title": "Pernambuco recebe 22,6 mil urnas eletrônicas para 2º turno das eleições; veja cronograma",
+      "summary": "O veículo G1 publicou uma atualização sobre: pernambuco recebe 22,6 mil urnas eletrônicas para 2º turno das eleições; veja cronograma. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/22/pernambuco-recebe-226-mil-urnas-eletronicas-para-2o-turno-das-eleicoes-veja-cronograma.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b41044e2c0dac7c1",
+      "title": "Quem inventou o nome 'inteligência artificial' e por que Trump quer mudá-lo",
+      "summary": "O veículo G1 publicou uma atualização sobre: quem inventou o nome 'inteligência artificial' e por que Trump quer mudá-lo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/quem-inventou-o-nome-inteligencia-artificial-e-por-que-trump-quer-muda-lo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T06:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "31c8bea72db20ee3",
       "title": "Meta é condenada a pagar US$ 25 bilhões por violação de dados nos EUA - Metrópoles",
@@ -118,6 +216,20 @@
       "archive": false
     },
     {
+      "id": "59bfff86980d3979",
+      "title": "Ao Vivo | Barraco, bate-boca e denúncia de bomba: como foi o debate entre Flávio e Lula - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: ao Vivo | Barraco, bate-boca e denúncia de bomba: como foi o debate entre Flávio e Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3YzSVRfRDVORFFBYk9zVGkzejhERjJPSW1oUkw5MkhqVE1PUUItaWQzMVdyaTZWLWh4MmFkVDRiaHQtNHItV2pyQU9XandlcGhqYi02ZG5zeEdsUV92NVVaTE1wQlFway1aNU5ESlQ5SkZUbTdwU3FnQlM3STllMkdoUHhFdkFBNS1ISzRMajE0LWt6Z25sTjQtUG02dDRQZ2ppeDRtV05KWDB3TDMzLTYzZkxrUUIyMVpZTk1n?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-22T04:12:12+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "ed14d0a356beaafa",
       "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
       "summary": "O veículo The New York Times publicou uma atualização sobre: ‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element. Consulte a reportagem para contexto, dados e declarações.",
@@ -125,20 +237,6 @@
       "source": "The New York Times",
       "published_at": "2026-10-22T04:10:29+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "328f7e25f454a1cc",
-      "title": "De perseguição da PM a 'toque de recolher': o que se sabe sobre mortes de suspeitos de integrar facção em Ribeirão Preto",
-      "summary": "O veículo G1 publicou uma atualização sobre: de perseguição da PM a 'toque de recolher': o que se sabe sobre mortes de suspeitos de integrar facção em Ribeirão Preto. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/22/de-perseguicao-da-pm-a-toque-de-recolher-o-que-se-sabe-sobre-mortes-de-suspeitos-de-integrar-faccao-em-ribeirao-preto.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T04:00:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -174,20 +272,6 @@
       "archive": false
     },
     {
-      "id": "95e0c4580fcef98c",
-      "title": "Lula x Flávio Bolsonaro: o que diz a pesquisa Quaest sobre o 2º turno - O Assunto #1830",
-      "summary": "O veículo G1 publicou uma atualização sobre: lula x Flávio Bolsonaro: o que diz a pesquisa Quaest sobre o 2º turno - O Assunto #1830. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/22/lula-x-flavio-bolsonaro-o-que-diz-a-pesquisa-quaest-sobre-o-2o-turno-o-assunto-1830.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T03:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "334556c2bd708c05",
       "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
       "summary": "O veículo The New York Times publicou uma atualização sobre: drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War. Consulte a reportagem para contexto, dados e declarações.",
@@ -212,48 +296,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ff6e6f4cd0c39db1",
-      "title": "Flávio Bolsonaro pede apoio a público LGBTQIA+ em ato no CE e diz que 'serão sempre bem-vindos'",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro pede apoio a público LGBTQIA+ em ato no CE e diz que 'serão sempre bem-vindos'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-pede-apoio-a-publico-lgbtqia-em-ato-no-ce-e-diz-que-serao-sempre-bem-vindos.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T03:02:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "516cbd26a34afa3f",
-      "title": "TV Gazeta promove debate entre candidatos ao governo do ES nesta quinta; veja regras e saiba como assistir",
-      "summary": "O veículo G1 publicou uma atualização sobre: tV Gazeta promove debate entre candidatos ao governo do ES nesta quinta; veja regras e saiba como assistir. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/22/tv-gazeta-promove-debate-entre-candidatos-ao-governo-do-es-nesta-quinta-veja-regras-e-saiba-como-assistir.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T03:01:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ea7224842b83bf16",
-      "title": "Prefeitura concede reposição salarial aos servidores no mês de outubro",
-      "summary": "O veículo G1 publicou uma atualização sobre: prefeitura concede reposição salarial aos servidores no mês de outubro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/10/22/prefeitura-concede-reposicao-salarial-aos-servidores-no-mes-de-outubro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T03:01:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -692,20 +734,6 @@
       "archive": false
     },
     {
-      "id": "c04e545981c9d49b",
-      "title": "Quase R$ 4 milhões desaparecem da conta da Prefeitura de Mozarlândia; polícia investiga o caso",
-      "summary": "O veículo G1 publicou uma atualização sobre: quase R$ 4 milhões desaparecem da conta da Prefeitura de Mozarlândia; polícia investiga o caso. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/10/21/quase-r-4-milhoes-desaparecem-da-conta-da-prefeitura-de-mozarlandia-policia-investiga-o-caso.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T22:51:55+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "168a8637c4b657b6",
       "title": "TSE descarta restrição a canais de WhatsApp na reta final das eleições - Band",
       "summary": "O veículo Band publicou uma atualização sobre: tSE descarta restrição a canais de WhatsApp na reta final das eleições - Band. Consulte a reportagem para contexto, dados e declarações.",
@@ -776,20 +804,6 @@
       "archive": false
     },
     {
-      "id": "c6dc24e1c8cdbb76",
-      "title": "Mundo caminha para aquecimento catastrófico de 2,8°C e fracassa em reduzir emissões, diz ONU",
-      "summary": "O veículo VEJA publicou uma atualização sobre: mundo caminha para aquecimento catastrófico de 2,8°C e fracassa em reduzir emissões, diz ONU. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/agenda-verde/mundo-caminha-para-aquecimento-catastrofico-de-28c-e-fracassa-em-reduzir-emissoes-diz-onu/",
-      "source": "VEJA",
-      "published_at": "2026-10-21T22:28:17+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "be6a8cb767b2617e",
       "title": "Com PSB e PDT, apoio à reeleição de Motta ultrapassa metade dos deputados da Câmara",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: com PSB e PDT, apoio à reeleição de Motta ultrapassa metade dos deputados da Câmara. Consulte a reportagem para contexto, dados e declarações.",
@@ -842,20 +856,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a0f6e90c73a0a71f",
-      "title": "Assessor de Putin cita preparativos para cúpula com Trump e Xi na China - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: assessor de Putin cita preparativos para cúpula com Trump e Xi na China - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkxwNzFRa1ZjOHZFeGVfcHF0ZzNXQVJzdjE5dTd5blFHYlpjRnpOdzZHdGZsR090T3EtdmVTb1FPMThYbnZxNjNfNEdUQ2JHc1JPT2o4QnpIYk1ORERLWWdvaDkzRFpyQjJMMXB0YTNadEpfMUR0TDNCbnQtWlVkQkpoS0FHaXA1WkE?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-21T21:58:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1182,6 +1182,20 @@
       "archive": false
     },
     {
+      "id": "69d0d510bdb0f5ff",
+      "title": "Mulher morre após cair de viaduto no RJ, e polícia investiga se briga de trânsito motivou a queda - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mulher morre após cair de viaduto no RJ, e polícia investiga se briga de trânsito motivou a queda. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMThPTmZNTTBaNnhZa0tPQlhiaDkxQ2V0aHBDUlU0YmxYd1NZakxxb0RmUENFVHZMdzJhT1oxZmRvUlhxbHNVSF9ndkJiY1cyUy0tekZNaWVUTXN4R2ZmVmUyQkUyY2NfMnU4Vjdpc1V2eHZGdTQxdW4yV1JfVVhGSl9icEVGcUROWUt1NXJxMTI1M3dEbHJ0R2UzVk1RTFA5S1p6ZU5sdmVmcm5ESTI4ZlJjV1dKeHR0S2h0cHBlQjgwZ3FoOWFkbDBCY2dWWkhHZTRoaHRYVGdXalo1YlFlNzY5WDY?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T19:02:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "c5ab04eaebe6f646",
       "title": "Erro no Congresso invalida orçamento da Colômbia para 2027 - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: erro no Congresso invalida orçamento da Colômbia para 2027. Consulte a reportagem para contexto, dados e declarações.",
@@ -1294,6 +1308,20 @@
       "archive": false
     },
     {
+      "id": "82ee1ac67e927ff0",
+      "title": "SUS inicia oferta de 9 novos medicamentos de alta tecnologia contra o câncer - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: sUS inicia oferta de 9 novos medicamentos de alta tecnologia contra o câncer. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDYzYlI4WDZPVVZ4ek9rT3l2ODlKUEpzNENBbGtuTjhhV2RkRkJTdlFRSUFVMzh1eldTa21XNnVoOXNXclpZTjU5c1d4WjNuUDlCU0g5WXRwZHUwSEFNSGV0NmItMTZUUktheExGa184TUszdy1GNlZDd0FKaThwVXZqcFRmamFjT2JvSlU3eWljd1RrSTlFR2tVSWxmNzA3eG5aTVh0MG1tdXZBcl93NkhCa25zejZ4QmpJTENxcnJ2RmxyTl9GaUFwUlrSAdsBQVVfeXFMTjEwU0FhWEtVc3IyWXNsQ3NhWndsNEw2eFNBV3ZlMVpKQXRBaGNGX0JEWlJtUWI0Mm9LMURydEhMX0E4VGFtSl81YXpJdTdkOTRFX0c1NE1VVzhHYzNrckFudzk4NWRDRUlnNGVzdGJqZWg0Rk43OURRVWxGcnVTOE1XekZzZFZsMXlhX0hxNTdBR25rVlo4eHVSbFhsY0ltZ05PMER5Rzh0X01objZXczJwLVBfazBpVVdmMnplVHB6czJESndmWm1VbTJYOXhFNkdBTFphZVVNT1Rz?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-21T16:22:42+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "3285184efd47ad89",
       "title": "Em movimento semelhante ao da França, gregos vão às ruas exigir investimento em educação e melhores salários - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: em movimento semelhante ao da França, gregos vão às ruas exigir investimento em educação e melhores salários. Consulte a reportagem para contexto, dados e declarações.",
@@ -1346,20 +1374,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1a319d2941583f0b",
-      "title": "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/quedas-mais-de-330-mil-criancas-foram-internadas-no-brasil-em-10-anos",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T15:36:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1430,20 +1444,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0dece0f18fdff8da",
-      "title": "Negócios com imóveis comerciais disparam 156%, apesar dos juros altos",
-      "summary": "O veículo VEJA publicou uma atualização sobre: negócios com imóveis comerciais disparam 156%, apesar dos juros altos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/economia/negocios-com-imoveis-comerciais-disparam-156-apesar-dos-juros-altos/",
-      "source": "VEJA",
-      "published_at": "2026-10-21T12:00:33+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1591,7 +1591,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 26
+      "items": 23
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1655,7 +1655,7 @@
     },
     "Metrópoles · Política": {
       "status": "ok",
-      "items": 93
+      "items": 94
     },
     "O Globo": {
       "status": "ok",
@@ -1667,11 +1667,11 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 52
+      "items": 51
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 63
+      "items": 62
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
