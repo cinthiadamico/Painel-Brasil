@@ -108,18 +108,30 @@ def write_archive(news_path: Path = NEWS_PATH, archive_root: Path = ARCHIVE_ROOT
         }))
 
     months: dict[str, list[dict]] = {}
-    for path in sorted(archive_root.glob("20??-??/20??-??-??/materias.json")):
+    folders = {
+        path.parent
+        for suffix in ("materias.json", "claude.json")
+        for path in archive_root.glob(f"20??-??/20??-??-??/{suffix}")
+    }
+    for folder in sorted(folders):
         try:
-            content = json.loads(path.read_text(encoding="utf-8"))
-            day = str(content.get("date", path.parent.name))
+            day = folder.name
             dt.date.fromisoformat(day)
-            if path.parent.name != day or path.parent.parent.name != day[:7]:
+            if folder.parent.name != day[:7]:
                 continue
-            items = content.get("items", [])
+            auto_path = folder / "materias.json"
+            claude_path = folder / "claude.json"
+            auto = json.loads(auto_path.read_text(encoding="utf-8")) if auto_path.exists() else {}
+            claude = json.loads(claude_path.read_text(encoding="utf-8")) if claude_path.exists() else {}
+            items = auto.get("items", [])
+            claude_items = claude.get("items", [])
+            auto_count = len(items) if isinstance(items,list) else 0
+            claude_count = len(claude_items) if isinstance(claude_items,list) else 0
             months.setdefault(day[:7], []).append({
-                "date": day, "count": len(items),
-                "claude_original": bool(content.get("claude_original")),
+                "date": day, "count": auto_count, "claude_count": claude_count,
+                "claude_original": bool(auto.get("claude_original")) or claude_count>0,
                 "path": f"arquivo/{day[:7]}/{day}/materias.json",
+                "claude_path": f"arquivo/{day[:7]}/{day}/claude.json" if claude_count else None,
             })
         except (ValueError, TypeError, OSError):
             continue
