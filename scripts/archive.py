@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Arquivo permanente do Painel Brasil por mes e dia, sem copiar artigos completos.
 
-Estrutura: site/arquivo/YYYY-MM/YYYY-MM-DD.json, com catalogo em
+Estrutura: site/arquivo/YYYY-MM/YYYY-MM-DD/materias.json, com catalogo em
 site/arquivo/index.json. A cada coleta, novos links entram no dia da
 publicacao em horario de Brasilia e os dias anteriores sao preservados.
 """
@@ -83,7 +83,7 @@ def write_archive(news_path: Path = NEWS_PATH, archive_root: Path = ARCHIVE_ROOT
 
     written = 0
     for day, items in by_day.items():
-        path = archive_root / day[:7] / (day + ".json")
+        path = archive_root / day[:7] / day / "materias.json"
         try:
             previous = json.loads(path.read_text(encoding="utf-8"))
         except (OSError, ValueError):
@@ -100,7 +100,7 @@ def write_archive(news_path: Path = NEWS_PATH, archive_root: Path = ARCHIVE_ROOT
 
     # A edicao do Claude de 16/10/2026 esta embutida no HTML do painel.
     # O arquivo-destaque desse dia tambem aparece no indice por data.
-    legacy = archive_root / CLAUDE_DATE[:7] / (CLAUDE_DATE + ".json")
+    legacy = archive_root / CLAUDE_DATE[:7] / CLAUDE_DATE / "materias.json"
     if not legacy.exists():
         written += int(write_if_changed(legacy, {
             "schema_version": 1, "date": CLAUDE_DATE,
@@ -108,18 +108,18 @@ def write_archive(news_path: Path = NEWS_PATH, archive_root: Path = ARCHIVE_ROOT
         }))
 
     months: dict[str, list[dict]] = {}
-    for path in sorted(archive_root.glob("20??-??/20??-??-??.json")):
+    for path in sorted(archive_root.glob("20??-??/20??-??-??/materias.json")):
         try:
             content = json.loads(path.read_text(encoding="utf-8"))
-            day = str(content.get("date", path.stem))
+            day = str(content.get("date", path.parent.name))
             dt.date.fromisoformat(day)
-            if path.stem != day or path.parent.name != day[:7]:
+            if path.parent.name != day or path.parent.parent.name != day[:7]:
                 continue
             items = content.get("items", [])
             months.setdefault(day[:7], []).append({
                 "date": day, "count": len(items),
                 "claude_original": bool(content.get("claude_original")),
-                "path": f"arquivo/{day[:7]}/{day}.json",
+                "path": f"arquivo/{day[:7]}/{day}/materias.json",
             })
         except (ValueError, TypeError, OSError):
             continue
