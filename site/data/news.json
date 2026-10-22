@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:17:49.882231+00:00",
-  "last_success_at": "2026-10-22T03:17:49.882231+00:00",
+  "last_checked_at": "2026-10-22T03:26:06.645510+00:00",
+  "last_success_at": "2026-10-22T03:26:06.645510+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -1653,7 +1653,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 49
+      "items": 47
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1669,7 +1669,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 63
+      "items": 62
     }
   },
   "notes": [
