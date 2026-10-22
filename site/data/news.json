@@ -1,10 +1,24 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:07:12.514663+00:00",
-  "last_success_at": "2026-10-22T03:07:12.514663+00:00",
+  "last_checked_at": "2026-10-22T03:08:55.519205+00:00",
+  "last_success_at": "2026-10-22T03:08:55.519205+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "ff6e6f4cd0c39db1",
+      "title": "Flávio Bolsonaro pede apoio a público LGBTQIA+ em ato no CE e diz que 'serão sempre bem-vindos'",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro pede apoio a público LGBTQIA+ em ato no CE e diz que 'serão sempre bem-vindos'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-pede-apoio-a-publico-lgbtqia-em-ato-no-ce-e-diz-que-serao-sempre-bem-vindos.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T03:02:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "faa1ce2419be9316",
       "title": "Mega-Sena pode pagar R$ 200 milhões nesta quinta-feira; g1 transmite ao vivo",
@@ -265,20 +279,6 @@
       "source": "G1",
       "published_at": "2026-10-22T01:51:33+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "824bfba8a2cc54aa",
-      "title": "Flávio faz campanha em São Paulo; Lula teve ato em Belo Horizonte",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: flávio faz campanha em São Paulo; Lula teve ato em Belo Horizonte. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-campanha-em-sao-paulo-lula-teve-ato-em-belo-horizonte",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-22T01:45:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -601,20 +601,6 @@
       "source": "VEJA",
       "published_at": "2026-10-21T22:28:17+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "be6a8cb767b2617e",
-      "title": "Com PSB e PDT, apoio à reeleição de Motta ultrapassa metade dos deputados da Câmara",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: com PSB e PDT, apoio à reeleição de Motta ultrapassa metade dos deputados da Câmara. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/com-psb-e-pdt-apoio-a-reeleicao-de-motta-ultrapassa-metade-dos-deputados-da-camara.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T22:19:00+00:00",
-      "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1034,6 +1020,20 @@
       "url": "https://www12.senado.leg.br/noticias/audios/2026/10/santos-dumont-e-lembrado-durante-homenagem-a-forca-aerea-brasileira",
       "source": "Senado Federal",
       "published_at": "2026-10-21T19:41:38+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "964a88d87379fcc2",
+      "title": "Medida provisória abre crédito extra de R$ 300 milhões para combate a incêndios na Amazônia",
+      "summary": "O veículo Agência Câmara publicou uma atualização sobre: medida provisória abre crédito extra de R$ 300 milhões para combate a incêndios na Amazônia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.camara.leg.br/noticias/1312761-medida-provisoria-abre-credito-extra-de-r-300-milhoes-para-combate-a-incendios-na-amazonia",
+      "source": "Agência Câmara",
+      "published_at": "2026-10-21T19:24:00+00:00",
       "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
@@ -1532,16 +1532,16 @@
       "archive": false
     },
     {
-      "id": "2fbbd3b0c070424c",
-      "title": "Lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande Bahia",
-      "summary": "O veículo Jornal Grande Bahia publicou uma atualização sobre: lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande B. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYzlGRExua2NkQ3ZRb2laRGh2VWtYajVwTldWMWxWX0g1NW9BLVhicWx5UU1teEJuZlpnS3U3ZmcyMHVSZVMwa3VySjRxc003Skp3Y1pPQVM2V09vWkFjNmxUcm11bkJPdWREeklBVVVhWmFFVTF3blNRTjZfX05iYm9ZUjN6cUtZTTNvbFlhb3BIaTBfZWNzeUh1bHlIc21xLXFnaGFtX19CMEpiaF9MSXpaRG1TRnlkNUlidVdtMW43dWhfUS1oVUdjYWhLVEVIUnhhc01yVGJhWUpGZTZKRmhTRlhaR0F2Q2t1Y1o3ZlR4ZmYtbmdLYWg2eVFFa3RiRnNrdVdlcEd2UQ?oc=5",
-      "source": "Jornal Grande Bahia",
-      "published_at": "2026-10-15T19:30:10+00:00",
+      "id": "ff2797180f98e3d5",
+      "title": "Estudantes desenvolvem plataformas para combater a desinformação",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: estudantes desenvolvem plataformas para combater a desinformação. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/estudantes-desenvolvem-plataformas-para-combater-desinformacao",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-17T13:19:00+00:00",
       "category": "Educação",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": true,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     }
@@ -1557,7 +1557,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 50
+      "items": 51
     },
     "VEJA": {
       "status": "ok",
@@ -1609,11 +1609,11 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 46
+      "items": 40
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 49
+      "items": 50
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1621,15 +1621,15 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 68
+      "items": 65
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 65
+      "items": 64
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 62
+      "items": 31
     }
   },
   "notes": [
