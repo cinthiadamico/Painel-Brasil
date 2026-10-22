@@ -22,6 +22,14 @@
   }
   function originalArchive(target, ctx) {
     const wrapper=$el('div','archive-claude');
+    const sourceLink=$el('a','archive-claude-link','Abrir o painel original no Claude ↗');
+    sourceLink.href='https://claude.ai/artifact/Vx6RgYBDQxKwJ2mnibkcxz';
+    sourceLink.target='_blank';
+    sourceLink.rel='noopener noreferrer';
+    wrapper.append(
+      $el('p','small-note','Sincronização com Claude: manual. Este arquivo foi importado em 16/10/2026. Mudanças feitas no artifact não são copiadas automaticamente para o Painel Brasil.'),
+      sourceLink
+    );
     wrapper.append(
       $el('h3','archive-title','Painel original do Claude · 16/10/2026'),
       $el('p','small-note','Edição histórica recebida. O conteúdo e as pesquisas não são atualizados nem revalidados automaticamente. Os links externos permanecem disponíveis.')
