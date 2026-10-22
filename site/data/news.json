@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-21T23:41:48.616765+00:00",
-  "last_success_at": "2026-10-21T23:41:48.616765+00:00",
+  "last_checked_at": "2026-10-22T00:54:49.790675+00:00",
+  "last_success_at": "2026-10-22T00:54:49.790675+00:00",
   "coverage_window_hours": 84,
   "items": [
     {
-      "id": "196bf295ba2f158e",
-      "title": "Planos de saúde não são obrigados a cobrir tratamento com Cannabis, decide STJ",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: planos de saúde não são obrigados a cobrir tratamento com Cannabis, decide STJ. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/planos-de-saude-nao-sao-obrigados-a-cobrir-tratamento-com-cannabis-decide-stj.shtml",
+      "id": "8963e608c453b979",
+      "title": "Ato de estudantes de direita em SP tem clima de Carnaval, bebida no gargalo e ligação de Tarcísio",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ato de estudantes de direita em SP tem clima de Carnaval, bebida no gargalo e ligação de Tarcísio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/ato-de-estudantes-de-direita-em-sp-tem-clima-de-carnaval-bebida-no-gargalo-e-ligacao-de-tarcisio.shtml",
       "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T23:29:00+00:00",
-      "category": "Saúde",
+      "published_at": "2026-10-22T00:44:00+00:00",
+      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -20,13 +20,279 @@
       "archive": false
     },
     {
-      "id": "81e829b810427a3a",
-      "title": "Gilmar Mendes critica atropelo da Justiça sobre criação de cursos de medicina e pede novo julgamento",
-      "summary": "O veículo G1 publicou uma atualização sobre: gilmar Mendes critica atropelo da Justiça sobre criação de cursos de medicina e pede novo julgamento. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/noticia/2026/10/21/gilmar-mendes-critica-atropelo-da-justica-sobre-criacao-de-cursos-de-medicina-e-pede-novo-julgamento.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T23:25:11+00:00",
+      "id": "cffb6924ef6fb715",
+      "title": "Nunes Marques suspende postagens ilegais contra campanha de Lula",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: nunes Marques suspende postagens ilegais contra campanha de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/nunes-marques-suspende-postagens-ilegais-contra-campanha-de-lula",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-22T00:39:00+00:00",
       "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "666fcd67fe404405",
+      "title": "Apoiadores de Flávio Bolsonaro fazem ato em São Luís",
+      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Flávio Bolsonaro fazem ato em São Luís. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/21/apoiadores-de-flavio-bolsonaro-fazem-ato-em-sao-luis.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T00:37:18+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9d80ce4598d84ea3",
+      "title": "Lula compara desafio do sigilo a Flávio a truco e diz que terá celular para entrar no canal de Janones",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula compara desafio do sigilo a Flávio a truco e diz que terá celular para entrar no canal de Janones. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-compara-desafio-do-sigilo-a-flavio-a-truco-e-diz-que-tera-celular-para-entrar-no-canal-de-janones.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T00:36:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "75f6f662db169e9d",
+      "title": "Globo entrevista Leandro Grass, candidato ao governo do DF, nesta quinta; g1 transmite",
+      "summary": "O veículo G1 publicou uma atualização sobre: globo entrevista Leandro Grass, candidato ao governo do DF, nesta quinta; g1 transmite. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/globo-fara-debate-entre-candidatos-ao-governo-do-df-no-segundo-turno-nesta-quinta-g1-transmite.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T00:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b56291b35370ac64",
+      "title": "Governo de MS recorre ao STJ para tentar barrar volta de Tiago Vargas à Polícia Civil",
+      "summary": "O veículo G1 publicou uma atualização sobre: governo de MS recorre ao STJ para tentar barrar volta de Tiago Vargas à Polícia Civil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/21/governo-de-ms-recorre-ao-stj-para-tentar-barrar-volta-de-tiago-vargas-a-policia-civil.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T00:29:16+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2d5900ce6fd68294",
+      "title": "O principal sinal da penúltima pesquisa Quaest sobre a disputa Flávio x Lula antes do segundo turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: o principal sinal da penúltima pesquisa Quaest sobre a disputa Flávio x Lula antes do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/o-principal-sinal-da-penultima-pesquisa-quaest-sobre-a-disputa-flavio-x-lula-antes-do-segundo-turno/",
+      "source": "VEJA",
+      "published_at": "2026-10-22T00:23:25+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4e2a778882e0faaf",
+      "title": "Presidente Lula, candidato à reeleição pelo PT, tem agenda em Brasília e em Minas Gerais",
+      "summary": "O veículo G1 publicou uma atualização sobre: presidente Lula, candidato à reeleição pelo PT, tem agenda em Brasília e em Minas Gerais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/21/presidente-lula-candidato-a-reeleicao-pelo-pt-tem-agenda-em-brasilia-e-em-minas-gerais.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T00:21:58+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fedd0015a8d5a73f",
+      "title": "Campanha de Lula pede cassação da chapa de Flávio Bolsonaro em ação sobre atuação da Meta nas eleições",
+      "summary": "O veículo G1 publicou uma atualização sobre: campanha de Lula pede cassação da chapa de Flávio Bolsonaro em ação sobre atuação da Meta nas eleições. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/campanha-de-lula-pede-cassacao-da-chapa-de-flavio-bolsonaro-em-acao-sobre-atuacao-da-meta-nas-eleicoes.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T00:21:17+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "56b040eb0a80f17a",
+      "title": "Flávio Bolsonaro reúne apoiadores em ato em Fortaleza nesta quarta-feira (21)",
+      "summary": "O veículo G1 publicou uma atualização sobre: flávio Bolsonaro reúne apoiadores em ato em Fortaleza nesta quarta-feira (21). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/21/flavio-bolsonaro-reune-apoiadores-em-ato-em-fortaleza-nesta-quarta-feira-21.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T00:12:25+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5e15268a921b27cd",
+      "title": "Flávio Bolsonaro, candidato do PL à Presidência, faz campanha em São Paulo e no Ceará",
+      "summary": "O veículo G1 publicou uma atualização sobre: flávio Bolsonaro, candidato do PL à Presidência, faz campanha em São Paulo e no Ceará. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/21/flavio-bolsonaro-candidato-do-pl-a-presidencia-faz-campanha-em-sao-paulo-e-no-ceara.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T00:09:18+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "41af385a8a579afd",
+      "title": "Confira o dia de campanha dos candidatos ao governo do Acre nesta quarta (21)",
+      "summary": "O veículo G1 publicou uma atualização sobre: confira o dia de campanha dos candidatos ao governo do Acre nesta quarta (21). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/21/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quarta-21.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T00:07:30+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "09e15e630a1c92cd",
+      "title": "Governo confirma transporte gratuito no 2º turno após denúncia sobre frota menor de ônibus e falta de linhas intermunicipais no 1º",
+      "summary": "O veículo G1 publicou uma atualização sobre: governo confirma transporte gratuito no 2º turno após denúncia sobre frota menor de ônibus e falta de linhas intermunicipais no 1º. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/21/transporte-gratuito-2o-turno-eleicoes-2026-pernambuco.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T00:05:57+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dcf90d9bdcfe524f",
+      "title": "Tarcísio treinará Flávio Bolsonaro para debate na Globo em tática para diminuir papel de Marçal",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tarcísio treinará Flávio Bolsonaro para debate na Globo em tática para diminuir papel de Marçal. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-treinara-flavio-bolsonaro-para-debate-na-globo-em-tatica-para-diminuir-papel-de-marcal.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T00:04:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "49260aa20cea50d1",
+      "title": "Agência da ONU para o meio ambiente alerta para aceleração no aquecimento global",
+      "summary": "O veículo G1 publicou uma atualização sobre: agência da ONU para o meio ambiente alerta para aceleração no aquecimento global. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/21/agencia-da-onu-para-o-meio-ambiente-alerta-para-aceleracao-no-aquecimento-global.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T00:00:18+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5bd055fcc6365035",
+      "title": "Suprema Corte dos EUA contraria governo Trump e permite transição de gênero em detentos trans",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: suprema Corte dos EUA contraria governo Trump e permite transição de gênero em detentos trans. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/suprema-corte-dos-eua-contraria-governo-trump-e-permite-transicao-de-genero-em-detentos-trans.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T23:59:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "04302d77d8e19c0a",
+      "title": "Campanha de Lula pede ao TSE cassação da chapa de Flávio em ação que trata de favorecimento do candidato pela Meta - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: campanha de Lula pede ao TSE cassação da chapa de Flávio em ação que trata de favorecimento do candidato pela Meta. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQ0RUNC1LMGZUVG9nblJwc2hwcnc5eTdPMmtPUVdPTUEwbzNmc3B1amswWGQ5UzZQV1dicDN4QW50Y2ozcFFrUzRDLVd4VGNmb0Y2LWhhRlU2N3RSTGoxWVE2dTIzblJENEg0YjdNV3k0d2ZmMnUzbkJfN3oxaGRIUzN0aktURElTeS15QVRVeHdSRWRhV0l1RUttcDJzQXdWVk5JSy1jcDJ4OUVkZGNmQW8wb3U4Q1k0UTM0bHROS0hWUFN4QUREQy10R2tBODVXdWFxdEMtaEtDajFNOVdQdGRCQV9Nb1Y2TUdGOXBHX2ZILVRPRDMtekp3Z2xIdHhOYmhTdG12RUtYczhteDVZcUVKX2Vxd9IBpAJBVV95cUxQcThYbTRZaWhYaGpwdXE0Qnc5VF9JZXdoRmJqdWgtaGRZc2Q0T0lvNlB1OU92ckFRRVp2TlZDRmRkbnhCdjhiOWpPNGJKQ0kwcGJodnFsX2VoTmZKaXh4czFSME1Ta3RmM0NzZmVRQjZldFVsdGgzWlFuZ3d5cXl4RHhDbTFHdXJnQjVaNVAtMC1BaC05bE5BUzI0aXdVSkMtVUpESWdHVVVrTWhyelllbWNuYXd2SUNDcTBra254TEV5NmRBaEtKRmdJMDR3RXVRWUJWV2VlNmlNSTlkelIwMlRzb1NMYnQ1YlRNNWVFcjktMmN5UVVpWE1nNDRkSXVVTC1EY1hOVWJHRXNKUkROcmQ2WmtlNWRGbkVlY0J3czV0SkNF?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-21T23:49:26+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5e92398b008540c5",
+      "title": "Estadão tem postagens sobre eleições censuradas pela Meta e recorre ao TSE - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: estadão tem postagens sobre eleições censuradas pela Meta e recorre ao TSE. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLUFhNXVLVzNSZ21FWWhOZExtVjhGamVPazZjRF9iVTFtalUyQnhsdzVLYzFjT2pIRlEtS0ExRGstSmpBTVBxNmd6eks0QWJQa2o2VFNFVEdmdDZHZ0NlbXdZMEJEVVhMLU1zcVNBV29KOXBpOUlKS1BTR2R4MlY3TWdTcmd0azBveEJsd1lXdXg0QU1JOVNVdmE0U3FFX0lhcWMyczlxMHdZSnZlS2RqTElGSmt3c0VxZlVLTUdMc1paWlVTUkZJ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-21T23:43:44+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f77cf43a338cd2c4",
+      "title": "Polícia mata dois homens apontados como lideranças do PCC em Ribeirão Preto (SP)",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia mata dois homens apontados como lideranças do PCC em Ribeirão Preto (SP). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-mata-dois-homens-apontados-como-liderancas-do-pcc-em-ribeirao-preto-sp.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T23:43:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c8ed95ff3516013a",
+      "title": "Mulher é morta a tiros no interior da Bahia; companheiro é suspeito de cometer o crime",
+      "summary": "O veículo G1 publicou uma atualização sobre: mulher é morta a tiros no interior da Bahia; companheiro é suspeito de cometer o crime. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/21/mulher-e-morta-a-tiros-em-santo-antonio-de-jesus.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T23:39:38+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "196bf295ba2f158e",
+      "title": "Planos de saúde não são obrigados a cobrir tratamento com Cannabis medicinal, decide STJ",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: planos de saúde não são obrigados a cobrir tratamento com Cannabis medicinal, decide STJ. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/planos-de-saude-nao-sao-obrigados-a-cobrir-tratamento-com-cannabis-decide-stj.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T23:29:00+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -48,34 +314,6 @@
       "archive": false
     },
     {
-      "id": "93a0c01a857f7475",
-      "title": "Erika Hilton não descarta possibilidade de disputar a Presidência e deixa futuro político em aberto: ‘O tempo vai dizer' - Muita Informação",
-      "summary": "O veículo Muita Informação publicou uma atualização sobre: erika Hilton não descarta possibilidade de disputar a Presidência e deixa futuro político em aberto: ‘O tempo vai dizer' - Muita Informação. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObWNnZTRGZ3VUV2FLLWd2OEx3S2xMN25ydUNqeVdlbnQwYUlxeF9jdXRBNUthRkc5VzE1a0k4RVV4dXBzeEVLVHAtcDhXVlZQMXRJY21wUWRiVTh0LVBDZnlxVjNCS2xDZUMwOUxSdEdvNjU5RzFiMWRHUDczS2dudlNZaFZfallWdDhWdDIxWXc4YVFJSmtGWDRUU2FPQlJIRFRGQUxBSnQxeUxWaWs2UGE2Z3VJb3NTeWlzdDhvWHdJVF9IVmNkVkFPS1BvaDlmQUZwOV94REc4X0EzSUQ1Zk55TUwxTVJFa2h5VkhzNA?oc=5",
-      "source": "Muita Informação",
-      "published_at": "2026-10-21T23:24:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "75bd8fd93883ed46",
-      "title": "Fraudes de identidade pressionam o onboarding: o que avaliar antes de escolher uma plataforma",
-      "summary": "O veículo G1 publicou uma atualização sobre: fraudes de identidade pressionam o onboarding: o que avaliar antes de escolher uma plataforma. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/tecnologia/ciberseguranca/serasa/noticia/2026/10/21/fraudes-de-identidade-pressionam-o-onboarding-o-que-avaliar-antes-de-escolher-uma-plataforma.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T23:19:52+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "aef15835b3040ba8",
       "title": "Caiu em um golpe virtual? Polícia Civil do AP lança ferramenta para orientar vítimas; veja como acessar",
       "summary": "O veículo G1 publicou uma atualização sobre: caiu em um golpe virtual? Polícia Civil do AP lança ferramenta para orientar vítimas; veja como acessar. Consulte a reportagem para contexto, dados e declarações.",
@@ -83,48 +321,6 @@
       "source": "G1",
       "published_at": "2026-10-21T23:19:07+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "23ac4934e1ce05b9",
-      "title": "'Um tribunal que se retrai diante de violações de direitos fundamentais trai a sua missão', diz Fachin",
-      "summary": "O veículo G1 publicou uma atualização sobre: 'Um tribunal que se retrai diante de violações de direitos fundamentais trai a sua missão', diz Fachin. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/21/um-tribunal-que-se-retrai-diante-de-violacoes-de-direitos-fundamentais-trai-a-sua-missao-diz-fachin.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T23:17:03+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "30e9dd2eda5aebe0",
-      "title": "Quaest divulga segunda pesquisa do 2º turno da eleição presidencial; veja os números",
-      "summary": "O veículo G1 publicou uma atualização sobre: quaest divulga segunda pesquisa do 2º turno da eleição presidencial; veja os números. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/21/quaest-divulga-segunda-pesquisa-do-2o-turno-da-eleicao-presidencial-veja-os-numeros.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T23:13:16+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9056a639c78ab2d7",
-      "title": "Eleições 2026: Tropas federais reforçam segurança em 81 municípios do PI no segundo turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Tropas federais reforçam segurança em 81 municípios do PI no segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/21/eleicoes-2026-tropas-federais-seguranca-municipios.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T23:11:54+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -153,20 +349,6 @@
       "source": "Agência Câmara",
       "published_at": "2026-10-21T23:09:00+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6c7cc785dc7ae01d",
-      "title": "Justiça torna réus 12 acusados de envolvimento na queda do avião da Voepass; 62 pessoas morreram no acidente",
-      "summary": "O veículo G1 publicou uma atualização sobre: justiça torna réus 12 acusados de envolvimento na queda do avião da Voepass; 62 pessoas morreram no acidente. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/21/justica-torna-reus-12-acusados-de-envolvimento-na-queda-do-aviao-da-voepass-62-pessoas-morreram-no-acidente.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T23:07:36+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -230,34 +412,6 @@
       "archive": false
     },
     {
-      "id": "222478d182d1bfb3",
-      "title": "AMMPLA alerta para aumento no trânsito em Petrolina e na Ponte Presidente Dutra; veja horários",
-      "summary": "O veículo G1 publicou uma atualização sobre: aMMPLA alerta para aumento no trânsito em Petrolina e na Ponte Presidente Dutra; veja horários. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/21/ammpla-alerta-para-aumento-no-transito-em-petrolina-e-na-ponte-presidente-dutra-veja-horarios.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T22:51:41+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8ad06a48fc1e133d",
-      "title": "Vigilante recusa chácara avaliada em R$ 2,68 milhões oferecida como garantia de dívida trabalhista de cerca de R$ 730 mil, e Justiça determina bloqueio em contas",
-      "summary": "O veículo G1 publicou uma atualização sobre: vigilante recusa chácara avaliada em R$ 2,68 milhões oferecida como garantia de dívida trabalhista de cerca de R$ 730 mil, e Justiça determina bloqueio em. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/10/21/vigilante-recusa-chacara-oferecida-como-garantia-de-divida-trabalhista-e-justica-determina-bloqueio-em-contas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T22:50:56+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "168a8637c4b657b6",
       "title": "TSE descarta restrição a canais de WhatsApp na reta final das eleições - Band",
       "summary": "O veículo Band publicou uma atualização sobre: tSE descarta restrição a canais de WhatsApp na reta final das eleições - Band. Consulte a reportagem para contexto, dados e declarações.",
@@ -279,48 +433,6 @@
       "source": "Agência Câmara",
       "published_at": "2026-10-21T22:47:00+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fc4408e42181c8ed",
-      "title": "MPF pede à Justiça que Meta restaure contas suspensas durante período eleitoral",
-      "summary": "O veículo VEJA publicou uma atualização sobre: mPF pede à Justiça que Meta restaure contas suspensas durante período eleitoral. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/mpf-pede-a-justica-que-meta-restaure-contas-suspensas-durante-periodo-eleitoral/",
-      "source": "VEJA",
-      "published_at": "2026-10-21T22:46:59+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7eacd9c7d1615c42",
-      "title": "Anulação dos votos de Jerson Domingos muda ordem de suplência para deputado estadual em MS",
-      "summary": "O veículo G1 publicou uma atualização sobre: anulação dos votos de Jerson Domingos muda ordem de suplência para deputado estadual em MS. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/21/anulacao-dos-votos-de-jerson-domingos-muda-ordem-de-suplencia-para-deputado-estadual-em-ms.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T22:46:34+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7a5614286e70dbf3",
-      "title": "Segundo turno das Eleições 2026 têm venda e consumo de bebidas alcoólicas liberados em MS",
-      "summary": "O veículo G1 publicou uma atualização sobre: segundo turno das Eleições 2026 têm venda e consumo de bebidas alcoólicas liberados em MS. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/21/segundo-turno-das-eleicoes-2026-em-ms-tem-venda-e-consumo-de-bebidas-alcoolicas-liberados.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T22:46:05+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -370,30 +482,30 @@
       "archive": false
     },
     {
-      "id": "97a8404e13afc14d",
-      "title": "Tribunal de Contas do DF dá 5 dias para governo explicar envio de R$ 120 milhões da Saúde ao BRB",
+      "id": "62cd83c5b253fbe1",
+      "title": "Tribunal de Contas do DF dá 5 dias para governo explicar envio de R$ 120 milhões da Saúde ao BRB - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: tribunal de Contas do DF dá 5 dias para governo explicar envio de R$ 120 milhões da Saúde ao BRB. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/21/tribunal-de-contas-do-df-da-5-dias-para-governo-explicar-ida-de-r-120-milhoes-da-saude-para-ao-brb.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSjlpRGI2Z2JpeU1sRnZaUmNXUTNtUEduMko1WFgyZWRFQk5DU3M3NHl2TndUYjk3b3ZLQjRLOTUzQnJPQ1ZPNDhLSkhvaE1MTFlrNVN4VW5vZDhOdHZuMmZPbHFjRGJlUEUzUmp6VFA2QU1YTG1OU1pRRkFNbEJOVm9sWWZNN2dRNXpMM0YtOE42d1Rhd1ZHSzdxNFZlZ1RGYWlTVDlMTmU1eE5MREhjWTBSazdValVqVmJWd19jTk5vYWRBREtBRTFabllId3QzV1lqSThSLUszQVZSQmoyMmg0Um9jLUd1c0E3UTFzcjlJdjhVdjFn0gGGAkFVX3lxTE1jakxjR1U2dGt5U3VNMVN1bWpLTHRtWmVacjNHNV9kWEVWZG43RGdieldiRHNkRWo1OGdqeGNlRlRYRmxjUlEwZ2RvZWRuZ0xkLTVTeTNiYWk4S00zUVVDNDEweWY1aUxYUGhWdGlNc0tQYXkzVDcxRXlPRUhfQTlnMnV5RnhiQW04NHFkT2JYamhubnNmZUNWN2gzY2ptYl9kTDNLVm5NNUg0NkI4UHo4SnNzelhPU2Q5aXRzRERnS296RF9aeEZwQ2VZU1VFRmFmX2lTem5Kb2Q5ekx3cUh3cGtscUE2RHdfSzVZeDN1aDJCMXRjYjhIaTktT0NaOFpEaVZrQlE?oc=5",
       "source": "G1",
       "published_at": "2026-10-21T22:16:27+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
     {
-      "id": "5c5be76aa711da8a",
-      "title": "Paciente tem reação após receber transfusão de sangue em hospital do Paraná e família denuncia que ele recebeu o tipo sanguíneo errado",
+      "id": "be37548e90829a48",
+      "title": "Paciente tem reação após receber transfusão de sangue em hospital do Paraná e família denuncia que ele recebeu o tipo sanguíneo errado - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: paciente tem reação após receber transfusão de sangue em hospital do Paraná e família denuncia que ele recebeu o tipo sanguíneo errado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/21/paciente-tem-reacao-apos-receber-transfusao-de-sangue-em-hospital-do-parana-e-familia-denuncia-que-ele-recebeu-o-tipo-sanguineo-errado.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPd0JYRnVsazFtZjl2S1I2RnZHZEx2Z0hSVEVEWTBxcV9Ic2MtUGxvb3poTE1NbnRYYVktMVY4Y0RJaFNERTJ2djVkR3NZMGFFTHM3bzBUOVRYc2RSWWE4cHFKYXN0NXlDVUZjZUViLVJLQ1FlRFBpSkJEUmRyRHBOSVFJUGdUWUpTQ2Y0MDE5Nld0bG9KZkF5bFBEZ2x6RXI4cmV5R3ZIaTBnYXJHOWVqd3N5YjRveWNLZnVzdDM2V3JlWE1FUjBYV3NkM2ZUMnozVVZ5eXN1M2J2WlhydFA3ekZCZXJHWHJhbjBlbWtwSUdjcU1iMVM0NVdnS1ptU2ViV0FDQmVERERGX2pfUjNVdTVWMmlDTWl0Q3M3bVd0T190RFNk0gGzAkFVX3lxTE5wQjZNUEJ6WUlvNXg4MTNneTIyU1NYSldJcGJGdkx6UExJcHRhUXZkUi1UeVhHb2tkQ3JBXzBwbmpYTkgzZ3hfWnhqTUtIcGQycGZ5d25KdjZ2Y0djcUtuRVhXV1lPbUowT1RENjh1djd2RFJHU3BJbTc3MzRmUllBWVhRZnNfRkdjN3IzQjdNazFJREY2LUgyRzVmUHRsZmxWT3ZCOUhXTkpfRGMwQ3BiVlptRXJsWWc1aHltdTM5YUpwWFI2ZnBYUzBGdldsd1ZQbF9BTElpX29LbTJVZHNPVUdwVFpRYVlNREFYVmdaRnBKa0x5MzltWGpRV2JMVHRWaXM3NFU0ZjUyUzRYWVhxNl9janVVR1ZtZzFqZmZzNFprMzJFU2dQNFhjcFlaSVU4aE0?oc=5",
       "source": "G1",
       "published_at": "2026-10-21T22:15:41+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -426,20 +538,6 @@
       "archive": false
     },
     {
-      "id": "00ea7e1e17e0e7cf",
-      "title": "Polícia Ambiental apreende itens de pesca proibidos e adverte pescadores durante pré-piracema no interior de SP",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia Ambiental apreende itens de pesca proibidos e adverte pescadores durante pré-piracema no interior de SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/21/policia-ambiental-apreende-itens-de-pesca-proibidos-e-adverte-pescadores-durante-pre-piracema-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T22:00:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "2eb0680892ad7585",
       "title": "Promotoria no Paraná abre apuração sobre câmera em banheiro de escola; gestores são afastados",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: promotoria no Paraná abre apuração sobre câmera em banheiro de escola; gestores são afastados. Consulte a reportagem para contexto, dados e declarações.",
@@ -447,6 +545,20 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-21T22:00:00+00:00",
       "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "00ea7e1e17e0e7cf",
+      "title": "Polícia Ambiental apreende itens de pesca proibidos e adverte pescadores durante pré-piracema no interior de SP",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia Ambiental apreende itens de pesca proibidos e adverte pescadores durante pré-piracema no interior de SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/21/policia-ambiental-apreende-itens-de-pesca-proibidos-e-adverte-pescadores-durante-pre-piracema-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T22:00:00+00:00",
+      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -463,20 +575,6 @@
       "category": "Eleições",
       "candidate": "flavio",
       "election_type": "Proposta",
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6e788bb37656a628",
-      "title": "Polícia investiga 12º corpo encontrado na cidade de São Paulo em 47 dias; vítima foi localizada na Zona Norte",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia investiga 12º corpo encontrado na cidade de São Paulo em 47 dias; vítima foi localizada na Zona Norte. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/21/policia-investiga-12o-corpo-encontrado-na-cidade-de-sao-paulo-em-47-dias-vitima-foi-localizada-na-zona-norte.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T21:37:47+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
       "via_aggregator": false,
       "curated": false,
       "archive": false
@@ -916,20 +1014,6 @@
       "archive": false
     },
     {
-      "id": "e898cbfb215b3bb0",
-      "title": "Flávio diz ao TSE aceitar abrir sigilo de 20 anos, mas cria lista de condições de divulgação de Lula - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: flávio diz ao TSE aceitar abrir sigilo de 20 anos, mas cria lista de condições de divulgação de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRm1ELXBaZGI1MkNIekxvUnlPMDBGU3JIRDVfRzNHRllKeWNGbzlyVDBhUE1LTWItR09BTjhTQ1ZxZGYtSGx3TzdNNE9rNnE2aEZZcFp1cEw4UERmR1RlTkk0b1pwNU5VTVhwNWNNeURRb2prYXVrMUNLZkEwU2wwQlVYaVZ5aDUydERQSzZPd2NDVF82Vi1ZdW5PWFZ2UlB5UFVZT0wwUkVrTDNidEQ2QTBVU3J4M1piNWN4Qi0tdEtIeUZLTy1MUkYtTC1uSUE5UjYta0tLYXluX1g1UHfSAeMBQVVfeXFMTlVYSUNJT2s0a0c1YzBGTkowNURTbHBjMjlZNDh2ZGRGaTBpNzEwRlVCSlF1WUpIT3lmOS1uaG8xRjdockJWU1htUjBjOV9DNjdEVkx2YlA3YmVqekVMVUhpMGVqRTZ1c1F1STFtWlJQUlcwZXlrTGUwZXIyVmN2M0tNaG91Q2ZJNm1qRm0yWUE1ZTliX3JONjhmSmJ6eW5XRkNkbXFzRi1CY285TmxSRnNvUlY5TlQyaDdNMG4xWTdyZlh1ajhPaFl3R2tCM1IzUHpBTkxGMEdhektwOXBaQkpjYWs?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-21T19:35:46+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "964a88d87379fcc2",
       "title": "Medida provisória abre crédito extra de R$ 300 milhões para combate a incêndios na Amazônia",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: medida provisória abre crédito extra de R$ 300 milhões para combate a incêndios na Amazônia. Consulte a reportagem para contexto, dados e declarações.",
@@ -1000,34 +1084,6 @@
       "archive": false
     },
     {
-      "id": "6e6a72c48cd00fa9",
-      "title": "Exército da Alemanha alerta para ameaça ‘significativa’ da Rússia contra o país",
-      "summary": "O veículo VEJA publicou uma atualização sobre: exército da Alemanha alerta para ameaça ‘significativa’ da Rússia contra o país. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/mundo/exercito-da-alemanha-alerta-para-ameaca-significativa-da-russia-contra-o-pais/",
-      "source": "VEJA",
-      "published_at": "2026-10-21T18:58:14+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c025a35edb48e93c",
-      "title": "ONU faz novo alerta sobre aquecimento global: ‘Nenhum país está a salvo’",
-      "summary": "O veículo VEJA publicou uma atualização sobre: oNU faz novo alerta sobre aquecimento global: ‘Nenhum país está a salvo’. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/mundo/relatorio-da-onu-alerta-para-aquecimento-aquem-de-metas-climaticas-nenhum-pais-esta-a-salvo/",
-      "source": "VEJA",
-      "published_at": "2026-10-21T18:56:49+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c5ab04eaebe6f646",
       "title": "Erro no Congresso invalida orçamento da Colômbia para 2027 - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: erro no Congresso invalida orçamento da Colômbia para 2027. Consulte a reportagem para contexto, dados e declarações.",
@@ -1042,20 +1098,6 @@
       "archive": false
     },
     {
-      "id": "3ac9a86310226bf2",
-      "title": "Governo perde no STF julgamento sobre ISS e PIS/Cofins, mas pode escapar de restituição",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo perde no STF julgamento sobre ISS e PIS/Cofins, mas pode escapar de restituição. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-perde-no-stf-julgamento-sobre-iss-e-piscofins-mas-pode-escapar-de-restituicao.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T18:47:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "553362b03a31ff33",
       "title": "Estudantes de direita e políticos fazem ato pró-Flávio em frente ao Insper em SP",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: estudantes de direita e políticos fazem ato pró-Flávio em frente ao Insper em SP. Consulte a reportagem para contexto, dados e declarações.",
@@ -1063,34 +1105,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-21T18:27:00+00:00",
       "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "56a0054dc60d246a",
-      "title": "Controle de armas e munições é pilar do combate ao crime organizado",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: controle de armas e munições é pilar do combate ao crime organizado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/controle-de-armas-e-municoes-e-pilar-do-combate-ao-crime-organizado.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T18:15:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "22287ae12e73ffc2",
-      "title": "Em 'Morro', Rodrigo García Saiz aborda a violência do narcotráfico com o silêncio",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: em 'Morro', Rodrigo García Saiz aborda a violência do narcotráfico com o silêncio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrada/2026/10/em-morro-rodrigo-garcia-saiz-aborda-a-violencia-do-narcotrafico-com-o-silencio.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T18:00:00+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1175,20 +1189,6 @@
       "source": "VEJA",
       "published_at": "2026-10-21T16:41:05+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a2c6cfba6556e330",
-      "title": "Especialistas da ONU cobram Meta por suspeita de tratamento desigual para Flávio Bolsonaro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: especialistas da ONU cobram Meta por suspeita de tratamento desigual para Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/onu-questiona-meta-por-suspeita-de-tratamento-desigual-para-flavio-bolsonaro.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T16:40:00+00:00",
-      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1420,6 +1420,20 @@
       "archive": false
     },
     {
+      "id": "40ca61af6c4658ee",
+      "title": "Quase 90% de conteúdos virais sobre saúde são falsos, diz Agência Lupa",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: quase 90% de conteúdos virais sobre saúde são falsos, diz Agência Lupa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/quase-90-de-conteudos-virais-sobre-saude-sao-falsos-diz-agencia-lupa",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-20T23:31:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "a324efb185985f0a",
       "title": "Cadu de Lula apresenta propostas para infraestrutura, segurança e saúde em sabatina da Band RN - Blog Antenado",
       "summary": "O veículo Blog Antenado publicou uma atualização sobre: cadu de Lula apresenta propostas para infraestrutura, segurança e saúde em sabatina da Band RN - Blog Antenado. Consulte a reportagem para contexto, dados e declarações.",
@@ -1504,48 +1518,6 @@
       "archive": false
     },
     {
-      "id": "70d192f67c8aa094",
-      "title": "Pé-de-Meia: pagamento da sétima parcela começa nesta segunda",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: pé-de-Meia: pagamento da sétima parcela começa nesta segunda. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/pe-de-meia-pagamento-da-setima-parcela-comeca-nesta-segunda",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-19T15:21:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b76ab99f023de4ac",
-      "title": "Termina neste domingo prazo escolher idioma da prova do Enem 2026",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: termina neste domingo prazo escolher idioma da prova do Enem 2026. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/termina-neste-domingo-prazo-escolher-idioma-da-prova-do-enem-2026",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-18T16:15:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "16a791c836b602cd",
-      "title": "Cotado a ministro, Sachsida já entregou pacote de 200 propostas econômicas a Flávio - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: cotado a ministro, Sachsida já entregou pacote de 200 propostas econômicas a Flávio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRW5VZk1wTG1WQXQyOFVrdUdEUjV3N1A0eldMMHRPRGMyUFVSWmtsWVdvcEhMa3VrdGxIRk5rT0kzMkZtVXp5MVBrcUYyRFJuakhmYzZHR1ZZZTVXSWh5aU10amxvVmVWblpXZWhEclVPVzZ4ZmxWM09lZ2RlSEt5NnZuRExTNlkwQnFZaGVfUnhtcTlUSFZWWmdDN19vckc3UGFqYUd4MGpGNFpEZ0ltcl9KNVZya1N4SWI1cGloaTk0bV85RTlBdWNORzhMYWZ5ZWQ5Tkhscko4dmdmVkHSAewBQVVfeXFMUGNrX1NtRzZub0hIckJjSWdYUkszRW96a3VnRFRZeWhtUUpILVc1NXM1cW5kLTRqMGNOYkp5bXl4cjZjMEZIZW5DSnR3R01mUWpKZXhRZUNXSnNFM2hWVE5uMjBUa2FBeU5iM3pxX3N4OGg3azlrN0t5R1dDa0REX3JRLVNhd0RrT0VLbFE5bVR1TUNJbHNmTVRjSWFlWC1tS3FSbnBmYUgyeDM3bkJkMmdEb25OMmo2NnRfSEdiU2F0MGtHLXd2RDg2NHhLV043ZUowdFRBX2V6NEtpVnpWaWJQU0tCY0hMNUhsOXI?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-18T12:00:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "58d916d5e881a581",
       "title": "A uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP",
       "summary": "O veículo G1 publicou uma atualização sobre: a uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP. Consulte a reportagem para contexto, dados e declarações.",
@@ -1563,7 +1535,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 37
+      "items": 38
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1571,11 +1543,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 51
+      "items": 53
     },
     "VEJA": {
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     "The New York Times": {
       "status": "ok",
@@ -1583,11 +1555,11 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 9
+      "items": 7
     },
     "Agência Brasil · Política": {
       "status": "ok",
-      "items": 6
+      "items": 7
     },
     "Agência Brasil · Economia": {
       "status": "ok",
@@ -1619,19 +1591,19 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 71
+      "items": 69
     },
     "Estadão": {
       "status": "ok",
-      "items": 48
+      "items": 37
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 46
+      "items": 51
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 64
+      "items": 62
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1639,11 +1611,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 26
+      "items": 27
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 28
+      "items": 27
     }
   },
   "notes": [
