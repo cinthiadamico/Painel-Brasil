@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:44:50.029697+00:00",
-  "last_success_at": "2026-10-22T03:44:50.029697+00:00",
+  "last_checked_at": "2026-10-22T03:45:43.860077+00:00",
+  "last_success_at": "2026-10-22T03:45:43.860077+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -1627,7 +1627,7 @@
     },
     "Metrópoles · Política": {
       "status": "ok",
-      "items": 93
+      "items": 95
     },
     "O Globo": {
       "status": "ok",
