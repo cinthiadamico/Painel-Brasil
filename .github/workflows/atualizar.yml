@@ -36,6 +36,8 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Atualizar manchetes RSS
         run: python scripts/update.py
+      - name: Importar edição histórica do Claude
+        run: python scripts/import_claude.py
       - name: Arquivar matérias por mês e dia
         run: python scripts/archive.py
       - name: Guardar histórico da coleta
