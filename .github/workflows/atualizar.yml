@@ -36,12 +36,14 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Atualizar manchetes RSS
         run: python scripts/update.py
+      - name: Arquivar matérias por mês e dia
+        run: python scripts/archive.py
       - name: Guardar histórico da coleta
         # Grava o estado publicado para que falhas futuras não apaguem dados recentes.
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/data/news.json
+          git add site/data/news.json site/arquivo
           if ! git diff --cached --quiet; then
             git commit -m "chore: atualizar Painel Brasil [skip ci]"
             git push
