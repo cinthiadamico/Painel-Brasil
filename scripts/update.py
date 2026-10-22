@@ -2,8 +2,8 @@
 """Atualiza o Painel Brasil com metadados públicos de feeds RSS/Atom.
 
 Sem LLM, sem republicar texto integral e sem alegar verificação de fatos.
-Falhas não removem notícias recentes já coletadas. O arquivo de 2026-10-16
-é substituído tão logo exista uma coleta válida.
+Falhas não removem notícias recentes já coletadas. O histórico permanente e escrito pelo script archive.py; a edicao atual
+mantem somente a janela movel dos ultimos 7 dias.
 """
 from __future__ import annotations
 
@@ -26,8 +26,8 @@ ROOT = Path(__file__).resolve().parents[1]
 DEST = ROOT / 'site' / 'data' / 'news.json'
 NOW = dt.datetime.now(dt.timezone.utc)
 UTC = dt.timezone.utc
-MAX_HOURS = 84
-ELECTION_HOURS = 168
+MAX_HOURS = 168
+ELECTION_HOURS = 168  # mesma janela semanal
 MAX_OUTPUT = 120
 USER_AGENT = 'PainelBrasilRSS/1.0 (+human-readable source links; public feed metadata)'
 CATEGORY_ORDER = ['Economia','Endividamento','Educação','Saúde','Segurança','Câmara e Senado','STF e Justiça','Governo federal','Política','Internacional']
