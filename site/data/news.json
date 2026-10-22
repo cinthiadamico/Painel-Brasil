@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:04:57.948819+00:00",
-  "last_success_at": "2026-10-22T03:04:57.948819+00:00",
+  "last_checked_at": "2026-10-22T03:06:13.973295+00:00",
+  "last_success_at": "2026-10-22T03:06:13.973295+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -1595,11 +1595,11 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 40
+      "items": 41
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 50
+      "items": 48
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1607,7 +1607,7 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 67
+      "items": 68
     },
     "Eleições · Lula": {
       "status": "ok",
