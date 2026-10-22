@@ -1,10 +1,136 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T00:54:49.790675+00:00",
-  "last_success_at": "2026-10-22T00:54:49.790675+00:00",
+  "last_checked_at": "2026-10-22T01:45:14.915678+00:00",
+  "last_success_at": "2026-10-22T01:45:14.915678+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "e8a69b2c88ac0bdc",
+      "title": "O impacto da batalha de sigilos entre Flávio e Lula no segundo turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: o impacto da batalha de sigilos entre Flávio e Lula no segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/o-impacto-da-batalha-de-sigilos-entre-flavio-e-lula-no-segundo-turno/",
+      "source": "VEJA",
+      "published_at": "2026-10-22T01:31:32+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d3fe17783fa63f45",
+      "title": "Criminosos invadem UFMG após tentativa de roubo de carro, e helicóptero da PM faz buscas",
+      "summary": "O veículo G1 publicou uma atualização sobre: criminosos invadem UFMG após tentativa de roubo de carro, e helicóptero da PM faz buscas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/21/criminosos-invadem-ufmg-apos-tentativa-de-roubo-de-carro-e-helicoptero-da-pm-faz-buscas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T01:31:03+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "acf622da77bc5dce",
+      "title": "Por que Flávio quer munição sem rastro",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: por que Flávio quer munição sem rastro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/10/por-que-flavio-quer-municao-sem-rastro.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T01:25:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3a166f29608893d5",
+      "title": "Campanha de Lula entra com ação no TSE para cassar chapa de Flávio",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: campanha de Lula entra com ação no TSE para cassar chapa de Flávio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/campanha-de-lula-entra-com-acao-no-tse-para-cassar-chapa-de-flavio",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-22T01:20:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "82b9ec034caa8107",
+      "title": "Governo Trump pede à Suprema Corte que libere construção de muro na fronteira com México",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo Trump pede à Suprema Corte que libere construção de muro na fronteira com México. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/governo-trump-pede-a-suprema-corte-que-libere-construcao-de-muro-na-fronteira-com-mexico.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T01:06:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c56b3d03c8313864",
+      "title": "Grupo de esquerda fará protesto em frente à Globo para exigir checagem em debate presidencial",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: grupo de esquerda fará protesto em frente à Globo para exigir checagem em debate presidencial. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/grupo-de-esquerda-fara-protesto-em-frente-a-globo-para-exigir-checagem-em-debate-presidencial.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T01:01:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "79d80c1619f24b85",
+      "title": "Eleições 2026: veja como foi o dia dos candidatos ao governo do TO no 2º turno nesta quarta-feira (21)",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: veja como foi o dia dos candidatos ao governo do TO no 2º turno nesta quarta-feira (21). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/21/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-to-no-2o-turno-nesta-quarta-feira-21.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T01:00:23+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0fe870a100ca701d",
+      "title": "Eleitor da extrema direita no Brasil é o 'igual-oposto' do europeu",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eleitor da extrema direita no Brasil é o 'igual-oposto' do europeu. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/eleitor-da-extrema-direita-no-brasil-e-o-igual-oposto-do-europeu.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "08d0afb695ac924b",
+      "title": "Flávio vai do populismo penal ao incentivo a maus policiais",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio vai do populismo penal ao incentivo a maus policiais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/flavio-vai-do-populismo-penal-ao-incentivo-a-maus-policiais.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "8963e608c453b979",
       "title": "Ato de estudantes de direita em SP tem clima de Carnaval, bebida no gargalo e ligação de Tarcísio",
@@ -77,124 +203,12 @@
     },
     {
       "id": "b56291b35370ac64",
-      "title": "Governo de MS recorre ao STJ para tentar barrar volta de Tiago Vargas à Polícia Civil",
-      "summary": "O veículo G1 publicou uma atualização sobre: governo de MS recorre ao STJ para tentar barrar volta de Tiago Vargas à Polícia Civil. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Governo de MS recorre ao STJ para tentar barrar volta de ex-vereador à Polícia Civil",
+      "summary": "O veículo G1 publicou uma atualização sobre: governo de MS recorre ao STJ para tentar barrar volta de ex-vereador à Polícia Civil. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/21/governo-de-ms-recorre-ao-stj-para-tentar-barrar-volta-de-tiago-vargas-a-policia-civil.ghtml",
       "source": "G1",
       "published_at": "2026-10-22T00:29:16+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2d5900ce6fd68294",
-      "title": "O principal sinal da penúltima pesquisa Quaest sobre a disputa Flávio x Lula antes do segundo turno",
-      "summary": "O veículo VEJA publicou uma atualização sobre: o principal sinal da penúltima pesquisa Quaest sobre a disputa Flávio x Lula antes do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/o-principal-sinal-da-penultima-pesquisa-quaest-sobre-a-disputa-flavio-x-lula-antes-do-segundo-turno/",
-      "source": "VEJA",
-      "published_at": "2026-10-22T00:23:25+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4e2a778882e0faaf",
-      "title": "Presidente Lula, candidato à reeleição pelo PT, tem agenda em Brasília e em Minas Gerais",
-      "summary": "O veículo G1 publicou uma atualização sobre: presidente Lula, candidato à reeleição pelo PT, tem agenda em Brasília e em Minas Gerais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/21/presidente-lula-candidato-a-reeleicao-pelo-pt-tem-agenda-em-brasilia-e-em-minas-gerais.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T00:21:58+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fedd0015a8d5a73f",
-      "title": "Campanha de Lula pede cassação da chapa de Flávio Bolsonaro em ação sobre atuação da Meta nas eleições",
-      "summary": "O veículo G1 publicou uma atualização sobre: campanha de Lula pede cassação da chapa de Flávio Bolsonaro em ação sobre atuação da Meta nas eleições. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/campanha-de-lula-pede-cassacao-da-chapa-de-flavio-bolsonaro-em-acao-sobre-atuacao-da-meta-nas-eleicoes.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T00:21:17+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "56b040eb0a80f17a",
-      "title": "Flávio Bolsonaro reúne apoiadores em ato em Fortaleza nesta quarta-feira (21)",
-      "summary": "O veículo G1 publicou uma atualização sobre: flávio Bolsonaro reúne apoiadores em ato em Fortaleza nesta quarta-feira (21). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/21/flavio-bolsonaro-reune-apoiadores-em-ato-em-fortaleza-nesta-quarta-feira-21.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T00:12:25+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5e15268a921b27cd",
-      "title": "Flávio Bolsonaro, candidato do PL à Presidência, faz campanha em São Paulo e no Ceará",
-      "summary": "O veículo G1 publicou uma atualização sobre: flávio Bolsonaro, candidato do PL à Presidência, faz campanha em São Paulo e no Ceará. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/21/flavio-bolsonaro-candidato-do-pl-a-presidencia-faz-campanha-em-sao-paulo-e-no-ceara.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T00:09:18+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "41af385a8a579afd",
-      "title": "Confira o dia de campanha dos candidatos ao governo do Acre nesta quarta (21)",
-      "summary": "O veículo G1 publicou uma atualização sobre: confira o dia de campanha dos candidatos ao governo do Acre nesta quarta (21). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/21/confira-o-dia-de-campanha-dos-candidatos-ao-governo-do-acre-nesta-quarta-21.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T00:07:30+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "09e15e630a1c92cd",
-      "title": "Governo confirma transporte gratuito no 2º turno após denúncia sobre frota menor de ônibus e falta de linhas intermunicipais no 1º",
-      "summary": "O veículo G1 publicou uma atualização sobre: governo confirma transporte gratuito no 2º turno após denúncia sobre frota menor de ônibus e falta de linhas intermunicipais no 1º. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/21/transporte-gratuito-2o-turno-eleicoes-2026-pernambuco.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T00:05:57+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dcf90d9bdcfe524f",
-      "title": "Tarcísio treinará Flávio Bolsonaro para debate na Globo em tática para diminuir papel de Marçal",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tarcísio treinará Flávio Bolsonaro para debate na Globo em tática para diminuir papel de Marçal. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-treinara-flavio-bolsonaro-para-debate-na-globo-em-tatica-para-diminuir-papel-de-marcal.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T00:04:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -450,6 +464,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1ad9e36ae75d52c7",
+      "title": "Governo federal chama de ‘descabido’ pedido do DF de aval para salvar BRB - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: governo federal chama de ‘descabido’ pedido do DF de aval para salvar BRB. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVDhVX0RQN0ZOS2hMTm1Bd1pPNXZUUFA2bXJqNy1hdnJlMHh0cDVqcjNtLVRfaUVfajNGdmlVdEJUcm5QandLdmc2bDRGcDR3U3dQNzUyQXFBYlRWZzk5S3JUcDlZclhiem9zbE4yZDNnUDJoWl9uazU1Yy1icktHQllCdHFXLXBKMm9MdUtaUnhMX2FIbVA4NW40V3ZMaURtMTVtRVFybzdZNkUwOVV0UFdUbE45WHhKRTFMQm4yb3dFN01ibXFGOGhn0gHYAUFVX3lxTFBZNG5HZDRRNHB0NE9PaVhCbS1kQ08xbTdIQzdFdWlzd1dkSnZvM0p0ODdiaGo3V1BTRFNYamQ0bDR5alJLdVFUS2VyOWVIRUJDTS03VnN1cDh6b0dJT1pjQVB6a3E3WHdVYWhYWGVrX2k2WjhQMkZYaWdyUmN5bnBYRHJOMnVEc2p4eG01NlpJT29VMjNyV0ZJME4wWnIzUjlrZHpWd2xTRk9aMVFNanN4OWlCeEFFTll1NEJBU1VQZEp5MmhVdjVjbUVCRUxFWExOelFvSmU0Mg?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-21T22:28:43+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -734,6 +762,20 @@
       "archive": false
     },
     {
+      "id": "ea5366705e75d20a",
+      "title": "Desenrola 3.0: Durigan diz que governo vai lançar edital para comprar dívidas na quinta",
+      "summary": "O veículo G1 publicou uma atualização sobre: desenrola 3.0: Durigan diz que governo vai lançar edital para comprar dívidas na quinta. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/desenrola-30-durigan-diz-que-governo-vai-lancar-edital-para-comprar-dividas-na-quinta.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T21:05:22+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "941f1c83c2b0332f",
       "title": "IPCA+ é realmente a melhor proteção contra a inflação?",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: iPCA+ é realmente a melhor proteção contra a inflação?. Consulte a reportagem para contexto, dados e declarações.",
@@ -772,6 +814,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "989e7fd2564a6d0f",
+      "title": "Carlos Alberto de Nóbrega aparece pela 1ª vez após cirurgia no coração; humorista recebeu visita de padre Antônio Maria no hospital - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: carlos Alberto de Nóbrega aparece pela 1ª vez após cirurgia no coração; humorista recebeu visita de padre Antônio Maria no hospital. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZE1UeU9oRHc5Y212eFJkMlo1SFFYdnhzQkVOWE9veDgwbmhBaE9ueEpsZXZCQVNmMmpwUXZza21odW4xYWt3MXo5WGUwWDNqdWgtNWMxMjNQOW56TzJXcEd4MzFLdmp1UUVFUVAtendzS0pLYzJTRVk5UWEtdS1YY1JPWU5wdlRzQUFkaHlhOC1QdHRhTU1rMEpneGM3cEEyTmtXMDhkZG1LTTZpXzNZVWV6aFB1MTZJY0pNVjF4T3g5ejJIZTE3cGJRTTN5WmRxNFcwdzJVT21YMHJRY196WU5NV0JvSVNPNHdONXQxSk1VenZ6RjFuanUxLUlidHVsaVRYeXNySmhjYmFaU3NHajJya0ZibjJf0gGnAkFVX3lxTE94VHFFcjNpNzdsbHFtWVJSTDBiWE9qNWM5OG1JeTd5TmtVSE9hemdqcXk3b2twY0FLOXJ2eHpVMWI4U2VUMF9QYmM0NXNqY09sMmlYcmR1clVQd3N2NGx6akZFN2k1Szk4WC04YWRvUUV1c2xRZXJRY0lISF9GNVJLdWt4Y1kwVFpLMjVJdndFSjhoVm5nczRkaHJQdUpzRmdMUkZhZDJwOVdUdVFmUkExcGZ1WHdIcjBaVldoSVpPdmdxVlpVZjBuRFpiamNFejBZSmI0YVZGU01XTTRqcnFMbVNnc2F5VEFid0FyVDhXTDdSVXlUbjRrVmxvRnpPNUV0RTdBU19Dd2F1a2EzS3FPXzIxc1NKeWstWWpDaFFNYWR1aG94UjQ?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-21T20:46:31+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -944,6 +1000,20 @@
       "archive": false
     },
     {
+      "id": "a09e6dfea2e4bbf6",
+      "title": "Secretaria de Educação do Paraná pede afastamento de direção de colégio cívico-militar que instalou câmera em banheiro feminino - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: secretaria de Educação do Paraná pede afastamento de direção de colégio cívico-militar que instalou câmera em banheiro feminino. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWEx0czJUVzBaQmNaelRkMG5wZHRGbHdOa2ltcXc0MWgwTUx3ZE8wdUdxZHk5S2xESmtSOUJlaUdtT3czR180RkFXVG1BNWdxb29JMXNEcW1BbWxmVGVldlVKb013eDdPU2VoOHdEcm1NYmIweW03MUswTWJFald4SFZLRW9tRkUxNmduLVZORVUwV0tNdGxPT2dEbXpBeDNxcjVhWjh1aGNIckF6eWdleFljRzJySGIyS2VvZGxrZVoxY2U3VkM3X2ZLTUFreXU3VHd6WHQxbDVETHlTeW1BaFgtVEtyVnBrVVlfSWtseUctLUVGMUREdlVQTFJXMnF2RmpMVTVaMV9VSFpvY21lS04zbDhpYkRZZjNr0gGqAkFVX3lxTFB3SDJYbVBUNGc1QmhFVUsyVUZTajRJblNhM0RCMEYtS0NmVUpWeU1ZeENSS3p5bEktS1dOQkZiMi1tS2dzbUl5ZHhmSEJUVWRJWGJqVkM4MU9aZGI0UVA1VzAyZDF3SEhDdW5aeFptdHhPWVU3dnVkZ19yLVRQT3p5c1RqcGpHS1FCT0JnX09EdkJHTF9xTVFFNkxEQ2U3UllYMjNwT0FnNFE5YVJfc0pxUVFYV2haUWNjeUZCQWREZThaTTc2NUhYRVFVeEhVYUhNYmJyeGxIeWRIN3N2WjZZMnpYWThINlBmY2hKWllTLWhabmlsa2tJMXhwMWtuS1dwZmh1Ri1CeWowZmxMT0Q3a1pyaGoycGJnUjhGb0w5ZThXa1lMLVlFRUE?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-21T19:50:07+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "0080d158069953f7",
       "title": "Projeto estende regras da Lei Maria da Penha para agressões praticadas por ex-namorados",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto estende regras da Lei Maria da Penha para agressões praticadas por ex-namorados. Consulte a reportagem para contexto, dados e declarações.",
@@ -986,20 +1056,6 @@
       "archive": false
     },
     {
-      "id": "ba21ade9de5f455c",
-      "title": "Juristas criticam minuta do TSE sobre canais de WhatsApp e alertam para mudança nas regras às vésperas da eleição - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: juristas criticam minuta do TSE sobre canais de WhatsApp e alertam para mudança nas regras às vésperas da eleição. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORklZd1RWNkd0blVpaFpjck9wbWFybjlNXzk4UlVSc3dMcFZJZXN5T1lfUlRpRzl2QnVnSmJva1IwQnd3cWdzVXpoR09Yc0dzelNrVm5OSlZQQlU3VTA4MnVzVjdfYmpqajJPTkM5LUV3VDNjQnZ1UzhzNExJMDMtT2FjT25mTTQ4V19aSVV6YkxPTUtCeDlqeUxmcTRjMVpaTUxSYm1hZkswZUtCbFRMakZ4eDQ5OGl2YW8zRlhkSkRCYVpiMFRIUm5XazN0cm1VajNhUlF0X3V4RW1XQXg5cDdxdWhFbUUyZnkzR0hDQmUxeERjTkhUTG40b0pVckRFLUJRWGVNelZJQlpRdnhWQlY3NlfSAaMCQVVfeXFMTUl5RTMtTWlndm9DZXQ3aEZzbUpUMHd3M19ZNjk4a3lDZTRlbHNja0lZUHBLVTJMUjc0U2JyQ1dGT1hLS2VmZlZLRUdHU1ZSTlk0RE9yR2Q5T3RiaXBpQWU3cXFkWjhUUlZMTWw0X0lUbVVoMi1zak1JZzVoeGtmM0xTTW83NGV6VHNnYkEzaVZjSmI3TXFXbV9vZkRFWTlheXp4RHRjQ04wX1RNeUNJZEloZEVjWmszd2RxZ203RFVMdEpwNGtwWE9sMWFWVUZhdGJGNHhvd2RnSmN5Z3hyTHEwT3FWV3hxMGJlRnBJejR6UlNybkI1N1ZXeEViT2t3VFZzTlBYM0pnMG5fY2t3X21sbXVra0dKRUJQLUFzX3N4djBZ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-21T19:42:29+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "bfbb2bdd26a4dbb4",
       "title": "Áudio: Santos Dumont é lembrado durante homenagem à Força Aérea Brasileira",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Santos Dumont é lembrado durante homenagem à Força Aérea Brasileira. Consulte a reportagem para contexto, dados e declarações.",
@@ -1014,6 +1070,20 @@
       "archive": false
     },
     {
+      "id": "0eadf361f8a6b691",
+      "title": "Justiça libera plano do GPA: dona do Pão de Açúcar inicia reestruturação de dívidas",
+      "summary": "O veículo G1 publicou uma atualização sobre: justiça libera plano do GPA: dona do Pão de Açúcar inicia reestruturação de dívidas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/21/justica-libera-plano-do-gpa-dona-do-pao-de-acucar-inicia-reestruturacao-de-dividas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-21T19:31:07+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "964a88d87379fcc2",
       "title": "Medida provisória abre crédito extra de R$ 300 milhões para combate a incêndios na Amazônia",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: medida provisória abre crédito extra de R$ 300 milhões para combate a incêndios na Amazônia. Consulte a reportagem para contexto, dados e declarações.",
@@ -1021,34 +1091,6 @@
       "source": "Agência Câmara",
       "published_at": "2026-10-21T19:24:00+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "60df4b158a8d07ff",
-      "title": "China amplia produção de baterias no exterior diante de barreiras comerciais",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: china amplia produção de baterias no exterior diante de barreiras comerciais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/china-amplia-producao-de-baterias-no-exterior-diante-de-barreiras-comerciais.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T19:05:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2d1542dbd321e964",
-      "title": "Mulher morre após cair de viaduto no RJ, e polícia investiga se briga de trânsito motivou a queda",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mulher morre após cair de viaduto no RJ, e polícia investiga se briga de trânsito motivou a queda. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mulher-morre-apos-cair-de-viaduto-no-rj-e-policia-investiga-se-briga-de-transito-motivou-a-queda.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T19:02:00+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1098,13 +1140,13 @@
       "archive": false
     },
     {
-      "id": "553362b03a31ff33",
-      "title": "Estudantes de direita e políticos fazem ato pró-Flávio em frente ao Insper em SP",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: estudantes de direita e políticos fazem ato pró-Flávio em frente ao Insper em SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/estudantes-de-direita-e-politicos-fazem-ato-pro-flavio-em-frente-ao-insper-em-sp.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T18:27:00+00:00",
-      "category": "Educação",
+      "id": "90a43536d8cf2215",
+      "title": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/negacionismo-impulsiona-sarampo-nos-eua-e-representa-ameaca-ao-brasil",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-21T18:40:00+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1132,20 +1174,6 @@
       "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/forca-nacional-do-sus-apoia-atendimentos-no-amazonas-apos-incendios",
       "source": "Agência Brasil",
       "published_at": "2026-10-21T17:41:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b496672cf8a5aeec",
-      "title": "Celulite facial, que levou à internação do presidente do Vasco, é diferente da estética e exige tratamento rápido",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: celulite facial, que levou à internação do presidente do Vasco, é diferente da estética e exige tratamento rápido. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/celulite-facial-que-levou-a-internacao-do-presidente-do-vasco-e-diferente-da-estetica-e-exige-tratamento-rapido.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T17:35:00+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
@@ -1234,6 +1262,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "838c7661173ca1b4",
+      "title": "Paris estende toque de recolher pela terceira noite após onda de violência na França - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: paris estende toque de recolher pela terceira noite após onda de violência na França. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDUtdlEyVEpQZkZocW5aUDBXT1lEMzFDTXJaZzBJcVBRa2UwMU5rSXVyR1g2YlVMdUhsYVdJZ0oyeVotbUdtUEVENUx5OTFpbm9KYkZIWXN0eTNpM3E4OVp5RmMwZXg5Y3B3OEJfS1pGalVkRkhEYkx5S2RVY25FTXNxQ2VoRk5DSzNWUEJkNEQ5b0JieHdQQVhBLU9qZGxFTno2WnBiQ0ZrLVJWbVM5Ty1wbmxUcGpO?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-21T15:47:41+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1350,20 +1392,6 @@
       "archive": false
     },
     {
-      "id": "ffce36c12eb7e64b",
-      "title": "Beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-3-0-recebem-bolsa-familia-de-outubro",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T10:28:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c1f3da5255a19cbe",
       "title": "UTIs no Brasil: médicos pedem estruturação que vá além de mais leitos",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: uTIs no Brasil: médicos pedem estruturação que vá além de mais leitos. Consulte a reportagem para contexto, dados e declarações.",
@@ -1371,20 +1399,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-21T10:03:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dd77d425e4940c11",
-      "title": "Mega-Sena não tem acertador e prêmio vai a R$ 200 milhões",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mega-Sena não tem acertador e prêmio vai a R$ 200 milhões. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/mega-sena-nao-tem-acertador-e-premio-vai-r-200-milhoes",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T01:36:00+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1535,7 +1549,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 38
+      "items": 36
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1543,11 +1557,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 53
+      "items": 51
     },
     "VEJA": {
       "status": "ok",
-      "items": 10
+      "items": 11
     },
     "The New York Times": {
       "status": "ok",
@@ -1591,7 +1605,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 69
+      "items": 71
     },
     "Estadão": {
       "status": "ok",
@@ -1599,23 +1613,23 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 51
+      "items": 49
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 62
+      "items": 63
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 66
+      "items": 64
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 27
+      "items": 28
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 27
+      "items": 29
     }
   },
   "notes": [
