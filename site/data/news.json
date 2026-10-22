@@ -1,10 +1,122 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T04:43:16.784258+00:00",
-  "last_success_at": "2026-10-22T04:43:16.784258+00:00",
+  "last_checked_at": "2026-10-22T05:42:11.465084+00:00",
+  "last_success_at": "2026-10-22T05:42:11.465084+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "31c8bea72db20ee3",
+      "title": "Meta é condenada a pagar US$ 25 bilhões por violação de dados nos EUA - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: meta é condenada a pagar US$ 25 bilhões por violação de dados nos EUA - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3NEZHVsbm9QZ2Qtd1JmQTYwX0JzckJ4ZUMyOVJHMVREb1EzUTBwVURzdVFxeXNEWTNKTzJZTlM0a3VzSTZjeVZ4T2ZyanpXaFBsQkxQaDFDWTFHamhyYkkwVUFJZUg5VTltNnhaMElBekJPR000eFdXZTNUYldIXzFsNXhzZ0NzQk1IY3RUQmotT3docmNJb05VS1dDVjRxbzVZ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T05:07:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8811567a51fffe8a",
+      "title": "Ciro Nogueira quer ser ministro de Flávio Bolsonaro - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: ciro Nogueira quer ser ministro de Flávio Bolsonaro - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2tVMklpcS1IbU5SelF3M1NEMDRWTnd2Y0NnM1B4cUpGXzVvSnNDUzJQZzIxSU1qdDZwQTQxTzdEdjRFUkJXMkNHXzlZczl4bi1rbjQ3b3MwZi0zRzZxWDJNaTVfRXVzb01uczEtdnRZSTZhQVhrbEpsN3BnWG5Db2N1aGl4ZV8wSTVYOTF1NDU1WVE?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T05:00:00+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8c00acc990da23f0",
+      "title": "Prefeita que nomeou a própria filha como chefe de gabinete foi secretária de Saúde na gestão do marido na Bahia",
+      "summary": "O veículo G1 publicou uma atualização sobre: prefeita que nomeou a própria filha como chefe de gabinete foi secretária de Saúde na gestão do marido na Bahia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/22/prefeita-de-cansancao-que-nomeou-a-propria-filha-como-chefe-de-gabinete-foi-secretaria-de-saude-na-gestao-do-marido.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T05:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9b5c8d0e2329546e",
+      "title": "Quaest no DF, 2º turno: veja intenção de voto para governador por sexo, raça, idade, religião e renda",
+      "summary": "O veículo G1 publicou uma atualização sobre: quaest no DF, 2º turno: veja intenção de voto para governador por sexo, raça, idade, religião e renda. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/quaest-no-df-2o-turno-veja-intencao-de-voto-para-governador-por-sexo-raca-idade-religiao-e-renda.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T05:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e864c92662040fb5",
+      "title": "Sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam",
+      "summary": "O veículo G1 publicou uma atualização sobre: sarampo: nenhum estado brasileiro atinge meta de vacinação e surtos em países vizinhos preocupam. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/saude/noticia/2026/10/22/sarampo-nenhum-estado-brasileiro-atinge-meta-de-vacinacao-e-surtos-em-paises-vizinhos-preocupam.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T05:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "29d8d677833e1ff3",
+      "title": "Quem paga a conta da corrupção? Entenda como os desvios afetam a economia e a população",
+      "summary": "O veículo G1 publicou uma atualização sobre: quem paga a conta da corrupção? Entenda como os desvios afetam a economia e a população. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/10/22/quem-paga-a-conta-da-corrupcao-entenda-como-os-desvios-afetam-a-economia-e-a-populacao.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T05:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "687742e09f6f1fc1",
+      "title": "Câncer de mama aos 32 anos levou mulher a descobrir doença rara no coração e hipótese para a morte súbita da mãe",
+      "summary": "O veículo G1 publicou uma atualização sobre: câncer de mama aos 32 anos levou mulher a descobrir doença rara no coração e hipótese para a morte súbita da mãe. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/saude/noticia/2026/10/22/cancer-de-mama-aos-32-anos-levou-mulher-a-descobrir-doenca-rara-no-coracao-e-hipotese-para-a-morte-subita-da-mae.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T05:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b5121f856066129b",
+      "title": "Ucrânia terá acesso a agência da Otan para comprar armas, diz jornal",
+      "summary": "O veículo G1 publicou uma atualização sobre: ucrânia terá acesso a agência da Otan para comprar armas, diz jornal. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/22/ucrania-tera-acesso-a-agencia-da-otan-para-comprar-armas-diz-jornal.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T04:59:40+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "ed14d0a356beaafa",
       "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
@@ -138,62 +250,6 @@
       "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/10/22/prefeitura-concede-reposicao-salarial-aos-servidores-no-mes-de-outubro.ghtml",
       "source": "G1",
       "published_at": "2026-10-22T03:01:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8adf0c4bd5a911ce",
-      "title": "Presidente da República: o que faz, quanto ganha e quais são os requisitos para ocupar o cargo?",
-      "summary": "O veículo G1 publicou uma atualização sobre: presidente da República: o que faz, quanto ganha e quais são os requisitos para ocupar o cargo?. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/presidente-da-republica-o-que-faz-quanto-ganha-e-quais-sao-os-requisitos-para-ocupar-o-cargo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T03:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4377bc5c0bcbc097",
-      "title": "Debate da Rede Amazônica com candidatos do 2º turno ao Governo do Amazonas acontece nesta quinta; veja regras e onde assistir",
-      "summary": "O veículo G1 publicou uma atualização sobre: debate da Rede Amazônica com candidatos do 2º turno ao Governo do Amazonas acontece nesta quinta; veja regras e onde assistir. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/22/debate-da-rede-amazonica-com-candidatos-do-2o-turno-ao-governo-do-amazonas-acontece-nesta-quinta-veja-regras-e-onde-assistir.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a5a4752fa9777a3a",
-      "title": "Globo entrevista Leandro Grass, candidato ao governo do DF, nesta quinta; veja como assistir",
-      "summary": "O veículo G1 publicou uma atualização sobre: globo entrevista Leandro Grass, candidato ao governo do DF, nesta quinta; veja como assistir. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/globo-entrevista-leandro-grass-candidato-ao-governo-do-df-nesta-quinta-veja-como-assistir.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d64978d0be07edeb",
-      "title": "Datafolha divulga nova pesquisa presidencial nesta quinta-feira (22)",
-      "summary": "O veículo G1 publicou uma atualização sobre: datafolha divulga nova pesquisa presidencial nesta quinta-feira (22). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-divulga-nova-pesquisa-presidencial-nesta-quinta-feira-22.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T03:00:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -706,20 +762,6 @@
       "archive": false
     },
     {
-      "id": "e1b78116dc1755ae",
-      "title": "Chefe de facção presa na Bolívia volta ao presídio de onde fugiu em MT",
-      "summary": "O veículo G1 publicou uma atualização sobre: chefe de facção presa na Bolívia volta ao presídio de onde fugiu em MT. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/21/chefe-de-faccao-volta-ao-presidio-de-onde-fugiu-e-deve-ficar-isolada-por-seis-meses-em-mt.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T22:31:48+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "1ad9e36ae75d52c7",
       "title": "Governo federal chama de ‘descabido’ pedido do DF de aval para salvar BRB - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: governo federal chama de ‘descabido’ pedido do DF de aval para salvar BRB. Consulte a reportagem para contexto, dados e declarações.",
@@ -758,20 +800,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "62cd83c5b253fbe1",
-      "title": "Tribunal de Contas do DF dá 5 dias para governo explicar envio de R$ 120 milhões da Saúde ao BRB - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: tribunal de Contas do DF dá 5 dias para governo explicar envio de R$ 120 milhões da Saúde ao BRB. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSjlpRGI2Z2JpeU1sRnZaUmNXUTNtUEduMko1WFgyZWRFQk5DU3M3NHl2TndUYjk3b3ZLQjRLOTUzQnJPQ1ZPNDhLSkhvaE1MTFlrNVN4VW5vZDhOdHZuMmZPbHFjRGJlUEUzUmp6VFA2QU1YTG1OU1pRRkFNbEJOVm9sWWZNN2dRNXpMM0YtOE42d1Rhd1ZHSzdxNFZlZ1RGYWlTVDlMTmU1eE5MREhjWTBSazdValVqVmJWd19jTk5vYWRBREtBRTFabllId3QzV1lqSThSLUszQVZSQmoyMmg0Um9jLUd1c0E3UTFzcjlJdjhVdjFn0gGGAkFVX3lxTE1jakxjR1U2dGt5U3VNMVN1bWpLTHRtWmVacjNHNV9kWEVWZG43RGdieldiRHNkRWo1OGdqeGNlRlRYRmxjUlEwZ2RvZWRuZ0xkLTVTeTNiYWk4S00zUVVDNDEweWY1aUxYUGhWdGlNc0tQYXkzVDcxRXlPRUhfQTlnMnV5RnhiQW04NHFkT2JYamhubnNmZUNWN2gzY2ptYl9kTDNLVm5NNUg0NkI4UHo4SnNzelhPU2Q5aXRzRERnS296RF9aeEZwQ2VZU1VFRmFmX2lTem5Kb2Q5ekx3cUh3cGtscUE2RHdfSzVZeDN1aDJCMXRjYjhIaTktT0NaOFpEaVZrQlE?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-21T22:16:27+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -898,20 +926,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "06a80d958ca455bc",
-      "title": "EUA retira funcionários da Arábia Saudita após ataques dos Houthis - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: eUA retira funcionários da Arábia Saudita após ataques dos Houthis - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczZYbkNweHBUalFWemRaem4tZzBXbnotUm50VTVmMkptT0d0TXU2UWNfYjJ5TG00SUZXc3VFVkFtclhmcW5HdFhfNWRJZ21teDI3ZUdxR0taOEY1RUNjM0lvU0RzWklZOWlEZEM5WVlBcmd0cFV2TklLV1JtTHZRcUlaNEhCd3lvdXozUENSdG13RGVvVld2eWU2SlhHc3Zs?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-21T21:36:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1052,20 +1066,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2d13890992bdcfce",
-      "title": "Milei lança plano de demissão voluntária para 21 mil servidores públicos - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: milei lança plano de demissão voluntária para 21 mil servidores públicos - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEhqLVVGUnBPUU9aRWRMNTJncU81QVp3RllMdklDU3FmR0R5aEkwVGl5bEdMdGk4Z1VOZmc1NlgzVnY3ckYtUDZRRVFURXd5Y0FQcTRaMUhQbnM2NTZXYS12UTZOTk9xTUtFNkFEYjRVYUpESURZN1NjMG4yQkxxMUpxeDZOeHpqNC1ydkpqMGZfbWFoLVFGbEZjMk9reFBWY2EzZw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-21T21:08:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1318,6 +1318,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "838c7661173ca1b4",
+      "title": "Paris estende toque de recolher pela terceira noite após onda de violência na França - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: paris estende toque de recolher pela terceira noite após onda de violência na França. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDUtdlEyVEpQZkZocW5aUDBXT1lEMzFDTXJaZzBJcVBRa2UwMU5rSXVyR1g2YlVMdUhsYVdJZ0oyeVotbUdtUEVENUx5OTFpbm9KYkZIWXN0eTNpM3E4OVp5RmMwZXg5Y3B3OEJfS1pGalVkRkhEYkx5S2RVY25FTXNxQ2VoRk5DSzNWUEJkNEQ5b0JieHdQQVhBLU9qZGxFTno2WnBiQ0ZrLVJWbVM5Ty1wbmxUcGpO?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-21T15:47:41+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1577,7 +1591,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 22
+      "items": 26
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1633,11 +1647,11 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 67
+      "items": 66
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 53
+      "items": 54
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1649,11 +1663,11 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 41
+      "items": 40
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 50
+      "items": 52
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1661,7 +1675,7 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 68
+      "items": 66
     },
     "Eleições · Lula": {
       "status": "ok",
