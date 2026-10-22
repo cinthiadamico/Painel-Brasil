@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:42:04.732651+00:00",
-  "last_success_at": "2026-10-22T03:42:04.732651+00:00",
+  "last_checked_at": "2026-10-22T03:44:50.029697+00:00",
+  "last_success_at": "2026-10-22T03:44:50.029697+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -1619,7 +1619,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 68
+      "items": 67
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1647,7 +1647,7 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 66
+      "items": 69
     },
     "Eleições · Lula": {
       "status": "ok",
@@ -1655,7 +1655,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 62
+      "items": 63
     }
   },
   "notes": [
