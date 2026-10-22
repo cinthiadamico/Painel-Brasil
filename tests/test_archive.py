@@ -49,7 +49,9 @@ class MonthlyArchiveTest(unittest.TestCase):
                         source=src, category=cat, published_at=ts,
                         url='https://exemplo.org/'+id,candidate=None,election_type=None)
         items=[item(str(i),'Outra fonte','Câmara e Senado') for i in range(40)]
-        items.append(item('metro','Metrópoles','Câmara e Senado'))
+        metro=item('metro','Metrópoles','Câmara e Senado')
+        metro['title']='Senado analisa emenda inédita sobre transportes coletivos'
+        items.append(metro)
         results=u.select_items(items)
         self.assertTrue(any(i['source']=='Metrópoles' for i in results))
         self.assertEqual(u.MAX_HOURS,168)
