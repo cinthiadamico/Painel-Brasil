@@ -52,6 +52,10 @@ SOURCES = [
     ('Agência Brasil · Internacional', 'https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml', 'Internacional', False),
     ('Agência Câmara', 'https://www.camara.leg.br/noticias/rss/ultimas-noticias', 'Câmara e Senado', False),
     ('Agência Senado', 'https://www12.senado.leg.br/noticias/rss.xml', 'Câmara e Senado', False),
+    # Metrópoles: feed indireto por domínio; cada item indica o agregador.
+    ('Metrópoles · Brasil', news_query('site:metropoles.com/brasil when:2d'), None, True),
+    ('Metrópoles · Mundo', news_query('site:metropoles.com/mundo when:2d'), 'Internacional', True),
+    ('Metrópoles · Política', news_query('site:metropoles.com "Lula" OR "Flávio Bolsonaro" when:2d'), None, True),
     ('O Globo', news_query('site:oglobo.globo.com OR site:oglobo.globo.com.br when:4d'), None, True),
     ('Estadão', news_query('site:estadao.com.br when:4d'), None, True),
     ('G1 · Busca alternativa', news_query('site:g1.globo.com when:4d'), None, True),
@@ -348,15 +352,33 @@ def select_items(items: list[dict]) -> list[dict]:
         for typ in ('Fala','Proposta','Apoiador','Articulação'):
             candidates=[x for x in elections if x['candidate']==cand and x['election_type']==typ]
             if candidates:selection.append(candidates[0])
-    others=[x for x in clean if x['category']!='Eleições']
-    counts={};providers={}
-    for x in sorted(others,key=lambda i:i['published_at'],reverse=True):
-        cat=x['category'];source=x['source']
-        if counts.get(cat,0)>=12 or providers.get(source,0)>=20:continue
-        selection.append(x);counts[cat]=counts.get(cat,0)+1;providers[source]=providers.get(source,0)+1
-        if len(selection)>=MAX_OUTPUT:break
-    return sorted(selection,key=lambda i:i['published_at'],reverse=True)
 
+    others=sorted([x for x in clean if x['category']!='Eleições'],
+                  key=lambda i:i['published_at'],reverse=True)
+    counts={};providers={};selected_ids={x['id'] for x in selection}
+    def add(x: dict) -> bool:
+        cat=x['category'];source=x['source']
+        if x['id'] in selected_ids or len(selection)>=MAX_OUTPUT:return False
+        if counts.get(cat,0)>=12 or providers.get(source,0)>=20:return False
+        selection.append(x);selected_ids.add(x['id'])
+        counts[cat]=counts.get(cat,0)+1;providers[source]=providers.get(source,0)+1
+        return True
+
+    # Reserva espaço para as notícias recentes do Metrópoles em suas editorias.
+    # Sem essa reserva, portais com RSS maiores ocupam todo o limite de cada
+    # categoria e as matérias do Metrópoles não chegam ao painel.
+    metro_counts={}
+    for x in others:
+        source=normalize(x.get('source',''))
+        if 'metropoles' not in source:continue
+        cat=x['category']
+        if metro_counts.get(cat,0)>=3:continue
+        if add(x):metro_counts[cat]=metro_counts.get(cat,0)+1
+        if sum(metro_counts.values())>=12:break
+    for x in others:
+        if len(selection)>=MAX_OUTPUT:break
+        add(x)
+    return sorted(selection,key=lambda i:i['published_at'],reverse=True)
 
 def run():
     try:old=json.loads(DEST.read_text(encoding='utf8'))
