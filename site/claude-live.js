@@ -58,23 +58,31 @@
     const tagRow = node('div','tag-row');
     const tag = node('span','tag',options.slot || item.category || 'Notícia');
     tag.style.background = `var(${options.candidate ? '--cand-'+options.candidate : options.color || '--accent'})`;
-    const time = node('span','time',dateOf(item.published_at));
+    const timeText=item.claude_imported
+      ? (item.time_label ? item.time_label+' · Claude' : 'Edição Claude · '+(item.edition_date||'data não informada'))
+      : dateOf(item.published_at);
+    const time = node('span','time',timeText);
     tagRow.append(tag,time);
     card.append(tagRow,node('h3','',item.title || 'Notícia sem título'));
     // Metadados RSS não permitem resumir integralmente a reportagem.
-    const desc = item.curated && item.summary && !item.archive
-      ? item.summary
-      : 'Manchete identificada em feed de notícias. Consulte a reportagem original para contexto, dados e declarações.';
+    const desc = item.claude_imported
+      ? (item.summary || 'Resumo não fornecido na edição do Claude.')
+      : (item.curated && item.summary && !item.archive
+        ? item.summary
+        : 'Manchete identificada em feed de notícias. Consulte a reportagem original para contexto, dados e declarações.');
     card.append(node('p','',desc));
     const src = node('div','src');
     const publisher = node('strong','',item.source || 'Fonte identificada pelo feed');
-    src.append(publisher,document.createTextNode(item.via_aggregator ? ' · via Google Notícias · ' : ' · '));
+    src.append(publisher,document.createTextNode(item.claude_imported
+      ? ' · importado do Claude, sem checagem independente · '
+      : item.via_aggregator ? ' · via Google Notícias · ' : ' · '));
     const url = safeUrl(item.url);
     if (url) {
       const a = node('a','',item.via_aggregator ? 'Abrir notícia no agregador ↗' : 'Ler na fonte ↗');
       a.href = url; a.target='_blank'; a.rel='noopener noreferrer'; src.append(a);
     } else src.append(node('span','','Link não disponível'));
     card.append(src);
+    if(item.claude_imported)card.classList.add('claude-imported-card');
     return card;
   }
   function missingCard(slot, candidate) {
@@ -158,7 +166,7 @@
   const status=HEADER.querySelector('.live-status');if(status)status.append(themeBtn);
   const nav=$('filters'); if (nav) nav.replaceWith(nav.cloneNode(false));
   const filters=$('filters');
-  let allItems=[],active='todas',lastPayload=null;
+  let allItems=[],claudeItems=[],claudeEdition='',active='todas',lastPayload=null;
   try {
     const requested=new URLSearchParams(location.search).get('aba');
     if(['todas','destaques','portais','metropoles','eleicoes','ruas','politica','governo','economia','divida','justica','camara','senado','intl','saude','edu','seg','arquivo'].includes(requested)) active=requested;
@@ -188,6 +196,47 @@
     filters.append(chip);
   });
 
+  const WEEK_MS=7*24*60*60*1000;
+  function isCurrentClaude(item) {
+    if(!item||!item.claude_imported||!safeUrl(item.url))return false;
+    const edition=Date.parse((item.edition_date||'')+'T12:00:00-03:00');
+    const published=Date.parse(item.published_at||'');
+    const when=Number.isFinite(published)?published:edition;
+    const now=Date.now();
+    return Number.isFinite(when)&&when<=now+4*60*60*1000&&now-when<=WEEK_MS;
+  }
+  function fromClaude(category,limit=4, candidate=null){
+    const picked=claudeItems.filter(item=>isCurrentClaude(item)
+      && (item.section_id===category || (category==='metropoles'&&normalizeSource(item.source).includes('metropoles')))
+      && (!candidate||item.candidate===candidate));
+    const recent=sortedRecent(picked.map(i=>({...i,sortDate:i.published_at||i.edition_date+'T12:00:00-03:00'})));
+    recent.sort((a,b)=>Date.parse(b.sortDate)-Date.parse(a.sortDate));
+    const already=new Set(allItems.map(x=>safeUrl(x.url)));
+    const distinct=[];const normalized=new Set();
+    for(const item of recent){
+      const link=safeUrl(item.url);
+      const key=link+'|'+item.section_id;
+      if(already.has(link)||normalized.has(key))continue;
+      distinct.push(item);normalized.add(key);
+      if(distinct.length>=limit)break;
+    }
+    return distinct;
+  }
+  function appendClaudeRecent(section,category,limit=4,candidate=null) {
+    const cards=fromClaude(category,limit,candidate);
+    if(!cards.length)return;
+    const block=node('div','claude-recent');
+    block.append(
+      node('h3','historical-subhead','Do painel Claude · edição '+claudeEdition),
+      node('p','small-note','Manchetes e resumos importados da edição do Claude; textos não verificados independentemente. Quando a data individual não consta, o cartão identifica a data da edição, não a de publicação.')
+    );
+    const grid=node('div','card-grid');
+    cards.forEach(item=>grid.append(createCard(item,{
+      category:category,color:'--accent',
+      ...(candidate?{candidate}: {})
+    })));
+    block.append(grid);section.append(block);
+  }
   function cardsGroup(items,color,cat='') {
     const grid=node('div','card-grid');
     if(!items.length) grid.append(node('p','empty-state','Nenhuma notícia recente encontrada para esta categoria nesta coleta.'));
@@ -264,6 +313,7 @@
     sec.append(cardsGroup(news,'--accent','metropoles'));
     const a=node('a','','Acessar Metrópoles ↗');a.href='https://www.metropoles.com/';a.target='_blank';a.rel='noopener noreferrer';
     sec.append(a);
+    appendClaudeRecent(sec,'metropoles',5);
     return sec;
   }
   function historicalIntro(count){
@@ -293,7 +343,9 @@
         const found=sortedRecent(items.filter(i=>i.candidate===id&&i.election_type===slot))[0];
         grid.append(found?createCard(found,{candidate:id,slot,category:'eleicoes'}):missingCard(slot,id));
       });
-      group.append(grid);sec.append(group);
+      group.append(grid);
+      appendClaudeRecent(group,'eleicoes',4,id);
+      sec.append(group);
     });
     return sec;
   }
@@ -302,6 +354,7 @@
     const recent=items.filter(i=>classification(i)==='ruas');
     sec.append(sectionTitle('Brasil nas ruas: apoio e oposição pelos estados','--cat-ruas',recent.length));
     sec.append(cardsGroup(recent,'--cat-ruas','ruas'));
+    appendClaudeRecent(sec,'ruas',4);
     return sec;
   }
   function highlights(items) {
@@ -319,6 +372,7 @@
       if(!picked.includes(i))picked.push(i);
     }
     sec.append(sectionTitle('Destaques dos últimos 7 dias','--accent',picked.length),cardsGroup(picked,'--accent','destaques'));
+    appendClaudeRecent(sec,'destaques',5);
     return sec;
   }
   function footer(payload,items) {
@@ -354,7 +408,7 @@
         : 'Coleta sem novidades confirmadas. Consulte a data da última coleta válida.';
       note.append(node('span','caution',message));
     }
-    note.append(node('span','historical-summary','Notícias anteriores: aba Arquivo mensal'));
+    note.append(node('span','historical-summary',claudeItems.length?'Edição Claude de '+claudeEdition+' integrada às editorias; arquivo completo em Arquivo mensal.':'Notícias anteriores: aba Arquivo mensal'));
     live.append(note,highlights(allItems),renderPortals(allItems,payload.source_health||{}),
       renderMetropoles(allItems,payload.source_health||{}),electionSection(allItems));
     CATEGORIES.forEach(([cat,name,color])=>{
@@ -362,7 +416,9 @@
       const list=allItems.filter(i=>classification(i)===cat).slice(0,15);
       const sec=node('section','cat');sec.dataset.cat=cat;
       sec.append(sectionTitle(name,color,list.length));
-      sec.append(cardsGroup(list,color,cat));live.append(sec);
+      sec.append(cardsGroup(list,color,cat));
+      appendClaudeRecent(sec,cat,5);
+      live.append(sec);
     });
     if(window.PainelBrasilArquivo){
       live.append(window.PainelBrasilArquivo.makeSection({
@@ -396,7 +452,30 @@
       }
     }
   }
-  displaySection('todas'); refresh();
+  async function refreshClaude() {
+    try {
+      const registry=await fetch('arquivo/claude-index.json?v='+Date.now(),{cache:'no-store'});
+      if(!registry.ok)throw Error('Índice Claude indisponível');
+      const index=await registry.json();
+      const latest=(index.editions||[])[0];
+      if(!latest||!/^\d{4}-\d{2}-\d{2}$/.test(latest.edition_date)
+          || !/^arquivo\/20\d{2}-\d{2}\/20\d{2}-\d{2}-\d{2}\/claude\.json$/.test(latest.path))
+        return;
+      const response=await fetch(latest.path+'?v='+Date.now(),{cache:'no-store'});
+      if(!response.ok)throw Error('Arquivo Claude indisponível');
+      const payload=await response.json();
+      if(!Array.isArray(payload.items)||payload.edition_date!==latest.edition_date)return;
+      const incoming=payload.items.filter(x=>x&&x.claude_imported&&x.edition_date===payload.edition_date);
+      if(claudeEdition===latest.edition_date&&incoming.length===claudeItems.length)return;
+      claudeItems=incoming;
+      claudeEdition=latest.edition_date.split('-').reverse().join('/');
+      if(lastPayload)render(lastPayload);
+    }catch(error){
+      // O RSS continua funcionando, mesmo se a importação manual não existir.
+    }
+  }
+  displaySection('todas'); refresh(); refreshClaude();
   setInterval(refresh,5*60*1000);
+  setInterval(refreshClaude,15*60*1000);
   document.addEventListener('visibilitychange',()=>{if(!document.hidden)refresh();});
 })();
