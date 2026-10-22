@@ -6,7 +6,7 @@
       "days": [
         {
           "date": "2026-10-22",
-          "count": 33,
+          "count": 57,
           "claude_count": 0,
           "claude_original": false,
           "path": "arquivo/2026-10/2026-10-22/materias.json",
@@ -14,7 +14,7 @@
         },
         {
           "date": "2026-10-21",
-          "count": 96,
+          "count": 98,
           "claude_count": 689,
           "claude_original": true,
           "path": "arquivo/2026-10/2026-10-21/materias.json",
@@ -34,6 +34,14 @@
           "claude_count": 0,
           "claude_original": false,
           "path": "arquivo/2026-10/2026-10-19/materias.json",
+          "claude_path": null
+        },
+        {
+          "date": "2026-10-18",
+          "count": 1,
+          "claude_count": 0,
+          "claude_original": false,
+          "path": "arquivo/2026-10/2026-10-18/materias.json",
           "claude_path": null
         },
         {
