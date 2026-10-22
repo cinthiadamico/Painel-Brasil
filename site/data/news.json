@@ -1,10 +1,52 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T02:43:34.710478+00:00",
-  "last_success_at": "2026-10-22T02:43:34.710478+00:00",
+  "last_checked_at": "2026-10-22T03:04:34.176491+00:00",
+  "last_success_at": "2026-10-22T03:04:34.176491+00:00",
   "coverage_window_hours": 84,
   "items": [
+    {
+      "id": "faa1ce2419be9316",
+      "title": "Mega-Sena pode pagar R$ 200 milhões nesta quinta-feira; g1 transmite ao vivo",
+      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena pode pagar R$ 200 milhões nesta quinta-feira; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/22/mega-sena-pode-pagar-r-200-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T03:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f340100f4e910e75",
+      "title": "Jornal vai ao TSE para impedir Meta de excluir conteúdo no Facebook e Instagram",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: jornal vai ao TSE para impedir Meta de excluir conteúdo no Facebook e Instagram. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/jornal-vai-ao-tse-para-impedir-meta-de-excluir-conteudo-no-facebook-e-instagram.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T02:53:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d996b955ed50c256",
+      "title": "PF encontra sala secreta para guardar dinheiro em hangar usado por amigo de Flávio Bolsonaro, diz jornal",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pF encontra sala secreta para guardar dinheiro em hangar usado por amigo de Flávio Bolsonaro, diz jornal. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/pf-encontra-sala-secreta-para-guardar-dinheiro-em-hangar-usado-por-amigo-de-flavio-bolsonaro-diz-jornal.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T02:53:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "8c805057ede0baa5",
       "title": "Eleições no AM: Omar Aziz promete hospital para idosos e Professora Maria do Carmo diz que vai deixar saúde acessível no interior",
@@ -236,20 +278,6 @@
       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-campanha-em-sao-paulo-lula-teve-ato-em-belo-horizonte",
       "source": "Agência Brasil",
       "published_at": "2026-10-22T01:45:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e8a69b2c88ac0bdc",
-      "title": "O impacto da batalha de sigilos entre Flávio e Lula no segundo turno",
-      "summary": "O veículo VEJA publicou uma atualização sobre: o impacto da batalha de sigilos entre Flávio e Lula no segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/o-impacto-da-batalha-de-sigilos-entre-flavio-e-lula-no-segundo-turno/",
-      "source": "VEJA",
-      "published_at": "2026-10-22T01:31:32+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -636,34 +664,6 @@
       "archive": false
     },
     {
-      "id": "0d7a28aef7ec1d97",
-      "title": "Governo pode comprar até R$ 90 bi em dívidas da população para o Desenrola 3.0 em novembro, diz ministro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo pode comprar até R$ 90 bi em dívidas da população para o Desenrola 3.0 em novembro, diz ministro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-pode-comprar-ate-r-90-bi-em-dividas-da-populacao-para-o-desenrola-30-em-novembro-diz-ministro.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T22:01:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2eb0680892ad7585",
-      "title": "Promotoria no Paraná abre apuração sobre câmera em banheiro de escola; gestores são afastados",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: promotoria no Paraná abre apuração sobre câmera em banheiro de escola; gestores são afastados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/promotoria-no-pr-abre-apuracao-sobre-camera-em-banheiro-de-escola-gestores-sao-afastados.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T22:00:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "00ea7e1e17e0e7cf",
       "title": "Polícia Ambiental apreende itens de pesca proibidos e adverte pescadores durante pré-piracema no interior de SP",
       "summary": "O veículo G1 publicou uma atualização sobre: polícia Ambiental apreende itens de pesca proibidos e adverte pescadores durante pré-piracema no interior de SP. Consulte a reportagem para contexto, dados e declarações.",
@@ -1000,20 +1000,6 @@
       "archive": false
     },
     {
-      "id": "a09e6dfea2e4bbf6",
-      "title": "Secretaria de Educação do Paraná pede afastamento de direção de colégio cívico-militar que instalou câmera em banheiro feminino - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: secretaria de Educação do Paraná pede afastamento de direção de colégio cívico-militar que instalou câmera em banheiro feminino. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWEx0czJUVzBaQmNaelRkMG5wZHRGbHdOa2ltcXc0MWgwTUx3ZE8wdUdxZHk5S2xESmtSOUJlaUdtT3czR180RkFXVG1BNWdxb29JMXNEcW1BbWxmVGVldlVKb013eDdPU2VoOHdEcm1NYmIweW03MUswTWJFald4SFZLRW9tRkUxNmduLVZORVUwV0tNdGxPT2dEbXpBeDNxcjVhWjh1aGNIckF6eWdleFljRzJySGIyS2VvZGxrZVoxY2U3VkM3X2ZLTUFreXU3VHd6WHQxbDVETHlTeW1BaFgtVEtyVnBrVVlfSWtseUctLUVGMUREdlVQTFJXMnF2RmpMVTVaMV9VSFpvY21lS04zbDhpYkRZZjNr0gGqAkFVX3lxTFB3SDJYbVBUNGc1QmhFVUsyVUZTajRJblNhM0RCMEYtS0NmVUpWeU1ZeENSS3p5bEktS1dOQkZiMi1tS2dzbUl5ZHhmSEJUVWRJWGJqVkM4MU9aZGI0UVA1VzAyZDF3SEhDdW5aeFptdHhPWVU3dnVkZ19yLVRQT3p5c1RqcGpHS1FCT0JnX09EdkJHTF9xTVFFNkxEQ2U3UllYMjNwT0FnNFE5YVJfc0pxUVFYV2haUWNjeUZCQWREZThaTTc2NUhYRVFVeEhVYUhNYmJyeGxIeWRIN3N2WjZZMnpYWThINlBmY2hKWllTLWhabmlsa2tJMXhwMWtuS1dwZmh1Ri1CeWowZmxMT0Q3a1pyaGoycGJnUjhGb0w5ZThXa1lMLVlFRUE?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-21T19:50:07+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "0080d158069953f7",
       "title": "Projeto estende regras da Lei Maria da Penha para agressões praticadas por ex-namorados",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto estende regras da Lei Maria da Penha para agressões praticadas por ex-namorados. Consulte a reportagem para contexto, dados e declarações.",
@@ -1035,20 +1021,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-21T19:47:00+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a1641eead9eaa835",
-      "title": "Justiça torna réus 12 denunciados por queda de avião da Voepass",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: justiça torna réus 12 denunciados por queda de avião da Voepass. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-torna-reus-12-denunciados-por-queda-de-aviao-da-voepass",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T19:47:00+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1434,20 +1406,6 @@
       "archive": false
     },
     {
-      "id": "8d7dd651f9f4ffe5",
-      "title": "Dólar cai para R$ 5,01 com exterior e expectativa eleitoral no Brasil",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: dólar cai para R$ 5,01 com exterior e expectativa eleitoral no Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-cai-para-r-501-com-exterior-e-expectativa-eleitoral-no-brasil",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-20T22:34:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a324efb185985f0a",
       "title": "Cadu de Lula apresenta propostas para infraestrutura, segurança e saúde em sabatina da Band RN - Blog Antenado",
       "summary": "O veículo Blog Antenado publicou uma atualização sobre: cadu de Lula apresenta propostas para infraestrutura, segurança e saúde em sabatina da Band RN - Blog Antenado. Consulte a reportagem para contexto, dados e declarações.",
@@ -1518,6 +1476,34 @@
       "archive": false
     },
     {
+      "id": "49e0d938508412a5",
+      "title": "Provas de português para estrangeiros começam nesta terça-feira",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: provas de português para estrangeiros começam nesta terça-feira. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/provas-de-portugues-para-estrangeiros-comecam-nesta-terca-feira",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-19T16:24:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "70d192f67c8aa094",
+      "title": "Pé-de-Meia: pagamento da sétima parcela começa nesta segunda",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: pé-de-Meia: pagamento da sétima parcela começa nesta segunda. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/pe-de-meia-pagamento-da-setima-parcela-comeca-nesta-segunda",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-19T15:21:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "58d916d5e881a581",
       "title": "A uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP",
       "summary": "O veículo G1 publicou uma atualização sobre: a uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP. Consulte a reportagem para contexto, dados e declarações.",
@@ -1539,11 +1525,11 @@
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 81
+      "items": 82
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 51
+      "items": 50
     },
     "VEJA": {
       "status": "ok",
@@ -1591,15 +1577,15 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 71
+      "items": 70
     },
     "Estadão": {
       "status": "ok",
-      "items": 37
+      "items": 38
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 47
+      "items": 48
     },
     "Folha · Busca alternativa": {
       "status": "ok",
