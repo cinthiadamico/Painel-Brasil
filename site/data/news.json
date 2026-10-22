@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:04:34.176491+00:00",
-  "last_success_at": "2026-10-22T03:04:34.176491+00:00",
-  "coverage_window_hours": 84,
+  "last_checked_at": "2026-10-22T03:04:57.948819+00:00",
+  "last_success_at": "2026-10-22T03:04:57.948819+00:00",
+  "coverage_window_hours": 168,
   "items": [
     {
       "id": "faa1ce2419be9316",
@@ -1516,6 +1516,20 @@
       "via_aggregator": false,
       "curated": false,
       "archive": false
+    },
+    {
+      "id": "2fbbd3b0c070424c",
+      "title": "Lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande Bahia",
+      "summary": "O veículo Jornal Grande Bahia publicou uma atualização sobre: lula busca votos entre evangélicos e defende fim da escala 6×1; Flávio Bolsonaro recebe apoio no RS e apresenta propostas para a educação - Jornal Grande B. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQYzlGRExua2NkQ3ZRb2laRGh2VWtYajVwTldWMWxWX0g1NW9BLVhicWx5UU1teEJuZlpnS3U3ZmcyMHVSZVMwa3VySjRxc003Skp3Y1pPQVM2V09vWkFjNmxUcm11bkJPdWREeklBVVVhWmFFVTF3blNRTjZfX05iYm9ZUjN6cUtZTTNvbFlhb3BIaTBfZWNzeUh1bHlIc21xLXFnaGFtX19CMEpiaF9MSXpaRG1TRnlkNUlidVdtMW43dWhfUS1oVUdjYWhLVEVIUnhhc01yVGJhWUpGZTZKRmhTRlhaR0F2Q2t1Y1o3ZlR4ZmYtbmdLYWg2eVFFa3RiRnNrdVdlcEd2UQ?oc=5",
+      "source": "Jornal Grande Bahia",
+      "published_at": "2026-10-15T19:30:10+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
     }
   ],
   "source_health": {
@@ -1525,7 +1539,7 @@
     },
     "G1 · Economia": {
       "status": "ok",
-      "items": 82
+      "items": 96
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1553,7 +1567,7 @@
     },
     "Agência Brasil · Educação": {
       "status": "ok",
-      "items": 5
+      "items": 10
     },
     "Agência Brasil · Saúde": {
       "status": "ok",
@@ -1565,7 +1579,7 @@
     },
     "Agência Brasil · Internacional": {
       "status": "ok",
-      "items": 5
+      "items": 8
     },
     "Agência Câmara": {
       "status": "ok",
@@ -1581,11 +1595,11 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 38
+      "items": 40
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 50
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1593,15 +1607,15 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 62
+      "items": 67
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 28
+      "items": 64
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 28
+      "items": 63
     }
   },
   "notes": [
