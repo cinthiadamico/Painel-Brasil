@@ -1,10 +1,38 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:26:06.645510+00:00",
-  "last_success_at": "2026-10-22T03:26:06.645510+00:00",
+  "last_checked_at": "2026-10-22T03:42:04.732651+00:00",
+  "last_success_at": "2026-10-22T03:42:04.732651+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "e170165a0dff2dee",
+      "title": "Segurança, economia, saúde; veja propostas de Flávio Bolsonaro e de Lula para governo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: segurança, economia, saúde; veja propostas de Flávio Bolsonaro e de Lula para governo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/seguranca-economia-saude-veja-propostas-de-flavio-bolsonaro-e-de-lula-para-governo.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T03:36:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "334556c2bd708c05",
+      "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-22T03:26:58+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "ff6e6f4cd0c39db1",
       "title": "Flávio Bolsonaro pede apoio a público LGBTQIA+ em ato no CE e diz que 'serão sempre bem-vindos'",
@@ -622,6 +650,20 @@
       "archive": false
     },
     {
+      "id": "967d5c25e47b40a0",
+      "title": "Senado peruano dá a Keiko Fujimori poder para promulgar leis contra o crime organizado sem passar pelo Congresso - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: senado peruano dá a Keiko Fujimori poder para promulgar leis contra o crime organizado sem passar pelo Congresso. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeVBXU0gwdW5feU1EdzBxV2s1bkxMdWtUaXFEemE5VzNFNkl4QUxYbl92UVNXMk1OdjR1NTBncFpQZ3dCU2UwSS1kTWZCN0RmNmNPX1hyRV91dWs3Q0hmWHE1eDlFend2aWg3V05KdEJ3aGFYR0lka3U0ckFZOHlRdU96aUhSaTJsMXE4TEJSVmZsbGtkcHM2eTVGQ01jT19OU3V0RE9PbFo0aEtZN3c5akJ6bF9TVEtxT3RXOFF0NkRJallIT1ZTa05iMmNkVGd0eTN6cVdTaG5ZSnRUb2VDd09icG9OMDJNWkY1dUFRcVdXTjFnbHlqU2VmMFDSAYsCQVVfeXFMUDVZS0ZiTFp1QVNBWnczWEppZzg2OVI0M3U1SVJ5cE5MS0l6TDYzWVBGejN0S3hpcVI5T0VfdzRST0dfSGVSWDZzMU9PVk51dmNaQkJXd21jLVlGY2ZtbW5hT1VpcnhZXzdDQnBzbURHZ3ZzNS1oTDFaZF9VMzg2TWgyVU1kQ08tVjB0M2V6NlFkU3NMSy1HUFdtbUhnRkhQX3l2dmQ5QlprYUJrMXpJOFBELWotSXFRQ3V4NERCN3Z6R0FSNGVRNGJLcXJna3ZJWlVFeFdYb0RqNG1UWXVtM1VpVVBrLUh5SlpVeVFnUUtTUXpKZ0RnSWhOWWRybk5sT0RTUWY5MmNZX0w0?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-21T22:42:46+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "d5053c67fcb4f19e",
       "title": "El Salvador anuncia operação militar contra gangues no Haiti - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: el Salvador anuncia operação militar contra gangues no Haiti - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -1084,34 +1126,6 @@
       "archive": false
     },
     {
-      "id": "8fbe58c537e2616f",
-      "title": "Alckmin e ex-ministro de Bolsonaro reforçam apelo de Lula na TV a eleitores de direita",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: alckmin e ex-ministro de Bolsonaro reforçam apelo de Lula na TV a eleitores de direita. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alckmin-e-santos-cruz-reforcam-apelo-de-lula-na-tv-a-eleitores-de-direita.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-21T20:30:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d40203b16f0d2533",
-      "title": "‘Talvez agora estejamos mais perto do que nunca’, diz Trump sobre fim da guerra na Ucrânia - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: ‘Talvez agora estejamos mais perto do que nunca’, diz Trump sobre fim da guerra na Ucrânia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkZMTFVBQTlhSGhZYm1VWmFkUkZLcmM3Z09zdy1lYkNvLUVfeDViXzRmeTZuX2JERGpjV1NBb2RNdTkwczk0Q0I2Y3lnbl9tZXhwbHJJSEo5ZFEtNlhMTFVVSTBZNzlhT3VZTy1yUk5JMnZBaF9XRGRtcnRIVGxxeFBxOUg0ODFPV2hSUHM2NXg2SDk2T1JKMWxYNllPX3BRRmcyOEx3TXZxdWFjdXJiQWZMS3RDM3c3bVpzM1JtMVMxWnNZRU1IemxtT3hhd9IB0wFBVV95cUxPc3AtMmVPWVhTaUZCYzlFVzNlY3NJWGFVTXNuOWhKc3p0VVhvaDJpNUliam05TXhQWmIzRlFobUtfbzBqYlFfcExuX0d1Vk9qR2ZJeV9qNWJXRWhJeEFuX28yZ28wSHBZYXUtajhSOWtVYXMwUk8wMEMyYXE0YldnZWhzZWpiSEM1cDhkNXZZbWxuWVRVdDVxWV81YVJvajVvcHdxNWNITjctRlFXZmdzWXNwYXZRWm9aMFRLWkdvQ00yVERGcVFHb1ctSzQtX1FrYkxJ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-21T20:25:09+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "8dc91d3468e937d5",
       "title": "Projeto estabelece regras de saúde e ergonomia para trabalhadores do setor têxtil",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto estabelece regras de saúde e ergonomia para trabalhadores do setor têxtil. Consulte a reportagem para contexto, dados e declarações.",
@@ -1119,20 +1133,6 @@
       "source": "Agência Câmara",
       "published_at": "2026-10-21T20:19:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fe7624ae9712a028",
-      "title": "Áudio: Projeto reduz dívida do Fies para médicos em áreas carentes",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Projeto reduz dívida do Fies para médicos em áreas carentes. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-reduz-divida-do-fies-para-medicos-em-areas-carentes",
-      "source": "Senado Federal",
-      "published_at": "2026-10-21T19:53:02+00:00",
-      "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1332,20 +1332,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1a319d2941583f0b",
-      "title": "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/quedas-mais-de-330-mil-criancas-foram-internadas-no-brasil-em-10-anos",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T15:36:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1641,11 +1627,11 @@
     },
     "Metrópoles · Política": {
       "status": "ok",
-      "items": 92
+      "items": 93
     },
     "O Globo": {
       "status": "ok",
-      "items": 70
+      "items": 71
     },
     "Estadão": {
       "status": "ok",
@@ -1653,15 +1639,15 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 47
+      "items": 49
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 65
+      "items": 64
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 69
+      "items": 66
     },
     "Eleições · Lula": {
       "status": "ok",
