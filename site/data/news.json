@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:13:12.444216+00:00",
-  "last_success_at": "2026-10-22T03:13:12.444216+00:00",
+  "last_checked_at": "2026-10-22T03:15:00.567844+00:00",
+  "last_success_at": "2026-10-22T03:15:00.567844+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -55,6 +55,20 @@
       "source": "G1",
       "published_at": "2026-10-22T03:00:01+00:00",
       "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "faa1ce2419be9316",
+      "title": "Mega-Sena pode pagar R$ 200 milhões nesta quinta-feira; g1 transmite ao vivo",
+      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena pode pagar R$ 200 milhões nesta quinta-feira; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/22/mega-sena-pode-pagar-r-200-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T03:00:00+00:00",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -125,20 +139,6 @@
       "source": "G1",
       "published_at": "2026-10-22T03:00:00+00:00",
       "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "faa1ce2419be9316",
-      "title": "Mega-Sena pode pagar R$ 200 milhões nesta quinta-feira; g1 transmite ao vivo",
-      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena pode pagar R$ 200 milhões nesta quinta-feira; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/22/mega-sena-pode-pagar-r-200-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T03:00:00+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1577,7 +1577,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 39
+      "items": 37
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1641,7 +1641,7 @@
     },
     "Metrópoles · Política": {
       "status": "ok",
-      "items": 95
+      "items": 92
     },
     "O Globo": {
       "status": "ok",
@@ -1649,23 +1649,23 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 42
+      "items": 47
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 49
+      "items": 48
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 65
+      "items": 66
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 68
+      "items": 69
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 65
+      "items": 64
     },
     "Eleições · Flávio": {
       "status": "ok",
