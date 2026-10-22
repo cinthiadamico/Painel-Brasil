@@ -49,3 +49,21 @@
 .historical-context-note>.historical-badge{margin:0 0 7px}
 .offline-notice{border-left:3px solid var(--cat-seg);padding:10px 13px;background:var(--surface);font-size:.86rem}
 .live-content section.cat[hidden]{display:none !important}
+
+
+/* Pastas mensais e subpastas diarias para noticias anteriores */
+.archive-section{padding-top:10px}
+.archive-month-list{display:grid;gap:10px;margin:16px 0 22px}
+.archive-month{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 14px}
+.archive-month summary{font-family:var(--font-display);font-size:1.08rem;font-weight:600;cursor:pointer}
+.archive-days{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 5px}
+.archive-day{font-family:var(--font-body);font-size:.78rem;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);padding:9px 12px;cursor:pointer}
+.archive-day:hover,.archive-day[aria-pressed="true"]{border-color:var(--accent);background:var(--accent);color:var(--accent-ink)}
+.archive-viewer{padding:13px 0 22px}
+.archive-title{font-family:var(--font-display);font-size:1.4rem;line-height:1.2;margin:15px 0 8px}
+.archive-group-title{font-family:var(--font-display);font-size:1.08rem;color:var(--ink);margin:24px 0 12px}
+.archive-claude{border-top:1px solid var(--line);margin-top:30px;padding-top:20px}
+.archive-claude .historical-card{margin-bottom:0}
+.archive-loading,.archive-error{font-size:.86rem;color:var(--ink-dim)}
+.archive-error{color:var(--cat-justica)}
+.portal-feed-status{font-size:.75rem;color:var(--ink-dim);font-family:var(--font-mono)}
