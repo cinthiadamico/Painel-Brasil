@@ -1,10 +1,206 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T09:47:09.035322+00:00",
-  "last_success_at": "2026-10-22T09:47:09.035322+00:00",
+  "last_checked_at": "2026-10-22T10:43:50.440798+00:00",
+  "last_success_at": "2026-10-22T10:43:50.440798+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "92111df8be7d2e9b",
+      "title": "A nova pesquisa PoderData sobre a disputa Flávio x Lula a três dias do segundo turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a nova pesquisa PoderData sobre a disputa Flávio x Lula a três dias do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-nova-pesquisa-poderdata-sobre-a-disputa-flavio-x-lula-a-tres-dias-do-segundo-turno/",
+      "source": "VEJA",
+      "published_at": "2026-10-22T10:35:25+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "954f7369464e82a2",
+      "title": "Candidatos a governos estaduais fazem último debate antes do segundo turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: candidatos a governos estaduais fazem último debate antes do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/candidatos-a-governos-estaduais-fazem-ultimo-debate-antes-do-segundo-turno/",
+      "source": "VEJA",
+      "published_at": "2026-10-22T10:30:53+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a1ef30e8d3a93adb",
+      "title": "Papa não precisará de mais tratamento contra o câncer, dizem médicos",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: papa não precisará de mais tratamento contra o câncer, dizem médicos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/papa-nao-precisara-de-mais-tratamento-contra-o-cancer-dizem-medicos",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-22T10:28:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7c7fb1e8f85e4c85",
+      "title": "Polícia investiga procedimentos irregulares em clínica de Nova Iguaçu; estabelecimento prometia 'bumbum de ouro'",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia investiga procedimentos irregulares em clínica de Nova Iguaçu; estabelecimento prometia 'bumbum de ouro'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/22/clinica-de-estetica-e-alvo-de-operacao-em-nova-iguacu.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T10:17:23+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "947d32027b600ec3",
+      "title": "Doze pesquisadores da UFG estão entre os 2% dos mais influentes do mundo, segundo Universidade de Stanford",
+      "summary": "O veículo G1 publicou uma atualização sobre: doze pesquisadores da UFG estão entre os 2% dos mais influentes do mundo, segundo Universidade de Stanford. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/10/22/pesquisadores-da-ufg-estao-entre-os-2percent-dos-mais-influentes-do-mundo-segundo-universidade-de-stanford.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T10:16:45+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f5b54bd4931ea252",
+      "title": "Contrato de R$ 480 mil feito sem licitação entre escritório de advocacia e Prefeitura de Aparecida deve ser suspenso, determina Justiça",
+      "summary": "O veículo G1 publicou uma atualização sobre: contrato de R$ 480 mil feito sem licitação entre escritório de advocacia e Prefeitura de Aparecida deve ser suspenso, determina Justiça. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/10/22/contrato-de-r-480-mil-feito-sem-licitacao-entre-escritorio-de-advocacia-e-prefeitura-de-aparecida-deve-ser-suspenso-determina-justica.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T10:13:11+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5836740f2c54bc15",
+      "title": "“Desafio dos sigilos” agita campanhas de Lula e Flávio a 3 dias do 2º turno - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: “Desafio dos sigilos” agita campanhas de Lula e Flávio a 3 dias do 2º turno - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGFkQWxQNk00Y1Z1RlpZc0RTalRJd3Rza0tybmYzWWdSRTdaeDFlQVNxcFhCVjdxVnVQdTEyMnBmcUJRZFVLWDRfa1VVRHhKSi1MWV8wUHEwUlloZHI0N182N3ZmZHlwZC1sc3Q0SFppNUQzMFZ5QV8wcWRFcUxxRjc3MTY0OEU5UVhxZ0dwUnNkaFNnUWJteDJBTXZSdmlMSHVRYjVvcWVxSlU?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T10:13:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a2ebf554ba6b9877",
+      "title": "Prefeitura de Passos anuncia pacote de cortes após queda na arrecadação e prevê economia de R$ 20 mi por ano",
+      "summary": "O veículo G1 publicou uma atualização sobre: prefeitura de Passos anuncia pacote de cortes após queda na arrecadação e prevê economia de R$ 20 mi por ano. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/22/prefeitura-de-passos-anuncia-pacote-de-cortes-apos-queda-na-arrecadacao-e-preve-economia-de-r-20-mi-por-ano.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T10:08:15+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bb9369752d54554f",
+      "title": "Google rejeitou trocar Oceano Atlântico para Oceano das Américas, diz Trump - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: google rejeitou trocar Oceano Atlântico para Oceano das Américas, diz Trump - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWJ1dU05T21WUkgxWDNEeHlXUUM1ZElVQkxnUjUwZHUtSTdwak1ROFhxUG9ROENFU2xaMmxaeWRkQ0s0QnQ4QV85cFc1a1lIOGk2bXVLTmFVd2JrVk1DYkY4SmN1OFM4WWxzUWtMbkE1WmVENTNWRDM3VW5UWFlkM3ZqQ1MxeTVUdWxJSjV6QzNqSVFrOWZZZkJDQ3pfM3NTcUtaLVlveEl4U00?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T10:06:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cf49c1dd9e6913dd",
+      "title": "Os três motivos que fizeram campanha de Flávio Bolsonaro se distanciar de Pablo Marçal - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: os três motivos que fizeram campanha de Flávio Bolsonaro se distanciar de Pablo Marçal. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbkk5OHBSdWhJOWpYak5oNi1pcHhPZ25LTTFfT1AxTzRON2RsZ1dMTngxV2RDcjAtSG1lWVd4MFl2NHVKZVBpQmpQbDVraE4xSTdxdkpOX1ZPOWEyc05QTXdGT2tXd09NNWpVT3pCMzhmem5WTVd6QS0zSThCNk5jZVpSSWRxMnhETlRTRkRMcTZXVlk4U21vTnFPRU01bzdKZ2xuSUNQaHdoczZ0azBKc0R3TUVXbDRTN3RDWXV4ZkhCdzJERWl2OHQ3elFTTEpuX0FqTXhvNTE0U241LXlSeDFn0gHwAUFVX3lxTFBwOG1fSTV2eGdBX2owVGxOQlpGS24xNE1JS2hwRVlWVUppM0xSbjRkWVUxMGthVXJReDdndmNWbG4wLXN4SFFQYXhLV0Q3YXhPWU1TVngydGdIUF9kWDlsLXd4VjBhdU5ESWQ1Z0w2Q2NxZm5RZ3NMZG9kRlJDcl9hVXM1b1RVb000emZjcFh3T1VLZnkzX2ZXSXdHOW1kbWN5MmJJRmlHNGE2STQyQTF1eFhPQXo0UWd3RXFQWlhqTkpwYTBDbkliMlJ5cVhQU3NFa2ptWEFYUE1RelFqa19zLWhJLTRzT3J2M0NIanZrZg?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-22T10:00:59+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "81fe497283613c08",
+      "title": "Maurício Mattar é alvo de duas ações judiciais por dívidas que somam R$ 59 mil",
+      "summary": "O veículo VEJA publicou uma atualização sobre: maurício Mattar é alvo de duas ações judiciais por dívidas que somam R$ 59 mil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/cultura/mauricio-mattar-e-alvo-de-duas-acoes-judiciais-por-dividas-que-somam-r-59-mil/",
+      "source": "VEJA",
+      "published_at": "2026-10-22T10:00:31+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "55afe47e264a8cd6",
+      "title": "O poder de Elon Musk sobre as eleições brasileiras",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: o poder de Elon Musk sobre as eleições brasileiras. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rodrigo-tavares/2026/10/o-poder-de-elon-musk-sobre-as-eleicoes-brasileiras.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dd2dfc0185a0cf91",
+      "title": "Polícia prende ‘Rei dos Batidos’ por esquema de roubo de autopeças",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia prende ‘Rei dos Batidos’ por esquema de roubo de autopeças. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/22/homem-e-preso-em-niteroi.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T09:50:11+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "895d04b869ff107e",
+      "title": "Lula trava agenda com foco na preparação para debate e define estratégias - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula trava agenda com foco na preparação para debate e define estratégias - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalFkbUs2VGVCcWdlMkJTb0c1cElhVWx1SlRiWDYwbEZXdWltb2ZqOHdnUnpqbHdmZlBkT3pnaVdDZjdGU1VZUzRabGtFOWVyLXVJbTRjRzkxdi11WEgwWm53Mll2c1cwYkFoTXBGdXJGVVpjVDZTU2pXUzIwY1dtV0dqQmdBd1o2NFVSRkJFcGNMdjJoRi1SWU11SVpLMHpOSFNHeHM5amF1Y2s?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T09:45:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "453b4cdb5f6c0097",
       "title": "Imigrantes irregulares pagavam US$ 40 mil em casamentos fictícios nos EUA - Metrópoles",
@@ -30,6 +226,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f2a5dcd6f7886704",
+      "title": "Condenada à morte que sobreviveu a execução nos EUA volta a falar em frases completas - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: condenada à morte que sobreviveu a execução nos EUA volta a falar em frases completas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR09SUGNtTVZKcXFrNk8ydmVnUW13VTBoNkVmMFpuNW1QT2FyeC1Sa1NJdkkyUkNOc0ZRam5DbS1qNTBNcmRMZXlFSGRwaTd0S0dKSV9QbkNQN1pTbDFON2Z0dHBSWlBpNzJGS2xCWGh0R1luMDkyS2tDUlctRE1XdkppSGNFbTBjeGo0MUtrZXV5VUN4bVluZjE0LXQxb0tkQnp1dzVPaUJ5aVN0UkNIUVYwX2pZUEFTSF9OTXlsMHFnUTVnd25IUmxkUDFNRUpyZWRGZXdEbDLSAecBQVVfeXFMTlNDR01Nb1JXcXdZSUdBQ1ZJcTR3TXZOMlNXam1vV0hXX3EzdHk1RXRvQkZnSkp5cGpwanhBRl9CMi0tSlEtQnl0QURYNnVRZkdoWXExaUZhaVlDNW56X2I5WG5iQjJwZUxyQnBUVUk5ZERJTUttM194ank4ZG40UlByc1gzendMWUstMGE3WmtsM0Y0X1R6ajdjelkta3lJRU12R0g4QkVYcWMxTU9HWjRJM3NWSHBOa1V5VDJyNmZSTWhtZGxobG44V21URUxMb0d3dnZpWTBiajc4U3VvdXRkR1VIQmJF?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-22T09:28:56+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -76,76 +286,6 @@
       "archive": false
     },
     {
-      "id": "18fd331587a7a10f",
-      "title": "Eleições 2026: Grandes colégios eleitorais puxam participação e têm menor abstenção no 1º turno no Triângulo e Alto Paranaíba",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Grandes colégios eleitorais puxam participação e têm menor abstenção no 1º turno no Triângulo e Alto Paranaíba. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/eleicoes/2026/noticia/2026/10/22/eleicoes-2026-grandes-colegios-eleitorais-puxam-participacao-e-tem-menor-abstencao-no-1o-turno-no-triangulo-e-alto-paranaiba.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T09:02:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "01a5987ad9e2f47f",
-      "title": "A pesquisa que poderá confirmar cenário mais acirrado sobre corrida presidencial",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a pesquisa que poderá confirmar cenário mais acirrado sobre corrida presidencial. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/a-pesquisa-que-podera-confirmar-cenario-mais-acirrado-sobre-corrida-presidencial/",
-      "source": "VEJA",
-      "published_at": "2026-10-22T09:00:40+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a4448c8c2e48a651",
-      "title": "Pedro consegue apoio unânime dos desembargadores em favor da revisão criminal, e Adriana é absolvida: confira resumo de Quem Ama Cuida nesta quinta-feira, 22/10",
-      "summary": "O veículo VEJA publicou uma atualização sobre: pedro consegue apoio unânime dos desembargadores em favor da revisão criminal, e Adriana é absolvida: confira resumo de Quem Ama Cuida nesta quinta-feira. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/cultura/pedro-consegue-apoio-unanime-dos-desembargadores-em-favor-da-revisao-criminal-e-adriana-e-absolvida-confira-resumo-de-quem-ama-cuida-nesta-quinta-feira-22-10/",
-      "source": "VEJA",
-      "published_at": "2026-10-22T09:00:26+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b16784530235cdf3",
-      "title": "Blogueira de direita e deputado de 1º mandato: quem são os alvos da PF por destruir materiais na UFRR",
-      "summary": "O veículo G1 publicou uma atualização sobre: blogueira de direita e deputado de 1º mandato: quem são os alvos da PF por destruir materiais na UFRR. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/22/blogueira-de-direita-e-deputado-de-1o-mandato-quem-sao-os-alvos-da-pf-por-destruir-materiais-na-ufrr.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T09:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3ef1817ea49f9587",
-      "title": "Dona de motel, urologista, advogado: o futuro dos políticos não reeleitos em Mato Grosso do Sul",
-      "summary": "O veículo G1 publicou uma atualização sobre: dona de motel, urologista, advogado: o futuro dos políticos não reeleitos em Mato Grosso do Sul. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/22/dona-de-motel-urologista-advogado-o-futuro-dos-politicos-nao-reeleitos-em-mato-grosso-do-sul.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T09:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "1a175ec749fd990c",
       "title": "Menino que conquistou vaga na Escola Bolshoi ao treinar em barra feita pelo pai foi aprovado só na 2ª tentativa",
       "summary": "O veículo G1 publicou uma atualização sobre: menino que conquistou vaga na Escola Bolshoi ao treinar em barra feita pelo pai foi aprovado só na 2ª tentativa. Consulte a reportagem para contexto, dados e declarações.",
@@ -174,34 +314,6 @@
       "archive": false
     },
     {
-      "id": "6fe10c45aeaa7d91",
-      "title": "PM-SP acusa campanha de Lula e governo de ameaça e descumprimento de ordem judicial na Paulista",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pM-SP acusa campanha de Lula e governo de ameaça e descumprimento de ordem judicial na Paulista. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/pm-sp-acusa-campanha-de-lula-e-governo-de-ameaca-e-descumprimento-de-ordem-judicial-na-paulista.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T09:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "72099687391e636b",
-      "title": "'Mandei as crianças deitarem enquanto ele falava que ia me matar', diz professora de creche atacada em Curitiba",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Mandei as crianças deitarem enquanto ele falava que ia me matar', diz professora de creche atacada em Curitiba. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/mandei-as-criancas-deitarem-enquanto-ele-falava-que-ia-me-matar-diz-professora-de-creche-atacada-em-curitiba.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T09:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d5040e9fc3d949d5",
       "title": "Polícia proíbe manifestações em partes de Paris, incluindo o Louvre - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: polícia proíbe manifestações em partes de Paris, incluindo o Louvre - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -209,6 +321,20 @@
       "source": "Metrópoles",
       "published_at": "2026-10-22T08:27:00+00:00",
       "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "09a73fdb98510007",
+      "title": "Ataques deixam mortos na Rússia e na Ucrânia, após Trump dizer que guerra estava perto de acabar - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: ataques deixam mortos na Rússia e na Ucrânia, após Trump dizer que guerra estava perto de acabar. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2ROTEtMbTFNbC1mb1lWNEYxVkI3ZnliNEpZbTYxZ09kc2VlUVNJSThtYkNrNktZLTh1bVUya3hXaFRJN2FjbTRQMkVXQ1hEamIzcW04SU5lM2hKWXdYQmg3MWZZSFVlOEZrVHlEb3doR2t0TWNBeW5mRlltdkdkQUltXzQ2NTdvZzFuTGxDVkpEVGNjN3l2VFo0b2lVRDFfMWZUZ1JWRUkxYUtnV1BOOG9RVWtMNm5uOHdEQ096MNIBxAFBVV95cUxQNFZaMW5DVlMtbmFmQzFJVkxlZ2s3V3IzNmwzSW5QdXZuTTdUWmR0Z295TjYydkV2bXBzNjhZaF9WNVdaeHpnR2xqTlRVSU92NWl3TmhreFRSWklSdXRLRjBzZDhyWHNmbjFwWjc0UERESVB0X0NXbGVnM1FjV0JRRTBORkp2ZU9hSmkwLVRKaUtSaVZJRHBTeUFtdTZYNnNUUmdFanBnUnBhcENJdjc2MTcxOFVidHdReHV1SlNrU2RIcVFC?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-22T08:17:00+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -279,34 +405,6 @@
       "source": "Metrópoles",
       "published_at": "2026-10-22T07:30:00+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d6b75c0475202d65",
-      "title": "Você consegue imaginar Flávio Bolsonaro eleito presidente? - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: você consegue imaginar Flávio Bolsonaro eleito presidente? - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHFBRHNmbnpDUGdoRVNpUnVNcVFsWEE0V1U5V01ZeFR0NzViaW1tZVJ4Rkp1V3Z5M0t2aWY4QVh6eG5reWV3LUVsaW1EeW9CZjQ4VFNYTFV4b0JLLUtpZ09Ib2JWa0RseDVKV3Y0eTI0amFoVzdQUGk4Y0J5eTZob3V3cFd2WkQ2RkJhYjAyajI2b2tDNUR5aGJFUzlic1R0ejVDejlQbVBMM0kwUlEtQXpJMHo?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-22T07:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "895d04b869ff107e",
-      "title": "Lula trava agenda com foco na preparação para debate e define estratégias - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula trava agenda com foco na preparação para debate e define estratégias - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalFkbUs2VGVCcWdlMkJTb0c1cElhVWx1SlRiWDYwbEZXdWltb2ZqOHdnUnpqbHdmZlBkT3pnaVdDZjdGU1VZUzRabGtFOWVyLXVJbTRjRzkxdi11WEgwWm53Mll2c1cwYkFoTXBGdXJGVVpjVDZTU2pXUzIwY1dtV0dqQmdBd1o2NFVSRkJFcGNMdjJoRi1SWU11SVpLMHpOSFNHeHM5amF1Y2s?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-22T07:30:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -510,48 +608,6 @@
       "archive": false
     },
     {
-      "id": "b41044e2c0dac7c1",
-      "title": "Quem inventou o nome 'inteligência artificial' e por que Trump quer mudá-lo",
-      "summary": "O veículo G1 publicou uma atualização sobre: quem inventou o nome 'inteligência artificial' e por que Trump quer mudá-lo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/22/quem-inventou-o-nome-inteligencia-artificial-e-por-que-trump-quer-muda-lo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T06:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f204604b47300589",
-      "title": "Qual o futuro dos concursos públicos? Veja o que propõem Lula e Flávio Bolsonaro",
-      "summary": "O veículo G1 publicou uma atualização sobre: qual o futuro dos concursos públicos? Veja o que propõem Lula e Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/22/qual-o-futuro-dos-concursos-publicos-veja-o-que-propoem-lula-e-flavio-bolsonaro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T06:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "31c8bea72db20ee3",
-      "title": "Meta é condenada a pagar US$ 25 bilhões por violação de dados nos EUA - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: meta é condenada a pagar US$ 25 bilhões por violação de dados nos EUA - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3NEZHVsbm9QZ2Qtd1JmQTYwX0JzckJ4ZUMyOVJHMVREb1EzUTBwVURzdVFxeXNEWTNKTzJZTlM0a3VzSTZjeVZ4T2ZyanpXaFBsQkxQaDFDWTFHamhyYkkwVUFJZUg5VTltNnhaMElBekJPR000eFdXZTNUYldIXzFsNXhzZ0NzQk1IY3RUQmotT3docmNJb05VS1dDVjRxbzVZ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-22T05:07:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "8811567a51fffe8a",
       "title": "Ciro Nogueira quer ser ministro de Flávio Bolsonaro - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: ciro Nogueira quer ser ministro de Flávio Bolsonaro - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -566,20 +622,6 @@
       "archive": false
     },
     {
-      "id": "ed14d0a356beaafa",
-      "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: ‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-22T04:10:29+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e170165a0dff2dee",
       "title": "Segurança, economia, saúde; veja propostas de Flávio Bolsonaro e de Lula para governo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: segurança, economia, saúde; veja propostas de Flávio Bolsonaro e de Lula para governo. Consulte a reportagem para contexto, dados e declarações.",
@@ -587,20 +629,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-22T03:36:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "334556c2bd708c05",
-      "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-22T03:26:58+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -958,30 +986,30 @@
       "archive": false
     },
     {
-      "id": "0d7a28aef7ec1d97",
-      "title": "Governo pode comprar até R$ 90 bi em dívidas da população para o Desenrola 3.0 em novembro, diz ministro",
+      "id": "893e306a6b4b58cc",
+      "title": "Governo pode comprar até R$ 90 bi em dívidas da população para o Desenrola 3.0 em novembro, diz ministro - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo pode comprar até R$ 90 bi em dívidas da população para o Desenrola 3.0 em novembro, diz ministro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-pode-comprar-ate-r-90-bi-em-dividas-da-populacao-para-o-desenrola-30-em-novembro-diz-ministro.shtml",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNVFad2ZkQWkwRkNfb3d1ajBhNFBtYjl5SFpCR1M2RUFkM09nUmNQa1cxMHkwemozQzhSX3BQRW1PdVZBdmZJMzhXTXY4UDcwT2owdzdZa2ZxRWpzVS1yZnhQNE84VFFJNFpFbTVNMnI5ei0yUTlLSHBjdVNDV3oxOUY2QlcwcHNaUDNkaUpTYW9ZOHhVYWpZbjFqRW1HOW5rTkdGLU1GZEdYUHY5ZjNCTFZpYjVEcVAxMk8wNm9qQ0pnUWpHTWxEV0VPZUs1U2ZENTdKODZZUnM2dVNrdzJMdm1weWlaWEg5?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-21T22:01:00+00:00",
       "category": "Governo federal",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
     {
-      "id": "2eb0680892ad7585",
-      "title": "Promotoria no Paraná abre apuração sobre câmera em banheiro de escola; gestores são afastados",
+      "id": "c9e75616c7997dbf",
+      "title": "Promotoria no Paraná abre apuração sobre câmera em banheiro de escola; gestores são afastados - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: promotoria no Paraná abre apuração sobre câmera em banheiro de escola; gestores são afastados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/promotoria-no-pr-abre-apuracao-sobre-camera-em-banheiro-de-escola-gestores-sao-afastados.shtml",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZnR4VU5XUHRocmJEMnEyelJoSmtsTGRVbGVDWWFSWDZRRER5OW1mSHQ5YzNkLUxiaWJHRHNrRVVfTjhKZV9MelJwWE1Pal9WT1ZIcUhIQTl5dmFKRUhBLVFTMFFneGN4VjZseXBXb3diVWpZX2R2NWt3VV8tcTNKcFN6b0trOG55WXd2YU84Wk9FS0c0VTRmQUdrR01GdHVvR3JkcDJnNlppZWNSdlRhYTJ5SS1NeERONEozU3RRQkZhU0NNTndaRm56T2NwRDZOQndVTlMybzcxdw?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-21T22:00:00+00:00",
       "category": "Educação",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1140,6 +1168,20 @@
       "archive": false
     },
     {
+      "id": "71ac530024dc1bb8",
+      "title": "Opinião - De Grão em Grão: IPCA+ é realmente a melhor proteção contra a inflação? - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: opinião - De Grão em Grão: IPCA+ é realmente a melhor proteção contra a inflação?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3FqUzV5TnVXT3d3QVF0dzNWQmhaMzNBYUNjRGhMUU90NDdHWVE3dVA2anA5YnpSTHEyX3NBa1dnN0s1WVktMjdoTVhUbXlaZ2Q1OENUZGpZcWlLQXJiMmU4OFR5bEdCTXZhOEE5UG1STTV1WXZ6SXQ1U2ZmUk5DbmFWVzB6UDVMOS1wVS00RDhrZHNTVnJab1BjRTRmOG5GamhfV1RNREdRWXotamp1M0gwNGwwdTRQQXc?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T21:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "9f8a52d958193892",
       "title": "Lula reúne apoiadores em ato no Centro de BH nesta quarta-feira",
       "summary": "O veículo G1 publicou uma atualização sobre: lula reúne apoiadores em ato no Centro de BH nesta quarta-feira. Consulte a reportagem para contexto, dados e declarações.",
@@ -1231,6 +1273,20 @@
       "source": "Estadão",
       "published_at": "2026-10-21T18:04:49+00:00",
       "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0f3bd810ec647513",
+      "title": "Um raro nome de peso do mercado financeiro na campanha contra Flávio - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: um raro nome de peso do mercado financeiro na campanha contra Flávio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYXZ3djhqNWtDdEJON2x3SDFOX2llWlRwRjJaQVZRUF84QXlKbXdMQTlLQ0RoUEx4eGtCNHhhX1RXbnZGWlZqc0dxREtjTkpqMzJSN0paeE9NbU9ZS2VjWWFxYllqRU91Z00zaXJwcDBZZjBrYmhzQWZMWkJuUUYxVnk2YURCeWVyVzJ1Zl9PLVZ6V2RacWlrYy1rS3Mwc0prSUVBTDU2eHowNVhyT2lrNm1rdmIwZGJ4cG1lQ185dVdINFVf0gHTAUFVX3lxTE5TT092RnVhVWxSb0RJXzBCS3NUNkZMUm50Wjd6YlVPRDhBUEE0YWQyU2I0Rk5xTV9ObFhoMGNjNExIanprVk94bkJLQ1dkWUd2cWZZaWE5dmhxTGVUVExGYWNzOEw2Z2hCdjdVUUEwOHRGc05pRFFqR3h0WjBkakNIWkFLTDhXT1hhbU5IWGtVUDJWTDM4aE4xd3k5Vlpja0MtRmc2ZFZCcVhyM1RuZkZ6NzhVNzZDWlN0dDk5RDVTX0xoeGJ5b2pPN3F4ckUzbXlDeG8?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-21T18:01:12+00:00",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1364,20 +1420,6 @@
       "archive": false
     },
     {
-      "id": "1a319d2941583f0b",
-      "title": "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/quedas-mais-de-330-mil-criancas-foram-internadas-no-brasil-em-10-anos",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T15:36:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "619891cf6c75abe2",
       "title": "Fim da escala 6x1 nas escolas vai afetar de professor horista a funcionários de apoio; entenda - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: fim da escala 6x1 nas escolas vai afetar de professor horista a funcionários de apoio; entenda. Consulte a reportagem para contexto, dados e declarações.",
@@ -1420,13 +1462,13 @@
       "archive": false
     },
     {
-      "id": "fc03ce7a1030d699",
-      "title": "PR: colégio militar instalou câmera em banheiro feminino; polícia investiga - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: pR: colégio militar instalou câmera em banheiro feminino; polícia investiga - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclBfWEJISnE3VU5hQV9wWUFaLTlqN25abnNWdkRMRE90dTFRN0t0YW1QM2d1eDNvbGhLc1VZSEl4NXhYM2VtMXlLOUJwY2pUYUxRd0g2ZS01MXp4ZlNaa3JFeWJoY2dGcDBkbm92akdkN1RZeWlzTjZEdm0zMDlfdnV2OTVIRnY1d3dKOUNrOTRHb2VaekJVbFFCaTVsUE15TG1ILUdHcmNiOGs?oc=5",
+      "id": "9a2377a7501c38c3",
+      "title": "Putin liberta professor dos EUA condenado na Rússia por ser mercenário - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: putin liberta professor dos EUA condenado na Rússia por ser mercenário - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbmlraktwbzNIeUpLNXViWFJCbFlwRjdkY2pUYldrSjVCXzNzNHVTeFNiM2lYekFsZnd1NmRCWloyTF9LSnJTNFFDa05TN3R6bzN2MFl2dUJ6ektpZk96am5NSl9xd1g2STlDNUlCWGU2MFZ6dmliUlE0Q2hoUXZCMlg2M0JfMll6QzkzNFRESzhWcjZJQXdWNHFBQ1lnZXplRUN3aTdR?oc=5",
       "source": "Metrópoles",
-      "published_at": "2026-10-21T12:37:00+00:00",
-      "category": "Segurança",
+      "published_at": "2026-10-21T12:20:00+00:00",
+      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1532,48 +1574,6 @@
       "archive": false
     },
     {
-      "id": "49e0d938508412a5",
-      "title": "Provas de português para estrangeiros começam nesta terça-feira",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: provas de português para estrangeiros começam nesta terça-feira. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/provas-de-portugues-para-estrangeiros-comecam-nesta-terca-feira",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-19T16:24:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "70d192f67c8aa094",
-      "title": "Pé-de-Meia: pagamento da sétima parcela começa nesta segunda",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: pé-de-Meia: pagamento da sétima parcela começa nesta segunda. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/pe-de-meia-pagamento-da-setima-parcela-comeca-nesta-segunda",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-19T15:21:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a393aa47f42fe4f5",
-      "title": "Lula rebate Flávio na Band e defende combate ao crime organizado “da esquina ao andar de cima” - Revista Fórum",
-      "summary": "O veículo Revista Fórum publicou uma atualização sobre: lula rebate Flávio na Band e defende combate ao crime organizado “da esquina ao andar de cima” - Revista Fórum. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdGdCZDB3elc3dVh5MHRZR0sxLWFZTUtURVFDRWV1cG1RbV9sNUNoMEY2cmNuR3gwTUwyRmVCbTh2ZjU3X2xNUEh4Q0w1VC1fOE1sM0w2SjRzZVQtdXVtcHdYMW4xWm41d1pFZXo5X2JSY1RUYkY0OERkRXozRTkxZnlFaVljT0tJNFFESXhPdVdCdXhSdnZoNEVRdlFVZUV3LXlrVF9QZVNNdHN3ekNIRHh3Nm5FcFJ6dC1jTzJOdEMwWHpsWHZMM1lB?oc=5",
-      "source": "Revista Fórum",
-      "published_at": "2026-10-18T23:32:55+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "58d916d5e881a581",
       "title": "A uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP",
       "summary": "O veículo G1 publicou uma atualização sobre: a uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP. Consulte a reportagem para contexto, dados e declarações.",
@@ -1591,7 +1591,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 31
+      "items": 33
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1599,7 +1599,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 48
+      "items": 45
     },
     "VEJA": {
       "status": "ok",
@@ -1635,7 +1635,7 @@
     },
     "Agência Brasil · Internacional": {
       "status": "ok",
-      "items": 8
+      "items": 9
     },
     "Agência Câmara": {
       "status": "ok",
@@ -1659,19 +1659,19 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 66
+      "items": 65
     },
     "Estadão": {
       "status": "ok",
-      "items": 46
+      "items": 43
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 50
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 64
+      "items": 63
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1679,11 +1679,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 63
+      "items": 64
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 62
+      "items": 29
     }
   },
   "notes": [
