@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:11:06.190119+00:00",
-  "last_success_at": "2026-10-22T03:11:06.190119+00:00",
+  "last_checked_at": "2026-10-22T03:11:35.637938+00:00",
+  "last_success_at": "2026-10-22T03:11:35.637938+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -12,6 +12,118 @@
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-pede-apoio-a-publico-lgbtqia-em-ato-no-ce-e-diz-que-serao-sempre-bem-vindos.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-22T03:02:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "516cbd26a34afa3f",
+      "title": "TV Gazeta promove debate entre candidatos ao governo do ES nesta quinta; veja regras e saiba como assistir",
+      "summary": "O veículo G1 publicou uma atualização sobre: tV Gazeta promove debate entre candidatos ao governo do ES nesta quinta; veja regras e saiba como assistir. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/22/tv-gazeta-promove-debate-entre-candidatos-ao-governo-do-es-nesta-quinta-veja-regras-e-saiba-como-assistir.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T03:01:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ea7224842b83bf16",
+      "title": "Prefeitura concede reposição salarial aos servidores no mês de outubro",
+      "summary": "O veículo G1 publicou uma atualização sobre: prefeitura concede reposição salarial aos servidores no mês de outubro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/10/22/prefeitura-concede-reposicao-salarial-aos-servidores-no-mes-de-outubro.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T03:01:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8adf0c4bd5a911ce",
+      "title": "Presidente da República: o que faz, quanto ganha e quais são os requisitos para ocupar o cargo?",
+      "summary": "O veículo G1 publicou uma atualização sobre: presidente da República: o que faz, quanto ganha e quais são os requisitos para ocupar o cargo?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/presidente-da-republica-o-que-faz-quanto-ganha-e-quais-sao-os-requisitos-para-ocupar-o-cargo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T03:00:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4377bc5c0bcbc097",
+      "title": "Debate da Rede Amazônica com candidatos do 2º turno ao Governo do Amazonas acontece nesta quinta; veja regras e onde assistir",
+      "summary": "O veículo G1 publicou uma atualização sobre: debate da Rede Amazônica com candidatos do 2º turno ao Governo do Amazonas acontece nesta quinta; veja regras e onde assistir. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/22/debate-da-rede-amazonica-com-candidatos-do-2o-turno-ao-governo-do-amazonas-acontece-nesta-quinta-veja-regras-e-onde-assistir.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a5a4752fa9777a3a",
+      "title": "Globo entrevista Leandro Grass, candidato ao governo do DF, nesta quinta; veja como assistir",
+      "summary": "O veículo G1 publicou uma atualização sobre: globo entrevista Leandro Grass, candidato ao governo do DF, nesta quinta; veja como assistir. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/globo-entrevista-leandro-grass-candidato-ao-governo-do-df-nesta-quinta-veja-como-assistir.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d64978d0be07edeb",
+      "title": "Datafolha divulga nova pesquisa presidencial nesta quinta-feira (22)",
+      "summary": "O veículo G1 publicou uma atualização sobre: datafolha divulga nova pesquisa presidencial nesta quinta-feira (22). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/datafolha-divulga-nova-pesquisa-presidencial-nesta-quinta-feira-22.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ec45ef50ed6ce56e",
+      "title": "Egito, onde Malévola ficou presa, tem leis contra 'ato escandaloso' na rua e 'publicação de material imoral'; entenda",
+      "summary": "O veículo G1 publicou uma atualização sobre: egito, onde Malévola ficou presa, tem leis contra 'ato escandaloso' na rua e 'publicação de material imoral'; entenda. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/22/egito-onde-malevola-ficou-presa-tem-leis-contra-ato-escandaloso-na-rua-e-publicacao-de-material-imoral-entenda.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T03:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8f90694d723d03ba",
+      "title": "Globo e afiliadas promovem debates e sabatinas de 2º turno para os governos do AC, AM, DF, ES, RN e TO; veja como assistir",
+      "summary": "O veículo G1 publicou uma atualização sobre: globo e afiliadas promovem debates e sabatinas de 2º turno para os governos do AC, AM, DF, ES, RN e TO; veja como assistir. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/globo-e-afiliadas-promovem-debates-e-sabatinas-de-2o-turno-para-os-governos-do-ac-am-df-es-rn-e-to-veja-como-assistir.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T03:00:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -48,20 +160,6 @@
       "archive": false
     },
     {
-      "id": "d996b955ed50c256",
-      "title": "PF encontra sala secreta para guardar dinheiro em hangar usado por amigo de Flávio Bolsonaro, diz jornal",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pF encontra sala secreta para guardar dinheiro em hangar usado por amigo de Flávio Bolsonaro, diz jornal. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/pf-encontra-sala-secreta-para-guardar-dinheiro-em-hangar-usado-por-amigo-de-flavio-bolsonaro-diz-jornal.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T02:53:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "8c805057ede0baa5",
       "title": "Eleições no AM: Omar Aziz promete hospital para idosos e Professora Maria do Carmo diz que vai deixar saúde acessível no interior",
       "summary": "O veículo G1 publicou uma atualização sobre: eleições no AM: Omar Aziz promete hospital para idosos e Professora Maria do Carmo diz que vai deixar saúde acessível no interior. Consulte a reportagem para contexto, dados e declarações.",
@@ -69,20 +167,6 @@
       "source": "G1",
       "published_at": "2026-10-22T02:32:58+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2555537501566266",
-      "title": "Prefeito de Nova York chama fim da escala 6x1 de 'passo histórico' no Brasil",
-      "summary": "O veículo G1 publicou uma atualização sobre: prefeito de Nova York chama fim da escala 6x1 de 'passo histórico' no Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/21/prefeito-de-nova-york-chama-fim-da-escala-6x1-de-passo-historico-no-brasil.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T02:19:43+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -104,76 +188,6 @@
       "archive": false
     },
     {
-      "id": "7453ed679b9bbb1c",
-      "title": "Flávio Bolsonaro fez festa em lancha com lobistas e prostitutas durante a pandemia, diz revista",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro fez festa em lancha com lobistas e prostitutas durante a pandemia, diz revista. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-fez-festa-em-lancha-com-lobistas-e-prostitutas-durante-a-pandemia-diz-revista.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T02:16:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "165bf1f1aa259507",
-      "title": "Univaja se retrata após polêmica sobre transporte de eleitores indígenas no AM; TRE-AM cobra planejamento para próximos pleitos",
-      "summary": "O veículo G1 publicou uma atualização sobre: univaja se retrata após polêmica sobre transporte de eleitores indígenas no AM; TRE-AM cobra planejamento para próximos pleitos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/21/univaja-se-retrata-apos-polemica-sobre-transporte-de-eleitores-indigenas-no-am-tre-am-cobra-planejamento-para-proximos-pleitos.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T02:08:20+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c08fa408e3e41630",
-      "title": "Doença rara do filho leva empresário a cruzada por famílias sem diagnóstico",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: doença rara do filho leva empresário a cruzada por famílias sem diagnóstico. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/10/doenca-rara-do-filho-leva-empresario-a-cruzada-por-familias-sem-diagnostico.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "92d3dde0661f663d",
-      "title": "Bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: bloquinhos de Nikolas ganham escala nacional e dominam agenda de Flávio Bolsonaro no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/bloquinhos-de-nikolas-ganham-escala-nacional-e-dominam-agenda-de-flavio-bolsonaro-no-2o-turno.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "16d6a55277e47e9f",
-      "title": "Influência financeira de oligarcas tech em eleições enfrenta rejeição crescente",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: influência financeira de oligarcas tech em eleições enfrenta rejeição crescente. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/lucia-guimaraes/2026/10/influencia-financeira-de-oligarcas-tech-em-eleicoes-enfrenta-rejeicao-crescente.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d792caf36c3e0dbb",
       "title": "Smart Sampa reclama de onda de violência inesperada para pedir reajuste a Nunes",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: smart Sampa reclama de onda de violência inesperada para pedir reajuste a Nunes. Consulte a reportagem para contexto, dados e declarações.",
@@ -181,20 +195,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-22T02:00:00+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8dea081b98eddc56",
-      "title": "Conheça as propostas de Lula e Flávio Bolsonaro para o turismo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: conheça as propostas de Lula e Flávio Bolsonaro para o turismo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/turismo/2026/10/conheca-as-propostas-de-lula-e-flavio-bolsonaro-para-o-turismo.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T02:00:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -706,20 +706,6 @@
       "archive": false
     },
     {
-      "id": "be37548e90829a48",
-      "title": "Paciente tem reação após receber transfusão de sangue em hospital do Paraná e família denuncia que ele recebeu o tipo sanguíneo errado - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: paciente tem reação após receber transfusão de sangue em hospital do Paraná e família denuncia que ele recebeu o tipo sanguíneo errado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPd0JYRnVsazFtZjl2S1I2RnZHZEx2Z0hSVEVEWTBxcV9Ic2MtUGxvb3poTE1NbnRYYVktMVY4Y0RJaFNERTJ2djVkR3NZMGFFTHM3bzBUOVRYc2RSWWE4cHFKYXN0NXlDVUZjZUViLVJLQ1FlRFBpSkJEUmRyRHBOSVFJUGdUWUpTQ2Y0MDE5Nld0bG9KZkF5bFBEZ2x6RXI4cmV5R3ZIaTBnYXJHOWVqd3N5YjRveWNLZnVzdDM2V3JlWE1FUjBYV3NkM2ZUMnozVVZ5eXN1M2J2WlhydFA3ekZCZXJHWHJhbjBlbWtwSUdjcU1iMVM0NVdnS1ptU2ViV0FDQmVERERGX2pfUjNVdTVWMmlDTWl0Q3M3bVd0T190RFNk0gGzAkFVX3lxTE5wQjZNUEJ6WUlvNXg4MTNneTIyU1NYSldJcGJGdkx6UExJcHRhUXZkUi1UeVhHb2tkQ3JBXzBwbmpYTkgzZ3hfWnhqTUtIcGQycGZ5d25KdjZ2Y0djcUtuRVhXV1lPbUowT1RENjh1djd2RFJHU3BJbTc3MzRmUllBWVhRZnNfRkdjN3IzQjdNazFJREY2LUgyRzVmUHRsZmxWT3ZCOUhXTkpfRGMwQ3BiVlptRXJsWWc1aHltdTM5YUpwWFI2ZnBYUzBGdldsd1ZQbF9BTElpX29LbTJVZHNPVUdwVFpRYVlNREFYVmdaRnBKa0x5MzltWGpRV2JMVHRWaXM3NFU0ZjUyUzRYWVhxNl9janVVR1ZtZzFqZmZzNFprMzJFU2dQNFhjcFlaSVU4aE0?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-21T22:15:41+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "bca65df6d8ec4fed",
       "title": "Motta autoriza deputados eleitos a usar \"cotão\" da Câmara antes da posse - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: motta autoriza deputados eleitos a usar \"cotão\" da Câmara antes da posse - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -730,20 +716,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8348e5d3760df0c5",
-      "title": "Polícia já tem 32 inquéritos sobre clínicas de estética em Laranjeiras; mais três mulheres procuram a delegacia",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia já tem 32 inquéritos sobre clínicas de estética em Laranjeiras; mais três mulheres procuram a delegacia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/21/policia-ja-tem-32-inqueritos-sobre-clinicas-de-estetica-em-laranjeiras-mais-tres-mulheres-procuram-a-delegacia.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T22:06:14+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -769,20 +741,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-21T22:00:00+00:00",
       "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "00ea7e1e17e0e7cf",
-      "title": "Polícia Ambiental apreende itens de pesca proibidos e adverte pescadores durante pré-piracema no interior de SP",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia Ambiental apreende itens de pesca proibidos e adverte pescadores durante pré-piracema no interior de SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/21/policia-ambiental-apreende-itens-de-pesca-proibidos-e-adverte-pescadores-durante-pre-piracema-no-interior-de-sp.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T22:00:00+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -888,6 +846,20 @@
       "archive": false
     },
     {
+      "id": "db258a072c5b6d07",
+      "title": "Mercado segue apostando em Flávio mesmo com incômodo por promessas de campanha",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mercado segue apostando em Flávio mesmo com incômodo por promessas de campanha. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/mercado-segue-apostando-em-flavio-mesmo-com-incomodo-por-promessas-de-campanha.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T21:33:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "8672b1162f362f31",
       "title": "Polícia faz buscas em escritórios de extrema direita do Parlamento Europeu",
       "summary": "O veículo VEJA publicou uma atualização sobre: polícia faz buscas em escritórios de extrema direita do Parlamento Europeu. Consulte a reportagem para contexto, dados e declarações.",
@@ -909,6 +881,34 @@
       "source": "Agência Câmara",
       "published_at": "2026-10-21T21:21:00+00:00",
       "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bfd2bf84f7a22370",
+      "title": "Defensoria pede ao STF ação urgente contra prefeitos que não garantem transporte gratuito no dia da eleição",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: defensoria pede ao STF ação urgente contra prefeitos que não garantem transporte gratuito no dia da eleição. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/defensoria-pede-ao-stf-acao-urgente-contra-prefeitos-que-nao-garantem-transporte-gratuito-no-dia-da-eleicao.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T21:20:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c157277382910253",
+      "title": "Milhares de estudantes da Grécia se unem aos protestos na Europa por investimentos na educação",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: milhares de estudantes da Grécia se unem aos protestos na Europa por investimentos na educação. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/milhares-de-estudantes-da-grecia-se-unem-aos-protestos-na-europa-por-investimentos-na-educacao.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T21:19:00+00:00",
+      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -958,20 +958,6 @@
       "archive": false
     },
     {
-      "id": "6ddc0e44beea4b96",
-      "title": "Professora é afastada de escola pública suspeita de trocar mensagens de cunho sexual com alunos - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: professora é afastada de escola pública suspeita de trocar mensagens de cunho sexual com alunos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOS0NDd0tFbFV1WF9TdXIwWHJqdHZuTUZXVW9xdmpEQXlSVDNzcy1VTXVwS1RZQmJZT0hla3dTLXlyYm9ETG0zOWN5aEpNNnAxbGJ5Q2J0YTE5X0w4WWNPSkp4Skh4alN6bU1JSHV4V3FjVDRYci16aFFFUE10YzMwZGpXUHJDekprQVhLb0JWbFQ0V0pPNFFxeEdBYy0xZm1JMVlRcDJPb3drSjZSeVZKUS1tYmM3RXlpRUJnMHp4VWlWYW9OMS1hY1RpWXNxUk43UVM2RkJVTTRkX0twRmdDLUlERTRPaU1LQWtTNllHeWJFSVRHaHhPZWFZQWFITjBMbHN6QXZxb9IBlgJBVV95cUxNNTdMNUJkNXFqQjU5T3JhZ1BNeVA5aFFvNmU2RmJ2Y1RRVENfRnFuQmhrOGQxYS1uR3JtN0hSMUJTMUZWckxGRGttbEJZcG12Y0FYa05GbWhIQ2VHUkZGdndQT2FucDN1c1BXUmViQURPSExSY3A2NTFCU3pPTDF3Z2plQ3ppbnFxSjNVTS1MNXYzbDBCZVlBLXkyV0w4dzZvd1FvS1E1c3AxaFYwTzBBV2ZZTjF6TTBMcUJkaWJnTGdyUlhMN2ktVlBNNEYxNTg2c3VCdXlqRU9pc1A5ZTJZaGtPZVBZcS1jSnJMRTBLMkNTZFJyNHNNLVdkSmRIMXlqTVRJV3BZU0ttXy1JOGdHTGtlY0JTZw?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-21T21:16:58+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "54f3f1d4180392d1",
       "title": "TSE: informação de que 4 mil seções mudaram de lugar estava incorreta",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: tSE: informação de que 4 mil seções mudaram de lugar estava incorreta. Consulte a reportagem para contexto, dados e declarações.",
@@ -1014,12 +1000,12 @@
       "archive": false
     },
     {
-      "id": "ea5366705e75d20a",
-      "title": "Desenrola 3.0: Durigan diz que governo vai lançar edital para comprar dívidas na quinta",
-      "summary": "O veículo G1 publicou uma atualização sobre: desenrola 3.0: Durigan diz que governo vai lançar edital para comprar dívidas na quinta. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/21/desenrola-30-durigan-diz-que-governo-vai-lancar-edital-para-comprar-dividas-na-quinta.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-21T21:05:22+00:00",
+      "id": "941f1c83c2b0332f",
+      "title": "IPCA+ é realmente a melhor proteção contra a inflação?",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: iPCA+ é realmente a melhor proteção contra a inflação?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/10/ipca-e-realmente-a-melhor-protecao-contra-a-inflacao.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T21:00:00+00:00",
       "category": "Economia",
       "candidate": null,
       "election_type": null,
@@ -1056,16 +1042,30 @@
       "archive": false
     },
     {
-      "id": "989e7fd2564a6d0f",
-      "title": "Carlos Alberto de Nóbrega aparece pela 1ª vez após cirurgia no coração; humorista recebeu visita de padre Antônio Maria no hospital - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: carlos Alberto de Nóbrega aparece pela 1ª vez após cirurgia no coração; humorista recebeu visita de padre Antônio Maria no hospital. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZE1UeU9oRHc5Y212eFJkMlo1SFFYdnhzQkVOWE9veDgwbmhBaE9ueEpsZXZCQVNmMmpwUXZza21odW4xYWt3MXo5WGUwWDNqdWgtNWMxMjNQOW56TzJXcEd4MzFLdmp1UUVFUVAtendzS0pLYzJTRVk5UWEtdS1YY1JPWU5wdlRzQUFkaHlhOC1QdHRhTU1rMEpneGM3cEEyTmtXMDhkZG1LTTZpXzNZVWV6aFB1MTZJY0pNVjF4T3g5ejJIZTE3cGJRTTN5WmRxNFcwdzJVT21YMHJRY196WU5NV0JvSVNPNHdONXQxSk1VenZ6RjFuanUxLUlidHVsaVRYeXNySmhjYmFaU3NHajJya0ZibjJf0gGnAkFVX3lxTE94VHFFcjNpNzdsbHFtWVJSTDBiWE9qNWM5OG1JeTd5TmtVSE9hemdqcXk3b2twY0FLOXJ2eHpVMWI4U2VUMF9QYmM0NXNqY09sMmlYcmR1clVQd3N2NGx6akZFN2k1Szk4WC04YWRvUUV1c2xRZXJRY0lISF9GNVJLdWt4Y1kwVFpLMjVJdndFSjhoVm5nczRkaHJQdUpzRmdMUkZhZDJwOVdUdVFmUkExcGZ1WHdIcjBaVldoSVpPdmdxVlpVZjBuRFpiamNFejBZSmI0YVZGU01XTTRqcnFMbVNnc2F5VEFid0FyVDhXTDdSVXlUbjRrVmxvRnpPNUV0RTdBU19Dd2F1a2EzS3FPXzIxc1NKeWstWWpDaFFNYWR1aG94UjQ?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-21T20:46:31+00:00",
-      "category": "Saúde",
+      "id": "17b09bcce2ef3ceb",
+      "title": "Casas de apostas nos EUA preveem derrota de Trump que pode ter impacto no Brasil",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: casas de apostas nos EUA preveem derrota de Trump que pode ter impacto no Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/casas-de-apostas-nos-eua-preveem-derrota-de-trump-que-pode-ter-impacto-no-brasil.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T20:46:00+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": true,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6e6102978aed83a7",
+      "title": "Projeto atualiza lei do crime de perseguição para detalhar condutas digitais",
+      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto atualiza lei do crime de perseguição para detalhar condutas digitais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.camara.leg.br/noticias/1307688-projeto-atualiza-lei-do-crime-de-perseguicao-para-detalhar-condutas-digitais",
+      "source": "Agência Câmara",
+      "published_at": "2026-10-21T20:35:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1084,13 +1084,13 @@
       "archive": false
     },
     {
-      "id": "cc8645787b7c20b9",
-      "title": "TSE vai investigar promessa de ‘prêmio’ em emendas para cidades que votarem em Flávio",
-      "summary": "O veículo VEJA publicou uma atualização sobre: tSE vai investigar promessa de ‘prêmio’ em emendas para cidades que votarem em Flávio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/tse-vai-investigar-promessa-de-premio-em-emendas-para-cidades-que-votarem-em-flavio/",
-      "source": "VEJA",
-      "published_at": "2026-10-21T20:30:52+00:00",
-      "category": "STF e Justiça",
+      "id": "8fbe58c537e2616f",
+      "title": "Alckmin e ex-ministro de Bolsonaro reforçam apelo de Lula na TV a eleitores de direita",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: alckmin e ex-ministro de Bolsonaro reforçam apelo de Lula na TV a eleitores de direita. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alckmin-e-santos-cruz-reforcam-apelo-de-lula-na-tv-a-eleitores-de-direita.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-21T20:30:00+00:00",
+      "category": "Governo federal",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1104,20 +1104,6 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkZMTFVBQTlhSGhZYm1VWmFkUkZLcmM3Z09zdy1lYkNvLUVfeDViXzRmeTZuX2JERGpjV1NBb2RNdTkwczk0Q0I2Y3lnbl9tZXhwbHJJSEo5ZFEtNlhMTFVVSTBZNzlhT3VZTy1yUk5JMnZBaF9XRGRtcnRIVGxxeFBxOUg0ODFPV2hSUHM2NXg2SDk2T1JKMWxYNllPX3BRRmcyOEx3TXZxdWFjdXJiQWZMS3RDM3c3bVpzM1JtMVMxWnNZRU1IemxtT3hhd9IB0wFBVV95cUxPc3AtMmVPWVhTaUZCYzlFVzNlY3NJWGFVTXNuOWhKc3p0VVhvaDJpNUliam05TXhQWmIzRlFobUtfbzBqYlFfcExuX0d1Vk9qR2ZJeV9qNWJXRWhJeEFuX28yZ28wSHBZYXUtajhSOWtVYXMwUk8wMEMyYXE0YldnZWhzZWpiSEM1cDhkNXZZbWxuWVRVdDVxWV81YVJvajVvcHdxNWNITjctRlFXZmdzWXNwYXZRWm9aMFRLWkdvQ00yVERGcVFHb1ctSzQtX1FrYkxJ?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-21T20:25:09+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dee6b8a20c77a6be",
-      "title": "Aliado de Flávio Bolsonaro investigado pela PF pagou viagens de Cláudio Castro para o exterior - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: aliado de Flávio Bolsonaro investigado pela PF pagou viagens de Cláudio Castro para o exterior. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWVNpMDRqVWJhQk0wSzNIamkxUmVpZ3NlSjEzQUVhVEtRNzRpT2RzV3c1UmgxN0dMN3lwOUh1VkJIalZpeTFsTk1wekh1Snp1Q250VXpPZ0c2Vmx6NnVJSFhUSnZSSnRGR0luSm1NSVJ2enBqN2I3TFpMdUUxNVRicWtHWWJVckstVnRfQ0Uyc3pFWDV0V3dfNGdQY2diZEsxbUd3LWlQMC1VRG5qRWt5LWhNTjVJSlNkY0kwZy1iMkt5SVFGNFphQmFYSWRUWWZDSDFQRjNUMzVTdDJaSlBfXy1LUmtNRno5cVN4UtIB-wFBVV95cUxNTENjVWtjWDJ1YzRzY28yY3JYZFlrVm1nMWUtek9QVmt6NjFsc1FpdlRYdGotc0Q2OU1Ka2ZTR3kxaW9ITzFGSVpTQUVGNGU4MHEzXzV3Y0M3bEhrbURBNE9sYS1mckozXzRWaV9jN0hJZUMtd2RoNXFtbENKNE5HWDdzTnZ6cnp0cV81RmFUWUlzMGFzZk1xc3paSGxrWW5yVlJuWkFDWFNnMklnWENXc3RvSEl4SzhUYlU4M1MtMlVXSTY5VEFEa1FYYVFDbVBsNXhVM3c3ZWdpVVVmSEF6MlZSSUpXYU5ETmlLbUtBazRhTm5VelQ2bDFNbw?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-21T20:21:48+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
@@ -1280,6 +1266,20 @@
       "archive": false
     },
     {
+      "id": "82ee1ac67e927ff0",
+      "title": "SUS inicia oferta de 9 novos medicamentos de alta tecnologia contra o câncer - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: sUS inicia oferta de 9 novos medicamentos de alta tecnologia contra o câncer. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDYzYlI4WDZPVVZ4ek9rT3l2ODlKUEpzNENBbGtuTjhhV2RkRkJTdlFRSUFVMzh1eldTa21XNnVoOXNXclpZTjU5c1d4WjNuUDlCU0g5WXRwZHUwSEFNSGV0NmItMTZUUktheExGa184TUszdy1GNlZDd0FKaThwVXZqcFRmamFjT2JvSlU3eWljd1RrSTlFR2tVSWxmNzA3eG5aTVh0MG1tdXZBcl93NkhCa25zejZ4QmpJTENxcnJ2RmxyTl9GaUFwUlrSAdsBQVVfeXFMTjEwU0FhWEtVc3IyWXNsQ3NhWndsNEw2eFNBV3ZlMVpKQXRBaGNGX0JEWlJtUWI0Mm9LMURydEhMX0E4VGFtSl81YXpJdTdkOTRFX0c1NE1VVzhHYzNrckFudzk4NWRDRUlnNGVzdGJqZWg0Rk43OURRVWxGcnVTOE1XekZzZFZsMXlhX0hxNTdBR25rVlo4eHVSbFhsY0ltZ05PMER5Rzh0X01objZXczJwLVBfazBpVVdmMnplVHB6czJESndmWm1VbTJYOXhFNkdBTFphZVVNT1Rz?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-21T16:22:42+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "3285184efd47ad89",
       "title": "Em movimento semelhante ao da França, gregos vão às ruas exigir investimento em educação e melhores salários - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: em movimento semelhante ao da França, gregos vão às ruas exigir investimento em educação e melhores salários. Consulte a reportagem para contexto, dados e declarações.",
@@ -1308,6 +1308,20 @@
       "archive": false
     },
     {
+      "id": "838c7661173ca1b4",
+      "title": "Paris estende toque de recolher pela terceira noite após onda de violência na França - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: paris estende toque de recolher pela terceira noite após onda de violência na França. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDUtdlEyVEpQZkZocW5aUDBXT1lEMzFDTXJaZzBJcVBRa2UwMU5rSXVyR1g2YlVMdUhsYVdJZ0oyeVotbUdtUEVENUx5OTFpbm9KYkZIWXN0eTNpM3E4OVp5RmMwZXg5Y3B3OEJfS1pGalVkRkhEYkx5S2RVY25FTXNxQ2VoRk5DSzNWUEJkNEQ5b0JieHdQQVhBLU9qZGxFTno2WnBiQ0ZrLVJWbVM5Ty1wbmxUcGpO?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-21T15:47:41+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "e3e795531d8fad26",
       "title": "Ex-ministro de Temer ganha força para integrar eventual governo Flávio - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: ex-ministro de Temer ganha força para integrar eventual governo Flávio. Consulte a reportagem para contexto, dados e declarações.",
@@ -1318,6 +1332,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1a319d2941583f0b",
+      "title": "Quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: quedas: mais de 330 mil crianças foram internadas no Brasil em 10 anos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/quedas-mais-de-330-mil-criancas-foram-internadas-no-brasil-em-10-anos",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-21T15:36:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1398,20 +1426,6 @@
       "url": "https://veja.abril.com.br/economia/negocios-com-imoveis-comerciais-disparam-156-apesar-dos-juros-altos/",
       "source": "VEJA",
       "published_at": "2026-10-21T12:00:33+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ffce36c12eb7e64b",
-      "title": "Beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: beneficiários com NIS de final 3 a 0 recebem Bolsa Família de outubro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/beneficiarios-com-nis-de-final-3-0-recebem-bolsa-familia-de-outubro",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T10:28:00+00:00",
       "category": "Economia",
       "candidate": null,
       "election_type": null,
@@ -1563,7 +1577,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 37
+      "items": 39
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1619,7 +1633,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 69
+      "items": 68
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1635,15 +1649,15 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 41
+      "items": 47
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 50
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 65
+      "items": 66
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1651,7 +1665,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 33
+      "items": 64
     },
     "Eleições · Flávio": {
       "status": "ok",
