@@ -160,14 +160,14 @@
   let allItems=[],active='todas',lastPayload=null;
   const filtersData = [
     ['todas','Todas'],['destaques','Destaques'],['portais','Portais'],['eleicoes','Eleições'],
-    ['ruas','Brasil nas ruas'], ...CATEGORIES.filter(c=>c[0]!=='ruas').map(c=>[c[0],c[1]])
+    ['ruas','Brasil nas ruas'], ...CATEGORIES.filter(c=>c[0]!=='ruas').map(c=>[c[0],c[1]]), ['arquivo','Arquivo mensal']
   ];
   function displaySection(cat){
     active=cat;
     Array.from(filters.querySelectorAll('button')).forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.filter===cat)));
     // Nunca filtrar artigos individualmente: os cards históricos têm a
     // classificação própria, mas pertencem à seção em que foram redistribuídos.
-    Array.from(live.querySelectorAll('section.cat[data-cat]')).forEach(e=>{e.hidden=cat!=='todas'&&e.dataset.cat!==cat;});
+    Array.from(live.querySelectorAll('section.cat[data-cat]')).forEach(e=>{e.hidden=cat==='todas'?e.dataset.cat==='arquivo':e.dataset.cat!==cat;});
   }
   filtersData.forEach(([key,label]) => {
     const chip=node('button','chip',label);chip.type='button';chip.dataset.filter=key;chip.setAttribute('aria-pressed',String(key==='todas'));
@@ -249,89 +249,50 @@
   }
   function electionSection(items) {
     const sec=node('section','cat');sec.dataset.cat='eleicoes';
-    const totalArchive=historicElection.lula.length+historicElection.flavio.length+historicElection.general.length+(historical.get('eleicoes')||[]).length;
-    sec.append(sectionTitle('Eleições 2026: Lula × Flávio','--cand-lula',8+totalArchive));
-    sec.append(node('p','small-note','Notícias recentes: quatro posições para cada candidato. Abaixo de cada grupo estão as matérias originais do Claude, identificadas como arquivo de 16/10/2026. Quantidades iguais para Lula e Flávio no arquivo.'));
+    sec.append(sectionTitle('Eleições 2026: Lula × Flávio','--cand-lula',8));
+    sec.append(node('p','small-note','Últimos sete dias: quatro posições editoriais para cada candidato. Sem notícia recente atribuída com segurança, o espaço permanece sinalizado. Edições passadas ficam no Arquivo mensal.'));
     [['lula','Lula'],['flavio','Flávio Bolsonaro']].forEach(([id,name])=>{
-      const group=node('div','cand-group');const label=node('h3','cand-label',name);label.style.color=`var(--cand-${id})`;group.append(label);
+      const group=node('div','cand-group');
+      const label=node('h3','cand-label',name);
+      label.style.color='var(--cand-'+id+')';group.append(label);
       const grid=node('div','card-grid');
       SLOT_NAMES.forEach(slot=>{
-        const found=sortedRecent(items.filter(i=>i.candidate===id && i.election_type===slot))[0];
+        const found=sortedRecent(items.filter(i=>i.candidate===id&&i.election_type===slot))[0];
         grid.append(found?createCard(found,{candidate:id,slot,category:'eleicoes'}):missingCard(slot,id));
       });
-      group.append(node('p','small-note','Notícias recentes · 4 posições'),grid);
-      const historicalCards=historicElection[id];
-      if(historicalCards.length){
-        const archiveGroup=node('div','historical-section');archiveGroup.append(historicalIntro(historicalCards.length));
-        const archiveGrid=node('div','card-grid');historicalCards.forEach(card=>archiveGrid.append(card));
-        archiveGroup.append(archiveGrid);group.append(archiveGroup);
-      }
-      sec.append(group);
+      group.append(grid);sec.append(group);
     });
-    const extras=(historical.get('eleicoes')||[]).concat(historicElection.general);
-    if(extras.length){
-      const area=node('div','historical-section');area.append(historicalIntro(extras.length));
-      const title=node('h3','historical-subhead','Outras notícias sobre as eleições');area.append(title);
-      const grid=node('div','card-grid');extras.forEach(card=>grid.append(card));area.append(grid);sec.append(area);
-    }
-    if(originalRace){
-      const polls=node('details','historical-context');
-      polls.append(node('summary','','Pesquisas e contexto eleitoral da edição de 16/10 — somente arquivo histórico'),
-        node('p','archive-explain','Resultados registrados no painel recebido. Estes números não são atualizados e não devem ser interpretados como pesquisas atuais.'),originalRace);
-      sec.append(polls);
-    }
-    if(originalElectionNote){
-      const note=node('div','historical-context-note');note.append(node('span','historical-badge',historicalLabel),originalElectionNote);
-      sec.append(note);
-    }
     return sec;
   }
   function streetSection(items){
     const sec=node('section','cat');sec.dataset.cat='ruas';
     const recent=items.filter(i=>classification(i)==='ruas');
-    const old=historicStreets.lula.length+historicStreets.flavio.length;
-    sec.append(sectionTitle('Brasil nas ruas: apoio e oposição pelos estados','--cat-ruas',recent.length+old));
-    if(recent.length){
-      sec.append(node('h3','historical-subhead','Notícias recentes'),cardsGroup(recent,'--cat-ruas','ruas'));
-    }
-    [['lula','Atos de apoio a Lula'],['flavio','Atos de oposição / pró-Flávio']].forEach(([id,label])=>{
-      const cards=historicStreets[id];
-      const group=node('div','cand-group historical-section');
-      const h=node('h3','cand-label',label);h.style.color=`var(--cand-${id})`;
-      group.append(h,historicalIntro(cards.length));
-      const grid=node('div','card-grid');cards.forEach(c=>grid.append(c));group.append(grid);sec.append(group);
-    });
+    sec.append(sectionTitle('Brasil nas ruas: apoio e oposição pelos estados','--cat-ruas',recent.length));
+    sec.append(cardsGroup(recent,'--cat-ruas','ruas'));
     return sec;
   }
   function highlights(items) {
     const sec=node('section','cat');sec.dataset.cat='destaques';
     const recent=sortedRecent(items.filter(i=>classification(i)!=='eleicoes'));
-    // Evita que uma rajada de notícias de uma única fonte ou editoria ocupe
-    // todos os destaques do dia.
     const picked=[],cats=new Set(),sources=new Set();
-    for(const i of recent) {
+    for(const i of recent){
       const c=classification(i),src=normalizeSource(i.source);
-      if(cats.has(c) || sources.has(src)) continue;
+      if(cats.has(c)||sources.has(src))continue;
       picked.push(i);cats.add(c);sources.add(src);
       if(picked.length===6)break;
     }
-    for(const i of recent) {
+    for(const i of recent){
       if(picked.length===6)break;
       if(!picked.includes(i))picked.push(i);
     }
-    sec.append(sectionTitle('Destaques da edição atual','--accent',picked.length+originalHighlights.length),cardsGroup(picked,'--accent','destaques'));
-    if(originalHighlights.length){
-      const area=node('div','historical-section');area.append(historicalIntro(originalHighlights.length));
-      const grid=node('div','hero-grid historical-highlights');originalHighlights.forEach(card=>grid.append(card));
-      area.append(grid);sec.append(area);
-    }
+    sec.append(sectionTitle('Destaques dos últimos 7 dias','--accent',picked.length),cardsGroup(picked,'--accent','destaques'));
     return sec;
   }
   function footer(payload,items) {
     newFooter.replaceChildren();
     const src=[...new Set(items.map(i=>i.source).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'pt-BR'));
     const p=node('p','');p.append(node('strong','','Fontes de notícias efetivamente exibidas: '),document.createTextNode(src.length?src.join(', ')+'.':'nenhuma confirmada nesta coleta.'));
-    const p2=node('p','');p2.append(node('strong','','Metodologia: '),document.createTextNode('Manchetes e metadados recentes provêm de feeds RSS/Atom ou agregadores, sem leitura integral das reportagens. As matérias do arquivo Claude de 16/10/2026 estão distribuídas nas editorias e identificadas por data, com os resumos originais e links da edição recebida; não foram atualizadas ou verificadas automaticamente.'));
+    const p2=node('p','');p2.append(node('strong','','Metodologia: '),document.createTextNode('Manchetes e metadados recentes provêm de feeds RSS/Atom ou agregadores, sem leitura integral das reportagens. As matérias da edição original do Claude de 16/10/2026 ficam na aba Arquivo mensal, organizadas por data, e não são atualizadas ou verificadas automaticamente.'));
     const p3=node('p','');p3.append(node('strong','','Restrições de acesso: '),document.createTextNode('G1, O Globo, Folha, Estadão, VEJA e The New York Times podem bloquear a leitura automatizada de matérias completas. Isso não impede necessariamente a recepção de manchetes via RSS ou agregadores. Os resumos históricos são paráfrases próprias com links para as fontes originais.'));
     const date = node('p','footer-timestamp', 'Última coleta concluída: '+dateOf(payload.last_checked_at)+'. Última coleta bem-sucedida: '+dateOf(payload.last_success_at)+'.');
     newFooter.append(p,p2,p3,date);
@@ -341,11 +302,17 @@
     lastPayload=payload;
     // Filtros de relevância: não transformar eventos de celebridades, esportes e entretenimento em política.
     const noise = /\b(halloween|fantasias de celebridades|bbb|big brother|hor[oó]scopo|novela|receita de bolo|futebol|campeonato|show de|celebridades|reality show|moda|celebridade)\b/i;
-    allItems=sortedRecent(payload.items.filter(i=>i && i.title && safeUrl(i.url) && !noise.test(i.title) && !i.archive));
+    const sevenDays=7*24*60*60*1000;
+    const now=Date.now();
+    allItems=sortedRecent(payload.items.filter(i=>{
+      if(!i||!i.title||!safeUrl(i.url)||noise.test(i.title)||i.archive)return false;
+      const published=Date.parse(i.published_at);
+      return Number.isFinite(published)&&published<=now+4*60*60*1000&&now-published<=sevenDays;
+    }));
     live.replaceChildren();
     const note=node('div','live-summary');
     const checked=dateOf(payload.last_checked_at);
-    note.append(node('strong','', 'EDIÇÃO ATUAL · MANCHETES AUTOMÁTICAS'),node('span','', `${allItems.length} notícias · checagem: ${checked} (Brasília)`));
+    note.append(node('strong','', 'EDIÇÃO ATUAL · ÚLTIMOS SETE DIAS'),node('span','', `${allItems.length} notícias · checagem: ${checked} (Brasília)`));
     if(payload.status!=='atualizado') {
       const failures=Object.entries(payload.source_health||{})
         .filter(([,v])=>v&&v.status==='erro').map(([name])=>name);
@@ -354,21 +321,21 @@
         : 'Coleta sem novidades confirmadas. Consulte a data da última coleta válida.';
       note.append(node('span','caution',message));
     }
-    const archiveTotal=[...historical.values()].reduce((n,c)=>n+c.length,0)+
-      historicElection.lula.length+historicElection.flavio.length+historicElection.general.length+
-      historicStreets.lula.length+historicStreets.flavio.length+originalHighlights.length;
-    note.append(node('span','historical-summary',`${archiveTotal} registros históricos do Claude, separados por editoria`));
+    note.append(node('span','historical-summary','Notícias anteriores: aba Arquivo mensal'));
     live.append(note,highlights(allItems),renderPortals(allItems,payload.source_health||{}),electionSection(allItems));
     CATEGORIES.forEach(([cat,name,color])=>{
       if(cat==='ruas'){live.append(streetSection(allItems));return;}
       const list=allItems.filter(i=>classification(i)===cat).slice(0,15);
-      const historicN=(historical.get(cat)||[]).length;
       const sec=node('section','cat');sec.dataset.cat=cat;
-      sec.append(sectionTitle(name,color,list.length+historicN));
-      if(list.length) sec.append(node('h3','historical-subhead','Notícias recentes'));
-      sec.append(cardsGroup(list,color,cat));
-      appendHistorical(sec,cat);live.append(sec);
+      sec.append(sectionTitle(name,color,list.length));
+      sec.append(cardsGroup(list,color,cat));live.append(sec);
     });
+    if(window.PainelBrasilArquivo){
+      live.append(window.PainelBrasilArquivo.makeSection({
+        historical,historicElection,historicStreets,originalHighlights,
+        originalRace,originalElectionNote,CATEGORIES,createCard
+      }));
+    }
     const age=Date.now()-Date.parse(payload.last_success_at||'');
     const isRecent=Number.isFinite(age) && age>=0 && age<2.5*3600*1000;
     if(updated) updated.textContent=(isRecent?'Coletado em ':'Última coleta válida: ')+dateOf(payload.last_success_at);
@@ -387,9 +354,9 @@
     } catch (error) {
       const msg=error instanceof Error?error.message:String(error);
       if(!lastPayload){
-        // Mesmo sem rede, apresentar o histórico do Claude dentro de cada aba.
+        // Sem rede, apresentar o arquivo mensal e informar o erro.
         render({items:[],status:'indisponivel',last_checked_at:null,last_success_at:null});
-        live.prepend(node('p','offline-notice','Sem conexão com a coleta automática ('+msg+'). As notícias do Claude, identificadas como arquivo, continuam disponíveis em cada categoria.'));
+        live.prepend(node('p','offline-notice','Sem conexão com a coleta automática ('+msg+'). As edições anteriores permanecem na aba Arquivo mensal.'));
         if(updated)updated.textContent='Atualização não disponível';
         document.querySelector('.live-dot')?.classList.add('not-fresh');
       }
