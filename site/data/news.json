@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:06:13.973295+00:00",
-  "last_success_at": "2026-10-22T03:06:13.973295+00:00",
+  "last_checked_at": "2026-10-22T03:07:12.514663+00:00",
+  "last_success_at": "2026-10-22T03:07:12.514663+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -1098,6 +1098,20 @@
       "archive": false
     },
     {
+      "id": "e1a6b9c9f8d727a5",
+      "title": "Nem todas vão crescer: Itaú BBA prevê trimestre difícil para empresas do setor de saúde - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: nem todas vão crescer: Itaú BBA prevê trimestre difícil para empresas do setor de saúde. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVTRPQmRKcVdwdjBveTh2TExMUzBxOXNILWhmRFpWNVhCY0tVZk4wUmh3TDJkdHpRYlJjQkVRbmgtM3dQa1dZQ19HTkNpdXhERVJpN1hUWnhMZ0FkVEJUQ09TYzNyR0RLaEEyLWQtN0pSQjVGTkRmenFSZEkwVVJScWNMZ1J6QkxtSjFwZ1cyblJSNGlJOEpydThpTjc2UW1saW1ENkt0UTZMZk9JdHNnZjM5SmgzZ2hsVG1JaEFxbV9aNlllR2ZaZ3ZBYXRtLWRkX09FSGloNVFGMTBkWlA1QjRORi1Tdi1U?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-21T18:04:49+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "3314c8bb0b68e7b7",
       "title": "Importações para pesquisa pública terão imunidade tributária",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: importações para pesquisa pública terão imunidade tributária. Consulte a reportagem para contexto, dados e declarações.",
@@ -1276,20 +1290,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "04a340d4cc590e99",
-      "title": "Pediatras alertam para riscos de brinquedos com IA",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: pediatras alertam para riscos de brinquedos com IA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/pediatras-alertam-para-riscos-de-brinquedos-com-ia",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T14:48:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1504,6 +1504,20 @@
       "archive": false
     },
     {
+      "id": "b76ab99f023de4ac",
+      "title": "Termina neste domingo prazo escolher idioma da prova do Enem 2026",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: termina neste domingo prazo escolher idioma da prova do Enem 2026. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/termina-neste-domingo-prazo-escolher-idioma-da-prova-do-enem-2026",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-18T16:15:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "58d916d5e881a581",
       "title": "A uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP",
       "summary": "O veículo G1 publicou uma atualização sobre: a uma semana das eleições, manifestantes fazem ato de apoio a Flávio Bolsonaro (PL) em São José dos Campos, SP. Consulte a reportagem para contexto, dados e declarações.",
@@ -1595,11 +1609,11 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 41
+      "items": 46
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 49
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1611,11 +1625,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 64
+      "items": 65
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 63
+      "items": 62
     }
   },
   "notes": [
