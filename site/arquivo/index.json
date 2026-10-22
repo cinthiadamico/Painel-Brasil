@@ -6,39 +6,51 @@
       "days": [
         {
           "date": "2026-10-22",
-          "count": 12,
+          "count": 14,
+          "claude_count": 0,
           "claude_original": false,
-          "path": "arquivo/2026-10/2026-10-22/materias.json"
+          "path": "arquivo/2026-10/2026-10-22/materias.json",
+          "claude_path": null
         },
         {
           "date": "2026-10-21",
-          "count": 93,
+          "count": 94,
+          "claude_count": 0,
           "claude_original": false,
-          "path": "arquivo/2026-10/2026-10-21/materias.json"
+          "path": "arquivo/2026-10/2026-10-21/materias.json",
+          "claude_path": null
         },
         {
           "date": "2026-10-20",
           "count": 6,
+          "claude_count": 0,
           "claude_original": false,
-          "path": "arquivo/2026-10/2026-10-20/materias.json"
+          "path": "arquivo/2026-10/2026-10-20/materias.json",
+          "claude_path": null
         },
         {
           "date": "2026-10-19",
           "count": 3,
+          "claude_count": 0,
           "claude_original": false,
-          "path": "arquivo/2026-10/2026-10-19/materias.json"
+          "path": "arquivo/2026-10/2026-10-19/materias.json",
+          "claude_path": null
         },
         {
           "date": "2026-10-17",
           "count": 1,
+          "claude_count": 0,
           "claude_original": false,
-          "path": "arquivo/2026-10/2026-10-17/materias.json"
+          "path": "arquivo/2026-10/2026-10-17/materias.json",
+          "claude_path": null
         },
         {
           "date": "2026-10-16",
           "count": 0,
+          "claude_count": 0,
           "claude_original": true,
-          "path": "arquivo/2026-10/2026-10-16/materias.json"
+          "path": "arquivo/2026-10/2026-10-16/materias.json",
+          "claude_path": null
         }
       ]
     }

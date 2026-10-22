@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:45:43.860077+00:00",
-  "last_success_at": "2026-10-22T03:45:43.860077+00:00",
+  "last_checked_at": "2026-10-22T03:46:31.707528+00:00",
+  "last_success_at": "2026-10-22T03:46:31.707528+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -20,6 +20,20 @@
       "archive": false
     },
     {
+      "id": "95e0c4580fcef98c",
+      "title": "Lula x Flávio Bolsonaro: o que diz a pesquisa Quaest sobre o 2º turno - O Assunto #1830",
+      "summary": "O veículo G1 publicou uma atualização sobre: lula x Flávio Bolsonaro: o que diz a pesquisa Quaest sobre o 2º turno - O Assunto #1830. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/22/lula-x-flavio-bolsonaro-o-que-diz-a-pesquisa-quaest-sobre-o-2o-turno-o-assunto-1830.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-22T03:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "334556c2bd708c05",
       "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
       "summary": "O veículo The New York Times publicou uma atualização sobre: drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War. Consulte a reportagem para contexto, dados e declarações.",
@@ -30,6 +44,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6ffe4c1e7e71738d",
+      "title": "MPE diz que Meta descumpriu parte das determinações do TSE e pede multa - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: mPE diz que Meta descumpriu parte das determinações do TSE e pede multa - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1lGdUZCVUtETmNIeHJBcnYzUGMzdS1nTkQ2aVV2MzBibE13TWxQTE9HYXIzZ2twS0JfeERHZmR1R21UR3BuenpJM3lEWVlfNU5FTVVUY3RUTDV1NmttTE9iUkEzQlo0ZmFfS1BpeUppNFpGYUhGQkRkamY4V04xc2RoM2swbW5EMFJMc2h5dzVXYzdSdnNGQjNid1VlX2pscGl1ZVN2NUo?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T03:04:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -146,20 +174,6 @@
       "archive": false
     },
     {
-      "id": "8f90694d723d03ba",
-      "title": "Globo e afiliadas promovem debates e sabatinas de 2º turno para os governos do AC, AM, DF, ES, RN e TO; veja como assistir",
-      "summary": "O veículo G1 publicou uma atualização sobre: globo e afiliadas promovem debates e sabatinas de 2º turno para os governos do AC, AM, DF, ES, RN e TO; veja como assistir. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/globo-e-afiliadas-promovem-debates-e-sabatinas-de-2o-turno-para-os-governos-do-ac-am-df-es-rn-e-to-veja-como-assistir.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "faa1ce2419be9316",
       "title": "Mega-Sena pode pagar R$ 200 milhões nesta quinta-feira; g1 transmite ao vivo",
       "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena pode pagar R$ 200 milhões nesta quinta-feira; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
@@ -265,20 +279,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-22T01:56:00+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f2db3ae8127b4c4d",
-      "title": "MPE diz que Meta descumpriu parte das determinações do TSE, aponta novo tratamento desigual em campanhas e pede multa",
-      "summary": "O veículo G1 publicou uma atualização sobre: mPE diz que Meta descumpriu parte das determinações do TSE, aponta novo tratamento desigual em campanhas e pede multa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/mp-eleitoral-diz-que-meta-descumpriu-parte-das-determinacoes-do-tse-pede-multa-e-aponta-novo-tratamento-desigual-em-campanhas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T01:51:33+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -740,6 +740,20 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSjlpRGI2Z2JpeU1sRnZaUmNXUTNtUEduMko1WFgyZWRFQk5DU3M3NHl2TndUYjk3b3ZLQjRLOTUzQnJPQ1ZPNDhLSkhvaE1MTFlrNVN4VW5vZDhOdHZuMmZPbHFjRGJlUEUzUmp6VFA2QU1YTG1OU1pRRkFNbEJOVm9sWWZNN2dRNXpMM0YtOE42d1Rhd1ZHSzdxNFZlZ1RGYWlTVDlMTmU1eE5MREhjWTBSazdValVqVmJWd19jTk5vYWRBREtBRTFabllId3QzV1lqSThSLUszQVZSQmoyMmg0Um9jLUd1c0E3UTFzcjlJdjhVdjFn0gGGAkFVX3lxTE1jakxjR1U2dGt5U3VNMVN1bWpLTHRtWmVacjNHNV9kWEVWZG43RGdieldiRHNkRWo1OGdqeGNlRlRYRmxjUlEwZ2RvZWRuZ0xkLTVTeTNiYWk4S00zUVVDNDEweWY1aUxYUGhWdGlNc0tQYXkzVDcxRXlPRUhfQTlnMnV5RnhiQW04NHFkT2JYamhubnNmZUNWN2gzY2ptYl9kTDNLVm5NNUg0NkI4UHo4SnNzelhPU2Q5aXRzRERnS296RF9aeEZwQ2VZU1VFRmFmX2lTem5Kb2Q5ekx3cUh3cGtscUE2RHdfSzVZeDN1aDJCMXRjYjhIaTktT0NaOFpEaVZrQlE?oc=5",
       "source": "G1",
       "published_at": "2026-10-21T22:16:27+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "be37548e90829a48",
+      "title": "Paciente tem reação após receber transfusão de sangue em hospital do Paraná e família denuncia que ele recebeu o tipo sanguíneo errado - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: paciente tem reação após receber transfusão de sangue em hospital do Paraná e família denuncia que ele recebeu o tipo sanguíneo errado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPd0JYRnVsazFtZjl2S1I2RnZHZEx2Z0hSVEVEWTBxcV9Ic2MtUGxvb3poTE1NbnRYYVktMVY4Y0RJaFNERTJ2djVkR3NZMGFFTHM3bzBUOVRYc2RSWWE4cHFKYXN0NXlDVUZjZUViLVJLQ1FlRFBpSkJEUmRyRHBOSVFJUGdUWUpTQ2Y0MDE5Nld0bG9KZkF5bFBEZ2x6RXI4cmV5R3ZIaTBnYXJHOWVqd3N5YjRveWNLZnVzdDM2V3JlWE1FUjBYV3NkM2ZUMnozVVZ5eXN1M2J2WlhydFA3ekZCZXJHWHJhbjBlbWtwSUdjcU1iMVM0NVdnS1ptU2ViV0FDQmVERERGX2pfUjNVdTVWMmlDTWl0Q3M3bVd0T190RFNk0gGzAkFVX3lxTE5wQjZNUEJ6WUlvNXg4MTNneTIyU1NYSldJcGJGdkx6UExJcHRhUXZkUi1UeVhHb2tkQ3JBXzBwbmpYTkgzZ3hfWnhqTUtIcGQycGZ5d25KdjZ2Y0djcUtuRVhXV1lPbUowT1RENjh1djd2RFJHU3BJbTc3MzRmUllBWVhRZnNfRkdjN3IzQjdNazFJREY2LUgyRzVmUHRsZmxWT3ZCOUhXTkpfRGMwQ3BiVlptRXJsWWc1aHltdTM5YUpwWFI2ZnBYUzBGdldsd1ZQbF9BTElpX29LbTJVZHNPVUdwVFpRYVlNREFYVmdaRnBKa0x5MzltWGpRV2JMVHRWaXM3NFU0ZjUyUzRYWVhxNl9janVVR1ZtZzFqZmZzNFprMzJFU2dQNFhjcFlaSVU4aE0?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-21T22:15:41+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
@@ -1266,20 +1280,6 @@
       "archive": false
     },
     {
-      "id": "82ee1ac67e927ff0",
-      "title": "SUS inicia oferta de 9 novos medicamentos de alta tecnologia contra o câncer - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: sUS inicia oferta de 9 novos medicamentos de alta tecnologia contra o câncer. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDYzYlI4WDZPVVZ4ek9rT3l2ODlKUEpzNENBbGtuTjhhV2RkRkJTdlFRSUFVMzh1eldTa21XNnVoOXNXclpZTjU5c1d4WjNuUDlCU0g5WXRwZHUwSEFNSGV0NmItMTZUUktheExGa184TUszdy1GNlZDd0FKaThwVXZqcFRmamFjT2JvSlU3eWljd1RrSTlFR2tVSWxmNzA3eG5aTVh0MG1tdXZBcl93NkhCa25zejZ4QmpJTENxcnJ2RmxyTl9GaUFwUlrSAdsBQVVfeXFMTjEwU0FhWEtVc3IyWXNsQ3NhWndsNEw2eFNBV3ZlMVpKQXRBaGNGX0JEWlJtUWI0Mm9LMURydEhMX0E4VGFtSl81YXpJdTdkOTRFX0c1NE1VVzhHYzNrckFudzk4NWRDRUlnNGVzdGJqZWg0Rk43OURRVWxGcnVTOE1XekZzZFZsMXlhX0hxNTdBR25rVlo4eHVSbFhsY0ltZ05PMER5Rzh0X01objZXczJwLVBfazBpVVdmMnplVHB6czJESndmWm1VbTJYOXhFNkdBTFphZVVNT1Rz?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-21T16:22:42+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "3285184efd47ad89",
       "title": "Em movimento semelhante ao da França, gregos vão às ruas exigir investimento em educação e melhores salários - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: em movimento semelhante ao da França, gregos vão às ruas exigir investimento em educação e melhores salários. Consulte a reportagem para contexto, dados e declarações.",
@@ -1619,7 +1619,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 67
+      "items": 68
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1627,7 +1627,7 @@
     },
     "Metrópoles · Política": {
       "status": "ok",
-      "items": 95
+      "items": 93
     },
     "O Globo": {
       "status": "ok",
@@ -1635,7 +1635,7 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 42
+      "items": 47
     },
     "G1 · Busca alternativa": {
       "status": "ok",
@@ -1651,11 +1651,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 64
+      "items": 33
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 63
+      "items": 31
     }
   },
   "notes": [
