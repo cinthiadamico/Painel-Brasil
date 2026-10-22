@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T03:47:27.393464+00:00",
-  "last_success_at": "2026-10-22T03:47:27.393464+00:00",
+  "last_checked_at": "2026-10-22T03:48:17.254863+00:00",
+  "last_success_at": "2026-10-22T03:48:17.254863+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -1655,7 +1655,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 63
+      "items": 31
     }
   },
   "notes": [

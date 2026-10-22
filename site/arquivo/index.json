@@ -15,10 +15,10 @@
         {
           "date": "2026-10-21",
           "count": 94,
-          "claude_count": 0,
-          "claude_original": false,
+          "claude_count": 689,
+          "claude_original": true,
           "path": "arquivo/2026-10/2026-10-21/materias.json",
-          "claude_path": null
+          "claude_path": "arquivo/2026-10/2026-10-21/claude.json"
         },
         {
           "date": "2026-10-20",
