@@ -182,6 +182,12 @@
         wrap.append(row);box.append(wrap);
       }
       if(!box.children.length)box.append($el('p','empty-state','O arquivo mensal ainda não tem matérias.'));
+      if(!currentDate){
+        let requested=null;
+        try {requested=new URLSearchParams(location.search).get('data');}catch(_){}
+        const selected=data.months.flatMap(month=>month.days).find(day=>day.date===requested);
+        if(selected)loadDay(selected.date,selected.path,selected.claude_path);
+      }
     }catch(error){
       if(!catalogLoaded)box.replaceChildren($el('p','archive-error','O índice mensal ainda não está disponível. A coleta horária criará as pastas automaticamente.'));
     }
