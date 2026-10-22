@@ -159,12 +159,24 @@
   const nav=$('filters'); if (nav) nav.replaceWith(nav.cloneNode(false));
   const filters=$('filters');
   let allItems=[],active='todas',lastPayload=null;
+  try {
+    const requested=new URLSearchParams(location.search).get('aba');
+    if(['todas','destaques','portais','metropoles','eleicoes','ruas','politica','governo','economia','divida','justica','camara','senado','intl','saude','edu','seg','arquivo'].includes(requested)) active=requested;
+  } catch (_) { /* URL sem parametros */ }
   const filtersData = [
     ['todas','Todas'],['destaques','Destaques'],['portais','Portais'],['metropoles','Metrópoles'],['eleicoes','Eleições'],
     ['ruas','Brasil nas ruas'], ...CATEGORIES.filter(c=>c[0]!=='ruas').map(c=>[c[0],c[1]]), ['arquivo','Arquivo mensal']
   ];
-  function displaySection(cat){
+  function displaySection(cat,updateUrl=false){
     active=cat;
+    if(updateUrl) {
+      try {
+        const url=new URL(location.href);
+        if(cat==='todas')url.searchParams.delete('aba');
+        else url.searchParams.set('aba',cat);
+        history.replaceState(null,'',url);
+      } catch (_) { /* navegacao sem historico */ }
+    }
     Array.from(filters.querySelectorAll('button')).forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.filter===cat)));
     // Nunca filtrar artigos individualmente: os cards históricos têm a
     // classificação própria, mas pertencem à seção em que foram redistribuídos.
@@ -172,7 +184,7 @@
   }
   filtersData.forEach(([key,label]) => {
     const chip=node('button','chip',label);chip.type='button';chip.dataset.filter=key;chip.setAttribute('aria-pressed',String(key==='todas'));
-    chip.addEventListener('click',()=>displaySection(key));
+    chip.addEventListener('click',()=>displaySection(key,true));
     filters.append(chip);
   });
 
