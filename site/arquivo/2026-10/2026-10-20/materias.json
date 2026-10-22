@@ -4,6 +4,20 @@
   "claude_original": false,
   "items": [
     {
+      "id": "dd77d425e4940c11",
+      "title": "Mega-Sena não tem acertador e prêmio vai a R$ 200 milhões",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mega-Sena não tem acertador e prêmio vai a R$ 200 milhões. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/mega-sena-nao-tem-acertador-e-premio-vai-r-200-milhoes",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-21T01:36:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "1f04c033f2b20a34",
       "title": "Flávio Bolsonaro reúne Gusttavo Lima e outros sertanejos em gravações de apoio à campanha - GCMais",
       "summary": "O veículo GCMais publicou uma atualização sobre: flávio Bolsonaro reúne Gusttavo Lima e outros sertanejos em gravações de apoio à campanha - GCMais. Consulte a reportagem para contexto, dados e declarações.",
@@ -27,6 +41,20 @@
       "category": "Eleições",
       "candidate": "lula",
       "election_type": "Apoiador",
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8d7dd651f9f4ffe5",
+      "title": "Dólar cai para R$ 5,01 com exterior e expectativa eleitoral no Brasil",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: dólar cai para R$ 5,01 com exterior e expectativa eleitoral no Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-cai-para-r-501-com-exterior-e-expectativa-eleitoral-no-brasil",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-20T22:34:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
       "via_aggregator": false,
       "curated": false,
       "archive": false
