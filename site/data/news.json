@@ -1,17 +1,45 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-23T00:58:13.752510+00:00",
-  "last_success_at": "2026-10-23T00:58:13.752510+00:00",
+  "last_checked_at": "2026-10-23T01:47:58.314881+00:00",
+  "last_success_at": "2026-10-23T01:47:58.314881+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
-      "id": "b8ca876404402504",
-      "title": "Falha grave de segurança faz empresas e governos ao redor do mundo tirarem milhares de sites do ar; entenda",
-      "summary": "O veículo G1 publicou uma atualização sobre: falha grave de segurança faz empresas e governos ao redor do mundo tirarem milhares de sites do ar; entenda. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/falha-grave-de-seguranca-faz-empresas-e-governos-ao-redor-do-mundo-tirarem-milhares-de-sites-do-ar-entenda.ghtml",
+      "id": "057a1eb9d6c07935",
+      "title": "Nova pesquisa Datafolha mostra a distância entre Flávio e Lula nas regiões do Brasil",
+      "summary": "O veículo VEJA publicou uma atualização sobre: nova pesquisa Datafolha mostra a distância entre Flávio e Lula nas regiões do Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/nova-pesquisa-datafolha-mostra-a-distancia-entre-flavio-e-lula-nas-regioes-do-brasil-2/",
+      "source": "VEJA",
+      "published_at": "2026-10-23T01:46:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d0284924aad5e857",
+      "title": "ASSISTA: acompanhe o debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta",
+      "summary": "O veículo G1 publicou uma atualização sobre: aSSISTA: acompanhe o debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/debate-lorenzo-pazolini-ricardo-ferraco-governo-espirito-santo.ghtml",
       "source": "G1",
-      "published_at": "2026-10-23T00:52:36+00:00",
+      "published_at": "2026-10-23T01:36:57+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f808e6cce0213843",
+      "title": "Assista ao vivo ao debate entre os candidatos ao governo do RN Allyson e Cadu de Lula",
+      "summary": "O veículo G1 publicou uma atualização sobre: assista ao vivo ao debate entre os candidatos ao governo do RN Allyson e Cadu de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/debate-allyson-cadu-de-lula-governo-rn.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T01:36:32+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -21,12 +49,138 @@
     },
     {
       "id": "97c136e6f877b192",
-      "title": "Candidato ao governo do Acre, Alan Rick (Republicanos) é entrevistado na Rede Amazônica",
-      "summary": "O veículo G1 publicou uma atualização sobre: candidato ao governo do Acre, Alan Rick (Republicanos) é entrevistado na Rede Amazônica. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "ASSISTA à entrevista com Alan Rick (Republicanos), candidato ao governo do Acre",
+      "summary": "O veículo G1 publicou uma atualização sobre: aSSISTA à entrevista com Alan Rick (Republicanos), candidato ao governo do Acre. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/candidato-ao-governo-do-acre-alan-rick-republicanos-e-entrevistado-na-rede-amazonica.ghtml",
       "source": "G1",
-      "published_at": "2026-10-23T00:50:56+00:00",
+      "published_at": "2026-10-23T01:35:05+00:00",
       "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "75f6f662db169e9d",
+      "title": "AGORA: Globo entrevista Leandro Grass, candidato ao governo do DF, nesta quinta; g1 transmite",
+      "summary": "O veículo G1 publicou uma atualização sobre: aGORA: Globo entrevista Leandro Grass, candidato ao governo do DF, nesta quinta; g1 transmite. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/globo-fara-debate-entre-candidatos-ao-governo-do-df-no-segundo-turno-nesta-quinta-g1-transmite.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T01:34:44+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3cd83829ac85312a",
+      "title": "EM INSTANTES: Rede Amazônica realiza debate entre candidatos ao governo do Amazonas no 2º turno das eleições",
+      "summary": "O veículo G1 publicou uma atualização sobre: eM INSTANTES: Rede Amazônica realiza debate entre candidatos ao governo do Amazonas no 2º turno das eleições. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/debate-omar-aziz-professora-maria-do-carmo-governo-amazonas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T01:33:22+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9d376e500839c68a",
+      "title": "Assista ao debate entre os candidatos ao governo do Tocantins",
+      "summary": "O veículo G1 publicou uma atualização sobre: assista ao debate entre os candidatos ao governo do Tocantins. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/debate-professora-dorinha-vicentinho-junior-governo-tocantins.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T01:32:03+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4b02d3c63af44c7c",
+      "title": "Apoiadores de Flávio Bolsonaro, candidato do PL à Presidência, vão para as ruas",
+      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Flávio Bolsonaro, candidato do PL à Presidência, vão para as ruas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/apoiadores-de-flavio-bolsonaro-candidato-do-pl-a-presidencia-vao-para-as-ruas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T01:29:45+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a8ad67509694d56e",
+      "title": "Apoiadores de Flávio Bolsonaro promovem atos em Maceió e no Recife",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: apoiadores de Flávio Bolsonaro promovem atos em Maceió e no Recife. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-promovem-atos-em-maceio-e-no-recife.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-23T01:28:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "94986d5bbb0d7b89",
+      "title": "Polícia investiga suspeita de estelionato envolvendo cantora contratada para casamentos em São Luís",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia investiga suspeita de estelionato envolvendo cantora contratada para casamentos em São Luís. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/22/policia-investiga-suspeita-de-estelionato-envolvendo-cantora-contratada-para-casamentos-em-sao-luis.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T01:21:46+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3d52a9c05a01a07a",
+      "title": "Vacina contra câncer reduz em 42% risco de morte ou recidiva de melanoma",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vacina contra câncer reduz em 42% risco de morte ou recidiva de melanoma. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/vacina-contra-cancer-reduz-em-42-risco-de-morte-ou-recidiva-de-melanoma.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-23T01:06:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2563486356d87a78",
+      "title": "Portaria convoca instituições financeiras para 3ª fase do Desenrola",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: portaria convoca instituições financeiras para 3ª fase do Desenrola. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/portaria-convoca-instituicoes-financeiras-para-3a-fase-do-desenrola",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-23T01:04:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "afeb06f9f9caca57",
+      "title": "Kassio e Mendonça enxergam TSE como arma de censura",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: kassio e Mendonça enxergam TSE como arma de censura. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/kassio-e-mendonca-enxergam-tse-como-arma-de-censura.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-23T01:00:00+00:00",
+      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -62,34 +216,6 @@
       "archive": false
     },
     {
-      "id": "3cd83829ac85312a",
-      "title": "Candidatos ao governo do Amazonas chegam para debate na Rede Amazônica; ACOMPANHE",
-      "summary": "O veículo G1 publicou uma atualização sobre: candidatos ao governo do Amazonas chegam para debate na Rede Amazônica; ACOMPANHE. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/debate-omar-aziz-professora-maria-do-carmo-governo-amazonas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T00:49:18+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c4850addbb9c1ade",
-      "title": "Choque de realidade leva Lula 3 a reconquistar alguns pobres e jovens",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: choque de realidade leva Lula 3 a reconquistar alguns pobres e jovens. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/choque-de-realidade-leva-lula-3-a-reconquistar-alguns-pobres-e-jovens.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-23T00:48:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "8122084a59a34ed2",
       "title": "Eleições 2026: Justiça Eleitoral recomenda que eleitores usem o e-Título no domingo (25)",
       "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Justiça Eleitoral recomenda que eleitores usem o e-Título no domingo (25). Consulte a reportagem para contexto, dados e declarações.",
@@ -97,48 +223,6 @@
       "source": "G1",
       "published_at": "2026-10-23T00:42:53+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d0284924aad5e857",
-      "title": "Debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta",
-      "summary": "O veículo G1 publicou uma atualização sobre: debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/debate-lorenzo-pazolini-ricardo-ferraco-governo-espirito-santo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T00:41:32+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "18c185eb33425075",
-      "title": "Resumão diário do JN: Mendonça decide que candidatos à Presidência podem abrir sigilos por conta própria; Datafolha divulga nova pesquisa de intenção de voto",
-      "summary": "O veículo G1 publicou uma atualização sobre: resumão diário do JN: Mendonça decide que candidatos à Presidência podem abrir sigilos por conta própria; Datafolha divulga nova pesquisa de intenção de vo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/resumao-diario-do-jn-mendonca-decide-que-candidatos-a-presidencia-podem-abrir-sigilos-por-conta-propria-datafolha-divulga-nova-pesquisa-de-intencao-de-voto.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T00:40:48+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9d376e500839c68a",
-      "title": "Candidatos ao governo do TO chegam para debate do 2º turno na TV Anhanguera",
-      "summary": "O veículo G1 publicou uma atualização sobre: candidatos ao governo do TO chegam para debate do 2º turno na TV Anhanguera. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/debate-professora-dorinha-vicentinho-junior-governo-tocantins.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T00:36:37+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -184,34 +268,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fccfd246464b390d",
-      "title": "Quaest: fim da 6 por 1 e relações com o Caso Master tiveram maior impacto para escolha de presidente no 1º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: quaest: fim da 6 por 1 e relações com o Caso Master tiveram maior impacto para escolha de presidente no 1º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/quaest-noticia-impacto-escolha-voto-presidente-1-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T00:33:17+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "892a4a92fdc4660c",
-      "title": "Quaest: maioria diz que Flávio Bolsonaro tem maior chance de reduzir impostos, e Lula, de manter programas sociais",
-      "summary": "O veículo G1 publicou uma atualização sobre: quaest: maioria diz que Flávio Bolsonaro tem maior chance de reduzir impostos, e Lula, de manter programas sociais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/quaest-candidatos-potencial.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T00:33:11+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -762,20 +818,6 @@
       "archive": false
     },
     {
-      "id": "199435bf379f3e98",
-      "title": "Após negar pedido, Justiça eleitoral do Amazonas diz que transporte para indígenas no Vale do Javari no 2º turno está garantido",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: após negar pedido, Justiça eleitoral do Amazonas diz que transporte para indígenas no Vale do Javari no 2º turno está garantido. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/apos-negar-pedido-justica-eleitoral-do-amazonas-diz-que-transporte-para-indigenas-no-vale-do-javari-no-2o-turno-esta-garantido.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T20:15:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b9d77561881a4a42",
       "title": "Áudio: Projeto prevê melhoria no controle da atividade de mineração",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Projeto prevê melhoria no controle da atividade de mineração. Consulte a reportagem para contexto, dados e declarações.",
@@ -1196,20 +1238,6 @@
       "archive": false
     },
     {
-      "id": "3087148751983411",
-      "title": "Macron proíbe protestos 'ilegítimos', e lojas se preparam em meio a temor de nova onda de violência - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: macron proíbe protestos 'ilegítimos', e lojas se preparam em meio a temor de nova onda de violência. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS2p6X0Q0ZG50MVg1NnpEWlNXM1l6Z2d1aEk2d3FqU3VYV3NmWXpUT1hzSFh3MHJTeFhwZDhIa0FWMWxRaU9fNFozUGU1a1cySDg0RVdMNXNmLWFrUjJFLWxMOFRGRldqVGRVX2xFeDlwZXNmMXgtMEVHMDlBWXYxb3dnOS10RUZjSXlSWHdTdl9wYUU4ckFUR3BocndZaS1TV2VKSXZTYXJYUWVqZ3VoOHVGRUFVaVRtT2syY053SVNZUkFuRHkwZm1Sa0pkd2JRc0ZTd2pncElzeC1BZldn?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T15:05:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a784579099d3f1f0",
       "title": "\"Desafio de sigilos\": Flávio e Lula mobilizam TSE a 3 dias do 2º turno - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: \"Desafio de sigilos\": Flávio e Lula mobilizam TSE a 3 dias do 2º turno - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -1434,20 +1462,6 @@
       "archive": false
     },
     {
-      "id": "db67c1a6a4fed93b",
-      "title": "Suprema Corte dos EUA barra restrição de Trump a tratamento de presos trans - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: suprema Corte dos EUA barra restrição de Trump a tratamento de presos trans - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3ZnTkdKUExpa1NVTlYweDZrSDRsR0lJbDEtb1RlMzh5NTJ0ZW9mUUNQYmgyQURvWXc0SXBoeVY5cm1lM1pVM0cxUjM5MVY0eWVJTE1BVmlkLXB1ampqX0hhaWVlWDlpY2d6X3ROR200SUx0RGRVOEViekxfYjVXcERScHJwNkVlMzRpbnJVYzVIaWRfZjdfVUxhQ2ZOZjktSmk1VzJ5ZGZqQVkw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-21T21:41:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "7ec436fa6bf40454",
       "title": "Dólar fecha em alta com atenção ao cenário político e temporada de balanços - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: dólar fecha em alta com atenção ao cenário político e temporada de balanços - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -1458,20 +1472,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5ab4d334caaec0b8",
-      "title": "Perdão de dívidas e novo teto do MEI: entenda o que muda",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: perdão de dívidas e novo teto do MEI: entenda o que muda. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/perdao-de-dividas-e-novo-teto-do-mei-entenda-o-que-muda",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T21:17:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1633,7 +1633,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 31
+      "items": 33
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1641,7 +1641,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 48
+      "items": 52
     },
     "VEJA": {
       "status": "ok",
@@ -1653,7 +1653,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1689,7 +1689,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 63
+      "items": 64
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1705,19 +1705,19 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 38
+      "items": 42
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 47
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 56
+      "items": 59
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 65
+      "items": 67
     },
     "Eleições · Lula": {
       "status": "ok",
