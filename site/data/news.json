@@ -1,10 +1,80 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-23T05:42:37.935741+00:00",
-  "last_success_at": "2026-10-23T05:42:37.935741+00:00",
+  "last_checked_at": "2026-10-23T06:54:18.416347+00:00",
+  "last_success_at": "2026-10-23T06:54:18.416347+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "f673a2ee0cb40446",
+      "title": "Multidão de 50 pessoas espanca estrangeiro até a morte na África do Sul - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: multidão de 50 pessoas espanca estrangeiro até a morte na África do Sul - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVZRaEZhYXplNUV6cUFYNWJMVnRpNjF2aTNMRnVLMnA1UndFenZBcGZHQmdrNHlzSFpycHZmQ1dqQk43TlU2bjdNRl9va0VxOXVpUmtfWHJ2OTNFdWdTOTBVQzFLaFcyWjV4ZV94VVdwSW5oVlJTWkFnaDJJb3Iyem9BRng3Sk90REQ2cGozNDFmYnNHU3dndGRnTThfTW5zQ1FTN21HVQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-23T06:36:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "60974ba063f15650",
+      "title": "Eleições de meio de mandato nos EUA: o que são as midterms e por que elas têm esse nome?",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições de meio de mandato nos EUA: o que são as midterms e por que elas têm esse nome?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/23/eleicoes-de-meio-de-mandato-nos-eua-o-que-sao-as-midterms-e-por-que-elas-tem-esse-nome.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T06:00:01+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "482188accae629cb",
+      "title": "Negociar com patrão, mudar jornadas e regular apps: o que Lula e Flávio propõem aos trabalhadores",
+      "summary": "O veículo G1 publicou uma atualização sobre: negociar com patrão, mudar jornadas e regular apps: o que Lula e Flávio propõem aos trabalhadores. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/23/negociar-com-patrao-mudar-jornadas-e-regular-apps-o-que-lula-e-flavio-propoem-aos-trabalhadores.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d10fb1a02dbcefeb",
+      "title": "Enem 2026: psicóloga orienta como controlar a ansiedade e chegar mais confiante para a prova",
+      "summary": "O veículo G1 publicou uma atualização sobre: enem 2026: psicóloga orienta como controlar a ansiedade e chegar mais confiante para a prova. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pi/piaui/ingresso-universitario/noticia/2026/10/23/enem-2026-controlar-ansiedade.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T06:00:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a0c45dcbeae8709c",
+      "title": "Plano de Trump para usar energia de Itaipu em empresas de inteligência artificial pode reduzir fornecimento ao Brasil, dizem especialistas",
+      "summary": "O veículo G1 publicou uma atualização sobre: plano de Trump para usar energia de Itaipu em empresas de inteligência artificial pode reduzir fornecimento ao Brasil, dizem especialistas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/23/plano-de-trump-para-usar-energia-de-itaipu-em-empresas-de-inteligencia-artificial-pode-reduzir-fornecimento-ao-brasil-dizem-especialistas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "3a0b4d3dc8da5d5d",
       "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
@@ -146,6 +216,20 @@
       "archive": false
     },
     {
+      "id": "59bfff86980d3979",
+      "title": "Ao Vivo | Barraco, bate-boca e denúncia de bomba: como foi o debate entre Flávio e Lula - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: ao Vivo | Barraco, bate-boca e denúncia de bomba: como foi o debate entre Flávio e Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3YzSVRfRDVORFFBYk9zVGkzejhERjJPSW1oUkw5MkhqVE1PUUItaWQzMVdyaTZWLWh4MmFkVDRiaHQtNHItV2pyQU9XandlcGhqYi02ZG5zeEdsUV92NVVaTE1wQlFway1aNU5ESlQ5SkZUbTdwU3FnQlM3STllMkdoUHhFdkFBNS1ISzRMajE0LWt6Z25sTjQtUG02dDRQZ2ppeDRtV05KWDB3TDMzLTYzZkxrUUIyMVpZTk1n?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-23T04:50:47+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "720d3dd1493de9f5",
       "title": "Candidatos ao governo do Espírito Santo participam de debate na TV Gazeta; veja a íntegra",
       "summary": "O veículo G1 publicou uma atualização sobre: candidatos ao governo do Espírito Santo participam de debate na TV Gazeta; veja a íntegra. Consulte a reportagem para contexto, dados e declarações.",
@@ -166,48 +250,6 @@
       "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/debate-lorenzo-pazolini-ricardo-ferraco-governo-espirito-santo.ghtml",
       "source": "G1",
       "published_at": "2026-10-23T04:12:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f808e6cce0213843",
-      "title": "Debate entre os candidatos ao governo do RN Allyson e Cadu de Lula",
-      "summary": "O veículo G1 publicou uma atualização sobre: debate entre os candidatos ao governo do RN Allyson e Cadu de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/debate-allyson-cadu-de-lula-governo-rn.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T04:09:46+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0907b78dbe09709b",
-      "title": "Allyson e Cadu de Lula participam de debate na Inter TV; veja íntegra",
-      "summary": "O veículo G1 publicou uma atualização sobre: allyson e Cadu de Lula participam de debate na Inter TV; veja íntegra. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/23/allyson-e-cadu-de-lula-participam-de-debate-na-inter-tv-veja-integra.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T04:08:14+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fa7c95253f19729b",
-      "title": "Candidatos ao governo do TO no 2º turno participam de debate na TV Anhanguera; veja a íntegra",
-      "summary": "O veículo G1 publicou uma atualização sobre: candidatos ao governo do TO no 2º turno participam de debate na TV Anhanguera; veja a íntegra. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/23/candidatos-ao-governo-do-to-no-2o-turno-participam-de-debate-na-tv-anhanguera-veja-a-integra.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T04:06:54+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -608,20 +650,6 @@
       "archive": false
     },
     {
-      "id": "8122084a59a34ed2",
-      "title": "Eleições 2026: Justiça Eleitoral recomenda que eleitores usem o e-Título no domingo (25)",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Justiça Eleitoral recomenda que eleitores usem o e-Título no domingo (25). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/eleicoes-2026-justica-eleitoral-recomenda-que-eleitores-usem-o-e-titulo-no-domingo-25.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T00:42:53+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e313117949b4982c",
       "title": "PGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: pGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado. Consulte a reportagem para contexto, dados e declarações.",
@@ -656,20 +684,6 @@
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/relatora-da-onu-critica-censura-de-canais-de-whatsapp-na-eleicao-brasileira.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-22T23:06:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0fc8aa68d6d2796b",
-      "title": "Fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/fifa-anuncia-eua-como-sede-da-1a-copa-do-mundo-de-clubes-feminina",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-22T23:03:00+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
@@ -860,20 +874,6 @@
       "archive": false
     },
     {
-      "id": "d49dda41340ee113",
-      "title": "EUA anuncia abertura de escritório para combate ao narcotráfico no Paraguai - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: eUA anuncia abertura de escritório para combate ao narcotráfico no Paraguai - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGFwOVFNQTFUNWlfS25BcFdyQXEtc0hyck9YTUF1SG5tcDVQaDZIc09TdnhjdnNyZnpWbGFFcURNWDdlQWhBR3FJUE5oQjlsZkkwLVB4bVZpNGxiLWItQkxIVmR5U1lJUllyZWhSODJXZkk2NUZuNC1GX1o4Q1h3MVNzMF9mdHozdE95YXk0Q0NQLV9xWUtxb1NkeGVjU1d1Zjd3cm9VR2U0NmFQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-22T21:04:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f0105b910ed5bfc8",
       "title": "Previsão de superávit no Orçamento de 2027 está mantida, diz Durigan",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: previsão de superávit no Orçamento de 2027 está mantida, diz Durigan. Consulte a reportagem para contexto, dados e declarações.",
@@ -884,6 +884,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e2959770c1c7b5e6",
+      "title": "Bernie Sanders e deputados dos EUA cobram Meta por atuação na eleição do Brasil - 22/10/2026 - Política - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: bernie Sanders e deputados dos EUA cobram Meta por atuação na eleição do Brasil - 22/10/2026 - Política. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNUNiZWFjQmh2MlFoalZmeVBWandjektlZUg5eGpISDN5RndmYld0T2pqQkNOWU9kMHN1M19vMjl4ZGNhdDBCenBYUUNYQVBQZWZPUjc1QTBHVGZzbHZpZnd4YnhZWEZPdlNyclR3QnY2TmJzdEZHY1hoYnBLOWp6aHJ0TlR0RE5rV2M5c3hPNWZCRXhOYVhfRWhCZ2s5ek5wazM1RmNZRjJiOXYwbV9pZEhXNHNtOXQ0WjcycG5HNUJUSks3NU1ONg?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T20:32:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -909,6 +923,20 @@
       "source": "Agência Câmara",
       "published_at": "2026-10-22T20:23:00+00:00",
       "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b22eb21fa8d94f3d",
+      "title": "Indígenas do Vale do Javari terão transporte gratuito no 2º turno",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: indígenas do Vale do Javari terão transporte gratuito no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/indigenas-do-vale-do-javari-terao-transporte-gratuito-no-2o-turno",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-22T20:14:00+00:00",
+      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1052,20 +1080,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a5734b3ecdb1fddd",
-      "title": "Áudio: Senado debate mais inclusão de pessoas surdas na educação",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Senado debate mais inclusão de pessoas surdas na educação. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-debate-mais-inclusao-de-pessoas-surdas-na-educacao",
-      "source": "Senado Federal",
-      "published_at": "2026-10-22T18:59:06+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1392,20 +1406,6 @@
       "archive": false
     },
     {
-      "id": "7333222617ad2cc5",
-      "title": "Flávio Bolsonaro promete avanço na educação em temas que Jair esvaziou; Lula quer mais bolsas - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro promete avanço na educação em temas que Jair esvaziou; Lula quer mais bolsas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNnpwUFNWODNUUDAxalEza0Nfd3kydmdON2hZRklJZzkzQVJOa3B3VjBHU0ZXZy1QOHpGVVZBVmVjY0NMWF9pRW01YzJpNjhucmVpNjBPTW54ajRhZ2JFeGxRTkRfOVlHeldIYzRKOVpLblRwTkl6eDVaTTVnTkhnSmdsT2VSZS1xTC1hRmlZZks2THZScnZncGgyRzhDUnU0VTlTZlNFVWNFVFNEOXlBLS1Mb18zYW5PYnhodTJTRGlpWjgydDhLdkI5UHF3SzhkdWJaWVk3aUZjTGdQemc?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T13:00:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "866320447389de09",
       "title": "Anvisa aprova novo medicamento para câncer de pulmão avançado",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: anvisa aprova novo medicamento para câncer de pulmão avançado. Consulte a reportagem para contexto, dados e declarações.",
@@ -1633,7 +1633,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 31
+      "items": 29
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1689,11 +1689,11 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 64
+      "items": 63
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 50
+      "items": 52
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1709,11 +1709,11 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 49
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 58
+      "items": 59
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1721,7 +1721,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 60
+      "items": 61
     },
     "Eleições · Flávio": {
       "status": "ok",
