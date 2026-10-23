@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-23T03:44:19.384587+00:00",
-  "last_success_at": "2026-10-23T03:44:19.384587+00:00",
+  "last_checked_at": "2026-10-23T04:42:59.332013+00:00",
+  "last_success_at": "2026-10-23T04:42:59.332013+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
-      "id": "f808e6cce0213843",
-      "title": "Debate entre os candidatos ao governo do RN Allyson e Cadu de Lula",
-      "summary": "O veículo G1 publicou uma atualização sobre: debate entre os candidatos ao governo do RN Allyson e Cadu de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/debate-allyson-cadu-de-lula-governo-rn.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T03:33:06+00:00",
-      "category": "Política",
+      "id": "3a0b4d3dc8da5d5d",
+      "title": "Arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: arms Race Intensifies in Korea as the North Is Emboldened by Russia Alliance. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/23/world/asia/korea-missiles-drones-russia.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-23T04:28:21+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -20,12 +20,12 @@
       "archive": false
     },
     {
-      "id": "3cd83829ac85312a",
-      "title": "Rede Amazônica realiza debate entre candidatos ao governo do Amazonas no 2º turno das eleições",
-      "summary": "O veículo G1 publicou uma atualização sobre: rede Amazônica realiza debate entre candidatos ao governo do Amazonas no 2º turno das eleições. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/debate-omar-aziz-professora-maria-do-carmo-governo-amazonas.ghtml",
+      "id": "ed986db1bfa92b41",
+      "title": "Vídeos: candidatos ao governo no Espírito Santo no 2º turno participam de debate na TV Gazeta",
+      "summary": "O veículo G1 publicou uma atualização sobre: vídeos: candidatos ao governo no Espírito Santo no 2º turno participam de debate na TV Gazeta. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/playlist/videos-candidatos-ao-governo-no-espirito-santo-no-2-turno-participam-de-debate-na-tv-gazeta.ghtml",
       "source": "G1",
-      "published_at": "2026-10-23T03:31:22+00:00",
+      "published_at": "2026-10-23T04:27:58+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -39,7 +39,7 @@
       "summary": "O veículo G1 publicou uma atualização sobre: debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/debate-lorenzo-pazolini-ricardo-ferraco-governo-espirito-santo.ghtml",
       "source": "G1",
-      "published_at": "2026-10-23T03:30:27+00:00",
+      "published_at": "2026-10-23T04:12:01+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -48,12 +48,12 @@
       "archive": false
     },
     {
-      "id": "80768d6fcf626070",
-      "title": "Lula x Flávio Bolsonaro: o que vai decidir a eleição mais acirrada da história - O Assunto #1831",
-      "summary": "O veículo G1 publicou uma atualização sobre: lula x Flávio Bolsonaro: o que vai decidir a eleição mais acirrada da história - O Assunto #1831. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/23/lula-x-flavio-bolsonaro-o-que-vai-decidir-a-eleicao-mais-acirrada-da-historia-o-assunto-1831.ghtml",
+      "id": "f808e6cce0213843",
+      "title": "Debate entre os candidatos ao governo do RN Allyson e Cadu de Lula",
+      "summary": "O veículo G1 publicou uma atualização sobre: debate entre os candidatos ao governo do RN Allyson e Cadu de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/debate-allyson-cadu-de-lula-governo-rn.ghtml",
       "source": "G1",
-      "published_at": "2026-10-23T03:30:00+00:00",
+      "published_at": "2026-10-23T04:09:46+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -62,12 +62,12 @@
       "archive": false
     },
     {
-      "id": "cc14c9c83cc05fc4",
-      "title": "Veja os números de Allyson Bezerra e Cadu Xavier, candidatos ao governo do Rio Grande do Norte",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: veja os números de Allyson Bezerra e Cadu Xavier, candidatos ao governo do Rio Grande do Norte. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-de-allyson-bezerra-e-cadu-xavier-candidatos-ao-governo-do-rio-grande-do-norte.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-23T03:30:00+00:00",
+      "id": "0907b78dbe09709b",
+      "title": "Allyson e Cadu de Lula participam de debate na Inter TV; veja íntegra",
+      "summary": "O veículo G1 publicou uma atualização sobre: allyson e Cadu de Lula participam de debate na Inter TV; veja íntegra. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/23/allyson-e-cadu-de-lula-participam-de-debate-na-inter-tv-veja-integra.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T04:08:14+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -76,12 +76,12 @@
       "archive": false
     },
     {
-      "id": "d4fcbbaf148607ef",
-      "title": "Veja os números de Lorenzo Pazolini e Ricardo Ferraço, candidatos ao governo do Espírito Santo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: veja os números de Lorenzo Pazolini e Ricardo Ferraço, candidatos ao governo do Espírito Santo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-de-lorenzo-pazolini-e-ricardo-ferraco-candidatos-ao-governo-do-espirito-santo.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-23T03:30:00+00:00",
+      "id": "fa7c95253f19729b",
+      "title": "Candidatos ao governo do TO no 2º turno participam de debate na TV Anhanguera; veja a íntegra",
+      "summary": "O veículo G1 publicou uma atualização sobre: candidatos ao governo do TO no 2º turno participam de debate na TV Anhanguera; veja a íntegra. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/23/candidatos-ao-governo-do-to-no-2o-turno-participam-de-debate-na-tv-anhanguera-veja-a-integra.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T04:06:54+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -90,12 +90,12 @@
       "archive": false
     },
     {
-      "id": "914cfadc63c1b2a6",
-      "title": "Eleições 2026: Veja os números de Flávio Bolsonaro e Lula nas urnas",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eleições 2026: Veja os números de Flávio Bolsonaro e Lula nas urnas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicoes-2026-veja-os-numeros-de-flavio-bolsonaro-e-lula-nas-urnas.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-23T03:30:00+00:00",
+      "id": "4c63b7e8d2d45eee",
+      "title": "Omar Aziz e Professora Maria do Carmo participam de debate ao governo do AM; veja a íntegra",
+      "summary": "O veículo G1 publicou uma atualização sobre: omar Aziz e Professora Maria do Carmo participam de debate ao governo do AM; veja a íntegra. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/23/omar-aziz-e-professora-maria-do-carmo-participam-de-debate-ao-governo-do-am-veja-a-integra.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T04:06:44+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -104,12 +104,26 @@
       "archive": false
     },
     {
-      "id": "7bf20a15d0461a5d",
-      "title": "Veja os números de Dorinha e Vicentinho Júnior, candidatos ao governo do Tocantins",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: veja os números de Dorinha e Vicentinho Júnior, candidatos ao governo do Tocantins. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-de-dorinha-e-vicentinho-junior-candidatos-ao-governo-do-tocantins.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-23T03:30:00+00:00",
+      "id": "d0b572a978329065",
+      "title": "Pazolini e Ferraço falam de saúde e educação, prometem pouco, e trocam farpas sobre facções e feminicídio no debate para o governo do ES",
+      "summary": "O veículo G1 publicou uma atualização sobre: pazolini e Ferraço falam de saúde e educação, prometem pouco, e trocam farpas sobre facções e feminicídio no debate para o governo do ES. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/23/pazolini-e-ferraco-falam-de-saude-e-educacao-prometem-pouco-e-trocam-farpas-sobre-faccoes-e-feminicidio-no-debate-para-o-governo-do-es.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T04:00:40+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0bd84479508c4276",
+      "title": "Vereadora foi assassinada por retaliação à morte de outro homem em meio a briga política no Ceará, diz MP",
+      "summary": "O veículo G1 publicou uma atualização sobre: vereadora foi assassinada por retaliação à morte de outro homem em meio a briga política no Ceará, diz MP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/23/vereadora-foi-assassinada-por-retaliacao-a-morte-de-outro-homem-em-meio-a-briga-politica-no-ceara.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T04:00:01+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -118,12 +132,26 @@
       "archive": false
     },
     {
-      "id": "ad373610865de7cb",
-      "title": "Veja os números de Omar Aziz e Maria do Carmo, candidatos ao governo do Amazonas",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: veja os números de Omar Aziz e Maria do Carmo, candidatos ao governo do Amazonas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/veja-os-numeros-de-omar-aziz-e-maria-do-carmo-candidatos-ao-governo-do-amazonas.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-23T03:30:00+00:00",
+      "id": "3cd83829ac85312a",
+      "title": "Rede Amazônica realiza debate entre candidatos ao governo do Amazonas no 2º turno das eleições",
+      "summary": "O veículo G1 publicou uma atualização sobre: rede Amazônica realiza debate entre candidatos ao governo do Amazonas no 2º turno das eleições. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/debate-omar-aziz-professora-maria-do-carmo-governo-amazonas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T03:55:40+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "949fae9eeffd48e9",
+      "title": "Debate no RN: Allyson e Cadu de Lula discutem corrupção, contas públicas e propostas para o estado",
+      "summary": "O veículo G1 publicou uma atualização sobre: debate no RN: Allyson e Cadu de Lula discutem corrupção, contas públicas e propostas para o estado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/23/debate-rn-2-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T03:43:03+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -146,10 +174,10 @@
       "archive": false
     },
     {
-      "id": "1ebb2523238283e8",
-      "title": "Flávio Bolsonaro tem 47,1% de rejeição e Lula, 44,8%, diz Vox Brasil - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio Bolsonaro tem 47,1% de rejeição e Lula, 44,8%, diz Vox Brasil - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQckJ3REdac3F5TlZ5TjU4SFpkcFg4djZHR2NiVmdFaUNjQjJ2SWpYTERHN0NxRFNMZ2dKOE84bmJmMThQc0hqZ0ttSGVWbTcyTDBWbjVmclpsUjI0SVI4R0ppMy1PSlU5b1pYZ1R4NzAwRlFkcEg5c0dSRGVEYXlOck5fU2gzaDk0eGRBS1ZKMlpya1REQWlIR0YySFA?oc=5",
+      "id": "643c7c28f08de891",
+      "title": "Vox: Lula soma 50,6% dos votos válidos, contra 49,4% de Flávio Bolsonaro - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: vox: Lula soma 50,6% dos votos válidos, contra 49,4% de Flávio Bolsonaro - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1NtNmVoejJpa1hUcVhXdUlkekloT3YzZHlkNFZCRXdMUzBnUE5IM1JLMXA3NERMZ3NsUFZhSm5UQ1g1RHYyT21oa20wX2VLdjc3aG1EdVV6T0RmMjI3QWNVNUt6QkZLX1A3OFNOUVBjRWhyNHBkbW8zWloyZ05PVkRBckhsUVU0bzVKblVvVGs1cE9aY19hMjhIR01LZkNIUGc?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-23T03:01:00+00:00",
       "category": "Política",
@@ -160,10 +188,10 @@
       "archive": false
     },
     {
-      "id": "643c7c28f08de891",
-      "title": "Vox: Lula soma 50,6% dos votos válidos, contra 49,4% de Flávio Bolsonaro - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: vox: Lula soma 50,6% dos votos válidos, contra 49,4% de Flávio Bolsonaro - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1NtNmVoejJpa1hUcVhXdUlkekloT3YzZHlkNFZCRXdMUzBnUE5IM1JLMXA3NERMZ3NsUFZhSm5UQ1g1RHYyT21oa20wX2VLdjc3aG1EdVV6T0RmMjI3QWNVNUt6QkZLX1A3OFNOUVBjRWhyNHBkbW8zWloyZ05PVkRBckhsUVU0bzVKblVvVGs1cE9aY19hMjhIR01LZkNIUGc?oc=5",
+      "id": "1ebb2523238283e8",
+      "title": "Flávio Bolsonaro tem 47,1% de rejeição e Lula, 44,8%, diz Vox Brasil - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio Bolsonaro tem 47,1% de rejeição e Lula, 44,8%, diz Vox Brasil - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQckJ3REdac3F5TlZ5TjU4SFpkcFg4djZHR2NiVmdFaUNjQjJ2SWpYTERHN0NxRFNMZ2dKOE84bmJmMThQc0hqZ0ttSGVWbTcyTDBWbjVmclpsUjI0SVI4R0ppMy1PSlU5b1pYZ1R4NzAwRlFkcEg5c0dSRGVEYXlOck5fU2gzaDk0eGRBS1ZKMlpya1REQWlIR0YySFA?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-23T03:01:00+00:00",
       "category": "Política",
@@ -580,34 +608,6 @@
       "archive": false
     },
     {
-      "id": "cd032ecba102f23d",
-      "title": "Ministério Público Eleitoral afirma que Meta não cumpriu medidas para tratamento igualitário às campanhas presidenciais",
-      "summary": "O veículo G1 publicou uma atualização sobre: ministério Público Eleitoral afirma que Meta não cumpriu medidas para tratamento igualitário às campanhas presidenciais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/ministerio-publico-eleitoral-afirma-que-meta-nao-cumpriu-medidas-para-tratamento-igualitario-as-campanhas-presidenciais.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T00:13:17+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f5019fb6d9f5f73f",
-      "title": "Mega-Sena 3073 acumula e prêmio vai a R$ 230 milhões; confira os números sorteados",
-      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena 3073 acumula e prêmio vai a R$ 230 milhões; confira os números sorteados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/22/mega-sena-concurso-3073-confira-os-numeros-sorteados.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T00:04:39+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e313117949b4982c",
       "title": "PGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: pGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado. Consulte a reportagem para contexto, dados e declarações.",
@@ -632,34 +632,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "18131c97a026509d",
-      "title": "Fortaleza terá nove postos de saúde abertos neste fim de semana; veja lista",
-      "summary": "O veículo G1 publicou uma atualização sobre: fortaleza terá nove postos de saúde abertos neste fim de semana; veja lista. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/22/fortaleza-tera-nove-postos-de-saude-abertos-neste-fim-de-semana-veja-lista.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T23:21:28+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "eb16962cd4d6cb85",
-      "title": "Mulher encontrada esquartejada na Marginal Tietê tinha 35 anos e um filho de 1 ano; polícia descarta 'serial killer'",
-      "summary": "O veículo G1 publicou uma atualização sobre: mulher encontrada esquartejada na Marginal Tietê tinha 35 anos e um filho de 1 ano; polícia descarta 'serial killer'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/22/mulher-encontrada-esquartejada-na-marginal-tiete-tinha-35-anos-e-um-filho-de-1-ano-policia-descarta-serial-killer.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T23:16:59+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -699,34 +671,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-22T23:03:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d469fc29f73ede3e",
-      "title": "PGR defende que STF rejeite pedido de acesso a dados de visitas de esposa de Moraes e Vorcaro ao Senado - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: pGR defende que STF rejeite pedido de acesso a dados de visitas de esposa de Moraes e Vorcaro ao Senado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUEtkb3Baeld6NkJJNE9iVDdyMlhCa0pNRlpXa3ZQcldiTXJrZFp4ZFRxUWxpY2Voc0N4cmlHTldrZ2lna1J5WkFyVkhBMDFPY3lhMTFXdm5YMGdGd0piRFBCaEpONi1zMFlKLTdBc2w2dnp4YVgwMlNJRXdzZlVpOFROY0lLTU5xZGNXbU45UTVuSXE1WUZibThyM2YxYV85bG1pTGxqN1BSX1Q4dGtqcWE2bmh3cFkyTElydkg3d2JyeDFxZlNkODFLMFRLTUxyYlJwMmJmWkdsWjhRckk5Mm5qVFBUaUpHM1hYaFNBeVpMd1puMDdhUElpVFR4X3BJLXfSAZACQVVfeXFMTk9HRVcyaEpIR210Tk5Lb29faWhHTW5WNnJoX0tyeHk0QWs2UUZfRmVURWNIR2IzTEtNS2cwOGc3ODJDV2FyX3hMZzAtS2RHMWt1UFlGQjhLVEloeldpbmZpMnI2dFh2X3EzZ2s0M29iMlI5WWJBUi11aGlFcVpmdWt1alI4dFIzLXgzbTlOMG5lN2tQcE9IQmItMGZkMnh0YXlDRlFOd0lEdEZtRTFWWkRSdTl5eEkxcDdEMlc4X0FTd2VUWnRPbzJmREhtY01XRm5vZC1DRnI3a25WR2QwUG1TS1RZQmFVS05hX1JCZFBaVlJYZ2xUY2FLelJvbXAxSXRoai1LZVZjMTQyMjNPY3k?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-22T22:58:49+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5668172a62540603",
-      "title": "Recém-nascida é encontrada em lixeira de hospital municipal em MT",
-      "summary": "O veículo G1 publicou uma atualização sobre: recém-nascida é encontrada em lixeira de hospital municipal em MT. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/22/recem-nascida-e-encontrada-em-lixeira-de-hospital-municipal-em-mt.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T22:58:13+00:00",
-      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -804,6 +748,20 @@
       "archive": false
     },
     {
+      "id": "f595c283696919e6",
+      "title": "TSE dá prazo de 12 horas para Meta explicar alcance do perfil de Nikolas no Instagram",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tSE dá prazo de 12 horas para Meta explicar alcance do perfil de Nikolas no Instagram. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-da-prazo-de-12-horas-para-meta-explicar-alcance-do-perfil-de-nikolas-no-instagram.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T21:49:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "e6736e2e25b95465",
       "title": "Guerra dos sigilos e outros factoides dominam reta final da campanha; veja vídeo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: guerra dos sigilos e outros factoides dominam reta final da campanha; veja vídeo. Consulte a reportagem para contexto, dados e declarações.",
@@ -828,20 +786,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e71ca32f96281940",
-      "title": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-22T21:25:08+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1112,6 +1056,20 @@
       "archive": false
     },
     {
+      "id": "6de632b6fd05b4ad",
+      "title": "Suspeita de sarna humana afasta 71 pessoas de escola em Atibaia (SP) - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: suspeita de sarna humana afasta 71 pessoas de escola em Atibaia (SP). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHpTWmRyR3dTWmxtRzFlcnFlZXRWRldLR2tUQjVESDRqM0IySF9IclNSU1dhUktUOFU3dXdZcVZrZk81OFdsckpONnhPY2MxbkxSNjk2MFlfOHE0dk12LUZEdUlHMWg0UTJrX1cwMWQ2Y2RycldLYU8xTmx6cnh6aG5SaDNmQTdsUTVJTTNiNWFOb3ZDdEcydTZ0d2FTVG5wZU5yOEV4cjFKQ3JnZGktVVNXTUJIODd0bWZKMktKNFF3cExnYXc?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T18:39:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "abd54ff528437dfa",
       "title": "Comercialização de grãos: Wander Aguilera Almeida revela como a leitura de mercado orienta decisões - Estadão Blue Studio",
       "summary": "O veículo Estadão Blue Studio publicou uma atualização sobre: comercialização de grãos: Wander Aguilera Almeida revela como a leitura de mercado orienta decisões. Consulte a reportagem para contexto, dados e declarações.",
@@ -1224,6 +1182,20 @@
       "archive": false
     },
     {
+      "id": "69281b22c2846b6a",
+      "title": "Painel: Após pressão, governadora de PE edita decreto que garante transporte de graça no dia da eleição - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: Após pressão, governadora de PE edita decreto que garante transporte de graça no dia da eleição. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR3FvU0QyNDY5aVJ1NklLb21EMFpUMUVQYUVnVnVlY2VzRGJtcmk3a1NkUVZRZndWbGo0dzFzNDUyb2RGRlRVZ2xXelZHdjlheW1VYklvZUN5SEtvYXhocHNCbVh2MkhYWE5TNkFULTJEZUtDSGNtM2t6V1hiQ3VoSU5QcHRSQUY2MDIzWXdacjdWSWxGaUF5aGJIb3hqNmlEUlFMYVZzTFV6dUhZOWFRRU1sZnBQckFEOVBvSzNXVUhQS2Z3a2MyMlplNmpMMDRTLWM0dE9EbTQySXlYcFlYT1JFNFlneEYt?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T16:23:00+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "aaf357c285a05cd2",
       "title": "#Eleições2026: Ato religioso em apoio a Flávio Bolsonaro está previsto para Salvador nesta sexta - Jornal da Chapada",
       "summary": "O veículo Jornal da Chapada publicou uma atualização sobre: #Eleições2026: Ato religioso em apoio a Flávio Bolsonaro está previsto para Salvador nesta sexta - Jornal da Chapada. Consulte a reportagem para contexto, dados e declarações.",
@@ -1259,6 +1231,20 @@
       "source": "UOL",
       "published_at": "2026-10-22T16:20:12+00:00",
       "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7247e01a39c4dde2",
+      "title": "Grupo propõe a Lula e Flávio medidas para derrubar a taxa Selic a 7,5% em 2027 - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: grupo propõe a Lula e Flávio medidas para derrubar a taxa Selic a 7,5% em 2027. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmp2Q2ZuNXFqcXVONk1BWjBwek00b3h2djNmamI1MU91azJ1TExidGlWSkdNVHVGeVhVR1gyZkxnbFo5X2tjalZic0FabzlLZWpFVGp0MkVCX05YRHd1UTFfT21uXzFVWVVNc0Jta1RsVHNPVXpmV1E1Wk1xVjNMTFRsVDN2d2stSTN0VHY3ZTYxODJzTm03WWJsNXNsYVdNRGJXcnRVaUl6WHhjNW03YzZRbWJJdHprYWczb2I1QzJPclE2c1k0?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T16:13:00+00:00",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1322,6 +1308,20 @@
       "archive": false
     },
     {
+      "id": "3087148751983411",
+      "title": "Macron proíbe protestos 'ilegítimos', e lojas se preparam em meio a temor de nova onda de violência - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: macron proíbe protestos 'ilegítimos', e lojas se preparam em meio a temor de nova onda de violência. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS2p6X0Q0ZG50MVg1NnpEWlNXM1l6Z2d1aEk2d3FqU3VYV3NmWXpUT1hzSFh3MHJTeFhwZDhIa0FWMWxRaU9fNFozUGU1a1cySDg0RVdMNXNmLWFrUjJFLWxMOFRGRldqVGRVX2xFeDlwZXNmMXgtMEVHMDlBWXYxb3dnOS10RUZjSXlSWHdTdl9wYUU4ckFUR3BocndZaS1TV2VKSXZTYXJYUWVqZ3VoOHVGRUFVaVRtT2syY053SVNZUkFuRHkwZm1Sa0pkd2JRc0ZTd2pncElzeC1BZldn?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T15:05:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "2ffcdb6930410b92",
       "title": "Por que a Espanha liberou 1,5 milhão de mosquitos infectados para ‘barrar’ a dengue",
       "summary": "O veículo VEJA publicou uma atualização sobre: por que a Espanha liberou 1,5 milhão de mosquitos infectados para ‘barrar’ a dengue. Consulte a reportagem para contexto, dados e declarações.",
@@ -1350,6 +1350,20 @@
       "archive": false
     },
     {
+      "id": "182a5ae549581e18",
+      "title": "Anvisa proíbe venda de teste de glicemia Accu-Check Active na Amazon",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: anvisa proíbe venda de teste de glicemia Accu-Check Active na Amazon. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-venda-de-teste-de-glicemia-accu-check-active-na-amazon",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-22T14:37:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "450515e42fd7969a",
       "title": "Enamed: termina hoje prazo para recurso contra gabarito preliminar",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: enamed: termina hoje prazo para recurso contra gabarito preliminar. Consulte a reportagem para contexto, dados e declarações.",
@@ -1357,6 +1371,34 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-22T14:18:00+00:00",
       "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "866320447389de09",
+      "title": "Anvisa aprova novo medicamento para câncer de pulmão avançado",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: anvisa aprova novo medicamento para câncer de pulmão avançado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-medicamento-para-cancer-de-pulmao-avancado",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-22T12:48:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "19003c51f8a9d40d",
+      "title": "Ashwagandha: Anvisa alerta que suplemento do TikTok não tem registro",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: ashwagandha: Anvisa alerta que suplemento do TikTok não tem registro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/ashwagandha-anvisa-alerta-que-suplemento-do-tiktok-nao-tem-registro",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-22T12:45:00+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1600,40 +1642,12 @@
       "via_aggregator": true,
       "curated": false,
       "archive": false
-    },
-    {
-      "id": "a2e252eba7756189",
-      "title": "Estudantes de escolas públicas querem ensino e aprendizagem melhores",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: estudantes de escolas públicas querem ensino e aprendizagem melhores. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/estudantes-de-escolas-publicas-querem-ensino-e-aprendizagem-melhores",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-20T14:26:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "49e0d938508412a5",
-      "title": "Provas de português para estrangeiros começam nesta terça-feira",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: provas de português para estrangeiros começam nesta terça-feira. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/provas-de-portugues-para-estrangeiros-comecam-nesta-terca-feira",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-19T16:24:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
     }
   ],
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 48
+      "items": 34
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1649,7 +1663,7 @@
     },
     "The New York Times": {
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1693,35 +1707,35 @@
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 52
+      "items": 51
     },
     "Metrópoles · Política": {
       "status": "ok",
-      "items": 96
+      "items": 95
     },
     "O Globo": {
       "status": "ok",
-      "items": 62
+      "items": 63
     },
     "Estadão": {
       "status": "ok",
-      "items": 48
+      "items": 42
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 48
+      "items": 47
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 57
+      "items": 58
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 67
+      "items": 66
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 60
+      "items": 61
     },
     "Eleições · Flávio": {
       "status": "ok",
