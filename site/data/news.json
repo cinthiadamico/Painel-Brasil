@@ -1,18 +1,102 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-22T23:40:17.663449+00:00",
-  "last_success_at": "2026-10-22T23:40:17.663449+00:00",
+  "last_checked_at": "2026-10-23T00:58:13.752510+00:00",
+  "last_success_at": "2026-10-23T00:58:13.752510+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
-      "id": "9d376e500839c68a",
-      "title": "Debate com Professora Dorinha e Vicentinho Júnior para o governo do TO na TV Anhanguera",
-      "summary": "O veículo G1 publicou uma atualização sobre: debate com Professora Dorinha e Vicentinho Júnior para o governo do TO na TV Anhanguera. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/debate-professora-dorinha-vicentinho-junior-governo-tocantins.ghtml",
+      "id": "b8ca876404402504",
+      "title": "Falha grave de segurança faz empresas e governos ao redor do mundo tirarem milhares de sites do ar; entenda",
+      "summary": "O veículo G1 publicou uma atualização sobre: falha grave de segurança faz empresas e governos ao redor do mundo tirarem milhares de sites do ar; entenda. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/falha-grave-de-seguranca-faz-empresas-e-governos-ao-redor-do-mundo-tirarem-milhares-de-sites-do-ar-entenda.ghtml",
       "source": "G1",
-      "published_at": "2026-10-22T23:35:50+00:00",
+      "published_at": "2026-10-23T00:52:36+00:00",
       "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "97c136e6f877b192",
+      "title": "Candidato ao governo do Acre, Alan Rick (Republicanos) é entrevistado na Rede Amazônica",
+      "summary": "O veículo G1 publicou uma atualização sobre: candidato ao governo do Acre, Alan Rick (Republicanos) é entrevistado na Rede Amazônica. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/candidato-ao-governo-do-acre-alan-rick-republicanos-e-entrevistado-na-rede-amazonica.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T00:50:56+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a29a8b14f87420ea",
+      "title": "Campanha de Lula recorre a Mendonça por mediação do TSE e pressiona Flávio por quebras de sigilo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: campanha de Lula recorre a Mendonça por mediação do TSE e pressiona Flávio por quebras de sigilo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/campanha-de-lula-recorre-a-mendonca-por-mediacao-do-tse-e-pressiona-flavio-por-quebras-de-sigilo.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-23T00:50:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "eee6de9502c00a75",
+      "title": "Especialistas apontam farsa e piada por trás da guerra sobre sigilos entre Lula e Flávio",
+      "summary": "O veículo VEJA publicou uma atualização sobre: especialistas apontam farsa e piada por trás da guerra sobre sigilos entre Lula e Flávio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/especialistas-apontam-farsa-e-piada-por-tras-da-guerra-sobre-sigilos-entre-lula-e-flavio/",
+      "source": "VEJA",
+      "published_at": "2026-10-23T00:49:42+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3cd83829ac85312a",
+      "title": "Candidatos ao governo do Amazonas chegam para debate na Rede Amazônica; ACOMPANHE",
+      "summary": "O veículo G1 publicou uma atualização sobre: candidatos ao governo do Amazonas chegam para debate na Rede Amazônica; ACOMPANHE. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/debate-omar-aziz-professora-maria-do-carmo-governo-amazonas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T00:49:18+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c4850addbb9c1ade",
+      "title": "Choque de realidade leva Lula 3 a reconquistar alguns pobres e jovens",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: choque de realidade leva Lula 3 a reconquistar alguns pobres e jovens. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/choque-de-realidade-leva-lula-3-a-reconquistar-alguns-pobres-e-jovens.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-23T00:48:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8122084a59a34ed2",
+      "title": "Eleições 2026: Justiça Eleitoral recomenda que eleitores usem o e-Título no domingo (25)",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Justiça Eleitoral recomenda que eleitores usem o e-Título no domingo (25). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/eleicoes-2026-justica-eleitoral-recomenda-que-eleitores-usem-o-e-titulo-no-domingo-25.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T00:42:53+00:00",
+      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -25,7 +109,7 @@
       "summary": "O veículo G1 publicou uma atualização sobre: debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/debate-lorenzo-pazolini-ricardo-ferraco-governo-espirito-santo.ghtml",
       "source": "G1",
-      "published_at": "2026-10-22T23:35:35+00:00",
+      "published_at": "2026-10-23T00:41:32+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -34,12 +118,12 @@
       "archive": false
     },
     {
-      "id": "5860f88c49977bb2",
-      "title": "Eleições 2026: transporte entre Cotijuba e Icoaraci tem passagem gratuita em Belém",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: transporte entre Cotijuba e Icoaraci tem passagem gratuita em Belém. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/22/eleicoes-2026-transporte-entre-cotijuba-e-icoaraci-tem-passagem-gratuita-em-belem.ghtml",
+      "id": "18c185eb33425075",
+      "title": "Resumão diário do JN: Mendonça decide que candidatos à Presidência podem abrir sigilos por conta própria; Datafolha divulga nova pesquisa de intenção de voto",
+      "summary": "O veículo G1 publicou uma atualização sobre: resumão diário do JN: Mendonça decide que candidatos à Presidência podem abrir sigilos por conta própria; Datafolha divulga nova pesquisa de intenção de vo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/resumao-diario-do-jn-mendonca-decide-que-candidatos-a-presidencia-podem-abrir-sigilos-por-conta-propria-datafolha-divulga-nova-pesquisa-de-intencao-de-voto.ghtml",
       "source": "G1",
-      "published_at": "2026-10-22T23:35:05+00:00",
+      "published_at": "2026-10-23T00:40:48+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -48,13 +132,139 @@
       "archive": false
     },
     {
-      "id": "f808e6cce0213843",
-      "title": "Inter TV promove debate entre os candidatos ao governo do RN Allyson e Cadu de Lula",
-      "summary": "O veículo G1 publicou uma atualização sobre: inter TV promove debate entre os candidatos ao governo do RN Allyson e Cadu de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/debate-allyson-cadu-de-lula-governo-rn.ghtml",
+      "id": "9d376e500839c68a",
+      "title": "Candidatos ao governo do TO chegam para debate do 2º turno na TV Anhanguera",
+      "summary": "O veículo G1 publicou uma atualização sobre: candidatos ao governo do TO chegam para debate do 2º turno na TV Anhanguera. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/debate-professora-dorinha-vicentinho-junior-governo-tocantins.ghtml",
       "source": "G1",
-      "published_at": "2026-10-22T23:34:13+00:00",
+      "published_at": "2026-10-23T00:36:37+00:00",
       "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ecc41cdee3cee1a4",
+      "title": "Live de Lula com Janones teve 1,5 milhão de visualizações simultâneas - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: live de Lula com Janones teve 1,5 milhão de visualizações simultâneas - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVFRJZ2dmWnpkRlIxeF84QXhaNjNXRVB6d1J0ZVVKYVIzdnZLT2pkeVJpdGlLc3ZmM0lyaGVWOHE5TmZjc2FGcmZsWGRJcWg5a1Y3UG1md3hWOTdZUlEtZUEyUTRsRWh3Rm0wSFdQZnpGb1pTYklDVEkxalQ1eUo3cmhOSTZxeF9SQ1lxcTVtQTRDU2tKOTk3MkN2WVVGWEhFVDFWRw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-23T00:36:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f0fa34facd85e322",
+      "title": "Saiba como será debate da Globo com candidatos à Presidência da República",
+      "summary": "O veículo G1 publicou uma atualização sobre: saiba como será debate da Globo com candidatos à Presidência da República. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/saiba-como-sera-debate-da-globo-com-candidatos-a-presidencia-da-republica.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T00:34:59+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "633c12077d4a749c",
+      "title": "Lula pede voto da esquerda e da direita em último programa de TV; assista - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula pede voto da esquerda e da direita em último programa de TV; assista - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnpCOTdSUGdxSFRQLTZUVS1fQlJvYldRMzI3TE13YnFEblBVRjNRS0tzYy1oU3BSSW8zNy1mWXRsOWVBcldzbUJQWFVwWkNMVzBnRTVjbjZLUWVaYzRJbXVWV2dKaFN1SGJtLXk2aUdQUnhlcDZ1OVBHVlJIUVRfdmVMQ3g5QQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-23T00:34:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fccfd246464b390d",
+      "title": "Quaest: fim da 6 por 1 e relações com o Caso Master tiveram maior impacto para escolha de presidente no 1º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: quaest: fim da 6 por 1 e relações com o Caso Master tiveram maior impacto para escolha de presidente no 1º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/quaest-noticia-impacto-escolha-voto-presidente-1-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T00:33:17+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "892a4a92fdc4660c",
+      "title": "Quaest: maioria diz que Flávio Bolsonaro tem maior chance de reduzir impostos, e Lula, de manter programas sociais",
+      "summary": "O veículo G1 publicou uma atualização sobre: quaest: maioria diz que Flávio Bolsonaro tem maior chance de reduzir impostos, e Lula, de manter programas sociais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/22/quaest-candidatos-potencial.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T00:33:11+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ed39d936fc49f906",
+      "title": "Campanha de Lula pede que TSE execute acordo de quebra de sigilo com Flávio Bolsonaro como um intermediador imparcial",
+      "summary": "O veículo G1 publicou uma atualização sobre: campanha de Lula pede que TSE execute acordo de quebra de sigilo com Flávio Bolsonaro como um intermediador imparcial. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/campanha-de-lula-pede-que-tse-execute-acordo-de-quebra-de-sigilo-com-flavio-bolsonaro-como-um-intermediador.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T00:21:28+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cd032ecba102f23d",
+      "title": "Ministério Público Eleitoral afirma que Meta não cumpriu medidas para tratamento igualitário às campanhas presidenciais",
+      "summary": "O veículo G1 publicou uma atualização sobre: ministério Público Eleitoral afirma que Meta não cumpriu medidas para tratamento igualitário às campanhas presidenciais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/22/ministerio-publico-eleitoral-afirma-que-meta-nao-cumpriu-medidas-para-tratamento-igualitario-as-campanhas-presidenciais.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T00:13:17+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f5019fb6d9f5f73f",
+      "title": "Mega-Sena 3073 acumula e prêmio vai a R$ 230 milhões; confira os números sorteados",
+      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena 3073 acumula e prêmio vai a R$ 230 milhões; confira os números sorteados. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/22/mega-sena-concurso-3073-confira-os-numeros-sorteados.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T00:04:39+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e313117949b4982c",
+      "title": "PGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: pGR dá parecer contra pedido de acesso a registro de Vorcaro no Senado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/pgr-da-parecer-contra-pedido-de-acesso-registro-de-vorcaro-no-senado",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-22T23:49:00+00:00",
+      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -76,34 +286,6 @@
       "archive": false
     },
     {
-      "id": "72cca69738a711f5",
-      "title": "Lula diz que Meta vai ter que ser reinventada e que empresa não pode enganar a humanidade 'todo tempo'",
-      "summary": "O veículo G1 publicou uma atualização sobre: lula diz que Meta vai ter que ser reinventada e que empresa não pode enganar a humanidade 'todo tempo'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/lula-diz-que-meta-vai-ter-que-ser-reinventada-e-que-empresa-nao-pode-enganar-a-humanidade-todo-tempo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T23:25:06+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "97c136e6f877b192",
-      "title": "Candidato ao governo do Acre, Alan Rick (Republicanos) é entrevistado na Rede Amazônica",
-      "summary": "O veículo G1 publicou uma atualização sobre: candidato ao governo do Acre, Alan Rick (Republicanos) é entrevistado na Rede Amazônica. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/candidato-ao-governo-do-acre-alan-rick-republicanos-e-entrevistado-na-rede-amazonica.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T23:23:48+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "18131c97a026509d",
       "title": "Fortaleza terá nove postos de saúde abertos neste fim de semana; veja lista",
       "summary": "O veículo G1 publicou uma atualização sobre: fortaleza terá nove postos de saúde abertos neste fim de semana; veja lista. Consulte a reportagem para contexto, dados e declarações.",
@@ -114,62 +296,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "594c05e8071ee3c5",
-      "title": "Pesquisa Datafolha: Flávio tem 47% e Lula 46% a três dias das eleições - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: pesquisa Datafolha: Flávio tem 47% e Lula 46% a três dias das eleições. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkowQktJSUdLaVZoQnd6dTFZQjUyblFLRFdWaVFQNEp4Q0wzLTBhT3BzVTZYRUVwWHVORlJ3dE1tNjBKMTJYOURIZ1o5YkhGYlUwZzhrOURVMmlKOU1Rc3BPZHZnSjFFUUlpUnBEbEcxQm9Pb1B1S1ZMcmI1aWhvS2trU2llZlpNTExESjQ0LUw4R0hLd2NuTjMxN0N0ckxJLTQwbDR1ejBCVmxSWTRtYnJHTdIBuAFBVV95cUxObmZxRG53Y3JlUUJCbEVfRmtSUElnR3BkX3BNOTI5QkhwY3hHOWNfcDl5M05odVhuWElRejNyRXQ3clp2d1JHQ25qd0EyRXZ3SzVEVUtzeHU5cUx4TXd0ZkVQRTlWM1g1ZXd6WEI4cV9aVkNPUVlFM1FTcGNHZFEwWDBYZXlXaFM0YldLOWxOb0dmWkU5dk9aOVlNbjVieERVazkzaUJLWWJlcVRBSm5LalVmZUhmQzNG?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-22T23:21:07+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7d58ca324de23aa9",
-      "title": "Helicóptero da Marinha interrompe voo e faz pouso por segurança durante logística das eleições no Pará",
-      "summary": "O veículo G1 publicou uma atualização sobre: helicóptero da Marinha interrompe voo e faz pouso por segurança durante logística das eleições no Pará. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/10/22/helicoptero-da-marinha-interrompe-voo-e-faz-pouso-por-seguranca-durante-logistica-das-eleicoes-no-para.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T23:20:46+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3cd83829ac85312a",
-      "title": "Rede Amazônica realiza debate entre candidatos ao governo do Amazonas no 2º turno das eleições",
-      "summary": "O veículo G1 publicou uma atualização sobre: rede Amazônica realiza debate entre candidatos ao governo do Amazonas no 2º turno das eleições. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/debate-omar-aziz-professora-maria-do-carmo-governo-amazonas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T23:19:07+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8b33c214b2586cf3",
-      "title": "Datafolha: rejeição a Flávio é de 46% e a de Lula registra 45% - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: datafolha: rejeição a Flávio é de 46% e a de Lula registra 45% - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUhLbFdZSnlIeGxIVExzQkdlZmdyaENHN2NlQnBTZnZOOGVyX3JtSHB6MEUxZmNkZkJiR1pyMC1BMUF1dWxpYXNiZ1EyWEJfMkxiUEVjb1BOeENxQlZ0dENHOF8wTHN0ZngxY19vcThvQzVzQWtzY3VBY3EtMk54VmVyZ2o1RkN5VDlWY0NXRXBOUUZzVnFMMw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-22T23:19:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -194,6 +320,20 @@
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/relatora-da-onu-critica-censura-de-canais-de-whatsapp-na-eleicao-brasileira.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-22T23:06:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0fc8aa68d6d2796b",
+      "title": "Fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: fifa anuncia EUA como sede da 1ª Copa do Mundo de Clubes Feminina. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/fifa-anuncia-eua-como-sede-da-1a-copa-do-mundo-de-clubes-feminina",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-22T23:03:00+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
@@ -244,20 +384,6 @@
       "archive": false
     },
     {
-      "id": "6077f46203c7b9d5",
-      "title": "Vorcaro encomendou uísque de R$ 500 mil para presentear Lula, diz revista - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: vorcaro encomendou uísque de R$ 500 mil para presentear Lula, diz revista - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUR4QVVUYXJQcFNXRmlRZHNkZ3VDZVVKa3hDNHNLRGI4VnM5QTdGOE96eDh0VEtiTmo5NC0zb0gwaHpCdEQ2QUZ5QkVYOG96azc2bC1NM0F5QllsSHFjbTlXcTVwSzhMQkRqbkxnV0FMQllfY1g1OXZfdFBWZk4yV2haZF9XVkhLcWF4N1lfNzhxZ1pMRTdWV2lvNmRxWkN0LXlQX2Z6MXg?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-22T22:58:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9641bc7e72d86e2f",
       "title": "Polícia Civil investiga agressão contra homem encontrado em fossa após discussão na Paraíba",
       "summary": "O veículo G1 publicou uma atualização sobre: polícia Civil investiga agressão contra homem encontrado em fossa após discussão na Paraíba. Consulte a reportagem para contexto, dados e declarações.",
@@ -286,6 +412,20 @@
       "archive": false
     },
     {
+      "id": "96a440c8f47dae95",
+      "title": "Na segurança, Lula quer novo ministério e Flávio, reduzir maioridade penal - UOL Notícias",
+      "summary": "O veículo UOL Notícias publicou uma atualização sobre: na segurança, Lula quer novo ministério e Flávio, reduzir maioridade penal - UOL Notícias. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUZIZDE5SUMwdnVaeXFFVzNjdGRPMzlMT3pQZVZyUDQtdHNhWG54QWRsZm9GVzZjLUxRcGE0OUlObXY4VldKZ1hIVnFGaTU4MzNHR3dDaEZQbmU4dmgyM1JYVmdNaExyQ3BhOU16cmRkVDUyb25LNUlSR0NYd2RTbUg2aUpOMFNCNkhuU0NJMEo2aWRWOUY5akI1ZFJKdF9aOXdR?oc=5",
+      "source": "UOL Notícias",
+      "published_at": "2026-10-22T22:16:06+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "9051a3b980b98d91",
       "title": "Suspeito de matar mulher a facadas em Rio Preto se entrega à polícia",
       "summary": "O veículo G1 publicou uma atualização sobre: suspeito de matar mulher a facadas em Rio Preto se entrega à polícia. Consulte a reportagem para contexto, dados e declarações.",
@@ -293,34 +433,6 @@
       "source": "G1",
       "published_at": "2026-10-22T22:14:33+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "04152079b3b9ee69",
-      "title": "DDM de Jundiaí apreende armas de fogo e prende suspeito de agressão em ações contra violência doméstica",
-      "summary": "O veículo G1 publicou uma atualização sobre: dDM de Jundiaí apreende armas de fogo e prende suspeito de agressão em ações contra violência doméstica. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/22/ddm-de-jundiai-apreende-armas-de-fogo-e-prende-suspeito-de-agressao-em-acoes-contra-violencia-domestica.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T22:12:05+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "668bb831fab98307",
-      "title": "Trabalhadora grávida impedida de pausar atendimento para vomitar receberá R$ 30 mil",
-      "summary": "O veículo G1 publicou uma atualização sobre: trabalhadora grávida impedida de pausar atendimento para vomitar receberá R$ 30 mil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/22/gravida-funcionaria-sera-indenizada-em-r-30-mil-apos-ser-obrigada-a-vomitar-em-lixeira-no-trabalho.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T22:06:34+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -338,20 +450,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "85ab487e03881a06",
-      "title": "TV Globo realiza debate com os candidatos à Presidência da República",
-      "summary": "O veículo G1 publicou uma atualização sobre: tV Globo realiza debate com os candidatos à Presidência da República. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T21:57:23+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -384,20 +482,6 @@
       "archive": false
     },
     {
-      "id": "58390fe3c68512a6",
-      "title": "Aulão na Rede 2026: professor de Física explica sobre Ondas",
-      "summary": "O veículo G1 publicou uma atualização sobre: aulão na Rede 2026: professor de Física explica sobre Ondas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ro/rondonia/educacao/aulao-na-rede/noticia/2026/10/22/aulao-na-rede-2026-professor-de-fisica-explica-sobre-ondas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T21:51:21+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "8f75455e9484103b",
       "title": "Mendonça diz que Lula e Flávio Bolsonaro podem abrir seus sigilos e que medida independe de aval do TSE",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mendonça diz que Lula e Flávio Bolsonaro podem abrir seus sigilos e que medida independe de aval do TSE. Consulte a reportagem para contexto, dados e declarações.",
@@ -405,34 +489,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-22T21:51:00+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "96a440c8f47dae95",
-      "title": "Na segurança, Lula quer novo ministério e Flávio, reduzir maioridade penal - UOL Notícias",
-      "summary": "O veículo UOL Notícias publicou uma atualização sobre: na segurança, Lula quer novo ministério e Flávio, reduzir maioridade penal - UOL Notícias. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUZIZDE5SUMwdnVaeXFFVzNjdGRPMzlMT3pQZVZyUDQtdHNhWG54QWRsZm9GVzZjLUxRcGE0OUlObXY4VldKZ1hIVnFGaTU4MzNHR3dDaEZQbmU4dmgyM1JYVmdNaExyQ3BhOU16cmRkVDUyb25LNUlSR0NYd2RTbUg2aUpOMFNCNkhuU0NJMEo2aWRWOUY5akI1ZFJKdF9aOXdR?oc=5",
-      "source": "UOL Notícias",
-      "published_at": "2026-10-22T21:50:36+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bd343125c08b6cf1",
-      "title": "Aulão na Rede 2026: professor de Geografia explica sobre Sustentabilidade",
-      "summary": "O veículo G1 publicou uma atualização sobre: aulão na Rede 2026: professor de Geografia explica sobre Sustentabilidade. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ro/rondonia/educacao/aulao-na-rede/noticia/2026/10/22/aulao-na-rede-2026-professor-de-geografia-explica-sobre-sustentabilidade.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-22T21:50:20+00:00",
-      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -720,20 +776,6 @@
       "archive": false
     },
     {
-      "id": "b22eb21fa8d94f3d",
-      "title": "Indígenas do Vale do Javari terão transporte gratuito no 2º turno",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: indígenas do Vale do Javari terão transporte gratuito no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/indigenas-do-vale-do-javari-terao-transporte-gratuito-no-2o-turno",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-22T20:14:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b9d77561881a4a42",
       "title": "Áudio: Projeto prevê melhoria no controle da atividade de mineração",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Projeto prevê melhoria no controle da atividade de mineração. Consulte a reportagem para contexto, dados e declarações.",
@@ -744,34 +786,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "435085791495dbed",
-      "title": "EUA anunciam escritório antidrogas no Paraguai para ampliar operações no Cone Sul",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eUA anunciam escritório antidrogas no Paraguai para ampliar operações no Cone Sul. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eua-anunciam-escritorio-antidrogas-no-paraguai-para-ampliar-operacoes-no-cone-sul.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T20:07:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b5972c1579069951",
-      "title": "Putin diz que a Rússia está pronta para negociar um acordo final sobre a guerra com a Ucrânia - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: putin diz que a Rússia está pronta para negociar um acordo final sobre a guerra com a Ucrânia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUV5SXJrLXJVVE1iR2tQbXFxQ19SVVZocjUyQUIzVS04NDZERWlkTmp4U3dQSTZNT05kQlB4RE1PaE1IZnVBN2xvUlFzMkhnLTZhV0RkOFozRTU5V3FKRy04Qk9mN1pjNGhQMXQySEJFSnNQd0ZwYndaMWxhQVJ1aHE2X04ycHBZUEp0TzZrajJiSUdYVkVicXl2TGNncGZzeDA4OC1BR1dKUdIBrwFBVV95cUxPZFpFWkM0eklQOS1obURsTnUxV1pTRE1MR3BkdzhPR2tMZlJpeUlycWplTDA5dkZfNnMxNXdlWlhFVzYya0pkSXBJTTROeVppX0VUVHh1NlhYVFNPZFJHdFhmd2lfNTQ2SmtnaDgzVFpHSWVUcF9DNXdvNDduZS1Ga283RWdBNGNFaF9nNVQxWEg2bmJIQURJN0J5SHYtWXpzNjM1OTlNc0tJaW1idHJZ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-22T20:03:07+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -804,20 +818,6 @@
       "archive": false
     },
     {
-      "id": "366ebe41d721d7f3",
-      "title": "Nunes Marques dá 24 horas para Meta entregar ao TSE relatório detalhado sobre ‘Exército do Lula’ - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: nunes Marques dá 24 horas para Meta entregar ao TSE relatório detalhado sobre ‘Exército do Lula’. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMjRsYUpKd1lUM0JlVXhneVFWTEIxTk9ZODRRd0ozUUNMbFRuLVNCSTFsUGFBMThhOW91YmlxTFNmc3RMYWJySHh3S1BOdWl0ZVliMlU2cmpDSmFpS281aVlYc2NscTdMSEVpanh4RVg0T2dfUWM2VVAyS3VpTWpreDR6b0NBZHB4ZWc4MjgwRzFrSjJTVmlQODJCUkJxeUxfaHdnalF5MjN2RlhUSGV6OGJhdXNKc3BrWDUyVEZaUzNrbkRDWG9GTGdvVXFOOERJT0NKZG43bw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-22T19:33:44+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c3e646f5bd74d309",
       "title": "Áudio: Anvisa fará consulta pública sobre venda de remédio em plataformas na internet",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Anvisa fará consulta pública sobre venda de remédio em plataformas na internet. Consulte a reportagem para contexto, dados e declarações.",
@@ -839,20 +839,6 @@
       "source": "VEJA",
       "published_at": "2026-10-22T19:26:40+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "220c07fcc4f2e34b",
-      "title": "Presidente do TSE pede à Meta relatório sobre canal Exército do Lula",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: presidente do TSE pede à Meta relatório sobre canal Exército do Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/presidente-do-tse-pede-meta-relatorio-sobre-canal-exercito-do-lula",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-22T19:25:00+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -898,20 +884,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f680c4d990ed21fa",
-      "title": "Flávio Bolsonaro revida desafio de Lula e exige no TSE quebra de sigilo de Lulinha, Janja, Vorcaro e cartões corporativos - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio Bolsonaro revida desafio de Lula e exige no TSE quebra de sigilo de Lulinha, Janja, Vorcaro e cartões corporativos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUFJMRFRlREh1NlNBZlNaVEVNclMxZjNzRFU4TlJiSXotWC1nZUd1eU1aN0FoS1FxdlFBY3RhQU1BM3huUUs3MXFuWmZidm9WSGlNakJsb3FtRUpHaDltenhMRjlBVTBWeWtyNkdrSmp0dTUtZVlueUZ3c3FuWU54cWdlVzd0YldFdmJvdHRLdHNXdnR3ejlqRVQzeU9hT1VDeEdiUzQ3WVNJZDlIMWlXZGNyNHktUVZDd2xQQ2lDS3NBM21rWnRELTZtQ3M5dnRfN25jclE2bXBzQ091WEsydWpOTGZEc3E1c3lSYXdXM0JLd0Y1b0lseHNKelhxLU9pRUxDc3BxQVZHbFhqZ3fSAZwCQVVfeXFMTVdKZVY0S2dMT1l1bEduTGVNZ0JpNVBDZV9JZ2w4cnFBeVVKaUVHczh5QVdiYURacmFLWVNSa1NfSWdBTE5aNTE0eUdSZERHZVNkLVVzWmJ5bWYtc1RuTDJ6OUx0MmsweVkzVHJKZW94cXBBSS1vYkNyQmlBWk43RkJaOHIzQ2ZCbDZPSHk4R2hDcjM3T24yWGIyR0QtVmZjWERBOGhYdDVJNkNGeDBWbGh6UHB6cVpjcXNhaV8yNmJrNGNfRFl4VkpDQlJ0QmdBZmRXbGhJOWhZaU1sMG9wQ2Q3Z1NIbHNTRjJpeUZTNmxaUTZLOVhyWmZ5Y2REOHMzejM3MWlVc3FSQ25FZkpiTEZwekdIRDUwU3FRYlU?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-22T19:13:12+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1224,6 +1196,20 @@
       "archive": false
     },
     {
+      "id": "3087148751983411",
+      "title": "Macron proíbe protestos 'ilegítimos', e lojas se preparam em meio a temor de nova onda de violência - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: macron proíbe protestos 'ilegítimos', e lojas se preparam em meio a temor de nova onda de violência. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS2p6X0Q0ZG50MVg1NnpEWlNXM1l6Z2d1aEk2d3FqU3VYV3NmWXpUT1hzSFh3MHJTeFhwZDhIa0FWMWxRaU9fNFozUGU1a1cySDg0RVdMNXNmLWFrUjJFLWxMOFRGRldqVGRVX2xFeDlwZXNmMXgtMEVHMDlBWXYxb3dnOS10RUZjSXlSWHdTdl9wYUU4ckFUR3BocndZaS1TV2VKSXZTYXJYUWVqZ3VoOHVGRUFVaVRtT2syY053SVNZUkFuRHkwZm1Sa0pkd2JRc0ZTd2pncElzeC1BZldn?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T15:05:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "a784579099d3f1f0",
       "title": "\"Desafio de sigilos\": Flávio e Lula mobilizam TSE a 3 dias do 2º turno - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: \"Desafio de sigilos\": Flávio e Lula mobilizam TSE a 3 dias do 2º turno - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -1392,20 +1378,6 @@
       "archive": false
     },
     {
-      "id": "305e51d75202528d",
-      "title": "Aliados defendem decreto de lei marcial em caso de derrota suspeita de Trump",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: aliados defendem decreto de lei marcial em caso de derrota suspeita de Trump. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/aliados-defendem-decreto-de-lei-marcial-em-caso-de-derrota-suspeita-de-trump.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T07:00:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9ce5125a4db1e9cc",
       "title": "Opinião | O recado do mercado de títulos públicos - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: opinião | O recado do mercado de títulos públicos. Consulte a reportagem para contexto, dados e declarações.",
@@ -1430,20 +1402,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e170165a0dff2dee",
-      "title": "Segurança, economia, saúde; veja propostas de Flávio Bolsonaro e de Lula para governo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: segurança, economia, saúde; veja propostas de Flávio Bolsonaro e de Lula para governo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/seguranca-economia-saude-veja-propostas-de-flavio-bolsonaro-e-de-lula-para-governo.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T03:36:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1528,6 +1486,20 @@
       "candidate": "lula",
       "election_type": "Articulação",
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a8374cd3becdf076",
+      "title": "Onda de protestos europeus por educação e custo de vida chega à Grécia - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: onda de protestos europeus por educação e custo de vida chega à Grécia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXVudjMwV1NjTm5mQXZaUUdIY1djTjZDVF8zYUp6SnVYSkZUVk9hRVVLekhVY19uekFDMUJxRE5nOUVKTHpjcG13alh2VVUyN3RUMDNqaUtZYzZiVF9MM0JhelBLVUtFODdRalVkOVNpV1dSRWRwYTBnb2dKYVhqNnpCUWc2SlZlWWpkVENSa0pBSmQxcXVyT2lVRml1TTgzX1Y2LUlB?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-21T20:34:57+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1642,12 +1614,26 @@
       "via_aggregator": false,
       "curated": false,
       "archive": false
+    },
+    {
+      "id": "49e0d938508412a5",
+      "title": "Provas de português para estrangeiros começam nesta terça-feira",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: provas de português para estrangeiros começam nesta terça-feira. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/provas-de-portugues-para-estrangeiros-comecam-nesta-terca-feira",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-19T16:24:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
     }
   ],
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 37
+      "items": 31
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1655,11 +1641,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 43
+      "items": 48
     },
     "VEJA": {
       "status": "ok",
-      "items": 8
+      "items": 10
     },
     "The New York Times": {
       "status": "ok",
@@ -1703,43 +1689,43 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 65
+      "items": 63
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 55
+      "items": 54
     },
     "Metrópoles · Política": {
       "status": "ok",
-      "items": 94
+      "items": 95
     },
     "O Globo": {
       "status": "ok",
-      "items": 62
+      "items": 60
     },
     "Estadão": {
       "status": "ok",
-      "items": 43
+      "items": 38
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 47
+      "items": 48
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 59
+      "items": 56
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 66
+      "items": 65
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 61
+      "items": 60
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 30
+      "items": 60
     }
   },
   "notes": [
