@@ -1,10 +1,192 @@
 {
   "schema_version": 1,
-  "status": "atualizado",
-  "last_checked_at": "2026-10-24T22:40:07.569113+00:00",
-  "last_success_at": "2026-10-24T22:40:07.569113+00:00",
+  "status": "parcial",
+  "last_checked_at": "2026-10-24T23:36:28.349609+00:00",
+  "last_success_at": "2026-10-24T23:36:28.349609+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "9627ef211128afea",
+      "title": "Como último estado do Nordeste com 2º turno deve votar para Presidência, segundo pesquisa",
+      "summary": "O veículo VEJA publicou uma atualização sobre: como último estado do Nordeste com 2º turno deve votar para Presidência, segundo pesquisa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/como-ultimo-estado-do-nordeste-com-2o-turno-deve-votar-para-presidencia-segundo-pesquisa/",
+      "source": "VEJA",
+      "published_at": "2026-10-24T23:30:57+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c2394f8f8fd64b55",
+      "title": "Segurança, economia, garantia da democracia: Leitores opinam sobre prioridade para presidente em 2027",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: segurança, economia, garantia da democracia: Leitores opinam sobre prioridade para presidente em 2027. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/seguranca-economia-garantia-da-democracia-leitores-opinam-sobre-prioridade-para-presidente-em-2027.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T23:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "34588fc0fb557a6c",
+      "title": "Quaest, 2º turno: veja intenção de voto por região, gênero, idade, identificação política, renda e religião na véspera da eleição",
+      "summary": "O veículo G1 publicou uma atualização sobre: quaest, 2º turno: veja intenção de voto por região, gênero, idade, identificação política, renda e religião na véspera da eleição. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/quaest-2o-turno-votos-validos-recortes.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T23:26:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a5240802285c3fd8",
+      "title": "Apoiadores de Lula e Flávio Bolsonaro fazem atos de campanha em Macapá na véspera do segundo turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula e Flávio Bolsonaro fazem atos de campanha em Macapá na véspera do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/24/apoiadores-de-lula-e-flavio-bolsonaro-fazem-atos-de-campanha-em-macapa-na-vespera-do-segundo-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T23:22:09+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b65f502f0dabaf70",
+      "title": "Palmas tem atos de apoio a Lula e Flávio Bolsonaro na véspera do 2º turno das Eleições 2026",
+      "summary": "O veículo G1 publicou uma atualização sobre: palmas tem atos de apoio a Lula e Flávio Bolsonaro na véspera do 2º turno das Eleições 2026. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/24/palmas-tem-atos-de-apoio-a-lula-e-flavio-bolsonaro-na-vespera-do-2o-turno-das-eleicoes-2026.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T23:20:20+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1721ee8c778e31bb",
+      "title": "Candidatos à Presidência reúnem apoiadores no último dia de campanha",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: candidatos à Presidência reúnem apoiadores no último dia de campanha. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/candidatos-presidencia-reunem-apoiadores-no-ultimo-dia-de-campanha",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-24T23:19:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "771f5bbcc4f03498",
+      "title": "USP não vai divulgar público de atos de Flávio e Lula deste sábado. Entenda - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: uSP não vai divulgar público de atos de Flávio e Lula deste sábado. Entenda - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzAxWVRBZHY1Q0g3b2FPZnBOR0lnM3k2QVJyTE82VFF1NjNVYWFRTE1xdDZBZFFtLWtlNW45Q3MwSG9wSzY5a2RwZDVya2xKS1hia3cxUGdsZ3ZxSEdNVENiTGhIWFVyQjFjTjdYSTdSU0t3b3BtM3k2clZoeC1SbXRCV2pnNkNvUXE1dFV1TjAtbGpKc3VWTjRGSzMyQ1ZaM08tQTJmQjFzU3d5YlFRMQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T23:18:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7e7e136b1352a926",
+      "title": "Quaest: aprovação de Lula é maior que desaprovação pela 1ª vez desde agosto - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: quaest: aprovação de Lula é maior que desaprovação pela 1ª vez desde agosto - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFJkamktS0tZSUpyMW9CY281b2NLVmllMnBBQVJuS3VPS2Noa0kyZDR2TTRjSC1SNUFJb0RieTdIaENCOXA2cnlucWFudXg1WW9uMXVZSHIwR2p5cFdON0ZmX1pWbjdBbnhWTXpWMkdJaFB0RTd3MGNhYlA5QTJEWUNuTXR2TWdRMWtFZXpjczFRRER3SWRvLVlSdTFiUXBLMHFyWThqYlluSXZG?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T23:18:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9e51934d012ede40",
+      "title": "Flávio x Lula: veja resultado das últimas pesquisas para presidente - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio x Lula: veja resultado das últimas pesquisas para presidente - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDF2ZDQwNFY5Ui1zZEdpM3VrcjVNb3Azb0pTek40QTNrZXBGajBXVHpSTjFKa0FZNFFBTU9fT21JT3FkNFhHQjl1WEsyT1gwVXRBVF9Tck1tR2xRVUFmWTMtS1IxZ0lLZlZuUmptUWp0d1JFWkRYMGN4dVRxLWFqUDRxNmxPbWgyRXc5dkdB?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T23:10:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d6e17638ab126faa",
+      "title": "Nunes Marques reconsidera decisão e autoriza uso da frota de órgãos federais para transporte de indígenas no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: nunes Marques reconsidera decisão e autoriza uso da frota de órgãos federais para transporte de indígenas no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/nunes-marques-decisao-transporte-de-indigenas-no-2o-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T23:09:34+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ea67f97d21295bd1",
+      "title": "Eleições 2026: mais de 564 mil eleitores que faltaram no 1º turno na PB podem votar no 2º",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: mais de 564 mil eleitores que faltaram no 1º turno na PB podem votar no 2º. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-mais-de-564-mil-eleitores-que-faltaram-no-1o-turno-na-pb-podem-votar-no-2o.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T23:09:22+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e65036d3674a257a",
+      "title": "Sábado tem atos pró-Lula e pró-Flávio Bolsonaro em Campo Grande",
+      "summary": "O veículo G1 publicou uma atualização sobre: sábado tem atos pró-Lula e pró-Flávio Bolsonaro em Campo Grande. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/24/sabado-tem-atos-pro-lula-e-pro-flavio-bolsonaro-em-campo-grande.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T23:08:29+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "41ef51149f67badb",
+      "title": "Chuva bloqueia rodovias, alaga ruas e deixa escola embaixo de água no Paraná",
+      "summary": "O veículo G1 publicou uma atualização sobre: chuva bloqueia rodovias, alaga ruas e deixa escola embaixo de água no Paraná. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/24/chuva-bloqueia-rodovias-alaga-ruas-e-deixa-escola-embaixo-de-agua-no-parana.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T22:54:23+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "d8556c3db9d6cb39",
       "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
@@ -20,153 +202,13 @@
       "archive": false
     },
     {
-      "id": "78f44d897ae47fc5",
-      "title": "Eleições 2026 no Amapá: veja quais documentos levar para votar neste domingo (25)",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026 no Amapá: veja quais documentos levar para votar neste domingo (25). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-no-amapa-veja-quais-documentos-levar-para-votar-neste-domingo-25.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T22:30:55+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8eea1329c864e851",
-      "title": "A última pesquisa AtlasIntel sobre a disputa Flávio x Lula antes do segundo turno",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a última pesquisa AtlasIntel sobre a disputa Flávio x Lula antes do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/a-ultima-pesquisa-atlasintel-sobre-a-disputa-flavio-x-lula-antes-do-segundo-turno/",
-      "source": "VEJA",
-      "published_at": "2026-10-24T22:30:47+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "db01d9c6c11ff0c2",
-      "title": "AtlasIntel: Flávio tem 50,8% e Lula marca 49,2% em última pesquisa - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: atlasIntel: Flávio tem 50,8% e Lula marca 49,2% em última pesquisa - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWtBVHZhckRuYmVUSk1aSXVzR3g1ZnNzSHZ5Ym1pU0VfWTQ4OTlvQ0ZGS2F4Y1hxQXNxNFJtblU0X19PeFhES3ZjMTZLczE3V3MtaEJnUlJFbTNjSTBkYVZSMVZTMjdCM2NPSWpMa1pxbVNlNjVzbmtxWk1nNG9mWXh6LUJOVEJHLWpNcmdFcng1X1lwUk9nSXNBSQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T22:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "86e03df8645cf025",
-      "title": "Quaest no Tocantins, votos válidos: Vicentinho Júnior, 59%; Professora Dorinha, 41%",
-      "summary": "O veículo G1 publicou uma atualização sobre: quaest no Tocantins, votos válidos: Vicentinho Júnior, 59%; Professora Dorinha, 41%. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/24/quaest-tocantins-governador-segundo-turno-24-outubro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T22:28:38+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7256ffb74d66be40",
-      "title": "TRE sorteia 43 urnas que passarão por auditoria no 2º turno das eleições no RJ",
-      "summary": "O veículo G1 publicou uma atualização sobre: tRE sorteia 43 urnas que passarão por auditoria no 2º turno das eleições no RJ. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/24/tre-sorteia-43-urnas-que-passarao-por-auditoria-no-2o-turno-das-eleicoes-no-rj.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T22:27:05+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6d5127569779f3ac",
-      "title": "Flávio Bolsonaro tem vantagem entre mais propensos a votar, diz análise do Datafolha",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro tem vantagem entre mais propensos a votar, diz análise do Datafolha. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tem-vantagem-entre-mais-propensos-a-votar-diz-analise-do-datafolha.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T22:26:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "af42869cfc3960a0",
-      "title": "Apoiadores de Flávio Bolsonaro e Celina Leão fazem ato no centro de Brasília na véspera do 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Flávio Bolsonaro e Celina Leão fazem ato no centro de Brasília na véspera do 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/apoiadores-de-flavio-bolsonaro-e-celina-leao-fazem-ato-no-centro-de-brasilia-na-vespera-do-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T22:25:32+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "52e1b91f5ce9cf6e",
-      "title": "Apoiadores de Lula e Leandro Grass fazem ato no centro de Brasília na véspera do 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula e Leandro Grass fazem ato no centro de Brasília na véspera do 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/apoiadores-de-lula-e-leandro-grass-fazem-ato-no-centro-de-brasilia-na-vespera-do-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T22:25:26+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ca84a72d3c11bb9b",
-      "title": "Cerca de 1.200 palestinos são deslocados em Hebron após Israel iniciar operação militar",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: cerca de 1.200 palestinos são deslocados em Hebron após Israel iniciar operação militar. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Cerca de 1.200 palestinos são deslocados após operação do Exército de Israel",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: cerca de 1.200 palestinos são deslocados após operação do Exército de Israel. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/cerca-de-1200-palestinos-sao-deslocados-em-hebron-apos-israel-iniciar-operacao-militar.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-24T22:24:00+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8af94b511f3f529e",
-      "title": "Internações por doenças intestinais sobem 66% em nove anos na região de Campinas; médico alerta para fatores de risco",
-      "summary": "O veículo G1 publicou uma atualização sobre: internações por doenças intestinais sobem 66% em nove anos na região de Campinas; médico alerta para fatores de risco. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/24/internacoes-por-doencas-intestinais-sobem-66percent-em-nove-anos-na-regiao-de-campinas-medico-alerta-para-fatores-de-risco.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T22:23:02+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0d3aa08cf10930f6",
-      "title": "O dia depois de amanhã: economia difícil e um presidente impopular",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: o dia depois de amanhã: economia difícil e um presidente impopular. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/o-dia-depois-de-amanha-economia-dificil-e-um-presidente-impopular.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T22:23:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -188,20 +230,6 @@
       "archive": false
     },
     {
-      "id": "66d99e58c6696cb5",
-      "title": "Quaest: na véspera do 2º turno, Flávio tem 51% e Lula marca 49% - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: quaest: na véspera do 2º turno, Flávio tem 51% e Lula marca 49% - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVZ6RVRwYTFWZnhWSl9USzRfRVptQkxPTFNzU1lkUkZiZjRPMGpxT2JWVkZtZ1BMRmluTjlKVEU3LWN0Zm55SlN3Rm9jU3RiT1lqbEVFdS1fdG1TYzZzZlh5NE5hRUVORjh3VTdiQlk1RTk0R0FuNkFVeG5fUWkyVFlINzU?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T22:02:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "556ef7c9924ab5b0",
       "title": "Jovem encontrado morto com sinais de tortura pode ter sido vítima de tribunal do crime, diz polícia",
       "summary": "O veículo G1 publicou uma atualização sobre: jovem encontrado morto com sinais de tortura pode ter sido vítima de tribunal do crime, diz polícia. Consulte a reportagem para contexto, dados e declarações.",
@@ -212,20 +240,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "18d482976d7bba75",
-      "title": "Apoiadores de Flávio Bolsonaro organizam “caminhonetaço” em Florianópolis - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: apoiadores de Flávio Bolsonaro organizam “caminhonetaço” em Florianópolis - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdHFTVzd4UFhQckt0em8tcVhkQmgtSlQyNDFPUE1hZWFHcFRaN2FIbUhKeE9zbUh4U2lDR0NHdlFMX1BKcVkxVUtRQWVFS2xRTWpYcEJ2OUszcFlHUE9ZMVZ6QnplQ2xoajFEdGpscGNTTmdIN092MDM4TlZmemtzUXh2YzVHcEZMMjdzbHlzYUJVSFR1TWpsajNHZ056bE9EMl9PWjZiT1A?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T21:53:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -510,6 +524,20 @@
       "archive": false
     },
     {
+      "id": "6cc39c4d471e12ad",
+      "title": "'Nove dedos', segurança pública e caso Ana Clara: pesquisas revelam altos e baixos de Lula e Flávio Bolsonaro no debate da Globo - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Nove dedos', segurança pública e caso Ana Clara: pesquisas revelam altos e baixos de Lula e Flávio Bolsonaro no debate da Globo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOR1V2Qzc1TnQ4MUd0SFMtT1M5OTl5WU5WMWRtMXJFTFphTTd4ZWRnZHJlMnphTXFWWEtIcHpLLWo2QkxKMDZ1ME1ZRFVUWEJXVm1pSHRvbjZYZE9hemtfSnJzUDRSalZRM2lja1VJa1VRWENOd01PSDVZa0gyck03T1RFUk9MUDU2Z3BKOGhMOTY2ekpMaUIzZmJMMGpEeVVnSlNvcjlTcHhJNnZvZWpHV0gwdjR0ZkRmSUtxYkJBeFpDZUNjQ2RKSk1fZC1aRjNabFFZQUw4M0hVNk12aDBmUzNkbmtoZlBYSHBPSVFhVXNGaU14ZU9iNmJ1ODNyTHlwZmZ0bEJ3M01jaHBTRjR6UmFwVVQ0NDBEWWxkTWZBOWYteGPSAbICQVVfeXFMTW90RTJiVjFia185R3ptZjU3MWF2MHNGOTQzTVBKYmYyWUxCa0RheEQ3UjZMSFdES0xNOUNpaUpOUlNoaXdEWk0ydUs2NVhGQktlZmtBNUxsRTJNNXBTb2RncUNaVUY4a2drb0lHZ3NDOVJxVDJwaC1ES2NaUXhvM0RvMkpYMUxiTmhvMVlsZHhudEsySHFQWkZaZ2h4Y2pRRjczaGF0WWwycUg0QVFkLUJjQXZfT3NicC1SYkc4cGtQREozNGhMS1pOSmNmMXRxbUpsOE1VSkJUcGtsTlJrdlRHOENjOHlWRFBjZU5XSlRoTEZGTXFzdGg3ci1Wdlp1V0x4bC00VDN6YjM1bThiZk5IaERnN1dPbVdNTmUteTNEaEMySWVtc3BtWlNVRzhVVTJB?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-24T19:17:38+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "051745eaaafeadcf",
       "title": "Lula ou Flávio: 2º turno começa no exterior; brasileiros na Nova Zelândia são os primeiros a votar - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: lula ou Flávio: 2º turno começa no exterior; brasileiros na Nova Zelândia são os primeiros a votar. Consulte a reportagem para contexto, dados e declarações.",
@@ -678,20 +706,6 @@
       "archive": false
     },
     {
-      "id": "17bc34dff2a3c15e",
-      "title": "Obras de hospital estadual em Itapetininga passam de 50%; construtora abre mais de 50 vagas",
-      "summary": "O veículo G1 publicou uma atualização sobre: obras de hospital estadual em Itapetininga passam de 50%; construtora abre mais de 50 vagas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/24/obras-de-hospital-estadual-em-itapetininga-passam-de-50percent-construtora-abre-mais-de-50-vagas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T17:37:35+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "2ee5b21d355898bf",
       "title": "Bullying: cartórios têm recorde de atas que podem comprovar agressões",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: bullying: cartórios têm recorde de atas que podem comprovar agressões. Consulte a reportagem para contexto, dados e declarações.",
@@ -716,6 +730,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "28b0b87e0039c15f",
+      "title": "PT aciona TSE contra deputado eleito do PL por acusações de repasses 'por fora' de Vorcaro a Lula - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: pT aciona TSE contra deputado eleito do PL por acusações de repasses 'por fora' de Vorcaro a Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQnQwTEhteDY3UllTaE5CQ185a0hGVUc2dnp4b2VHM3JINlRCNnFvVXJfYUtxWmRmelhNNUEySG1GZUVyNVVLNDdlQVdsdFJTbTlQMXdKYlhhVkNmZTdQZFQwdXNlVFJEVnRVTVhzTGFqcWpxTVk1WHc4bVktSjlYUkFSZE9keHRVRk5zLW8wZjRiWWdUd2VWYzM2SDJFaHl1bklMNTBZZHdDa3lkRGJDcGdteEZUYU1XZ0J5SHlJV2pHNGVJeVNpUGRNN2w0TFQ2UUJsLXhIajcxZWh4b2s4cnQ3dU1hOFZsMWc2UzJyNNIB_gFBVV95cUxOSTVJaUpYTmtvQkhJalVQOENkOHVzTm9EaFVRcE85dTlFbzNMQXZwSURkRFAtcElwMHFTVEQwVEVqUGZzOG5WSWN4NElKRHVJaXVBQ0ZqMW1QdWRNSVBTOTlJQkxvZFYzdGhfZ0VCWDhWVURTd1BXNks4azZja0haNk01MmRvaXphUjE0Z2lUWXg5a2RfSlpoZmlJZ2ZucTB0NEZQV203NVl1TEdXTXFPR1BtOXptT1dqN1dwM0ZGSG1zYmZKOGRpeWJ4dVRRX1d6VnBONW0wMmNITC03R3FzRzVpbEduWDFkb1NTdnM1Rk5JVEhZUXdPUkpWVjlidw?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-24T16:18:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -748,6 +776,20 @@
       "archive": false
     },
     {
+      "id": "45d2031b28f95edb",
+      "title": "Menção ao caso Ana Clara e atuação de Flávio Bolsonaro: ONU analisa denúncia sobre milícias no Rio em dezembro - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: menção ao caso Ana Clara e atuação de Flávio Bolsonaro: ONU analisa denúncia sobre milícias no Rio em dezembro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOU3BlMWZHaFdOb1c2MGRqYzdsdkIyUXQydG1GcV9KbHZYcFlQMUsxbDk2NEdFRk9oN3NpZ1pOWG54N19xU3R4SnQxRkQ4QjRtN0Z6ZXlHVDduZ1pCcTVvc1JnSzJQWHZlVFFnUFB4dHQ3S1BFdl9hZ1I4MnZpRkVfVEtsbFZxQUN6cW00VDlmQXkxSExuQ0luSjdDOFVhZk1HeWxtNTRWVE5ITWtGMUtkamxwX25OOWd5cGNrSkRYQms1ZFVDZDA4SjRiVWJ5cFppakpyMF9jUlBoQl9YdFZSNFhvNFZ5MXViQ0Z6ZlZvWlNCQmpkWTRNU3B5SUtXZzVxWkHSAZACQVVfeXFMTXN0VVhha215RWhPbHFfZ3B2QU1pTEcwZmlFS1JWUDRVVnhuMGF2TDlqb0JZM1BmQVNUQ2JVenEtVlhtZkZtbERlcEcyOEM1ODZURG1LclJpRVExOGFQcTZjWS11S2luMTZzZDdlREUxSHN3LTFYVnhlRUhwc2h1b010VktBTFJIRUR5ZmNPbVpRQ2Y5Nm1TS2pHUVlmQzRpcG5tdjdLcXlYUlprUVFqS2tQb0taSkFwY1lnNXlrZWMwXy1ocE5RbDdlZTUyU2UxazBUSzFZM0I3dXlfZjYyZkZqVzdYQ01pMTh5T0JObjl3ZG9qNzk4YXpNeHlycUlCb1RJUEJqWmFSNWc0Z3pEYjE?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-24T16:01:25+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "7220adbec1023ba0",
       "title": "‘Um avanço histórico’: vacina personalizada reduz recorrência de câncer de pele agressivo em 42%",
       "summary": "O veículo VEJA publicou uma atualização sobre: ‘Um avanço histórico’: vacina personalizada reduz recorrência de câncer de pele agressivo em 42%. Consulte a reportagem para contexto, dados e declarações.",
@@ -755,20 +797,6 @@
       "source": "VEJA",
       "published_at": "2026-10-24T16:00:19+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7a3f84bb853e5299",
-      "title": "Crise no STF migra para TSE no 2º turno, e corte presidida por Kassio vira foco de atritos",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: crise no STF migra para TSE no 2º turno, e corte presidida por Kassio vira foco de atritos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/crise-no-stf-migra-para-tse-no-2o-turno-e-corte-presidida-por-kassio-vira-foco-de-atritos.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T16:00:00+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -786,20 +814,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bd90199503c4a129",
-      "title": "Repercussão do debate da Globo: 'Lula coloca Bolsonaro na defensiva', diz imprensa internacional - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: repercussão do debate da Globo: 'Lula coloca Bolsonaro na defensiva', diz imprensa internacional. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMWY3elFaOWUyQlUxVVRBYWdpbWFMbjhnUENUZng0UkxQYjNzUWk1WHMwVDlYS1NRdjZvb2pIZkJCTDVqUWNDckdzUDlxQmRWNjB5bHg5cDc0RmNrT2d6MVgtRThvdll3Ny1aQTVxWGJydWZGVThNNWl3R3hYYlVUeF9LMkVBaVJVYmlhYkxJTXFXa1ZZNi1VLXJ1OEVYWGtGajdiYlA0WjJwbENmbGV2VjRhRmx3T3dZRkNBU3NZTnJ2cmE5aXRUNjlucDJ3Rmk4OW9QZkEzX2Rqa2tKZktuNkZYN2FhbTF2NTN1WUEtYXlmSG5tWU52bNIBhwJBVV95cUxNVWhvcmszdDNhbkx6Ynowc3FsbkRCUkRWeFNhSEVITlJKanRtalBEVzB6NzlpV0tNa2pGeUpRbXZNbkFCTnpfby1oemFDQlN6WFFfYzJBQUNqWlY2QVFOZ0hxendvNnhoMkNQa29BUktRc3NKVTVHVjFQRGtFVE0zOEZoeGtzRjl2WHRaUjItbFljb1dlUDdNc3U3cEo1QmRPaUdiVWRGWWplT1ZlTmdYanJlY2JCeGp5SzA2eTI1aUhEaEVFQW11alk5b3VPcDZhTlR1ajRnRno2aFRORWwzeEZZMGZ6dmNPbVdWd2p1XzBzUW1iWHB2N3dPWVAxVXV2bmVjWG5JYw?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-24T15:36:08+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -916,20 +930,6 @@
       "archive": false
     },
     {
-      "id": "bb0160c020eea3b8",
-      "title": "Why Brazil’s Election Could Come Down to Crime",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: why Brazil’s Election Could Come Down to Crime. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-24T14:32:25+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "85d7dbb7a91dd301",
       "title": "Voto impresso, extinção de municípios e corte de salário: veja propostas de Bolsonaro que Congresso travou",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: voto impresso, extinção de municípios e corte de salário: veja propostas de Bolsonaro que Congresso travou. Consulte a reportagem para contexto, dados e declarações.",
@@ -986,16 +986,16 @@
       "archive": false
     },
     {
-      "id": "70e2dd42b2e2fe63",
-      "title": "Mercado ainda não capturou valor da IA, diz executiva da Deloitte",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mercado ainda não capturou valor da IA, diz executiva da Deloitte. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/mercado-ainda-nao-capturou-valor-da-ia-diz-executiva-da-deloitte.shtml",
+      "id": "2f17b520a80eec52",
+      "title": "Painel S.A.: Mercado ainda não capturou valor da IA, diz executiva da Deloitte - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel S.A.: Mercado ainda não capturou valor da IA, diz executiva da Deloitte. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdW9wY084ZVZUNTdmbnhQME1MaTJRZGVCWlpwMzdkbmJRTkNjM1ROdUxadFdFUnZpS1BVZHlXbmZ1VU1xM0Y2aTFGVmYzdi1ZajlzYzM1MzdtdHVmQU9ieklLN1VkV0N0elZjMUR5YkJsc0lNZVI4eHNSQVdvTkdLSTlUZU5hYnpUVzI3bko0V016ZnV2V1pwZ3A2MXhhVVJodGY2eGFKUllVZFo5dTg4bXdEenE1cEczQTVfOUtEQm5CR0E?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-24T13:00:00+00:00",
       "category": "Economia",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1434,6 +1434,20 @@
       "archive": false
     },
     {
+      "id": "0d17fe9c96e8a711",
+      "title": "Polícia Civil investiga seis mortes de bebês em hospital de SP; Secretaria de Saúde fala em 35 casos - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: polícia Civil investiga seis mortes de bebês em hospital de SP; Secretaria de Saúde fala em 35 casos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTlJubm9QZGxFYWhkY3R1UnVMYWdaZHNxNURzWmNZOU14QVdYNlhMUmIzQkxCWW8yblFCQ0JGb19XSk5xc2Q4VmlxaVQ4VW1VUzZDZzV2ZWxBMXd1cDU5OHhVa1c4MWIwbjJvN092enpPVG51dmJMcjdJNTRwMlRVVWFsYnNRcUt0UFFMTmRZQ1ZuSko4OG9Sckk3Z3dMN2dpUEUzcHEwbHRKVGxLNFJfZnQxbGtFSVExb2pmNFNGXzdVNlVlNVpGNTc4NlNuNjlfNkNJamMtb0JmZmI1RHJBSDNaSERBQdIB9AFBVV95cUxPeks5Y3RjdldNbTNla3poV2dfVDRiaEUzOWhSbmpRc2NDaWVjT0MwYzBJR2ZhY1pWMkJJY2lKTjdRM25QYkNkTmo5N0xEMFE1eWZCaVYzWXZsTjlpV0taMTVMTkZwbklFd1R1M3ZJWWlkZ3owYmNlUnV1N3FxVDNEMzZubXhxTVFqRTVQaXVsekN6ZUhmSWlac1dnSXkxcUJyaGU0NVl0SEw5UXBYd2VmN1d2TTB5Q2NYVHEtcHhjclVVUHBnblU4cTYxYjhEMV9LY296RUV4c0Q3d2NiS1lLWEc2R1o0MGNCbE1IYU9maWlLVDlh?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-23T13:07:43+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "de1733a9ea1fcf9f",
       "title": "Ligado a Gilmar Mendes, IDP recebe registro de universidade no Ministério da Educação - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: ligado a Gilmar Mendes, IDP recebe registro de universidade no Ministério da Educação. Consulte a reportagem para contexto, dados e declarações.",
@@ -1472,20 +1486,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "716d07220c3e346c",
-      "title": "Nordestinos, católicos, com ensino superior: Quaest revela os grupos mais engajados na disputa entre Flávio e Lula - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: nordestinos, católicos, com ensino superior: Quaest revela os grupos mais engajados na disputa entre Flávio e Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaWd6cHg3ZFNaWWxzZVhkbV9DbzRTR0VCRlo4SE5hSEg5YXlhVHJMTFEyNlNQd1VsVUpTOGdUMXNwNUY0eVlrX0Q2NXgtemhEUjA0cmthTS15WEtWTmFIUndxTVFGLWtaZzZiNDFDbllGT1NIZkd2WWh0SzU4UUkxaXN3d2Z2bC1tbE9JOWJuX3laaFd6dVRLRDJ0X1NJWGFHNi1DNDZGbmR4a1hyRkNsV0hRUVpvanBfd0dSZTFLTGRyRDBhbU1OOTVrMkhkNk5SOEo0ekdPNmlpdzE5dnN2dGxNQnE4RXh1ck5rSG1nbGpnWXFnLXN0b3FNc9IBigJBVV95cUxQQjdLeDZjM0pPd2lmdllRNTJuNG9Kajd4c0RyM0szaFhCVVdGazVVRjJXWFZleDJ1OGVBRlE3WmlTNkxtUlRVMXhrLUtLMl9QM1l5NmIwaHZKTk5RUlozczd3VmtFYUNvRGhXbGxtVWVDcEQ1V2hiVGtsVW9sZ0V3RXNXeGltTW1xaW9SRjZ0TFhNbkhzcVlwTTMwS0hOYWVKREpNTHZJUlFMR1hlTWVWRDBjN2Ztd0d2OWpKR2VqQW41bzJHeHBWWVYwQlpzYzRxZ1FBbDhGV2lHelRuZ0Nkc1BBMGN4TzloZnFJLU9ieVp2ZExVRmNjTDU4ZVp6X0c4RmppV2FDWjhOQQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-23T06:30:01+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1661,15 +1661,16 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 50
+      "items": 54
     },
     "G1 · Economia": {
-      "status": "ok",
-      "items": 96
+      "status": "erro",
+      "items": 0,
+      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 59
+      "items": 57
     },
     "VEJA": {
       "status": "ok",
@@ -1681,7 +1682,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1717,7 +1718,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 75
+      "items": 74
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1725,11 +1726,11 @@
     },
     "Metrópoles · Política": {
       "status": "ok",
-      "items": 95
+      "items": 96
     },
     "O Globo": {
       "status": "ok",
-      "items": 75
+      "items": 72
     },
     "Estadão": {
       "status": "ok",
@@ -1737,7 +1738,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 58
+      "items": 57
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1745,11 +1746,11 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 61
+      "items": 62
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 57
+      "items": 55
     },
     "Eleições · Flávio": {
       "status": "ok",
