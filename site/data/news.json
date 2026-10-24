@@ -1,10 +1,276 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-24T20:38:48.393422+00:00",
-  "last_success_at": "2026-10-24T20:38:48.393422+00:00",
+  "last_checked_at": "2026-10-24T21:40:47.703372+00:00",
+  "last_success_at": "2026-10-24T21:40:47.703372+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "8bf1e1097c747ed1",
+      "title": "A última pesquisa Datafolha sobre a disputa Flávio x Lula antes do segundo turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a última pesquisa Datafolha sobre a disputa Flávio x Lula antes do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-ultima-pesquisa-datafolha-sobre-a-disputa-flavio-x-lula-antes-do-segundo-turno-2/",
+      "source": "VEJA",
+      "published_at": "2026-10-24T21:34:20+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6896aa69bc964c39",
+      "title": "Justiça Federal determina transferência de Mulher que agoniza com tumor na UPA de Teresópolis: 'Minha mãe está morrendo, gemendo, remédios não fazem efeito', diz filha",
+      "summary": "O veículo G1 publicou uma atualização sobre: justiça Federal determina transferência de Mulher que agoniza com tumor na UPA de Teresópolis: 'Minha mãe está morrendo, gemendo, remédios não fazem efeito. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/24/justica-federal-determina-transferencia-de-mulher-que-agoniza-com-tumor-na-upa-de-teresopolis-minha-mae-esta-morrendo-gemendo-remedios-nao-fazem-efeito-diz-filha.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T21:32:13+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1ec2f2d86000b9a8",
+      "title": "Apoiadores de Flávio Bolsonaro fazem carreatas na Grande Vitória e no interior do ES",
+      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Flávio Bolsonaro fazem carreatas na Grande Vitória e no interior do ES. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/24/apoiadores-de-flavio-bolsonaro-fazem-carreatas-na-grande-vitoria-e-no-interior-do-es.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T21:32:04+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a5689b27e6ca28a4",
+      "title": "Datafolha: Flávio Bolsonaro tem 51% e Lula marca 49% na última pesquisa - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: datafolha: Flávio Bolsonaro tem 51% e Lula marca 49% na última pesquisa - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4RWpVc3NwUUFob01jc3U2MXFvUkdObHIxVHFGUXhnQmE1QlBkeHBOb2JIam84ZmdxamxuUWFKR3JSWnI1aVpCd0lnengxMFdPTmdNSVJGT1E5NURMeVE4M1J0Q2w3LU9feFJXMjE3REFwdVYtU21XaTVPUUc?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T21:32:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2a9095e1914bcb13",
+      "title": "Datafolha, 2º turno - votos válidos: Flávio Bolsonaro, 51%; Lula, 49%",
+      "summary": "O veículo G1 publicou uma atualização sobre: datafolha, 2º turno - votos válidos: Flávio Bolsonaro, 51%; Lula, 49%. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/datafolha-presidente-24-outubro.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T21:30:50+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "48ec90e4fb4a8e20",
+      "title": "A nova pesquisa AtlasIntel sobre a disputa pelo governo do Amazonas, a última do segundo turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a nova pesquisa AtlasIntel sobre a disputa pelo governo do Amazonas, a última do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-nova-pesquisa-atlasintel-sobre-a-disputa-pelo-governo-do-amazonas-a-ultima-do-segundo-turno/",
+      "source": "VEJA",
+      "published_at": "2026-10-24T21:25:35+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "886cfe55eef2e4df",
+      "title": "Devido à possibilidade de chuva, companhia de energia elétrica faz operação no 2º turno das eleições",
+      "summary": "O veículo G1 publicou uma atualização sobre: devido à possibilidade de chuva, companhia de energia elétrica faz operação no 2º turno das eleições. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/24/devido-a-possibilidade-de-chuva-companhia-de-energia-eletrica-faz-operacao-no-2o-turno-das-eleicoes.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T21:25:20+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b146c426c59772b8",
+      "title": "Eleições 2026: Acompanhe a cobertura do 2º turno em São Paulo",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Acompanhe a cobertura do 2º turno em São Paulo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/eleicoes-2026-cobertura-2-turno-sao-paulo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T21:22:54+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5cd5fffaba99d302",
+      "title": "Atlas: Cadu (PT) tem 51,1% e Allysson (União) marca 48,9% ao governo do RN - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: atlas: Cadu (PT) tem 51,1% e Allysson (União) marca 48,9% ao governo do RN - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXhWMUVESFpWc043M1pzM1pXS2pKVFNCSHFURjFaQUtSRS1nd1VnU2pWMVB0M0tOTl9BVGhMVFRhVTlLTEVfRlZJX2tPWnM4cXAtTGp6VHVlNGV2YTNVVlBWczhvZHJpYlhTbmNzZWlPb1V5TEZLNjBSUlB4dEJCMWZVZWg1QVZXb1JJNHFCcEprMUxzOEozSkRoZ2ZqZEE?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T21:20:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a1b7599983bfff70",
+      "title": "O que abre e fecha em Juiz de Fora no domingo de 2º turno das eleições",
+      "summary": "O veículo G1 publicou uma atualização sobre: o que abre e fecha em Juiz de Fora no domingo de 2º turno das eleições. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/24/o-que-abre-e-fecha-em-juiz-de-fora-no-domingo-de-2o-turno-das-eleicoes.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T21:19:32+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e6e60e6bf8715fdb",
+      "title": "Flávio e Lula fecham campanha levando multidões para atos no RJ e em SP Siga no YouTube - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio e Lula fecham campanha levando multidões para atos no RJ e em SP Siga no YouTube - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDFqeENsODRCenRwMTF1RXoyWDIwWlpkendsdHI0MWYzUzJzVEhYNC1kUTFIU2wyTEJyYllsc0VsSlptRVZRamhXNXFtWUh5d0Z0TkQyNFo0ZE1FUDFONEZvcG90bGdYdkw0SjkzOWZoYms4Tk1jbk53ek9lR1FuWU12QzdLV09ZRzJGdXc0TEdUQXFpS1BXTkozdDhnZ0w0SGMzcEFaQlQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T21:15:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d96acef1060b934a",
+      "title": "Número do telefone de Lula vaza em live de Janones - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: número do telefone de Lula vaza em live de Janones. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWlGWE5fMlBuVjNLWGNlRGpvR2dzMzFucWx2Wjd1R2RWQm4zQ1VmTlkya2k4b1ZVZ2pTYl8wVkwxd19sZ2Z3T1V2VVRpZWdoNktlLUgydy1yTHRxc3FtMVNTOVJMRDh0a19yZDloTHlHOVBJVjlweHBGOXJqeTN5bDhFSUpDeWdxQ096dkplRV9BYlZVSTZDWjBBTlNVUEpLVkczWGNpWE1zczBTLVZSUTBfYzMwZm5X0gHHAUFVX3lxTE5nbkhLUUJFbUZaRjJlX1kxMDhaOE1fcWJrbGhVdU9LSUdpWDFFRWhrMWFrTldNbTdLU1JmM0dDT01IYWdXS1FyNmd5TFhJNVJmQ3M2TkxuX0VEaDAyV3FfaS1zUWZYMEc5T1Z6bDE3QUFKMDdlWXRoeFVTc2pxbHppSFF5a3pvbV9qRW5qOFgwOHVYMEtTUld2ODBBV0t3dDZvbjZtN19BdVFGNDROUGZQUVJZQlBvNGVKeEk2ZktLc1BKNDNzRXc?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-24T21:10:43+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e781ac6d9bc60270",
+      "title": "Polícia investiga se asfalto cedeu e causou tombamento de guindaste sobre estrutura do monotrilho",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia investiga se asfalto cedeu e causou tombamento de guindaste sobre estrutura do monotrilho. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/24/policia-investiga-se-asfalto-cedeu-e-causou-tombamento-de-guindaste-sobre-estrutura-do-monotrilho.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T21:08:06+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "51f66d6f1ade69a7",
+      "title": "O que os estudantes esperam do Enem? Veja os sonhos de quem vai fazer a prova",
+      "summary": "O veículo G1 publicou uma atualização sobre: o que os estudantes esperam do Enem? Veja os sonhos de quem vai fazer a prova. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/la-vem-o-enem/noticia/2026/10/24/o-que-os-estudantes-esperam-do-enem-veja-os-sonhos-de-quem-vai-fazer-a-prova.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T21:07:54+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3cf65df6aa54d77b",
+      "title": "Ao TSE, PGE se manifesta contra suspensão do canal \"Exército do Lula\" - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: ao TSE, PGE se manifesta contra suspensão do canal \"Exército do Lula\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVzVGTjNoQmV5cldhTEZKdXNIWjFEOXN0akpNbDdSOXFiQkVvSjdXRFY3eklsNWhmVVdwUjR0UlBjMzBUa3QwcXZpcjhET1h6QVcybC1RN2ozZ3Z0Vmpwa3ZDaEFqQXNLYmc0b2FOazFQbmhyZVdKZjF0VmlVS2h1OGV6NFdfeUc0dE1YYmdSUWFicUI4d3NycUZDbUZNZw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T21:00:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1d73d9b289c1151d",
+      "title": "Justiça proíbe rede de supermercados de praticar assédio eleitoral",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: justiça proíbe rede de supermercados de praticar assédio eleitoral. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-proibe-rede-de-supermercados-de-fazer-assedio-eleitoral",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-24T20:48:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ccbd687fa4e6a0d7",
+      "title": "Eleições 2026: Nova Zelândia e Austrália abrem votação no exterior - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: eleições 2026: Nova Zelândia e Austrália abrem votação no exterior - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45eUU0TWJIbnpOZjBreUx1MWctUXNnSjZIRTU3YjQ5TGVydWtMaU45LVV5dDZLNzhaMkl1cDh4alRyanB6dUt2ZjRfZUNwQThKOGdrN0NETnE3Z0tza3NOQVAwYlNNRUR5a0hxTDV6QU1tUkhOSXFKTw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T20:41:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8922af1c41c395ba",
+      "title": "Ataque saudita na capital do Iêmen deixa 11 mortos em fábrica de cimento - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: ataque saudita na capital do Iêmen deixa 11 mortos em fábrica de cimento - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1JSRk12M2lQVS1lWEg0OTVWT1AyYXlhaXAteWFLYjZJd25FZF9rNTl4S1NLZnpqTUJDY0NmR01XZkRxSkZueW5oQWZaaTNIZnI3emE0dk5yVUp6WmNlOUludnpndzdOcGZla1JvOWh2WXAteXkwS3pjei1WODRpcFVzV0ZRZHl6VTFRR0dVUjMzajc4T3lUSXdpNWsySk1mc2tIdWhUbWk?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T20:37:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0eb695cadbb354ef",
+      "title": "Revisão Final do Enem 2026 será realizada no dia 6 de novembro na Arena Batistão em Aracaju",
+      "summary": "O veículo G1 publicou uma atualização sobre: revisão Final do Enem 2026 será realizada no dia 6 de novembro na Arena Batistão em Aracaju. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/se/sergipe/conexao-enem/noticia/2026/10/24/revisao-final-do-enem-2026-sera-realizada-no-dia-6-de-novembro-na-arena-batistao-em-aracaju.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T20:33:05+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "20a5b33c29f529a2",
       "title": "Professora travesti é atacada com pedrada dentro de escola em Avaré: 'Estavam me esperando'",
@@ -34,34 +300,6 @@
       "archive": false
     },
     {
-      "id": "6f6802d697716d4d",
-      "title": "Eleições 2026: Zerésima confirma sistema de totalização sem votos no Piauí para segundo turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Zerésima confirma sistema de totalização sem votos no Piauí para segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/24/totalizacao-votos-piaui-eleicoes.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T20:26:16+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7408ed04322ee165",
-      "title": "Apoiadores de Lula e Flávio vão às ruas em 15 capitais no último dia de campanha para o 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula e Flávio vão às ruas em 15 capitais no último dia de campanha para o 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/atos-no-brasil.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T20:23:12+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "cbed7602dcad3b90",
       "title": "Flávio reúne apoiadores no Rio para último ato de campanha e fala em ‘jornada histórica’",
       "summary": "O veículo VEJA publicou uma atualização sobre: flávio reúne apoiadores no Rio para último ato de campanha e fala em ‘jornada histórica’. Consulte a reportagem para contexto, dados e declarações.",
@@ -76,62 +314,6 @@
       "archive": false
     },
     {
-      "id": "b887d95deeb1f84a",
-      "title": "Recife tem atos de apoio à reeleição de Lula e carreata em defesa de Flávio Bolsonaro",
-      "summary": "O veículo G1 publicou uma atualização sobre: recife tem atos de apoio à reeleição de Lula e carreata em defesa de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/24/recife-tem-atos-de-apoio-a-reeleicao-de-lula-e-carreata-em-defesa-de-flavio-bolsonaro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T20:19:08+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e350a207139742aa",
-      "title": "Apoiadores de Lula fazem manifestação em Goiânia na véspera da eleição",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula fazem manifestação em Goiânia na véspera da eleição. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/24/apoiadores-de-lula-fazem-manifestacao-em-goiania-na-vespera-da-eleicao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T20:17:48+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dfdaa39183fc4104",
-      "title": "Em último dia de campanha, apoiadores de Flávio Bolsonaro (PL) e Lula (PT) realizam manifestações em Fortaleza",
-      "summary": "O veículo G1 publicou uma atualização sobre: em último dia de campanha, apoiadores de Flávio Bolsonaro (PL) e Lula (PT) realizam manifestações em Fortaleza. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/24/em-ultimo-dia-de-campanha-apoiadores-de-flavio-bolsonaro-pl-e-lula-pt-realizam-manifestacoes-em-fortaleza.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T20:14:21+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f2efd99180055874",
-      "title": "\"Bota pra Virar\": eleitores se reúnem para ato pró-Lula e Grass no DF - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: \"Bota pra Virar\": eleitores se reúnem para ato pró-Lula e Grass no DF - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkVLOE1VaXhYR1JRblBDWlByeHQ3dXd0b0w1VkhyTExCU1FmNEJWVk1IRUthVjJqLTBGUFJ1eWVfMUo4ZG0td1JycktyVnUzUHFVbEVUV216Uzdtcld6MjFsMmR6QVhYSGV4YWdLQmZUUUJZNmpKZXhra2x4X0JsWVlUazY2alJ3SzQyem00X1N4WHZob0hRSjFrQ2t4Z1VyRUtGem4wWktQVW90LUs4U0wyMHdELTQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T20:11:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "59d44ccb202d78a4",
       "title": "Polícia encontra 'Mein Kampf', de Hitler, na residência de atirador na França",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia encontra 'Mein Kampf', de Hitler, na residência de atirador na França. Consulte a reportagem para contexto, dados e declarações.",
@@ -142,62 +324,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c025780fab002c26",
-      "title": "Debate na Globo: a reação da mãe de Ana Clara quando Flávio Bolsonaro respondeu sobre a morte da menina em Niteroi",
-      "summary": "O veículo G1 publicou uma atualização sobre: debate na Globo: a reação da mãe de Ana Clara quando Flávio Bolsonaro respondeu sobre a morte da menina em Niteroi. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/blog/natuza-nery/post/2026/10/24/debate-na-globo-a-reacao-da-mae-de-ana-clara-quando-flavio-bolsonaro-respondeu-sobre-a-morte-da-menina-em-niteroi.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T20:08:49+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bbde4734d507b383",
-      "title": "Justiça do Trabalho proíbe sindicato de pescadores do Pará de praticar assédio eleitoral contra associados",
-      "summary": "O veículo G1 publicou uma atualização sobre: justiça do Trabalho proíbe sindicato de pescadores do Pará de praticar assédio eleitoral contra associados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/24/justica-do-trabalho-proibe-sindicato-de-pescadores-do-para-de-praticar-assedio-eleitoral-contra-associados.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T20:07:51+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f5fa7ef348d114ed",
-      "title": "Prefeitura no TO tira água de parque para distribuir em cidade após reservatórios secarem",
-      "summary": "O veículo G1 publicou uma atualização sobre: prefeitura no TO tira água de parque para distribuir em cidade após reservatórios secarem. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/24/prefeitura-no-to-tira-agua-de-parque-para-distribuir-em-cidade-apos-reservatorios-secarem.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T20:07:45+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4fee7a2f51c34d84",
-      "title": "Ao lado de aliados, Flávio Bolsonaro reúne multidão nas ruas do Rio - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: ao lado de aliados, Flávio Bolsonaro reúne multidão nas ruas do Rio - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWZlaFVMcDBsaTNyTGxkZUNkYi1ySl9qdWdWVmhtb0RwUFlQczVVN3d1SnZHSDlERWxRdWZoVWI4Vkd0LTZQU29rZEJCcDVHUWxEYVNWdVhRQWRZWnNUbzZySDhab0VLcFdPZGU2dm9SOEJoYnh2bDNvNWM0YktENndqVTZObktBTGlUZTduSk9jOWFZZGVnNzBBeU5mbmZ5eFE?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T20:07:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -223,20 +349,6 @@
       "source": "G1",
       "published_at": "2026-10-24T20:05:18+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c7a78e1f51c38718",
-      "title": "Apoiadores de Lula fazem carreta em Divinópolis",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula fazem carreta em Divinópolis. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/centro-oeste/eleicoes/2026/noticia/2026/10/24/apoiadores-de-lula-fazem-carreta-em-divinopolis.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T20:03:30+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -300,23 +412,9 @@
       "archive": false
     },
     {
-      "id": "98f1754cd0ce9cbb",
-      "title": "Checagem de debate aponta vantagem de Flávio em afirmações verdadeiras - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: checagem de debate aponta vantagem de Flávio em afirmações verdadeiras - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSlhIeFRWejNFOGozQ0ZFREQ3Rk1fdWNKV2JndDBfYmVzMmVyRlR2UXRLY2JTU3VOcjZBTjl6Z3o5N0RnTEdGODdfT1ZBc1gyeHVXaXhVMmFZM25YRzVwa0FmMHdEOEZmMllDdGNRTHN2Qk94enhZbWJSckRtZy1WWEszNWhQNG9LeFVYVlNaQmtZdFUwYXhQVjBaZ2ZkZUZOX3ZSbWt6elo2Wi11dElKdW9jMFlsVE5Kck5uVmNB?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T19:43:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "4a6ecefe7cf4dffe",
-      "title": "Nunes Marques nega autorização para transporte de eleitores indígenas",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: nunes Marques nega autorização para transporte de eleitores indígenas. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas",
       "source": "Agência Brasil",
       "published_at": "2026-10-24T19:32:00+00:00",
@@ -664,20 +762,6 @@
       "archive": false
     },
     {
-      "id": "0aaf475d3124cd84",
-      "title": "MP Eleitoral aponta ligação de Canella com a milícia e pede ao TSE para negar registro da candidatura - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: mP Eleitoral aponta ligação de Canella com a milícia e pede ao TSE para negar registro da candidatura. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQmdkSGh1dmpmb3J1M0poTHV6Mi1pTnAtLUNWSTU4aS1BTE1sWGo1NEpCbENyOF8zODBDUVRvX1ZEZDVjYklmTjlXdU1KNVp2SjRaZF9PWWZleUVGOGcyR2Vjb01LTDVuQ2RxTUcyMnE0Z3ZTQ0ZSODJDNGhJaVBOTW9TLTRWdjVuLVNYN25jaTVfXzVnWXBpUnRYU3k3YTBGWmNKcHpZZ1RhY1lNRl8wRmstUG9VTGpDeEpIX2lMUVBRdUpETE1kbkRISE1wbmVGZ3V2MkFwLXo1YTFUdkZ1Q0Q0YVZ1WW0yNV9aTW9mVThuTU1ZQUhXSm14cmNwYzk0ZXlkU9IBkwJBVV95cUxPM2FGYmMtN0VJOEd3TEMwU0ZKRjNMVDd1Uk4xa1Q4c2FCUkNpcDBnaENqaUZwMm1zcUNzOUJ4TmhHMXpFMjNyYkotZi16VU1TWTF4UkhuVlloREl4NFpTTGl5VGUwd0FpeHA5SDRoMzc1REdXZzFUT3k4d1J1WnZKUG5EN2xaRG1Gb1RzZ25mVVNKOUJ4VUtSR3lxVVo1eUNKeWJTYTdOTlczTUdnMHRsZThRbEFWaFBmNHdraGo0RjAxTVdmQV94TkVaV1dYV3VBYTBMZkdMZDVzLVRMOGpJM181Y0JhZGRRLU5xSlVWRkFBbEJiRnJHN2JBeWlqcmxyb25Xdmxid29Rc09XbVRoV21Idw?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-24T15:37:20+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "bd90199503c4a129",
       "title": "Repercussão do debate da Globo: 'Lula coloca Bolsonaro na defensiva', diz imprensa internacional - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: repercussão do debate da Globo: 'Lula coloca Bolsonaro na defensiva', diz imprensa internacional. Consulte a reportagem para contexto, dados e declarações.",
@@ -860,20 +944,6 @@
       "archive": false
     },
     {
-      "id": "2ac639433fd52620",
-      "title": "TSE exige dados da Meta e do X a cada 6h sobre perfis de Nikolas e Marçal - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: tSE exige dados da Meta e do X a cada 6h sobre perfis de Nikolas e Marçal - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSktDU3Mwd2ktZFl2ZnUtREVpZ0VlWGZyNDdkMUl6WnExVERHMVdpYzc5ajBnVXBLLUYxSEVYSWw3WDFCRzczTHBwOUZOcVUwMFZ3TVNIUzNmdzFJZWdlM2ZMOEgxU3o1dGtaWWc1RnRDX2tBTXBUbEpPbnZGSVE4SmhpNzlXN2J6bjlKWWY0REttaUpqZTJ2cUJuY0xoYWJ4ZmVwNTRNQXI3b0k?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T14:14:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "224b0b07942ebb62",
       "title": "Eleições impulsionam indústria gráfica após anos de retração, e associação fala em 25% de crescimento",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eleições impulsionam indústria gráfica após anos de retração, e associação fala em 25% de crescimento. Consulte a reportagem para contexto, dados e declarações.",
@@ -898,20 +968,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b9797715fa6d4c5d",
-      "title": "Ucrânia ataca fábricas e alvos militares em diferentes regiões da Rússia - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: ucrânia ataca fábricas e alvos militares em diferentes regiões da Rússia - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUppNEx1c00xd2RlWE1ZNTdOR21wUlVibmQ5cXFVYWZWSW1BS1p0bmRMbVBuRFlyYnN2dzRRd2UxaVExc2JpXzJ5dXhYYXBacERKZ0tKZUp1OHQ0dWFXV2tXZmpra1Foai1oVDl1NWNodU5OSTdXSDdXQVpJQlNHSVdjdFBVeEdXNHpxTTBPX1ZWMDFHa1ZvLU1pQWYwRVJrOHJfVC1UREQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T13:35:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -944,20 +1000,6 @@
       "archive": false
     },
     {
-      "id": "3e1e6d4bf0773a7e",
-      "title": "Itália reforça policiamento em Milão diante de temor de protestos violentos - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: itália reforça policiamento em Milão diante de temor de protestos violentos - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDU4VDVGNmQ3ck84TEY5Z010ODNsRlpZRUNHWWJpOVpVcXV2dVNCQkc0Z01vLWFsalNPMGJNZjRXZklDaG83Uk9WQnNiWFpNM0doUG1kbndLdEdickt4SHBZZ01MRG40RjBPZWhLVFJFOG1vaFpuRWpRQklSTEFjaEhlTlBlRTlRWTBvUVdscF9lcHprcDNoOThjbGgwR3FUUi1MaEJXYktkNHhv?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T12:45:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b16f6772bff47c4d",
       "title": "Apoiadores fazem ato em apoio a Flávio Bolsonaro em BH",
       "summary": "O veículo G1 publicou uma atualização sobre: apoiadores fazem ato em apoio a Flávio Bolsonaro em BH. Consulte a reportagem para contexto, dados e declarações.",
@@ -982,20 +1024,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "53c2bef3d9bf7429",
-      "title": "Lula tem ato falho e fala em “acabar com a polícia” durante debate com Flávio Bolsonaro - Goiás 246",
-      "summary": "O veículo Goiás 246 publicou uma atualização sobre: lula tem ato falho e fala em “acabar com a polícia” durante debate com Flávio Bolsonaro - Goiás 246. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSUJ1NnJ3ZENaNHlJZ09kR0JzTlhpRFIxQmo4UUc1dDVnWWpreXc5TUdaOE9LbUdVdVg5UC14bXNwOHJlSnRiamZLSy01MUIwcTJkRUdHTG9NWEhUQ0UyMTBETlVlMUZ2c296dEI5NkRvOFprNGZwWHJ4SmdqYTlMSEtfdW8xUkVFNW9fZ0xNRFI5SXRLa0JLTXAxVzZ0RkxSd0Y0TkNkdmY0MGJXMnIwNEN6LW9HYVYyaXNiUVVZUTRWNHUyLU5qeG94NUtXandSRXRiU2dfclFVR1VTSG9PbFFWbVk1ejA?oc=5",
-      "source": "Goiás 246",
-      "published_at": "2026-10-24T09:57:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1546,20 +1574,6 @@
       "archive": false
     },
     {
-      "id": "b747fe6f9c2c1a49",
-      "title": "Aberta inscrição para seleção de professor elaborador do Enade 2027",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: aberta inscrição para seleção de professor elaborador do Enade 2027. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/aberta-inscricao-para-selecao-de-professor-elaborador-do-enade-2027",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-22T17:17:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a6e497d997a88fd9",
       "title": "Arrecadação federal cresce 5,62% em setembro e soma R$ 239,4 bilhões",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: arrecadação federal cresce 5,62% em setembro e soma R$ 239,4 bilhões. Consulte a reportagem para contexto, dados e declarações.",
@@ -1567,20 +1581,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-22T14:45:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "450515e42fd7969a",
-      "title": "Enamed: termina hoje prazo para recurso contra gabarito preliminar",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: enamed: termina hoje prazo para recurso contra gabarito preliminar. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/enamed-termina-hoje-prazo-para-recurso-contra-gabarito-preliminar",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-22T14:18:00+00:00",
-      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1661,7 +1661,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 42
+      "items": 46
     },
     "G1 · Economia": {
       "status": "erro",
@@ -1670,11 +1670,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 54
+      "items": 55
     },
     "VEJA": {
       "status": "ok",
-      "items": 8
+      "items": 16
     },
     "The New York Times": {
       "status": "ok",
@@ -1682,7 +1682,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 6
+      "items": 5
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1722,7 +1722,7 @@
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 32
+      "items": 31
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1730,19 +1730,19 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 77
+      "items": 73
     },
     "Estadão": {
       "status": "ok",
-      "items": 42
+      "items": 44
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 54
+      "items": 55
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 56
+      "items": 57
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
