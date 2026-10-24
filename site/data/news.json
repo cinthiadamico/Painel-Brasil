@@ -1,21 +1,329 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-23T23:39:46.581540+00:00",
-  "last_success_at": "2026-10-23T23:39:46.581540+00:00",
+  "last_checked_at": "2026-10-24T01:00:03.657065+00:00",
+  "last_success_at": "2026-10-24T01:00:03.657065+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
-      "id": "55e1deb7ad182389",
-      "title": "Confira os cenários do segundo turno na disputa para governador em cada Estado - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: confira os cenários do segundo turno na disputa para governador em cada Estado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcmtRdVp6cWVkU1llVmFQVUtQRW9haHRwdVdjc09RYzNzeEYwMnN0dHYzdkpXX0ZXaVN6NkYzRmJHSVhFNzRHT2Y2YkZxSEFidWxRYWtEQ20ybHZWVnlEOGxpWTZJMjZjNFdZeGQ1elRIOEpraFg1TUxWeGdYTmxxQVBoalZfdEkxaW9JVTFDRVI5SHBfaXk4VEZMXzc3WUpQbWRhaTBXMDU4aHNCZG9iRHdMLXU4ZkxsalE?oc=5",
+      "id": "9623acfcab5d248a",
+      "title": "\"Flávio nunca me procurou. Vim até ele\", diz mãe de Ana Clara na Globo - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: \"Flávio nunca me procurou. Vim até ele\", diz mãe de Ana Clara na Globo - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQTdnbDhpVGtmOF9zLWVNRm1LalBEUk5uMUhiSWtsaEk2YWxqRk9kZUVhcE5MTzRrVHphXzJZaXcwbnNKT0hia1A5UDNhRXZnYUlrNVlKY2JaZ2ZBUzFnT19BdnhUMElmY3d6VW0wajJkaXZsa0U4ak1sbmVURHFHNjNEdTYwcXdsX3g5NlIxemtxUlNyYklSVEpEWlZFOFU5?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T00:54:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b1426a72c656a5c4",
+      "title": "Estamos checando ao vivo o debate entre Flávio e Lula; confira e atualize - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: estamos checando ao vivo o debate entre Flávio e Lula; confira e atualize. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUFlGNThtYjJwMENuSWVFeGxIT1dzbDg5ZHkwZ2NGclRiMEdLS09TQk9POHlCRGpDbkExOEFSTFJDSU56UWUwY3NPZEp4bnlRWE9Sb0hRT1V6eHlmWVNlekpmaWQ0QXhzUFgwUF9Cd0dTeHYyYXhreHNOejV4U1pMNU53ZEN6bGxjaDdwR1puXzA3UdIBlwFBVV95cUxOUHpldnozYTQwOUNmME5ZS3Byd1dYZnpvbC1tYjVrWVFkQ1ItZno3ZVhGSjRzNzJ0Z3E4Q052c1I5RlJ0dzU3SURVQ19QSVZWaTJQRDZiWVUzdi1OVVFXZ2tQSS05ZU1TNjYzeUFYUlB3WkJSZ0RDMGVLMkpzakc1aEN5ME5PdC1HN0pGZGNjR240cGR1am5n?oc=5",
       "source": "Estadão",
-      "published_at": "2026-10-23T23:30:58+00:00",
+      "published_at": "2026-10-24T00:52:16+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b692ddc9d282f8ec",
+      "title": "Big techs dizem ao TSE que não viram irregularidade no \"Exército do Lula\" - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: big techs dizem ao TSE que não viram irregularidade no \"Exército do Lula\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFlNaTZaandscnhuLTA1cm1GV2s5MVNjNzF6cFlLc21JRDVJeld3WDhJTTZXM1lWQ21UdHlDQVZFMDczTHBOR3Z6U3laQ2VkbTZES2FVNDFqX0JwUnZjWThabko5TTNTd25HbDVDUnJUOHRFc2RkTXJ6ZGNUYVphOU9aS2liVS1QelhmbGF4MUthVTJHR2w5VndwbTdwWko3RFlHUXlnYUs?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T00:52:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "243a909341a45793",
+      "title": "Flávio aposta em tom religioso e nacionalista em último programa, e Lula lista acusações contra o rival",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio aposta em tom religioso e nacionalista em último programa, e Lula lista acusações contra o rival. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/flavio-aposta-em-tom-religioso-e-nacionalista-em-ultimo-programa-e-lula-lista-acusacoes-contra-o-rival.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T00:52:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "311d6eb93102632a",
+      "title": "Angélica, Xuxa e Eliana se posicionam a favor de Lula nas eleições",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: angélica, Xuxa e Eliana se posicionam a favor de Lula nas eleições. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/angelica-xuxa-e-eliana-se-posicionam-a-favor-de-lula-nas-eleicoes.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T00:50:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "aa8e93f80ab9c995",
+      "title": "AO VIVO: Acompanhe o debate da TV Globo entre Flávio Bolsonaro e Lula - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: aO VIVO: Acompanhe o debate da TV Globo entre Flávio Bolsonaro e Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOVBMVnR4eVl5TEdJUjZrcEpyeWtoemJWeFNfQS04QkwydTBtaWJYcWJuRDRqT2JwZWE2QUloamRULU4yZXo0WHB3M3lzTmlHMS1RQUpoYlBEaHR5RkdjZ0J1WHJUSnoyeW1MR3ctak5SZDBIOV9taXdpOGdYVGE5SjlLeEhZR2R0cjA5TkdzODRtLUZ2bDJIMXVlM092MEZCeFBObw?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-24T00:48:55+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "97134bee077c335d",
+      "title": "Datafolha: No DF, Flávio Bolsonaro tem 55% dos votos válidos contra 45% de Lula",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: datafolha: No DF, Flávio Bolsonaro tem 55% dos votos válidos contra 45% de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-no-df-flavio-bolsonaro-tem-55-dos-votos-validos-contra-45-de-lula.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T00:48:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1e5cfd56ad8c1268",
+      "title": "Como Trump vai reagir em caso de vitória de Flávio ou Lula, segundo cientista político",
+      "summary": "O veículo VEJA publicou uma atualização sobre: como Trump vai reagir em caso de vitória de Flávio ou Lula, segundo cientista político. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/como-trump-vai-reagir-em-caso-de-vitoria-de-flavio-ou-lula-segundo-cientista-politico/",
+      "source": "VEJA",
+      "published_at": "2026-10-24T00:45:40+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1f80242f0e664523",
+      "title": "MPT apura carta de supermercado a funcionários com teor eleitoral",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mPT apura carta de supermercado a funcionários com teor eleitoral. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpt-apura-carta-de-supermercado-funcionarios-com-teor-eleitoral",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-24T00:42:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "33204ac4435edb4d",
+      "title": "Atentado terrorista mata 2 soldados na Cisjordânia; Israel anuncia que vai isolar parte do território palestino",
+      "summary": "O veículo G1 publicou uma atualização sobre: atentado terrorista mata 2 soldados na Cisjordânia; Israel anuncia que vai isolar parte do território palestino. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/atentado-terrorista-mata-2-soldados-na-cisjordania-israel-anuncia-que-vai-isolar-parte-do-territorio-palestino.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T00:32:34+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bb43177740b8c067",
+      "title": "Justiça eleitoral proíbe empresário de oferecer transporte a eleitores de Lula no Pará; lei proíbe a prática",
+      "summary": "O veículo G1 publicou uma atualização sobre: justiça eleitoral proíbe empresário de oferecer transporte a eleitores de Lula no Pará; lei proíbe a prática. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/23/justica-eleitoral-proibe-empresario-de-oferecer-transporte-a-eleitores-de-lula-no-para.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T00:25:55+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b5f3c9f0e5456ed3",
+      "title": "Polícia fecha três pontos de máquinas caça-níqueis em Curitiba e investiga organização criminosa que comanda apostas ilegais na cidade",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia fecha três pontos de máquinas caça-níqueis em Curitiba e investiga organização criminosa que comanda apostas ilegais na cidade. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pr/parana/noticia/2026/10/23/policia-fecha-tres-pontos-de-maquinas-caca-niqueis-em-curitiba-e-investiga-organizacao-criminosa-que-comanda-apostas-ilegais-na-cidade.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T00:23:08+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "143e250e49258cd0",
+      "title": "Como no primeiro turno, votação de domingo (25) vale como prova de vida do INSS",
+      "summary": "O veículo G1 publicou uma atualização sobre: como no primeiro turno, votação de domingo (25) vale como prova de vida do INSS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/como-no-primeiro-turno-votacao-de-domingo-25-vale-como-prova-de-vida-do-inss.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T00:21:32+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dd5e45933d56ae1d",
+      "title": "Três suspeitos são presos por ligação com ameaças e cobranças de taxas a comerciantes no interior do Ceará",
+      "summary": "O veículo G1 publicou uma atualização sobre: três suspeitos são presos por ligação com ameaças e cobranças de taxas a comerciantes no interior do Ceará. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/23/tres-suspeitos-sao-presos-por-ligacao-com-ameacas-e-cobrancas-de-taxas-a-comerciantes-no-interior-do-ceara.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T00:19:50+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7ae58c2c65003463",
+      "title": "A reação da campanha de Lula por trás da movimentação nas últimas pesquisas",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a reação da campanha de Lula por trás da movimentação nas últimas pesquisas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-reacao-da-campanha-de-lula-por-tras-da-movimentacao-nas-ultimas-pesquisas/",
+      "source": "VEJA",
+      "published_at": "2026-10-24T00:17:27+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "564b776577a2a4cb",
+      "title": "Lula leva mãe da menina Ana Clara para acompanhar debate da Globo - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula leva mãe da menina Ana Clara para acompanhar debate da Globo - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU184c3N2ZzFMYzIzRDVtbG1sVXI5XzVuYUtRVE9XbzdoM3pTbl9vM0tsZ3NnQkp1NHJUS3YtRFIwYTRnZDZhU0VpUEk2aWRmd2UtaGdWcjFBWDhmMGQxZlhiRGt5N3phSXI3eERUR3pkTTBSWVhXc3k3SnF1b19ZMTlMTFVGMmxGcTlNQU1xSzBXeU1YWnJZNkZRTHQwZ3d5ZXNBRll1UHhtQQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T00:13:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "65cc392051f25f59",
+      "title": "Feira em Cuiabá oferece mais de 3 mil vagas de emprego nos setores de indústria e comércio",
+      "summary": "O veículo G1 publicou uma atualização sobre: feira em Cuiabá oferece mais de 3 mil vagas de emprego nos setores de indústria e comércio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/23/feira-em-cuiaba-oferece-mais-de-3-mil-vagas-de-emprego-nos-setores-de-industria-e-comercio.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T00:12:11+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "675ff2e33e207738",
+      "title": "Ministra rejeita ação que pedia transporte interestadual na eleição",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: ministra rejeita ação que pedia transporte interestadual na eleição. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministra-rejeita-acao-que-pedia-transporte-interestadual-na-eleicao",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-24T00:12:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3954ad80b056c339",
+      "title": "Flávio aposta no centrão e Lula reúne as mulheres e as mães - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio aposta no centrão e Lula reúne as mulheres e as mães - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdzlBNW5DQzkza3R5Mm93OHhpVjQtRnRwZkFRc1BRa3pfc1JaandOT2Z3RFcwNW9HQ1JzV1A2T2ZjSWxoUGwxZXJBaEgwSWpSSmtPMDV0RkRROVgxNDhFSFo1UnB2dU1hRlpQOVFxTXpjY3FyMjd0UFlMQVQweE9DU21TekM2WWFUVzh3akVIQW9fdWhFTzVfQlRqNEV5UFQwcHl5QmNCM2xuZ2Nwbmc?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T00:11:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "170348a9d478b371",
+      "title": "Meta, Google e X informam ao TSE que não encontraram irregularidades no canal de apoiadores de Lula no WhatsApp",
+      "summary": "O veículo G1 publicou uma atualização sobre: meta, Google e X informam ao TSE que não encontraram irregularidades no canal de apoiadores de Lula no WhatsApp. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/23/meta-google-e-x-informam-ao-tse-que-nao-encontraram-irregularidades-no-canal-de-apoiadores-do-presidente-lula-no-whatsapp.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T00:01:21+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "32851dbc5e60d340",
+      "title": "Datafolha: Combate à violência lidera como prioridade de eleitores para presidente eleito",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: datafolha: Combate à violência lidera como prioridade de eleitores para presidente eleito. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/datafolha-combate-a-violencia-lidera-como-prioridade-de-eleitores-para-presidente-eleito.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-23T23:52:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1f93904cffcd4822",
+      "title": "Meta diz ao TSE que Exército do Lula não viola políticas da plataforma",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: meta diz ao TSE que Exército do Lula não viola políticas da plataforma. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/meta-diz-ao-tse-que-exercito-do-lula-nao-viola-politicas-da-plataforma",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-23T23:48:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d26928431f856fa7",
+      "title": "Calor intenso no AP: médico orienta sobre sinais de desidratação e riscos à saúde; veja cuidados",
+      "summary": "O veículo G1 publicou uma atualização sobre: calor intenso no AP: médico orienta sobre sinais de desidratação e riscos à saúde; veja cuidados. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ap/amapa/noticia/2026/10/23/calor-intenso-no-ap-medico-orienta-sobre-sinais-de-desidratacao-e-riscos-a-saude-veja-cuidados.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T23:31:57+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -62,20 +370,6 @@
       "archive": false
     },
     {
-      "id": "b6cdb8c5da75e4e0",
-      "title": "Flávio Bolsonaro e Lula se enfrentam no último debate da eleição - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio Bolsonaro e Lula se enfrentam no último debate da eleição - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5X3BkY0FDN1dRM0JlQllVUzV5Zl9qQkYwQmJhZlhjTTlmVUpTOE54WURHSm9OU21VUFFwSkg5YzFObnZsaUllcXNQeU9kSUhsYXdXdnJaZXhZVlpEbk9QVTBsWE5ieUhiRmoxY0lnQVhqNGhpdnFj?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-23T23:19:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "0e8d6f21bba65acd",
       "title": "Caso Joyce: Polícia descarta feminicídio, mas indicia namorado por perseguição, extorsão e outros crimes",
       "summary": "O veículo G1 publicou uma atualização sobre: caso Joyce: Polícia descarta feminicídio, mas indicia namorado por perseguição, extorsão e outros crimes. Consulte a reportagem para contexto, dados e declarações.",
@@ -104,20 +398,6 @@
       "archive": false
     },
     {
-      "id": "91108f499c80c2bb",
-      "title": "Meta diz a Kassio não ter encontrado indício de atuação irregular de canal 'Exército do Lula'",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: meta diz a Kassio não ter encontrado indício de atuação irregular de canal 'Exército do Lula'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/meta-diz-a-kassio-nao-ter-encontrado-indicio-de-atuacao-irregular-de-canal-exercito-do-lula.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-23T23:15:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "20d9af87ff1e1739",
       "title": "‘Espero mostrar que nossas propostas são melhores’, diz Flávio ao chegar à Globo para debate",
       "summary": "O veículo VEJA publicou uma atualização sobre: ‘Espero mostrar que nossas propostas são melhores’, diz Flávio ao chegar à Globo para debate. Consulte a reportagem para contexto, dados e declarações.",
@@ -132,62 +412,6 @@
       "archive": false
     },
     {
-      "id": "4f950b07594fc275",
-      "title": "AO VIVO: Acompanhe o debate da TV Globo entre Flávio Bolsonaro e Lula",
-      "summary": "O veículo VEJA publicou uma atualização sobre: aO VIVO: Acompanhe o debate da TV Globo entre Flávio Bolsonaro e Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/ao-vivo-acompanhe-o-debate-da-tv-globo-entre-flavio-bolsonaro-e-lula/",
-      "source": "VEJA",
-      "published_at": "2026-10-23T23:08:51+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ee4148fe2f12d997",
-      "title": "OpenAI retoma treinamento de IA de fronteira com segurança reforçada e sem acesso à internet",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: openAI retoma treinamento de IA de fronteira com segurança reforçada e sem acesso à internet. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/openai-retoma-treinamento-de-ia-de-fronteira-com-seguranca-reforcada-e-sem-acesso-a-internet.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-23T23:08:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "502f89adb150e0df",
-      "title": "Apoiadores de Lula fazem passeata pelo Centro de Divinópolis",
-      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores de Lula fazem passeata pelo Centro de Divinópolis. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/centro-oeste/eleicoes/2026/noticia/2026/10/23/apoiadores-de-lula-fazem-passeata-pelo-centro-de-divinopolis.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T23:07:52+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d237ae6af498360d",
-      "title": "Irmão de Cleitinho se revolta com presidente da AMM por apoio a Lula - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: irmão de Cleitinho se revolta com presidente da AMM por apoio a Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdHhnMGQ1WXl3dnRMSEpzQjZYMnFOOGQybC1nMlNsMjR6WlQ1YkRZVFQ3b0w5MzZhdXQ3eVdURzlHNnZabExuX2daWGtwZ1JkODBPbUREXzk3N0VoZkw5a3M3a0huX3UxVndjNi1MbmtiLWxneGVOMGM2QWNUVk44V1I3bzY5c1FjVEdJVjdRYW1DaHFDWHBzVG1TMUo2RWVLUGtJVmpwRDFGWUQ0?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-23T23:03:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5de477afd813e60e",
       "title": "Policial penal e detento são presos por entrada de drogas e celulares em presídio de MT",
       "summary": "O veículo G1 publicou uma atualização sobre: policial penal e detento são presos por entrada de drogas e celulares em presídio de MT. Consulte a reportagem para contexto, dados e declarações.",
@@ -195,34 +419,6 @@
       "source": "G1",
       "published_at": "2026-10-23T22:57:19+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8d29e9afc98c821a",
-      "title": "Freixo, Boulos e mãe de Marielle devem acompanhar Lula no debate da Globo - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: freixo, Boulos e mãe de Marielle devem acompanhar Lula no debate da Globo - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOby0zcXRzSHhDX1NKaU5GUHR3SGhIQjdoT1V1YWgzQzVXZkhDRTZQbm9YTUY0VGI3LXY5UjExNHpDOUhzWlgxeG5IZ0tuZzh3bjZzbGgtYkE2NWM4Q2E1eTRPSHZzT0xNN2YxOEg4THlMdmtpRXpiRllMNmJpUWxHVnQ4QUV3OWlwYzJBT2FIRk9UdElOTGlFX2RrVXM2amQ0U1A0bkFEZHRkR2g4bnJMRXBhVlA1eE9wRWtmMkZrRXk?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-23T22:56:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a23a14209724f63a",
-      "title": "Praça Osório será interditada para obras após quedas de galhos deixarem três feridos, anuncia prefeito de Curitiba",
-      "summary": "O veículo G1 publicou uma atualização sobre: praça Osório será interditada para obras após quedas de galhos deixarem três feridos, anuncia prefeito de Curitiba. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pr/parana/noticia/2026/10/23/praca-osorio-sera-interditada-para-obras.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T22:52:22+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -244,20 +440,6 @@
       "archive": false
     },
     {
-      "id": "9fb7a51d630c1633",
-      "title": "Transporte intermunicipal será gratuito em RO durante segundo turno das eleições",
-      "summary": "O veículo G1 publicou uma atualização sobre: transporte intermunicipal será gratuito em RO durante segundo turno das eleições. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/23/transporte-intermunicipal-sera-gratuito-em-ro-durante-segundo-turno-das-eleicoes.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T22:49:08+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "90fd7ce436c8137e",
       "title": "EUA classificam Institutos Confúcio como ameaça à segurança nacional",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eUA classificam Institutos Confúcio como ameaça à segurança nacional. Consulte a reportagem para contexto, dados e declarações.",
@@ -265,20 +447,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-23T22:49:00+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c13f270ddeeb790f",
-      "title": "Meta diz que canal 'Exército do Lula' não viola políticas da empresa",
-      "summary": "O veículo G1 publicou uma atualização sobre: meta diz que canal 'Exército do Lula' não viola políticas da empresa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/meta-diz-que-canal-exercito-do-lula-nao-viola-politicas-da-empresa.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T22:48:07+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -580,62 +748,6 @@
       "archive": false
     },
     {
-      "id": "71fad1531c637257",
-      "title": "Sem saber que estava grávida, mulher dá à luz em banheiro de hospital no interior do RN",
-      "summary": "O veículo G1 publicou uma atualização sobre: sem saber que estava grávida, mulher dá à luz em banheiro de hospital no interior do RN. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/23/mulher-gravida-parto-banheiro-grossos-rn.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T21:21:10+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f32e55de7152fa60",
-      "title": "Vigilâncias Sanitária e Epidemiológica fazem inspeção em hospital de SP após mortes de bebês",
-      "summary": "O veículo G1 publicou uma atualização sobre: vigilâncias Sanitária e Epidemiológica fazem inspeção em hospital de SP após mortes de bebês. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/23/vigilancias-sanitaria-e-epidemiologica-fazem-inspecao-em-hospital-de-sp-apos-mortes-de-bebes.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T21:18:01+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "074a8c04c0778fef",
-      "title": "Disputa entre Lula e Flávio em torno de canal de WhatsApp expõe divisão no TSE - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: disputa entre Lula e Flávio em torno de canal de WhatsApp expõe divisão no TSE. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOVNwMElIbmdrejFhT2dEX3NLTFZKZXBBU2V0MGNkODZzNFA5bDNaX01TSlEtNDhuUElkWC0zemVjVUlaT3pVZnRCMVNyWGUySHFFYTJjN0hIWnh5ZUduaGpDVXp2ZGRPX3JPTTJ1ejVnM2FjaUhpXzdWLTBuRzdCM3lUOXJjNEVZclBuWkl1NnQ5QTAyRXdxRDlCTkV0VUljNEpDX3ZjaWdTanl3TTZtdTJBRlhpWG5rVDd0Rll2UHVkSUVJeWJocnhPaTbSAdIBQVVfeXFMTVdQcWRqTW1YaWJtVEpJLTdoWTc1X3hhVnFGUS15MUxTWDFZeDZzM1BxWEZNa1Atdkc1UEg2aHZhZGs4aFZZQkk1Mk1IS25zM2JFajhnU3pMRkZHUXI0aEU4X2NrQ1NtTTRlcS1zWUZDek9tWHVSVUUyQi15dVNVM0VUemlEWjJXSlVEVlVqd3dNX1NBam51S0NHazRQbXFkdFlfR2h1Tk40dUVLT2FoNFNpMUN6T215cHBOdEJWalpKRzE3cUw4aW5JVk9LZGhfMmNn?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-23T21:16:10+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "aac916f84f3e085e",
-      "title": "Hospital de Oriximiná realiza ação de prevenção ao câncer de mama e colo do útero",
-      "summary": "O veículo G1 publicou uma atualização sobre: hospital de Oriximiná realiza ação de prevenção ao câncer de mama e colo do útero. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/23/hospital-de-oriximina-realiza-acao-de-prevencao-ao-cancer-de-mama-e-colo-do-utero.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T21:05:24+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "40c76e7ada43b165",
       "title": "Eduardo fala em chamar fuzileiros e que Flávio deve deixar o país se perder - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: eduardo fala em chamar fuzileiros e que Flávio deve deixar o país se perder - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -678,20 +790,6 @@
       "archive": false
     },
     {
-      "id": "c44a87b765416970",
-      "title": "Trump retira tarifa de 50% sobre alguns produtos do Canadá, incluindo madeira e alimentos",
-      "summary": "O veículo G1 publicou uma atualização sobre: trump retira tarifa de 50% sobre alguns produtos do Canadá, incluindo madeira e alimentos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/23/trump-retira-tarifa-de-50percent-sobre-alguns-produtos-do-canada-incluindo-madeira-e-alimentos.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-23T20:52:48+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ec29b61de5c129ff",
       "title": "Caso Ana Clara: ato no TSE critica decisão de Mendonça contra post de Lula - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: caso Ana Clara: ato no TSE critica decisão de Mendonça contra post de Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -720,20 +818,6 @@
       "archive": false
     },
     {
-      "id": "3d1b0cd58fb0317b",
-      "title": "Ministro do TSE impede Nunes Marques de suspender canal ‘Exército do Lula’ sem aval do plenário - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: ministro do TSE impede Nunes Marques de suspender canal ‘Exército do Lula’ sem aval do plenário. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOVNVZDZHcjh6LUplNTM5TE1tWUVpVmlPWUNqVDV5MElsa1ZBemdwd1VUR1hJekdldHJNRjJfVGk3SzJ4SmpQdjI3b3FHRHNnWmNDZHJ5OGdxdDBWOEpQTWxyWlF6T1pfNXNjUmJRTHl2QUgwNGlIamk3Z1dlXzhfTUV5OVpaRGZaM0dtRzlmdkJjd2tuVUlQZ1I4ekxmVFFPb0E0TWNuc2NLOWM0SGRTRTl6bUEtclNQbGhLM3VXWmZCZWFSSlZhU2Y5RmhTUi1YVjhFS2lLOTc2b1NPckdZcmV2YmY3NV9kR3cxY1FqOTZNTkYwQjZzX09HZ1BWN1nSAY4CQVVfeXFMUG5mLWxNdTBvV3RzUFhJWjNLZDRqNUJ3YXJYV2VZTHJSVlE5UVNxYmY4NU1LRE00ZEFBZEY4aWtPeHNLLUZBMW4wQzRtNk1pckN1ZkFvalFfTy1ISG9aelQ1cjFWbDB3Z01zUnRzZmh3RTJwdFpOZktzZEl0d3FycHJiX0hORDRscmk2UXI2MGVUNDhTeWRWRGRkRlhlVHM4Q3U3ZU5QNHdTbklBeUxfNWJqRWc5M3hEQ3NxRFRPN0xjSU5fazlSbXBVQnlLd3NDMGVCb0ZHeVVDcmd4UUJ6Q1RiQnBIMzRKVXFxU080SmJmYWdoNnYtbFNhQlo1U1gzTmkybXpNVVRtNjdLdjFR?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-23T20:42:11+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "fe37856fe6e7042c",
       "title": "Caminhada em apoio a Lula é realizada em Aracaju",
       "summary": "O veículo G1 publicou uma atualização sobre: caminhada em apoio a Lula é realizada em Aracaju. Consulte a reportagem para contexto, dados e declarações.",
@@ -755,20 +839,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-23T20:27:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e8d1cd0fd7182aaf",
-      "title": "Com previsão de tempestade, TSE acompanhará clima em todo país no dia da votação",
-      "summary": "O veículo VEJA publicou uma atualização sobre: com previsão de tempestade, TSE acompanhará clima em todo país no dia da votação. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/com-previsao-de-tempestade-tse-acompanhara-clima-em-todo-pais-no-dia-da-votacao/",
-      "source": "VEJA",
-      "published_at": "2026-10-23T20:22:03+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -814,20 +884,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1e62c4eef5fa5f35",
-      "title": "Trump admite iniciativa para barrar certificação de eleição no Alasca - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: trump admite iniciativa para barrar certificação de eleição no Alasca - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXlWUk5rMUxxdVlFSlVSUjBfOGk5MVQxR2JKRW9OUUItbi1uemRpb29OVXN1WXFxR3JVOFhJcnRvX0RwRWViLXVhX05YMF8xRUllNEJIaVJxUGt4Sk1HQ2Fub3JHTklJOWswbWtwV1JwXzhMcXpEQjJ6OW54ZFpoa3NGVDJPWS0tTTM3R2FJLXA0NXd0QXlWVFdyQV9aTzdOVUE4Ng?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-23T20:05:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -916,20 +972,6 @@
       "archive": false
     },
     {
-      "id": "747cb8c0d15a9967",
-      "title": "Mendonça reitera que Lula e Flávio podem abrir sigilos por ato próprio",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mendonça reitera que Lula e Flávio podem abrir sigilos por ato próprio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-ato-proprio",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-23T19:19:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a97fcdfec68fa558",
       "title": "Como Elizabeth Holmes enganou empresários e embolsou quase US$ 1 bilhão com fraude na saúde",
       "summary": "O veículo VEJA publicou uma atualização sobre: como Elizabeth Holmes enganou empresários e embolsou quase US$ 1 bilhão com fraude na saúde. Consulte a reportagem para contexto, dados e declarações.",
@@ -972,6 +1014,20 @@
       "archive": false
     },
     {
+      "id": "bf201462101f2757",
+      "title": "Anvisa proíbe produtos de limpeza de duas marcas; veja quais são e os riscos à saúde - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: anvisa proíbe produtos de limpeza de duas marcas; veja quais são e os riscos à saúde. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZU5ncGpMVjczQVd4aW5GN0hsR01QZnJZWkdpSXQxZUQ1QXd5dFRRcjBLMTNLTkVuclE1SXJzTVM5OW1sT1dROWhvTHV6UHZ2WjhxTUNWX3p3a0RlSXVxODk2a3RtRTRBTmVqaG9xZTRXNVF1OEpFZGdyR2lMaXh6M0xRTTdBX1pSSnVyRlN2NTZMT3lEWGJ3MnhjX1l0cnhCOWdCU051dURyQzAxZ3A1UGpOM3hNczFsZmlCSGdDNG1OTUR2a3QtY3hmQmV4QTZGSXFwdkZB0gHkAUFVX3lxTE00TU5fSWpubE9UUm5WY0l2WnZOYzdmUTNiYU9mZkJqMDRTSXExUldob3BiTExUVjlHaHZBdHZ1WW44NVdja1hXeUpMaERXRG1xVXhEcWktWVZ4d2g0ZDJucXZIQUpMbUlJNUl1WEJndVd4QWdVVWxnTExBRzJWTlVHbEp4SWF0RDVLb011TTRiTzljU3U3SDJ1S2oySlUyZ2wwc3p6aVNQaVlsUzVKM3Fzck10cUhoYklVY0oydEt6aWxCWUQ5YmNRSXVyVEluSFl0OWwtZnFVSVFCQW1MUzhnS2tvRQ?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-23T19:04:39+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "4fe891d18f80fff8",
       "title": "Polícia investiga mortes de pelo menos seis bebês no Hospital e Maternidade Salvalus, da Hapvida, em SP",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia investiga mortes de pelo menos seis bebês no Hospital e Maternidade Salvalus, da Hapvida, em SP. Consulte a reportagem para contexto, dados e declarações.",
@@ -996,20 +1052,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ed40b88e17c0132a",
-      "title": "Ministro do TSE veta suspensão do canal Exército do Lula - Diário Goianiense",
-      "summary": "O veículo Diário Goianiense publicou uma atualização sobre: ministro do TSE veta suspensão do canal Exército do Lula - Diário Goianiense. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUk0bkhCR251aUxjTXhwVEtndHdPQzdMQ0pmMVVlNjdMQzBwdmxtZm5aY3VQTkZkRmVxM0E2ajZ3aFZxcGZYdzNET1o1ckY0OV8zQW44UjdVVFlMMmdOelNNbGJxcS1QWnV1aEJ4ZjBCcFA4Si1nMUF1NzZXYXpCQTRnYzlmYmN5Wl84MjB5cE1iOFFOQmpBYkxORGZBZHFKNnc?oc=5",
-      "source": "Diário Goianiense",
-      "published_at": "2026-10-23T18:34:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1056,15 +1098,15 @@
       "archive": false
     },
     {
-      "id": "b845b1a8f5157c46",
-      "title": "TSE não vai divulgar sigilos fiscais de Lula ou de Flávio Bolsonaro - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: tSE não vai divulgar sigilos fiscais de Lula ou de Flávio Bolsonaro - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW9fYzFDUmthTXFRMmgwY2EwOGJqZWxCREs3OUE0cFpxS0pNLVRiLWJwUzNNM2g3QVZPcUFjcFNFM1JQalZrbGd2eDB1aGVQQ0ZIQ0I4NUszUlVlMkNCWlZJSnVVcnRyQjUxYVdFRml3MDBJdTl4QjRrWWdpTGNHcG5IWTNvYnVWVGQxbTFISTBLanhGWWVHX3E4Ny15Ny1Ec1hlMTlJQ2Jtc1AxSXQyRy1neDEzcDc5?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-23T18:03:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
+      "id": "de7ce15a47f2b23b",
+      "title": "Plano de governo de Lula: o que o petista propõe para um 4º mandato - Exame",
+      "summary": "O veículo Exame publicou uma atualização sobre: plano de governo de Lula: o que o petista propõe para um 4º mandato - Exame. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGU2LTMySWpJcmVGamg0ZkpGdWVodGRBSEdjTFU3MDQ4VWNhdGIxUHRTalFRTm0tNkFPZDRVQ0txaGJxYjRYT3gydlVCdlVxOWNfU3VKTzNBSTFGelZSSVEzb2pHZ0hOanNWcWlxRFBWbXM4SmJpdVBseVhuMG12NTBwZUpQODFLazNodEVBY1VvWmZLeWVZ?oc=5",
+      "source": "Exame",
+      "published_at": "2026-10-23T18:18:11+00:00",
+      "category": "Eleições",
+      "candidate": "lula",
+      "election_type": "Proposta",
       "via_aggregator": true,
       "curated": false,
       "archive": false
@@ -1077,6 +1119,20 @@
       "source": "Agência Câmara",
       "published_at": "2026-10-23T18:03:00+00:00",
       "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "22f51e3d39702b80",
+      "title": "Desinformação faz com que só 5% das crianças sejam protegidas da covid",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: desinformação faz com que só 5% das crianças sejam protegidas da covid. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/desinformacao-faz-com-que-so-5-das-criancas-sejam-protegidas-da-covid",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-23T17:53:00+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1364,20 +1420,6 @@
       "archive": false
     },
     {
-      "id": "0dc8ca3280106436",
-      "title": "Lula quer que Jerônimo espere eleição de domingo antes de definir secretariado na Bahia - Acesse Política",
-      "summary": "O veículo Acesse Política publicou uma atualização sobre: lula quer que Jerônimo espere eleição de domingo antes de definir secretariado na Bahia - Acesse Política. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTDRPaEMtVUpuXzVpUVdTekpaOEhsMGJqd0Zzd1VmZWJaemwtUlkzQUNwZll4VkhESl9CV0pyaTE5QzBnVWsxaEw3aUtkQjRiQVVtdUJnN0QzVl96OHYtcjJ2WmRjVDBDWWNaSkhwQlJaZk1oRV9VTTRCUXVJT25PNmp3U0M2TUtoUlFWelp5U3lrNzY5cDk5ckFSNGVIcmlFdTBOZVpJci1FV0xPdDIxazVpblpndzVIdTFrVndSbjFXd3hkVjd0aGZlc0c?oc=5",
-      "source": "Acesse Política",
-      "published_at": "2026-10-23T09:35:26+00:00",
-      "category": "Eleições",
-      "candidate": "lula",
-      "election_type": "Proposta",
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "716d07220c3e346c",
       "title": "Nordestinos, católicos, com ensino superior: Quaest revela os grupos mais engajados na disputa entre Flávio e Lula - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: nordestinos, católicos, com ensino superior: Quaest revela os grupos mais engajados na disputa entre Flávio e Lula. Consulte a reportagem para contexto, dados e declarações.",
@@ -1448,20 +1490,6 @@
       "archive": false
     },
     {
-      "id": "c6538dd953c6bb94",
-      "title": "CMN e BC atualizam regras de segurança e transparência do Open Finance",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: cMN e BC atualizam regras de segurança e transparência do Open Finance. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cmn-e-bc-atualizam-regras-de-seguranca-e-transparencia-do-open-finance",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-22T23:03:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "59c71ef471cffbe3",
       "title": "BPC, o 'vilão do orçamento', quem diria, poupa o SUS e muitas vidas - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: bPC, o 'vilão do orçamento', quem diria, poupa o SUS e muitas vidas. Consulte a reportagem para contexto, dados e declarações.",
@@ -1518,34 +1546,6 @@
       "archive": false
     },
     {
-      "id": "d98cd14d513252f7",
-      "title": "EUA: senadora de 82 anos é detida por tráfico de maconha e corrupção - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: eUA: senadora de 82 anos é detida por tráfico de maconha e corrupção. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkFHZlU5NGZCTVV3OVBuVmxIaXFBT3R5b3BEY09nR0JONGdPQTlaaklHWWtuMjF4b2I5X2RER0xlNE1uSmFBbVVlTEVwR3VGTGNDVUZaalJISXJtU0FvemJKR3A1eWxmS0RpeUpXekphbGxRUUFFMko3UUp2UnUwNkFIWjdMbWZSN0xkanVCXy13NFRFRWQxTk5xVkQtbUx4VHc?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-22T19:26:40+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "00b6918b75e91f8d",
-      "title": "Projeto exige que hospitais divulguem canais de denúncia contra violência a pessoas idosas",
-      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto exige que hospitais divulguem canais de denúncia contra violência a pessoas idosas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.camara.leg.br/noticias/1310222-projeto-exige-que-hospitais-divulguem-canais-de-denuncia-contra-violencia-a-pessoas-idosas",
-      "source": "Agência Câmara",
-      "published_at": "2026-10-22T19:15:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b747fe6f9c2c1a49",
       "title": "Aberta inscrição para seleção de professor elaborador do Enade 2027",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: aberta inscrição para seleção de professor elaborador do Enade 2027. Consulte a reportagem para contexto, dados e declarações.",
@@ -1556,20 +1556,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "69281b22c2846b6a",
-      "title": "Painel: Após pressão, governadora de PE edita decreto que garante transporte de graça no dia da eleição - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: Após pressão, governadora de PE edita decreto que garante transporte de graça no dia da eleição. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR3FvU0QyNDY5aVJ1NklLb21EMFpUMUVQYUVnVnVlY2VzRGJtcmk3a1NkUVZRZndWbGo0dzFzNDUyb2RGRlRVZ2xXelZHdjlheW1VYklvZUN5SEtvYXhocHNCbVh2MkhYWE5TNkFULTJEZUtDSGNtM2t6V1hiQ3VoSU5QcHRSQUY2MDIzWXdacjdWSWxGaUF5aGJIb3hqNmlEUlFMYVZzTFV6dUhZOWFRRU1sZnBQckFEOVBvSzNXVUhQS2Z3a2MyMlplNmpMMDRTLWM0dE9EbTQySXlYcFlYT1JFNFlneEYt?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-22T16:23:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1675,7 +1661,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 34
+      "items": 41
     },
     "G1 · Economia": {
       "status": "erro",
@@ -1684,7 +1670,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 39
+      "items": 40
     },
     "VEJA": {
       "status": "ok",
@@ -1696,7 +1682,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 4
+      "items": 5
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1723,9 +1709,8 @@
       "items": 10
     },
     "Agência Câmara": {
-      "status": "erro",
-      "items": 0,
-      "detail": "URLError: <urlopen error timed out>"
+      "status": "ok",
+      "items": 20
     },
     "Agência Senado": {
       "status": "ok",
@@ -1733,7 +1718,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 66
+      "items": 65
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1753,11 +1738,11 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 57
+      "items": 55
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 59
+      "items": 60
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1765,11 +1750,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 58
+      "items": 59
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 60
+      "items": 59
     }
   },
   "notes": [
