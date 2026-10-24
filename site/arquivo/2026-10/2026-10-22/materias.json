@@ -1208,20 +1208,6 @@
       "archive": false
     },
     {
-      "id": "54993518c0371904",
-      "title": "Ministério cobra governo de SP após foto de presos usando camisetas de Lula - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: ministério cobra governo de SP após foto de presos usando camisetas de Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbXRrX0pseEp4Q3otekhFelRQU3VFV2JXRC1uVXBsY1doUlhoUkxHdDlpSkJZck9pQVhPc2RwR25sQnpTRU1XQjVYdnAzc1J0Y3I3R1pUaDUyODBOc1dZMW9oZWlQTkh5bFYxSGZtSllFQU92dkJEUWI2VXZfQ3JNc0UwWHMxX21UWFRIcHZhMGFOT0I5UjhfWWl1S1lsUTc0VUkzVzRwVzN3SUozMklJeFVR?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-22T21:56:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "4f9ff70c6759d92f",
       "title": "Mendonça diz que Flávio e Lula podem divulgar sigilos",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: mendonça diz que Flávio e Lula podem divulgar sigilos. Consulte a reportagem para contexto, dados e declarações.",
@@ -1694,6 +1680,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "54993518c0371904",
+      "title": "Ministério cobra governo de SP após foto de presos usando camisetas de Lula - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: ministério cobra governo de SP após foto de presos usando camisetas de Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbXRrX0pseEp4Q3otekhFelRQU3VFV2JXRC1uVXBsY1doUlhoUkxHdDlpSkJZck9pQVhPc2RwR25sQnpTRU1XQjVYdnAzc1J0Y3I3R1pUaDUyODBOc1dZMW9oZWlQTkh5bFYxSGZtSllFQU92dkJEUWI2VXZfQ3JNc0UwWHMxX21UWFRIcHZhMGFOT0I5UjhfWWl1S1lsUTc0VUkzVzRwVzN3SUozMklJeFVR?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-22T20:41:00+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
