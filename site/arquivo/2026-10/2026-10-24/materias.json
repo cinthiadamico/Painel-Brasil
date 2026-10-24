@@ -4,6 +4,34 @@
   "claude_original": false,
   "items": [
     {
+      "id": "0432d4a0b8a84c31",
+      "title": "Aldo e Mangabeira declaram apoio a Flávio Bolsonaro e pedem compromisso com soberania",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: aldo e Mangabeira declaram apoio a Flávio Bolsonaro e pedem compromisso com soberania. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aldo-e-mangabeira-declaram-apoio-a-flavio-bolsonaro-e-pedem-compromisso-com-soberania.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T05:12:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e8742bf4bdbbc7b8",
+      "title": "Terremoto de magnitude 6,9 atinge região próxima a Vanuatu, no Pacífico - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: terremoto de magnitude 6,9 atinge região próxima a Vanuatu, no Pacífico - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa25MekpYZXdOLUUxb2dLN0pjX3BpMHNyanYwa0VNT3psOGdLbzluM0xvd3RUNTMzcG9fdTBmSmZMcF9yNXRQRzZoTkZVWWh1NXpJOHVxMlIxT2hoOXEzam0yNFR3UEF4cHFqaUpIMDA1dVFHMjQxNDFTa2RaamswdWJ1OWtSUHBzdkxKN3VycjgtcE5LWm5XbjA0NVc5a3NPcngzdg?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T04:49:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "62ca6dca0fe8184c",
       "title": "Caso Ana Clara e fala sobre 'nove dedos' marcam último debate entre Lula e Flávio; veja como foi em 10 pontos",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: caso Ana Clara e fala sobre 'nove dedos' marcam último debate entre Lula e Flávio; veja como foi em 10 pontos. Consulte a reportagem para contexto, dados e declarações.",
@@ -140,6 +168,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6ffcd0462d466be2",
+      "title": "Eleição dos rejeitados: Lula pressiona por erro de Flávio Bolsonaro | Estadão Analisa - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: eleição dos rejeitados: Lula pressiona por erro de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0FSdHNFNnQ0TExUSnFEUTRneUxnQm9xOHVXVGRsOTdCcW4zRmpPREdWcU1xMU16UVBDTl9UNGJmdHZScnFqV2JYVi16eVhzY0ZUeFBacjFsZUFQN05uMWIzTXlzUTRGaGl5QTJ6Q21fOWF0U3hKc3ZpNjBETmh3b2FPcHRVUmROTTlVaGhSU2xrbFdMTWJGWkdTanhBbElnbFAtbk8tOENSRWNXbkVUZUc3b1B1anE0X19FUEVGMFRqSlN0eG1uWE5NaF9EQmw4UEh2OUd5dWRTY2s?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-24T03:41:24+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },

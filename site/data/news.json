@@ -1,10 +1,38 @@
 {
   "schema_version": 1,
-  "status": "atualizado",
-  "last_checked_at": "2026-10-24T04:42:07.750770+00:00",
-  "last_success_at": "2026-10-24T04:42:07.750770+00:00",
+  "status": "parcial",
+  "last_checked_at": "2026-10-24T05:42:40.669048+00:00",
+  "last_success_at": "2026-10-24T05:42:40.669048+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "0432d4a0b8a84c31",
+      "title": "Aldo e Mangabeira declaram apoio a Flávio Bolsonaro e pedem compromisso com soberania",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: aldo e Mangabeira declaram apoio a Flávio Bolsonaro e pedem compromisso com soberania. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/aldo-e-mangabeira-declaram-apoio-a-flavio-bolsonaro-e-pedem-compromisso-com-soberania.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T05:12:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e8742bf4bdbbc7b8",
+      "title": "Terremoto de magnitude 6,9 atinge região próxima a Vanuatu, no Pacífico - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: terremoto de magnitude 6,9 atinge região próxima a Vanuatu, no Pacífico - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa25MekpYZXdOLUUxb2dLN0pjX3BpMHNyanYwa0VNT3psOGdLbzluM0xvd3RUNTMzcG9fdTBmSmZMcF9yNXRQRzZoTkZVWWh1NXpJOHVxMlIxT2hoOXEzam0yNFR3UEF4cHFqaUpIMDA1dVFHMjQxNDFTa2RaamswdWJ1OWtSUHBzdkxKN3VycjgtcE5LWm5XbjA0NVc5a3NPcngzdg?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T04:49:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "62ca6dca0fe8184c",
       "title": "Caso Ana Clara e fala sobre 'nove dedos' marcam último debate entre Lula e Flávio; veja como foi em 10 pontos",
@@ -146,6 +174,20 @@
       "archive": false
     },
     {
+      "id": "6ffcd0462d466be2",
+      "title": "Eleição dos rejeitados: Lula pressiona por erro de Flávio Bolsonaro | Estadão Analisa - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: eleição dos rejeitados: Lula pressiona por erro de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0FSdHNFNnQ0TExUSnFEUTRneUxnQm9xOHVXVGRsOTdCcW4zRmpPREdWcU1xMU16UVBDTl9UNGJmdHZScnFqV2JYVi16eVhzY0ZUeFBacjFsZUFQN05uMWIzTXlzUTRGaGl5QTJ6Q21fOWF0U3hKc3ZpNjBETmh3b2FPcHRVUmROTTlVaGhSU2xrbFdMTWJGWkdTanhBbElnbFAtbk8tOENSRWNXbkVUZUc3b1B1anE0X19FUEVGMFRqSlN0eG1uWE5NaF9EQmw4UEh2OUd5dWRTY2s?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-24T03:41:24+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "bfbba87c15d77c6d",
       "title": "As três matérias de VEJA mencionadas no debate entre Lula e Flávio na Globo",
       "summary": "O veículo VEJA publicou uma atualização sobre: as três matérias de VEJA mencionadas no debate entre Lula e Flávio na Globo. Consulte a reportagem para contexto, dados e declarações.",
@@ -156,34 +198,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5abad82302ca35e4",
-      "title": "Flávio segue dica de Nikolas e propõe \"Pai-Nosso\" em fala final de debate - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio segue dica de Nikolas e propõe \"Pai-Nosso\" em fala final de debate - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFhka1BQV2JDb0lnVVl2VjV4ZXZNWkNseklWMTJYLWl1TlExOHRmWGF1UzJFNHhpcXZnTFdZRG5EOEw3LUdkWU1MYVdRR1hWaXBVLVBQb0xXZENYVndINVZMRXF3NGM3SFpYUThWYmxUcUxmWUFsWklValhESm55a3k5ZGdiY2h2WnlnWENiSVI0bFNEZzNocU9QN25Kckp0TnJEWk02N0k?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T03:27:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "08894a0f49d4d23f",
-      "title": "Lula e Flávio melhoraram na Globo, mas petista venceu no saldo de pontos - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula e Flávio melhoraram na Globo, mas petista venceu no saldo de pontos - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUFhIaEhEUF9rZjZLUUpEZ2psb2lNUFpHTVNWR1pQY3lPR2w2UC1GV2dzak54SG93bXlFbDg4SWVNNGJpdzl0bkxSbmFvWW9zTXlfMDhUelpxUU00Y1JaaHdINlJBVHdsYlkzRmZlb2NTTENWdG9BZF8tTVlQX2ZUUUp4N1dfeEZEY2djbFpHdDBPTWlMMW9tQ0dwSkdQcmktQnZDQnJQTXBIcVpNamRJejdHNmtGM2M5TUhV?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T03:27:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -678,16 +692,16 @@
       "archive": false
     },
     {
-      "id": "e0273c7e41986e7d",
-      "title": "Ministério Público apura se van de prefeitura do PR abandonou pessoas em situação de vulnerabilidade em SC",
+      "id": "a84fe684e364589e",
+      "title": "Ministério Público apura se van de prefeitura do PR abandonou pessoas em situação de vulnerabilidade em SC - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: ministério Público apura se van de prefeitura do PR abandonou pessoas em situação de vulnerabilidade em SC. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/23/mp-apura-van-prefeitura-pr-abandonou-pessoas-situacao-vulnerabilidade-sc.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaENwbnRJUkFDOVVQeTdMTUUwT0J5RFRkOEo0S2hEQ2k0eEhQbFhEcjBrOFVnNDJUTV9IaWVZS2o4LWs2aUJ4X2RIakVqdFZwWFN6TWVEUUgyMWY4dGs3SmFiajgtYXQ0UFNDYXdnclpwT0hHWkt3U0VnV0FJVWNJdExsXy1RbndMMHYwd2hyR2phbUNOOG1YOV9RT2pTZGNGb0xUVlhzOEdnbm9KamdqQTkxdExEMzk4Nlc4WFRNUnN1QWFmR2tXaTU4M3NKTlBRNWfSAeABQVVfeXFMUFhEcjV1TVhPaXZLemlzYjcwd2dpQy1jemZmRE1DclZFNml5OTd0NWFuNHRpZ1FzaDVVcW5vR0gwalk3eGhyMnB1R082UzhOSEFJT00ybjZ5M3cyOFMwNXFIc2tkS2VISmx6aTlYUWltTm9OZGgzOXF0RFRwZXlyamxOd1BPMFkyUW02UElnbXVodGZ1VkVKQ2VsOHZ5S2R2U2hPamxRaThyR1FlWEtVMFBzelU3MThXOXhoOER1Zm9STjFuTDJiS2R2VmVtek1Ld005MkZrWmdwUjdaYzNXd1M?oc=5",
       "source": "G1",
       "published_at": "2026-10-23T23:16:13+00:00",
       "category": "Governo federal",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -804,20 +818,6 @@
       "archive": false
     },
     {
-      "id": "b548928f64beba87",
-      "title": "Debate da Globo: Quebra de sigilo de Lula e Flávio Bolsonaro ficou apenas na guerra de narrativas - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: debate da Globo: Quebra de sigilo de Lula e Flávio Bolsonaro ficou apenas na guerra de narrativas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQa0QwSGFtMVdWeWRoRVQzeWlZS1EzRm5adWFveFFta0FmdUZjMnlUQUJ1aUxhM2NBS0ZsSTMxam5XRTlfTzR1dDdUX3pnMDkxWkRmMXF2ZU9DTXZEWGs0OUxnT0lLRDVRRjhPMHM1Qkl1LUtUTFdNU2g4Y2Rla0l0OE12eGVPT1RsRXllcFBiVkRLTThvOE1Md2ZqUlVmWXRjQk96cDdvVnZyakxJNjJiVUNUQmdvN1FPN3d6LXVpcmlfTXpYeG02cUN1VGZIS0NmNEg4a3BlYUNYY1lzWEJVc0lPZjRFa05RNUFJR2FXa9IB_gFBVV95cUxONExWZ0UxMGZLR3FSdDlpWkZSdFd2UUpRTHY2MnpNUTNWVXgzSUhmcVc2elF5SFNubnVVR1hTYUVYQlFzNVl6dEJMblF1MWJlTEFhTC1lai1YS1AxQmJCeEFrNV9GNWtFbWNmLWFmb2pCcGtVVTBoR240TDU1c19IdkpxRWhvb2p3OEtPdUIxVTJtaHRDT1VCTTdlcDdfSUltV3BpU2tDaHYxZVVlbDVLcElNMU9vTlZuRlNVS3RRQmVlRlZ2MmlBV0p3cUlqMDV4YXRWSER5N3VpYk5GSkdJampNSmVjaHFqbFFaOHZtRjFLTnpjZzViQnR1NFI5QQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-23T22:04:50+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "49a0e0552b20ba33",
       "title": "Dólar fecha abaixo de R$ 5 e recua 1,58% na semana",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: dólar fecha abaixo de R$ 5 e recua 1,58% na semana. Consulte a reportagem para contexto, dados e declarações.",
@@ -908,20 +908,6 @@
       "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mais-medicos-especialistas-oferece-224-vagas-imediatas-em-nova-chamada",
       "source": "Agência Brasil",
       "published_at": "2026-10-23T21:04:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c9f0d057b013e5c8",
-      "title": "Como funciona a vacina contra o câncer que reduz risco de recidiva ou morte por melanoma",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: como funciona a vacina contra o câncer que reduz risco de recidiva ou morte por melanoma. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/como-funciona-a-vacina-contra-o-cancer-que-reduz-risco-de-recidiva-ou-morte-por-melanoma.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-23T21:01:00+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
@@ -1231,6 +1217,20 @@
       "source": "Agência Câmara",
       "published_at": "2026-10-23T18:03:00+00:00",
       "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "22f51e3d39702b80",
+      "title": "Desinformação faz com que só 5% das crianças sejam protegidas da covid",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: desinformação faz com que só 5% das crianças sejam protegidas da covid. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/desinformacao-faz-com-que-so-5-das-criancas-sejam-protegidas-da-covid",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-23T17:53:00+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1660,16 +1660,18 @@
   ],
   "source_health": {
     "G1": {
-      "status": "ok",
-      "items": 19
+      "status": "erro",
+      "items": 0,
+      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "G1 · Economia": {
-      "status": "ok",
-      "items": 96
+      "status": "erro",
+      "items": 0,
+      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 58
+      "items": 59
     },
     "VEJA": {
       "status": "ok",
@@ -1717,7 +1719,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 74
+      "items": 73
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1729,27 +1731,27 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 74
+      "items": 73
     },
     "Estadão": {
       "status": "ok",
-      "items": 39
+      "items": 40
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 54
+      "items": 53
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 64
+      "items": 65
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 69
+      "items": 67
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 54
+      "items": 57
     },
     "Eleições · Flávio": {
       "status": "ok",
