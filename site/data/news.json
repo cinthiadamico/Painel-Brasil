@@ -1,10 +1,136 @@
 {
   "schema_version": 1,
-  "status": "parcial",
-  "last_checked_at": "2026-10-24T09:42:14.631469+00:00",
-  "last_success_at": "2026-10-24T09:42:14.631469+00:00",
+  "status": "atualizado",
+  "last_checked_at": "2026-10-24T10:41:31.247644+00:00",
+  "last_success_at": "2026-10-24T10:41:31.247644+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "fb291e317bee320c",
+      "title": "Investigação da BBC revela que anúncios pagos no Facebook espalham desinformação em eleição na Sérvia",
+      "summary": "O veículo G1 publicou uma atualização sobre: investigação da BBC revela que anúncios pagos no Facebook espalham desinformação em eleição na Sérvia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/24/investigacao-da-bbc-revela-que-anuncios-pagos-no-facebook-espalham-desinformacao-em-eleicao-na-servia.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T10:37:35+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "711cef9c8ca5b359",
+      "title": "North Korea’s Kim Jong-un Arrives in China, South Korea Says",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: north Korea’s Kim Jong-un Arrives in China, South Korea Says. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-24T10:25:29+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d8556c3db9d6cb39",
+      "title": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: speed of Starshield Satellite Network Is Improving, Ukraine Says. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-24T10:08:45+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "01b2d833ad6f1912",
+      "title": "Eleições 2026: João Pessoa e Campina Grande terão alterações no trânsito no 2° turno; veja mudanças",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: João Pessoa e Campina Grande terão alterações no trânsito no 2° turno; veja mudanças. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-joao-pessoa-e-campina-grande-terao-alteracoes-no-transito-no-2-turno-veja-mudancas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T10:07:53+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "23b0428cb0b805ff",
+      "title": "Reitor da PUC-PR morto em acidente nos EUA: o que se sabe sobre o caso",
+      "summary": "O veículo G1 publicou uma atualização sobre: reitor da PUC-PR morto em acidente nos EUA: o que se sabe sobre o caso. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pr/parana/noticia/2026/10/24/reitor-da-puc-pr-morto-em-acidente-nos-eua-o-que-se-sabe-sobre-o-caso.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T10:05:49+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "598670a238a31a58",
+      "title": "Mais de 22,2 mil microempreendedores podem ter dívidas perdoadas no Acre",
+      "summary": "O veículo G1 publicou uma atualização sobre: mais de 22,2 mil microempreendedores podem ter dívidas perdoadas no Acre. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/10/24/mais-de-222-mil-microempreendedores-podem-ter-dividas-perdoadas-no-acre.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T10:00:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2c964c403f24ae94",
+      "title": "Eleições 2026 no Ceará: horário, local e regras do 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026 no Ceará: horário, local e regras do 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-no-ceara-horario-local-e-regras-do-2o-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T10:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0b997d246144a474",
+      "title": "Professora cria edutech para levar indústria 4.0 ao sertão e à periferia",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: professora cria edutech para levar indústria 4.0 ao sertão e à periferia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/folha-social-mais/2026/10/professora-cria-edutech-para-levar-industria-40-ao-sertao-e-a-periferia.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T10:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "73f81ec168031f04",
+      "title": "Quem paga a conta? Economistas analisam promessas de Lula e Flávio diante de Orçamento apertado",
+      "summary": "O veículo G1 publicou uma atualização sobre: quem paga a conta? Economistas analisam promessas de Lula e Flávio diante de Orçamento apertado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/24/quem-paga-a-conta-economistas-analisam-promessas-de-lula-e-flavio-diante-de-orcamento-apertado.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T09:50:53+00:00",
+      "category": "Endividamento",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "9034ce5e7592d280",
       "title": "OMS anuncia testes clínicos da vacina contra o ebola no Congo - Metrópoles",
@@ -40,6 +166,34 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNDUtLURJdmhTOURFc2tUOV9BRVJpT21MNVdvanRQVW5sbVFldDV4WWEzWERGYi1RNU5fbWMyYUdPeExzM2dISGpqMTRKWHdkZFhVMk9YbUZyQTYtNFRiRzFRekZJVUE1US1sQ3FpVmxlQjczZlJ2b0xmRnBFdkE2M1JWRUM0QVpXcWprcUl6cUljVGk1M3FQWkNSa3ZwMVB1V2tPYmdfUldQLWt5T0RGM0xTeE9qNGlBVER3M0xMUWJ1RV9a?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-24T09:15:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "be77c952e8c63be8",
+      "title": "‘Estadão’ debate o que a iniciativa privada espera do novo governo; acompanhe - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: ‘Estadão’ debate o que a iniciativa privada espera do novo governo; acompanhe. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbDJISVRGX3BocHJqSEE3Q3JXTDhzOEp1X1ptOWVjRmtub0RidjJMZTJXajFIalFMQkJ6b1lsMVI3VEUzbzFVRFJiUHRDYW9DMVhVRnlYSnllYlFlUk1BUlpWZ0k5NUNqVlZHa2cwVU51ZFdwSkR3VnlBWjdmYkRQWWJlQnRibTNrUDREVjRFSzFBbnhOc1dFMWxSSWxfdEJMeldUZ1hmbW9nZWFyRExCVkhobWdRVGljVVNxVVBrQVg2VWc?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-24T09:11:35+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "588a1a672c7a3b0b",
+      "title": "Estadão faz série de debates sobre o que esperar do novo governo, na reta final das eleições - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: estadão faz série de debates sobre o que esperar do novo governo, na reta final das eleições. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbW94X2x4ZlA3OTI3U01sdWJBeWxEaVYzOVRmZFMxT1N2MHhtcl80aVIySHY5QXA3MDlPMDU4MDFKUldzSTNZOXNlTFdiWklwZTNBaWhENG0yWUMzSkNaNkYxSEdtY0p1c1dPRnY4c3QxR2htNkEtM3E0TTVQVGt3NjV1dWRtakgyaTg2M3VQMl9QYWNtQjBrZW9KY2JwaVZaNGswOUt5c1h3NVBzYmNzdmhEaU5UclZnSDNfeEh6Z3N1bmEzZWFVUFZUd3hLRF9WMUE?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-24T09:04:49+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -118,20 +272,6 @@
       "archive": false
     },
     {
-      "id": "711cef9c8ca5b359",
-      "title": "North Korea’s Kim Jong-un Arrives in China, South Korea Says",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: north Korea’s Kim Jong-un Arrives in China, South Korea Says. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-24T09:01:12+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ea18159119463867",
       "title": "Técnica de enfermagem que cuida de pacientes com câncer enfrenta a doença com apoio de colegas e volta para inspirar",
       "summary": "O veículo G1 publicou uma atualização sobre: técnica de enfermagem que cuida de pacientes com câncer enfrenta a doença com apoio de colegas e volta para inspirar. Consulte a reportagem para contexto, dados e declarações.",
@@ -150,34 +290,6 @@
       "title": "Sábado terá sol entre nuvens, mas domingo de eleições será chuvoso no Vale do Paraíba e litoral",
       "summary": "O veículo G1 publicou uma atualização sobre: sábado terá sol entre nuvens, mas domingo de eleições será chuvoso no Vale do Paraíba e litoral. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/24/sabado-tera-sol-entre-nuvens-mas-domingo-de-eleicoes-sera-chuvoso-no-vale-do-paraiba-e-litoral.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T09:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3f43d2ea9586333e",
-      "title": "Você viu? Operação na Prefeitura de Ubá, tentativa de fuga em penitenciária e morte em acidente com trem em Juiz de Fora",
-      "summary": "O veículo G1 publicou uma atualização sobre: você viu? Operação na Prefeitura de Ubá, tentativa de fuga em penitenciária e morte em acidente com trem em Juiz de Fora. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/24/voce-viu-operacao-na-prefeitura-de-uba-tentativa-de-fuga-em-penitenciaria-e-morte-em-acidente-com-trem-em-juiz-de-fora.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T09:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ec266fe122a80fc8",
-      "title": "Deputado acusado por advogado de racismo foi processado por chamar fiscal de 'preto safado'",
-      "summary": "O veículo G1 publicou uma atualização sobre: deputado acusado por advogado de racismo foi processado por chamar fiscal de 'preto safado'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/24/deputado-acusado-por-advogado-de-racismo-foi-processado-por-chamar-fiscal-de-preto-safado.ghtml",
       "source": "G1",
       "published_at": "2026-10-24T09:00:01+00:00",
       "category": "Política",
@@ -216,34 +328,6 @@
       "archive": false
     },
     {
-      "id": "ddbe55b323a66598",
-      "title": "Trump não para de elogiar corpos masculinos em campanha para as eleições",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: trump não para de elogiar corpos masculinos em campanha para as eleições. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/trump-nao-para-de-elogiar-corpos-masculinos-em-campanha-para-as-eleicoes.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T09:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "46fa2ecf102d5b99",
-      "title": "Caso seja eleito, o que, de fato, Flávio Bolsonaro poderá mudar no Brasil? - Aratu On",
-      "summary": "O veículo Aratu On publicou uma atualização sobre: caso seja eleito, o que, de fato, Flávio Bolsonaro poderá mudar no Brasil? - Aratu On. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnUwNHFKa0x4QjV4Y0NTblFSWmFRaFk1dHZhZk1sOW1CVzUxLXhiNWlkbk56OU1FeWMzdU1UR2V2NGliMlNyb3VzZG1FZGJVdDBJaVloYW9nTGdncG4wOUY5WjBPbzBHTzFuQ3gwdDJBUTNiaVBid01oWExlSldTQm9idWlKUXBxaTFjQVhRQ1Vqa2JOdm85R2NGR3Fody1FcjMyTkJn?oc=5",
-      "source": "Aratu On",
-      "published_at": "2026-10-24T09:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "33833e80f31f0ede",
       "title": "Janones dorme no chão após quase cinco horas de live em apoio a Lula - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: janones dorme no chão após quase cinco horas de live em apoio a Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -272,34 +356,6 @@
       "archive": false
     },
     {
-      "id": "bfc5d2ca7795047f",
-      "title": "Eleição 2026: maiores doadores de Flávio Bolsonaro e Lula são do agro; veja propostas e desafios para o setor",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleição 2026: maiores doadores de Flávio Bolsonaro e Lula são do agro; veja propostas e desafios para o setor. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/flavio-lula-agronegocio.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T08:29:39+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d0e22b462fdc0385",
-      "title": "Tufão Champi deixa morto e milhares sem energia elétrica em Taiwan",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tufão Champi deixa morto e milhares sem energia elétrica em Taiwan. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/tufao-champi-deixa-morto-e-milhares-sem-energia-eletrica-em-taiwan.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T08:16:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "73c59b03adad3d95",
       "title": "Greta Thunberg diz que eleição de Flávio seria \"desastre para o planeta\" - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: greta Thunberg diz que eleição de Flávio seria \"desastre para o planeta\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -314,10 +370,10 @@
       "archive": false
     },
     {
-      "id": "e18cd9241f4c772f",
-      "title": "Conheça os planos econômicos de Lula e Flávio para os próximos anos - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: conheça os planos econômicos de Lula e Flávio para os próximos anos - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNekhBeWtFYVYxM0R4UlI3NWlIemxYVGlEZzk1MG0zbmhwcmk0VnU1cUdhRXRlcG5Hak1OU2pIZFU1SC1SS3hGSFlkNUt5dklaVW43RUpBTmplbE14S2FoRVpQN3BYT0ZrNzNJdEZBWmhCc1dHQ2dJRWJiZEdPRUFxaQ?oc=5",
+      "id": "f2d8f6fc96de08d7",
+      "title": "Canais de WhatsApp de Lula e Flávio mostram força do digital no 2º turno - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: canais de WhatsApp de Lula e Flávio mostram força do digital no 2º turno - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXFqS0VTVUNNOVdudl9tc3BpTkpKUlpGck1ORER6clNIRklOcHVMcjE1OE5DSzRPYjhkR2ViQkpkWGQ2ZHRRYnEydjVlVFhicHNvYmhJSzBfaGZTdm5zR2QyTm1YeVhsbTdIeWdjTDBkaG1mMGhVb1B2QXNSVVl3VVJodHJQbDFVMEgwYjFQeVdIekYt?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-24T07:30:00+00:00",
       "category": "Política",
@@ -538,20 +594,6 @@
       "archive": false
     },
     {
-      "id": "2d4e4b29128563ec",
-      "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-24T03:46:54+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "0211f5cc0520ad54",
       "title": "TSE proíbe Nikolas e Marçal de publicarem conteúdo falso até a eleição sob pena de R$ 100 mil de multa",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tSE proíbe Nikolas e Marçal de publicarem conteúdo falso até a eleição sob pena de R$ 100 mil de multa. Consulte a reportagem para contexto, dados e declarações.",
@@ -573,48 +615,6 @@
       "source": "G1",
       "published_at": "2026-10-24T03:02:01+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "df73b33fcd687604",
-      "title": "Você viu? Homem não devolve Pix e bloqueia polícia, ladrão usa arma de isopor e estudante reconhecido em Londres",
-      "summary": "O veículo G1 publicou uma atualização sobre: você viu? Homem não devolve Pix e bloqueia polícia, ladrão usa arma de isopor e estudante reconhecido em Londres. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/24/voce-viu-homem-nao-devolve-pix-e-bloqueia-policia-ladrao-usa-arma-de-isopor-e-estudante-reconhecido-em-londres.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T03:02:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c0eddffb5bde61b4",
-      "title": "Mega-Sena pode pagar R$ 230 milhões neste sábado; g1 transmite ao vivo",
-      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena pode pagar R$ 230 milhões neste sábado; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/24/mega-sena-pode-pagar-r-230-milhoes-neste-sabado-g1-transmite-ao-vivo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T03:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f51eef171cc6964a",
-      "title": "Polícia identifica 10 suspeitos de matar vítimas cujos corpos foram encontrados em SP entre setembro e outubro",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia identifica 10 suspeitos de matar vítimas cujos corpos foram encontrados em SP entre setembro e outubro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/24/policia-identifica-10-suspeitos-de-matar-vitimas-cujos-corpos-foram-encontrados-em-sp-entre-setembro-e-outubro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T03:00:00+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -699,20 +699,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-24T02:00:00+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b91f9c104261d6ff",
-      "title": "Plenária na China pode indicar possível sucessor de Xi Jinping sem alarde",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: plenária na China pode indicar possível sucessor de Xi Jinping sem alarde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/igor-patrick/2026/10/plenaria-na-china-pode-indicar-possivel-sucessor-de-xi-jinping-sem-alarde.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T02:00:00+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1448,6 +1434,20 @@
       "archive": false
     },
     {
+      "id": "1f23058e10ee7531",
+      "title": "Secretário pede que polícia prenda petistas no Maranhão no dia do 2° turno - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: secretário pede que polícia prenda petistas no Maranhão no dia do 2° turno - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDlWZ19wZzV1UWVBV2tReEZ1MjVweXVRQUJYM0UwWE8xYnNhVk56MXMzM3RIbFk4X1FlVlV5WGhaaDVfTXNrNVA0dE5zdWU3N0FMYmZFamRWaDljeHNYRzFZY3JfTmNCUXh2NWNRMVZRRVJzRm1Rd0l0bG9kU293ZTI4Y19QNzJ5aXBESG5WWWoweG92NXdTRzFoNHI0VlFrbkdFa3JqMGtfMW8?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-23T05:04:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "59c71ef471cffbe3",
       "title": "BPC, o 'vilão do orçamento', quem diria, poupa o SUS e muitas vidas - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: bPC, o 'vilão do orçamento', quem diria, poupa o SUS e muitas vidas. Consulte a reportagem para contexto, dados e declarações.",
@@ -1504,6 +1504,20 @@
       "archive": false
     },
     {
+      "id": "d98cd14d513252f7",
+      "title": "EUA: senadora de 82 anos é detida por tráfico de maconha e corrupção - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: eUA: senadora de 82 anos é detida por tráfico de maconha e corrupção. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkFHZlU5NGZCTVV3OVBuVmxIaXFBT3R5b3BEY09nR0JONGdPQTlaaklHWWtuMjF4b2I5X2RER0xlNE1uSmFBbVVlTEVwR3VGTGNDVUZaalJISXJtU0FvemJKR3A1eWxmS0RpeUpXekphbGxRUUFFMko3UUp2UnUwNkFIWjdMbWZSN0xkanVCXy13NFRFRWQxTk5xVkQtbUx4VHc?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-22T19:26:40+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "b747fe6f9c2c1a49",
       "title": "Aberta inscrição para seleção de professor elaborador do Enade 2027",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: aberta inscrição para seleção de professor elaborador do Enade 2027. Consulte a reportagem para contexto, dados e declarações.",
@@ -1542,6 +1556,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "06cfd69dcb14aa39",
+      "title": "O que será do Ministério da Cultura nos possíveis governos de Flávio ou Lula - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: o que será do Ministério da Cultura nos possíveis governos de Flávio ou Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0dCYXlDNlR6Ty11ZVVLMWxGWXlTVktaZ2YwRE9mUGc0NGZ4emI0UWY2dm5xYXRrdnVBb2xHNjJBdXRsbDR6RGFTc0ZKU2hYWWMwdmpoWmlPVDlwS2c5SGtRa25ZSHJPSURYeU54ZnRNekJuVUVNQ1duRVhRMFNXT25mNjVzbElTNDZCSE02aUxVRHR2TjliZ3hLQUhubG91TEVON1B2M2E4djdwbUJzMmt2WnZpcDZNVngxRFB5ZHg3dXFnYTNSaWV3?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-22T02:00:00+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1633,12 +1661,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 34
+      "items": 40
     },
     "G1 · Economia": {
-      "status": "erro",
-      "items": 0,
-      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "status": "ok",
+      "items": 96
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1650,7 +1677,7 @@
     },
     "The New York Times": {
       "status": "ok",
-      "items": 12
+      "items": 13
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1694,7 +1721,7 @@
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 40
+      "items": 39
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1706,7 +1733,7 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 42
+      "items": 43
     },
     "G1 · Busca alternativa": {
       "status": "ok",
@@ -1714,7 +1741,7 @@
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 64
+      "items": 62
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1726,7 +1753,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 60
+      "items": 59
     }
   },
   "notes": [
