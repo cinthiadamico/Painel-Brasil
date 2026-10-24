@@ -1,21 +1,63 @@
 {
   "schema_version": 1,
-  "status": "parcial",
-  "last_checked_at": "2026-10-24T03:43:20.173661+00:00",
-  "last_success_at": "2026-10-24T03:43:20.173661+00:00",
+  "status": "atualizado",
+  "last_checked_at": "2026-10-24T04:42:07.750770+00:00",
+  "last_success_at": "2026-10-24T04:42:07.750770+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
-      "id": "bfbba87c15d77c6d",
-      "title": "As três matérias de VEJA mencionadas no debate entre Lula e Flávio na Globo",
-      "summary": "O veículo VEJA publicou uma atualização sobre: as três matérias de VEJA mencionadas no debate entre Lula e Flávio na Globo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/as-tres-materias-de-veja-mencionadas-no-debate-entre-lula-e-flavio-na-globo/",
-      "source": "VEJA",
-      "published_at": "2026-10-24T03:32:10+00:00",
+      "id": "62ca6dca0fe8184c",
+      "title": "Caso Ana Clara e fala sobre 'nove dedos' marcam último debate entre Lula e Flávio; veja como foi em 10 pontos",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: caso Ana Clara e fala sobre 'nove dedos' marcam último debate entre Lula e Flávio; veja como foi em 10 pontos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/caso-ana-clara-e-fala-sobre-nove-dedos-marcam-ultimo-debate-entre-lula-e-flavio-veja-como-foi-em-10-pontos.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T04:33:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5b4ce7f15fd914c5",
+      "title": "Quem ganhou o debate da Globo, Flávio Bolsonaro ou Lula? Colunistas do GLOBO dão notas e avaliam - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: quem ganhou o debate da Globo, Flávio Bolsonaro ou Lula? Colunistas do GLOBO dão notas e avaliam. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTWY4QjJQVEMzUVdMVlFNZ2NFdktHWE9HY05iNEs3eUhvLVJtRW42ZG1oVVEwanhJa2R2d25PNDFXZ0VyaTIzX2ZXaHpXU1ZkNlhGZEFSb1o4M29QOGFxcmhjNlZuN2JuM2dOYUQzWlJHSXFyQXhDZHBobjJvVHRneEd4Y1lEcmprd09ZUnFweTd2WHZxb1AxUllFa2FhMG5NbUczckZEQ3E2OHBRblRzTEVtdE9lT2pLRzF6WDVvR1hyeFdGM3RBVkJjd244QmV5Qmk2LWtHak55WU5seFF0UXh1SXZlSjZVWDRCMnJ3STU2Z1ZlREE5eFFQZ9IBigJBVV95cUxQdW5aRnVSUkFjeHRHdkRWODVEUElxTVJlanFfMWtjN2trR0l0b0ctZGdIVjRlNGhRRHd0V0ZOSWp1M1lUV3hHTFNpTFpOaVlteUZXeFBGby15S05MU090RERVNnhPZmJNeHcwTml4TlhaSWpWeDlKOGdsLTR6R2thZVJxZXRGdWRQOGlzaWpLakkwcEsxd1NmcDgtcXV1M2tQR0NCYTJBSzMxOTRvUEptUnFNSHFyTWZNOWpkUTEwQ0I2UHd4QlFsSVRKN3NlWUg3MEl1NGdQX3RwdWF3WXFZZGE1bjZENldKZGtPVjZTdDI5S1k4ekxRZW1rdlNPemd0cXVtb0JXLUNndw?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-24T04:29:54+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a77315ce1ccf0c26",
+      "title": "Reação a “9 dedos” foi melhor momento de Lula no debate, diz pesquisa do PT - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: reação a “9 dedos” foi melhor momento de Lula no debate, diz pesquisa do PT - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDZSVlF2bFJYZV83eTFEUVFxNHZFUThBcUJUSEpmckctRWdqbzJaQ2RDUzJwbkFVOUtwR2l4WjdPM0JPY0RQY3ZUYTV1SldOcGdZWFVWYTJCbl9TQnMtT200cUFMaXlseE1GQnVFTlRMZTdJMm5BUXkwVXFmR0lVNHBiWl9XZzN0dG1NRm1rT0dQa3RhR25NXzA5TVpXQndlcTFVUUxJb0VnTHNiN0hMZmc0RWJ3N1RNTVB1V1pfZ2Y?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T04:05:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "095e70a1802cb04c",
+      "title": "Flávio vence Lula no debate da Globo por 9 x 1 - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio vence Lula no debate da Globo por 9 x 1 - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEh0VFlXRjNqLUdDemVtampXSWhhNjV3STg4YmhLUDR3aXBUMVRiMU1RSXFWcUJCa08zNHozQktyZXIta2lfRkRMWDNHOWdEeVBjZGtrUkQ1M1Z3Z0NrT0ZZemZwdEFhbldReExZaFJwU05YVF9tdEZVT1NwclIyQ194OVdpSE9vLVRDZ0RCZlhUd1ByV1dkd0lUT0VuQQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T04:02:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -25,7 +67,91 @@
       "summary": "O veículo G1 publicou uma atualização sobre: veja como foi o debate entre Flávio Bolsonaro (PL) e Lula (PT) na Globo. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-24T03:29:14+00:00",
+      "published_at": "2026-10-24T04:00:37+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7f3d90fa2298ad15",
+      "title": "Ônibus será gratuito em ao menos 23 estados no domingo de eleição",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ônibus será gratuito em ao menos 23 estados no domingo de eleição. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/onibus-sera-gratuito-em-ao-menos-23-estados-no-domingo-de-eleicao.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T04:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5d72accc275dbf36",
+      "title": "Covaxin, uísque, Vorcaro e Lulinha: o último confronto entre Flávio e Lula antes do 2º turno - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: covaxin, uísque, Vorcaro e Lulinha: o último confronto entre Flávio e Lula antes do 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbEtSUE05VDdQVGxXcGlCOTlXOEFBN3JpNVJFeUpod3lJWExvUnRMZmNJcldMX3E2NlhFQld3MUdVN0I5b1JyVE4wUnUxbUdtYzZNbktYU1R1eGgyb1dKb3puNFhNYUc2Y2VQQzVMU1o3UHZrc1I1Rm8zbElERnFvNkJYVDAxcjdIVVdFbktHdUZKYXM1QzBld01qdHY0R0Z6LV9JeDYwMVI3LTlLQzdpN2lMWE10MWtCaURmbjFkbWxGaFRlTXJZ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-24T03:53:57+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2d4e4b29128563ec",
+      "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-24T03:46:54+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "07516d3399d3d347",
+      "title": "Mãe de Ana Clara reage à fala de Flávio em debate da Globo: “Mentiroso” - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: mãe de Ana Clara reage à fala de Flávio em debate da Globo: “Mentiroso” - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1dZN2c2QURWYTB5NnhVaHExR1lfOEd4VDcwZDVNQkstX193Sk1rZG5LRUVYRmJudkt3N3pWMUpIekFLR0VvOFpEZXI5WVRoZV9CYjNLbmF5NE1Pa21XdFI1cjAtLXJLZTJtNk8wMmNMZE8zeDhtQUs0cGVHeHA4RktLSUpicTFpNDg0cFgwbVFTX3Jpcks2em9UbEEzcWhMRExlVA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T03:45:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b9d9c7b64c292cb0",
+      "title": "Com regras mais rígidas, Globo baixou a temperatura do debate entre Flávio Bolsonaro e Lula",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: com regras mais rígidas, Globo baixou a temperatura do debate entre Flávio Bolsonaro e Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/com-regras-mais-rigidas-globo-baixou-a-temperatura-do-debate-entre-flavio-bolsonaro-e-lula.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T03:42:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bfbba87c15d77c6d",
+      "title": "As três matérias de VEJA mencionadas no debate entre Lula e Flávio na Globo",
+      "summary": "O veículo VEJA publicou uma atualização sobre: as três matérias de VEJA mencionadas no debate entre Lula e Flávio na Globo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/as-tres-materias-de-veja-mencionadas-no-debate-entre-lula-e-flavio-na-globo/",
+      "source": "VEJA",
+      "published_at": "2026-10-24T03:32:10+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -76,76 +202,6 @@
       "archive": false
     },
     {
-      "id": "25db33f293028894",
-      "title": "'Nove dedos', 'miliciano, 'dá um Google': veja frases do debate entre Lula e Flávio na Globo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Nove dedos', 'miliciano, 'dá um Google': veja frases do debate entre Lula e Flávio na Globo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/nove-dedos-miliciano-da-um-google-veja-frases-do-debate-entre-lula-e-flavio-na-globo.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T03:24:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "413b0c273032a8fb",
-      "title": "Lula chama Richarlison de pai do bebê em debate da Globo; entenda o meme",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula chama Richarlison de pai do bebê em debate da Globo; entenda o meme. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/voceviu/2026/10/lula-chama-richarlison-de-pai-do-bebe-em-debate-da-globo-entenda-o-meme.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T03:20:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "da181e01e29aadd8",
-      "title": "\"Parece que Flávio foi doutrinado e educado para mentir\", acusa Lula - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: \"Parece que Flávio foi doutrinado e educado para mentir\", acusa Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUttY2pQYnFIa2FyRnZPWnl1T2ZYQnltRDNPU2t0T1BSdlI1ZGQ0QXBfLWswdlF0ZTMyZ3Zoc1Y0ejBldVBvNnJfT2wzd18zdXdnZ2dlaUhLYUtUYzRhNlZfQUpDNndxVDFOUmV4bnd2YkdkRE5ic3JKdDZsRjF1ajYxU29QdmpOR1NNbUh6d01jeHF6LTM3TFNlNXZVS1Zn?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T03:11:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b1426a72c656a5c4",
-      "title": "Checamos o debate entre Flávio e Lula na Globo; confira - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: checamos o debate entre Flávio e Lula na Globo; confira. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUFlGNThtYjJwMENuSWVFeGxIT1dzbDg5ZHkwZ2NGclRiMEdLS09TQk9POHlCRGpDbkExOEFSTFJDSU56UWUwY3NPZEp4bnlRWE9Sb0hRT1V6eHlmWVNlekpmaWQ0QXhzUFgwUF9Cd0dTeHYyYXhreHNOejV4U1pMNU53ZEN6bGxjaDdwR1puXzA3UdIBlwFBVV95cUxOUHpldnozYTQwOUNmME5ZS3Byd1dYZnpvbC1tYjVrWVFkQ1ItZno3ZVhGSjRzNzJ0Z3E4Q052c1I5RlJ0dzU3SURVQ19QSVZWaTJQRDZiWVUzdi1OVVFXZ2tQSS05ZU1TNjYzeUFYUlB3WkJSZ0RDMGVLMkpzakc1aEN5ME5PdC1HN0pGZGNjR240cGR1am5n?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-24T03:08:11+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a57cf7285f0dd519",
-      "title": "França tem novos protestos neste sábado após um mês de manifestações; Governo mobiliza 70 mil agentes",
-      "summary": "O veículo G1 publicou uma atualização sobre: frança tem novos protestos neste sábado após um mês de manifestações; Governo mobiliza 70 mil agentes. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/24/franca-novos-protestos-sabado-um-mes-de-manifestacoes-governo-mobiliza-70-mil-agentes.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T03:05:10+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c2e4053e4414d5ac",
       "title": "Saúde da mulher é destaque no Centro Médico Pastore em Petrópolis",
       "summary": "O veículo G1 publicou uma atualização sobre: saúde da mulher é destaque no Centro Médico Pastore em Petrópolis. Consulte a reportagem para contexto, dados e declarações.",
@@ -188,41 +244,13 @@
       "archive": false
     },
     {
-      "id": "bf024fbf04dd8d98",
-      "title": "Eleições 2026: acompanhe a apuração em todo o Brasil no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: acompanhe a apuração em todo o Brasil no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-acompanhe-a-apuracao-em-todo-o-brasil-no-2o-turno.ghtml",
+      "id": "c0eddffb5bde61b4",
+      "title": "Mega-Sena pode pagar R$ 230 milhões neste sábado; g1 transmite ao vivo",
+      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena pode pagar R$ 230 milhões neste sábado; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/24/mega-sena-pode-pagar-r-230-milhoes-neste-sabado-g1-transmite-ao-vivo.ghtml",
       "source": "G1",
       "published_at": "2026-10-24T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dfc841d94abbd1bc",
-      "title": "MP-BA investiga prefeita que nomeou filha para cargo de chefe de gabinete",
-      "summary": "O veículo G1 publicou uma atualização sobre: mP-BA investiga prefeita que nomeou filha para cargo de chefe de gabinete. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/24/mp-ba-investiga-prefeita-que-nomeou-filha-para-cargo-de-chefe-de-gabinete.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T03:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "43a931e0854302cf",
-      "title": "Eleições 2026: vai chover no horário da votação? Veja previsão do tempo para todo o país",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: vai chover no horário da votação? Veja previsão do tempo para todo o país. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/24/eleicoes-2026-previsao-do-tempo-para-todo-o-pais.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T03:00:00+00:00",
-      "category": "Política",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -240,6 +268,20 @@
       "candidate": "lula",
       "election_type": "Fala",
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "23073363e8e99628",
+      "title": "Em entrevista após debate, Lula diz que mudar autonomia do BC não é o principal: 'Quero que baixe os juros' - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: em entrevista após debate, Lula diz que mudar autonomia do BC não é o principal: 'Quero que baixe os juros'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0ZZYmJiMko2eFlYOHpoNWtNOG94Yk1ObGNIMEpfTS0xeERETVZkZ2taX19GcTNYc2lRaFZqdnlyQlVHeVo4VFVQSlY3MUMxTHF0b2pwb0JXakNFS1MzaGJLdGQ4dDJSRzRCU3pjTWJrWFBhMVVrdU9DRFVjRnpqbVpKSlJRRHNzSTZIZXNlZzZtM09yZEJ6NjhaOXVDQdIBrAFBVV95cUxPVE03N2pqVEhRV3l5QzlObWlremxEVWJtVzhMNm1VS0ZjTjdxMi1PR29laGJWMjhlNVBrZGpYRllCYUpwM3BkOE4xdkNLNFFLenE0OEhJRUdMZndYSzk1dWttZXRtVVk0cmcwQ2NHXzVLN2VMbzlLR0w2dGdncnFRTmMxUmVTVXpnVnloNDZxRFBWNlF0bllBbTZkYnlPaTBFQ2ZxUENTa1JZY1RI?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-24T02:59:47+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -370,6 +412,20 @@
       "archive": false
     },
     {
+      "id": "07685954c1b6f25d",
+      "title": "Voz de Lula no debate da Globo: entenda por que está rouca e o tratamento em curso - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: voz de Lula no debate da Globo: entenda por que está rouca e o tratamento em curso. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUkdTSXkyZi1qNDBreFdUTmVmTXpBSWpoZ2lWYzBEbGNnVFpINW5EU1ZMaXU3VVItM0Vad0RpbGxqTEM3LU1UXzFSVFpIWWxwZklsQlMyMmRIZGhzNHNxb1cyMlFzc1ZDd25WMFhfbndFbEU0TGlCUXpoLWZRVEdzaWNmZ0puOEdzaFVVWlpkUVM3eFF0TkpQenBhMHJuYVl1SWFrS1YwM2FEcDlGYm1kSE1rWExscV9LWUpYVG5KT2R1NkpTanZESk1FN3g1Qlg0NF9vTlBoMFUtaGYxRHJGWGZldlhMbEdLYWfSAfgBQVVfeXFMTnlwQUwyYUhuVy1QaFZNRFRoOHFvMFNSLUhrX0dfZ3J0TkRqUno1TC1NUlM1Yl9ncDNfVjA2aS14cUVTT1N1dnYzQ0Z2cDZSNHdLS3h5b1J5bllMQ3A5U2VSSWZlSE1ueHBQVi1zZnhNby1kM1pUMFlDUW5RWGJjNVFkS1hreGFmZEJNTkVJYklHSy1RWDE0SU5YSS15cjdFUlpTUnd5YWpnbkZ4cTctdVlrNnVpRXRTVmZUQ1U1a3pUUFFKYjh6TlpfWWVtSjlKeEZYUDllcWROODlSb3VoVDliYXhFOExocVBLZmtxQzRoTldVUkZWeFc?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-24T01:46:25+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "ad3775c1a33cf0e0",
       "title": "Debate: Flávio Bolsonaro promete reajustar salário mínimo acima da inflação - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: debate: Flávio Bolsonaro promete reajustar salário mínimo acima da inflação - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -468,16 +524,16 @@
       "archive": false
     },
     {
-      "id": "9b5770f9d626cd34",
-      "title": "Debate da Globo: Lula e Flávio Bolsonaro discutem dívidas dos brasileiros, salário mínimo e SUS e trocam ofensas e ataques com 'nove dedos' e 'miliciano'",
+      "id": "887decdcea59a3ec",
+      "title": "Debate da Globo: Lula e Flávio Bolsonaro discutem dívidas dos brasileiros, salário mínimo e SUS e trocam ofensas e ataques com 'nove dedos' e 'miliciano' - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: debate da Globo: Lula e Flávio Bolsonaro discutem dívidas dos brasileiros, salário mínimo e SUS e trocam ofensas e ataques com 'nove dedos' e 'miliciano'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-da-globo.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzJMVjg5Z0xLeWN3T0xqNzZYeGhPV00yNmRsNm53UVpRRUtkeUVGdUlDczJSVk5Ebkk4T0NCWk9uSFNmMlpKLWx5RVdYUFJQb3BQRjh0R09QNnlmaUVuaTMyMGtHVFlzWVZaUnhoWUpFUHAwa21mLUtvWnA3VE5KOXZhMGN5SUc0VzNBUNIBmwFBVV95cUxNUUhPNnRicDEtRk13dVBJYk1tNVVCX0U2Z3gwXzZYaEZYZ2gzamFuVDhSUy1TS1BLSG13SjZWUkZHMXBORnU0enI0RXVEc2x2a24ya0ZjMDJKNG1xN0ZTVzBYUDJCVHhuenJfWEVZM0ZhWmNubWZneENWaXhSZjVzeVZzMnNESXVfUDVvYi1FT3VOUGFTd09tdG5wcw?oc=5",
       "source": "G1",
       "published_at": "2026-10-24T00:39:27+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -650,16 +706,16 @@
       "archive": false
     },
     {
-      "id": "a84a2dcc8b1cfc13",
-      "title": "Datafolha: 27% veem China como parceiro comercial confiável; 22% dizem o mesmo dos EUA",
+      "id": "28035e0cc8bd5798",
+      "title": "Datafolha: 27% veem China como parceiro comercial confiável; 22% dizem o mesmo dos EUA - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: datafolha: 27% veem China como parceiro comercial confiável; 22% dizem o mesmo dos EUA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/23/datafolha-veem-china-como-parceiro-comercial-confiavel-dizem-o-mesmo-dos-eua.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRE5xams3alV0U3VybjNEYWtVdVpoc3h4NWlMbUVUWmpBVE5rZXczX2NDb0tFV3BiOTgyUjlUMmRjQklmVENUWTR4U0VOaHkxU09BT0dPNG5wUENGdC1WSjJ5VXpNdllaanBmSktuZGs2VFFPQ1pOV2YxX3EySm1uTndQWUFObkNtVHU0ellKZzE1d1MweGxyd2NCS2pjY05LWF91WWd1MnB6cEhibE1MaGJXWTJyR05GMGxrSVRKSTFxUnQ5M1ZsQnc0S3M5WTluU2RSRHlTQUc1VVhsZlBEUFBURnNMaUxielZhT0UxTmZvQW5FMVlz0gGGAkFVX3lxTFBjMW9RSVJUczMtZEVVaVhzTE9KX0lVN2VkZWM4S1RoeVB6YkxCY1NJcDEyZ1dOQzJNZDZCQlpNV0hpQThOMENBd1c2MmZONERWMlFlLS1Xc1h1blE2SjVVOFFvZERPVjBoSEc2ME5iYl9OUFBqSXVlb1N2dlgtOU10M3Z2bml0QVMySnZ0bVpCNEh1V1UxcEdrbWVfYmFvVGNwVkFoWFIya09ibzFyZWFzV1FrTDJzU1dMOUFRTDVLejR4M3RMTnRNenRYdEpkSmNRcnRBeGxZcmZveTVNTjRoeGpLdFZhNW9ISUx4SFF2Q2NmT3JZTkRHTy1iTGY4OGs5eFoyZ0E?oc=5",
       "source": "G1",
       "published_at": "2026-10-23T22:50:53+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -776,6 +832,20 @@
       "archive": false
     },
     {
+      "id": "d633d90019d69799",
+      "title": "BC passa a exigir autorização prévia para oferecer crédito a clientes com risco de endividamento",
+      "summary": "O veículo G1 publicou uma atualização sobre: bC passa a exigir autorização prévia para oferecer crédito a clientes com risco de endividamento. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/23/bc-exige-autorizacao-previa-para-oferecer-credito-a-clientes-em-situacao-de-vulnerabilidade-financeira.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T22:01:54+00:00",
+      "category": "Endividamento",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "c067d48fdc762b4d",
       "title": "Ferramentas de mapeamento ajudam a localizar crianças sem vacina no mundo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ferramentas de mapeamento ajudam a localizar crianças sem vacina no mundo. Consulte a reportagem para contexto, dados e declarações.",
@@ -786,20 +856,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b8226786e58a1b4d",
-      "title": "Javier Milei culpa cenário externo por piora econômica na Argentina - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: javier Milei culpa cenário externo por piora econômica na Argentina - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazNCUy14anN2VEs1cEx1U1RJUzcxY3VqS1hoR2w4QkZfY1dOcTZxSFE4YWlGbDUtVkR6Q2U4T21IN21MMllzX2FkUmRpT2tMLXpSN2V2VzVIekUydEkyQnpFS09GbWVjX1hEWXJtcktQN1BVWFZZRHhiNEJTamdINWpRTFlzUVBSRmNjbFAyaDY1alVmaU85RGJ6SGdSM2ZjZHc?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-23T21:55:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1014,20 +1070,6 @@
       "archive": false
     },
     {
-      "id": "98bc4ef5d3b80ab5",
-      "title": "Banco BV entra no setor pet com oferta de planos de saúde",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: banco BV entra no setor pet com oferta de planos de saúde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/banco-bv-entra-no-setor-pet-com-oferta-de-planos-de-saude.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-23T19:23:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "72dcbf2ad1f97719",
       "title": "Veículos de Senado e Câmara farão cobertura integrada do segundo turno",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: veículos de Senado e Câmara farão cobertura integrada do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
@@ -1094,6 +1136,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7ad30934879aa5b6",
+      "title": "Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
+      "summary": "O veículo G1 publicou uma atualização sobre: japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/japao-vai-simular-ataques-hackers-com-ia-apos-falha-no-php-tirar-sites-do-ar-em-varios-paises.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-23T18:45:42+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1322,20 +1378,6 @@
       "archive": false
     },
     {
-      "id": "ec401510456f3c72",
-      "title": "IPCA-15: inflação de alimentos mais do que dobra e pressiona índice - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: iPCA-15: inflação de alimentos mais do que dobra e pressiona índice - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUZMNlhaNTdJcGRjT205SlVVWkZhVXZRNzdnOE5GUEhkd2xub1JNODYwN25xQ01CVkVUbHlLa0xYQkpOY1Q3RXRsdE10YTVpczZrdzdFMDVqYXhMbFVVb09IUzdWNlRJS21kTC00cktOVTBqNE56bGNVblV1cXlBUVZwa1ViNXdmWlk2NXVBZTNTU2RYX013NElYelo1STdDVXNmSEpUb0M?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-23T12:59:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "de1733a9ea1fcf9f",
       "title": "Ligado a Gilmar Mendes, IDP recebe registro de universidade no Ministério da Educação - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: ligado a Gilmar Mendes, IDP recebe registro de universidade no Ministério da Educação. Consulte a reportagem para contexto, dados e declarações.",
@@ -1343,34 +1385,6 @@
       "source": "VEJA",
       "published_at": "2026-10-23T12:53:20+00:00",
       "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "683e2d2d9778dacd",
-      "title": "Prévia da inflação desacelera para 0,32% em outubro, mas alimentos ficam mais caros",
-      "summary": "O veículo VEJA publicou uma atualização sobre: prévia da inflação desacelera para 0,32% em outubro, mas alimentos ficam mais caros. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/economia/ipca-desacelera-para-032-em-outubro-mas-alimentos-ficam-mais-caros/",
-      "source": "VEJA",
-      "published_at": "2026-10-23T12:28:12+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0c3a91eb29fff5c7",
-      "title": "Prévia da inflação: IPCA-15 desacelera para 0,32% em outubro - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: prévia da inflação: IPCA-15 desacelera para 0,32% em outubro - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdm1HQmd2SlNjeFAtZjBicG1DNjd4TkZ0b3VLT09Ka2tOZFpXQ1EyRUYxNE05R0ZhNUtTM1QwWDlGLU5jd254TGpkNnEtc0ltMGphX0ZoZHk2QlQ2Z0lBeEw2Y1dfTno4X3hBZEduSUVEZ2VTWXluaGxaS2QxM21hWmo3aVdSTDJkUjlkYzd5anI2MzFTcmc?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-23T12:08:00+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1647,12 +1661,11 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 41
+      "items": 19
     },
     "G1 · Economia": {
-      "status": "erro",
-      "items": 0,
-      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "status": "ok",
+      "items": 96
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1664,7 +1677,7 @@
     },
     "The New York Times": {
       "status": "ok",
-      "items": 7
+      "items": 8
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1704,7 +1717,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 72
+      "items": 74
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1716,15 +1729,15 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 70
+      "items": 74
     },
     "Estadão": {
       "status": "ok",
-      "items": 38
+      "items": 39
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 55
+      "items": 54
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1732,11 +1745,11 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 67
+      "items": 69
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 56
+      "items": 54
     },
     "Eleições · Flávio": {
       "status": "ok",
