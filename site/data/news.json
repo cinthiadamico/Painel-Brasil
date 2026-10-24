@@ -1,10 +1,276 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-24T13:40:40.823588+00:00",
-  "last_success_at": "2026-10-24T13:40:40.823588+00:00",
+  "last_checked_at": "2026-10-24T14:41:07.282068+00:00",
+  "last_success_at": "2026-10-24T14:41:07.282068+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "09aaca4535459607",
+      "title": "Polícia apreende adolescente suspeito de furtar jornalista Márcio Chaer",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia apreende adolescente suspeito de furtar jornalista Márcio Chaer. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-apreende-adolescente-suspeito-de-furtar-jornalista-marcio-chaer.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T14:38:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4f9e9a66403955c5",
+      "title": "CNT/MDA: Flávio Bolsonaro tem 50,7% votos válidos no 2º turno e Lula, 49,3% - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: cNT/MDA: Flávio Bolsonaro tem 50,7% votos válidos no 2º turno e Lula, 49,3% - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzl5aGFpUTNIWkFhSFZaekFpbFJhUm11UjZmbTBhLW9ucXVtVjR2eC1VLThpR0g2TXQzTlVXVzROZU5NNXoxd25FaFZLVmRPWjdXZUZSNjZGSWFaT0tWay1wb1pUVVlQU0N6ZFhqSTJMeWNUMjlPbEpKUVBlNW9vcWFhMUE5dnV4aGpqWHd2dnE2dWh4SEtqVGE5YmpkM3Z0MWt0UDRn?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T14:34:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bb0160c020eea3b8",
+      "title": "Why Brazil’s Election Could Come Down to Crime",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: why Brazil’s Election Could Come Down to Crime. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-24T14:32:25+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "85d7dbb7a91dd301",
+      "title": "Voto impresso, extinção de municípios e corte de salário: veja propostas de Bolsonaro que Congresso travou",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: voto impresso, extinção de municípios e corte de salário: veja propostas de Bolsonaro que Congresso travou. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/voto-impresso-extincao-de-municipios-e-corte-de-salario-veja-propostas-de-bolsonaro-que-congresso-travou.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T14:30:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9cf305e9fd08fd01",
+      "title": "Presidente Prudente amplia linhas e frota de ônibus neste domingo para o 2º turno das eleições; confira",
+      "summary": "O veículo G1 publicou uma atualização sobre: presidente Prudente amplia linhas e frota de ônibus neste domingo para o 2º turno das eleições; confira. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/eleicoes/2026/noticia/2026/10/24/presidente-prudente-amplia-linhas-e-frota-de-onibus-neste-domingo-para-o-2o-turno-das-eleicoes-confira.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T14:23:50+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "42038b1112ba1cec",
+      "title": "República Democrática do Congo inicia teste de vacina contra ebola",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: república Democrática do Congo inicia teste de vacina contra ebola. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/republica-democratica-do-congo-inicia-teste-de-vacina-contra-ebola.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T14:22:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "07a75a8cbae2bdae",
+      "title": "Lula brinca que Xi tem ciúme de \"Exército\" e pede 13 milhões de seguidores - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula brinca que Xi tem ciúme de \"Exército\" e pede 13 milhões de seguidores - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaEtIZ1BCWFlleUhXSG85c0k3bThpS2hkSkE2UjczOXBENy1wT18yajNlR3RTdFdjRVUtTkNzVWhzTUhBeWRxVzZvWjlYd1VvWmFYaXFHLXhvdnVTcVVDdUFyV1hReUk0SElSeXFBMHRZMzE4VktQbElmbjlHaXMyY1dEQU5VYUFmSm9fRHFSSHFDbDBMRFJ2d2lBRWxpcHFTcXlUQm5WUnAyZw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T14:18:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "97933c8e4b7083b8",
+      "title": "A nova pesquisa CNT/MDA sobre a disputa entre Flávio e Lula na véspera do segundo turno",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a nova pesquisa CNT/MDA sobre a disputa entre Flávio e Lula na véspera do segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-nova-pesquisa-cnt-mda-sobre-a-disputa-entre-flavio-e-lula-na-vespera-do-segundo-turno/",
+      "source": "VEJA",
+      "published_at": "2026-10-24T14:17:29+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8640ee6c68da1af3",
+      "title": "Justiça determina medidas contra suspeita de assédio eleitoral na Câmara de Feira de Santana",
+      "summary": "O veículo G1 publicou uma atualização sobre: justiça determina medidas contra suspeita de assédio eleitoral na Câmara de Feira de Santana. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/24/justica-determina-medidas-contra-suspeita-de-assedio-eleitoral-na-camara-de-feira-de-santana.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T14:17:11+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a742315078a9f369",
+      "title": "Eleições 2026: urnas eletrônicas são levadas aos locais de votação na região de Itapetininga",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: urnas eletrônicas são levadas aos locais de votação na região de Itapetininga. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/itapetininga-regiao/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-urnas-eletronicas-sao-levadas-aos-locais-de-votacao-na-regiao-de-itapetininga.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T14:14:27+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "28062df81514114c",
+      "title": "Sete locais de votação no Ceará são alterados para 2º turno; veja quais",
+      "summary": "O veículo G1 publicou uma atualização sobre: sete locais de votação no Ceará são alterados para 2º turno; veja quais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/24/sete-locais-de-votacao-no-ceara-sao-alterados-para-2o-turno-veja-quais.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T14:12:09+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2d4e4b29128563ec",
+      "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-24T14:11:59+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "041ca1f817519901",
+      "title": "Trânsito em Divinópolis terá interdições no fim de semana das eleições; veja o que muda",
+      "summary": "O veículo G1 publicou uma atualização sobre: trânsito em Divinópolis terá interdições no fim de semana das eleições; veja o que muda. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/24/transito-em-divinopolis-tera-interdicoes-no-fim-de-semana-das-eleicoes-veja-o-que-muda.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T14:08:49+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6cb8f3871c74b30f",
+      "title": "Eleições 2026: São José dos Campos tem atos de apoio a Flávio Bolsonaro e Lula neste sábado",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: São José dos Campos tem atos de apoio a Flávio Bolsonaro e Lula neste sábado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-sao-jose-dos-campos-tem-atos-de-apoio-a-flavio-bolsonaro-e-lula-neste-sabado.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T14:05:03+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "224b0b07942ebb62",
+      "title": "Eleições impulsionam indústria gráfica após anos de retração, e associação fala em 25% de crescimento",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eleições impulsionam indústria gráfica após anos de retração, e associação fala em 25% de crescimento. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/eleicoes-impulsionam-industria-grafica-apos-anos-de-retracao-e-associacao-fala-em-25-de-crescimento.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T14:05:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9c9e385e72e46809",
+      "title": "Palmas deve ter máxima de 37 °C e chuva isolada no domingo de eleição; veja previsão",
+      "summary": "O veículo G1 publicou uma atualização sobre: palmas deve ter máxima de 37 °C e chuva isolada no domingo de eleição; veja previsão. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/24/palmas-deve-ter-maxima-de-37-c-e-chuva-isolada-no-domingo-de-eleicao-veja-previsao.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T14:04:22+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5f54d0adcc04e58c",
+      "title": "Lula e Flávio Bolsonaro fazem últimos atos de campanha neste sábado; veja horários e locais",
+      "summary": "O veículo VEJA publicou uma atualização sobre: lula e Flávio Bolsonaro fazem últimos atos de campanha neste sábado; veja horários e locais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/lula-e-flavio-bolsonaro-fazem-ultimos-atos-de-campanha-neste-sabado-veja-horarios-e-locais/",
+      "source": "VEJA",
+      "published_at": "2026-10-24T14:04:13+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7aec7b91058590e7",
+      "title": "Ministério Público do Trabalho apura carta de supermercado a funcionários com teor eleitoral",
+      "summary": "O veículo VEJA publicou uma atualização sobre: ministério Público do Trabalho apura carta de supermercado a funcionários com teor eleitoral. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/ministerio-publico-do-trabalho-apura-carta-de-supermercado-a-funcionarios-com-teor-eleitoral/",
+      "source": "VEJA",
+      "published_at": "2026-10-24T13:48:08+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b9797715fa6d4c5d",
+      "title": "Ucrânia ataca fábricas e alvos militares em diferentes regiões da Rússia - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: ucrânia ataca fábricas e alvos militares em diferentes regiões da Rússia - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUppNEx1c00xd2RlWE1ZNTdOR21wUlVibmQ5cXFVYWZWSW1BS1p0bmRMbVBuRFlyYnN2dzRRd2UxaVExc2JpXzJ5dXhYYXBacERKZ0tKZUp1OHQ0dWFXV2tXZmpra1Foai1oVDl1NWNodU5OSTdXSDdXQVpJQlNHSVdjdFBVeEdXNHpxTTBPX1ZWMDFHa1ZvLU1pQWYwRVJrOHJfVC1UREQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T13:35:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "13b1f7e1559debe6",
       "title": "As notas a Lula e Flávio no histórico debate da Globo vencido pelo petista - Metrópoles",
@@ -34,20 +300,6 @@
       "archive": false
     },
     {
-      "id": "88261f1e9bab7a30",
-      "title": "MPT-AL firma acordo com padaria de Maceió para garantir que empregados possam votar no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: mPT-AL firma acordo com padaria de Maceió para garantir que empregados possam votar no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/24/mpt-al-firma-acordo-com-padaria-de-maceio-para-garantir-que-empregados-possam-votar-no-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T13:28:53+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a49bc8af3fb320fa",
       "title": "Jovem de 19 anos morre em ataque ligado a guerra de facções em MT",
       "summary": "O veículo G1 publicou uma atualização sobre: jovem de 19 anos morre em ataque ligado a guerra de facções em MT. Consulte a reportagem para contexto, dados e declarações.",
@@ -62,58 +314,16 @@
       "archive": false
     },
     {
-      "id": "e80a8fa5c9be64d1",
-      "title": "Willer Tomaz, amigo de Flávio Bolsonaro, tem 15 imóveis que somam R$ 62 mi e constrói casa com heliponto",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: willer Tomaz, amigo de Flávio Bolsonaro, tem 15 imóveis que somam R$ 62 mi e constrói casa com heliponto. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/willer-tomaz-amigo-de-flavio-bolsonaro-tem-15-imoveis-que-somam-r-62-mi-e-constroi-casa-com-heliponto.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T13:22:00+00:00",
-      "category": "Política",
+      "id": "0a3a89229042a2b5",
+      "title": "MP Eleitoral pede extinção de processo no TSE que debate abertura de sigilos de Flávio e Lula - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: mP Eleitoral pede extinção de processo no TSE que debate abertura de sigilos de Flávio e Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUXRxRnBVMmxHTEZMUHBJa1RyUy0xT2RqeDg3dmNKZm9TRjRWVm9XMGxwZWpZWmZzVjhLbUN2T3R6WDBSYjRaSl9VVHB3WENscEJwVHl6S2M0dDF1QlA0UkZsYTJVNm16NlppN1luUm42UnMwN0pwUXBnaGhPT290RWhUMHNiYnhZVnpEdVEtd1NrMHVFVXNYcFZVa1RlNVJxWUplZEZkNk51OVRNQzlDeDkwS2FkZEl5RlRZazFYVFE3NElXdnI2STQ2c2dBT0k4eHBoWTJQckVkX19RME8tdkw0ZWdjODTSAfYBQVVfeXFMUG1KUldpdU1kWFVZQmYwanhnYUtIbTh2dEwxM1ZjWElXazM0aUFHVFpKS0VaYWZLVTQ5TlhHMEl6emVIcG5mOEhPTndOSUJVend5Q3hYZURONEszUmY2YTB4UVF5LVNtekJ5OG1zWHBkNXRyUkswMWhRWkRPTWpSRkhPUjQxUnF6NGg2Nl9mOTZXU2s5SVhZMTNKR0paTlM4eW9xYVpZajlVVzBFUDBJWV9YNHJHM2RlRDIzWXBHYjNoZDF6M3ZfWHprdWVoVjVxLTBQQlAyUWZtSDljN0lfX1RDRzJYRDExZ3RYZ3QyNlVsLUFfakpB?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-24T13:14:08+00:00",
+      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a9b9a27831b4f972",
-      "title": "Apoiadores de Lula reagem a ataque de Flávio Bolsonaro sobre nove dedos durante caminhada no Rio",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: apoiadores de Lula reagem a ataque de Flávio Bolsonaro sobre nove dedos durante caminhada no Rio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-reagem-a-ataque-de-flavio-bolsonaro-sobre-nove-dedos-durante-caminhada-no-rio.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T13:19:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0ab47cfc0698068f",
-      "title": "MPT-SE faz acordo com loja de empréstimos após denúncia de assédio eleitoral",
-      "summary": "O veículo G1 publicou uma atualização sobre: mPT-SE faz acordo com loja de empréstimos após denúncia de assédio eleitoral. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/se/sergipe/noticia/2026/10/24/mpt-se-faz-acordo-com-loja-de-emprestimos-assedio-eleitoral.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T13:18:45+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "486c8e465a9cb091",
-      "title": "Willer Tomaz nega que Flávio Bolsonaro tenha sido usuário master de conta no Santander",
-      "summary": "O veículo VEJA publicou uma atualização sobre: willer Tomaz nega que Flávio Bolsonaro tenha sido usuário master de conta no Santander. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/willer-tomaz-nega-que-flavio-bolsonaro-tenha-sido-usuario-master-de-conta-no-santander/",
-      "source": "VEJA",
-      "published_at": "2026-10-24T13:17:32+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -139,62 +349,6 @@
       "source": "The New York Times",
       "published_at": "2026-10-24T13:12:26+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4b2037007abbaf01",
-      "title": "Câmeras corporais, veiculares e 5 mil PMs a mais nas ruas: veja esquema de segurança para o segundo turno das eleições no DF",
-      "summary": "O veículo G1 publicou uma atualização sobre: câmeras corporais, veiculares e 5 mil PMs a mais nas ruas: veja esquema de segurança para o segundo turno das eleições no DF. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/cameras-corporais-veiculares-e-5-mil-pms-a-mais-nas-ruas-veja-esquema-de-seguranca-para-o-segundo-turno-das-eleicoes-no-df.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T13:10:49+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d37f0b8bb781db23",
-      "title": "Protestos na França: 135 presos e armas apreendidas, anuncia governo",
-      "summary": "O veículo G1 publicou uma atualização sobre: protestos na França: 135 presos e armas apreendidas, anuncia governo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/24/franca-prisoes-apreensao-armas-conter-violencia-protestos.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T13:10:02+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "92f97075a6ab0ccd",
-      "title": "A diferença entre a última pesquisa Datafolha do primeiro turno sobre Flávio x Lula e o resultado das urnas",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a diferença entre a última pesquisa Datafolha do primeiro turno sobre Flávio x Lula e o resultado das urnas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/a-diferenca-entre-a-ultima-pesquisa-datafolha-do-primeiro-turno-sobre-flavio-x-lula-e-o-resultado-das-urnas/",
-      "source": "VEJA",
-      "published_at": "2026-10-24T13:00:24+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a6d919d30f38f9cd",
-      "title": "A política na era da ansiedade",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: a política na era da ansiedade. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/viniciusmota/2026/10/a-politica-na-era-da-ansiedade.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T13:00:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -300,20 +454,6 @@
       "archive": false
     },
     {
-      "id": "ae14fce7bc63aa6b",
-      "title": "Apoiadores se concentram em Copacabana para ato pró-Lula - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: apoiadores se concentram em Copacabana para ato pró-Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2VUWjBHZmktNFNoY3ZWVU82Y1hDaUY1WVRmbVRuVG03bUgwX2JHM2liZHctRFIzaGVFU2FZZ0IwZ1kxY1B0aldvZV9GaU1DS2k4TlVjZUlVRU9Gbk1COUlYT3EyaXNFSWdxbXZXWmdiQlhDcXRzUDJvajlfWGloaVpaaVNfUEJMWEFOVGF6RnNxZjdGMkU4Mw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T12:44:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "48f69ee7231aae83",
       "title": "F1: Leclerc é o mais rápido nos treinos do GP dos EUA; Bortoleto e Colapinto são penalizados",
       "summary": "O veículo VEJA publicou uma atualização sobre: f1: Leclerc é o mais rápido nos treinos do GP dos EUA; Bortoleto e Colapinto são penalizados. Consulte a reportagem para contexto, dados e declarações.",
@@ -356,30 +496,16 @@
       "archive": false
     },
     {
-      "id": "c138464ff4058384",
-      "title": "Kim Jong-un visita China um dia após pedir 'exército mais forte' e 'revolução militar'",
-      "summary": "O veículo G1 publicou uma atualização sobre: kim Jong-un visita China um dia após pedir 'exército mais forte' e 'revolução militar'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/24/kim-jong-un-visita-china-um-dia-apos-pedir-exercito-mais-forte-e-revolucao-militar.ghtml",
+      "id": "b16f6772bff47c4d",
+      "title": "Apoiadores fazem ato em apoio a Flávio Bolsonaro em BH",
+      "summary": "O veículo G1 publicou uma atualização sobre: apoiadores fazem ato em apoio a Flávio Bolsonaro em BH. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/24/apoiadores-fazem-ato-em-apoio-a-flavio-bolsonaro-em-bh.ghtml",
       "source": "G1",
-      "published_at": "2026-10-24T12:19:44+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
+      "published_at": "2026-10-24T12:25:24+00:00",
+      "category": "Eleições",
+      "candidate": "flavio",
+      "election_type": "Apoiador",
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "37934451e4aace45",
-      "title": "A operação de Lula para recuperar votos e virar Minas no 2º turno - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: a operação de Lula para recuperar votos e virar Minas no 2º turno - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYXpFZV9hQ0YtMVpTOUNubm5kVHFtV3RpM1c3Z0xsZlJIaGpHUUJ1Mk1VemVxNVV2dzRvVDJTVlAycGU4YTRuLTF1Y2dLM3htUjk2a25SZ2w3NjlOaUZRUThkRnlxdENucEpBWllGci1Xczk0SDk5Y1oxU2IteUthZkUxaEREbUszQzFzNGpza3p6NHN1Y2pvVHNUWDRXY0psLXdGUFQ2V29zalVOdXI4VVJaWQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T12:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -408,20 +534,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "36f64e0e55287bbb",
-      "title": "Colisão entre aviões militares deixa quatro mortos nas Filipinas - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: colisão entre aviões militares deixa quatro mortos nas Filipinas - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWlluOHJLNGRvd21ZWERMQmJad3ZNQXVDcmw0ekFVOFpXa1VvWEpKT2Q1QzFnZldCYmt6cm5kcXNpTWF5WWF0Q0ZQR2d4bTFkSEo0NVBCQ21XbDBtTmstT1hoY1BxdnVyRm5jSkV4b0lWdG1VejBPNi1DcGZlWWFUNm5pbDY1YkJtQlIwbEhvUDZWdm1UcE1SdmNYa1RzQQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T11:04:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -475,20 +587,6 @@
       "source": "G1",
       "published_at": "2026-10-24T09:16:48+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bb0160c020eea3b8",
-      "title": "Why Brazil’s Election Could Come Down to Crime",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: why Brazil’s Election Could Come Down to Crime. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-24T09:02:07+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -678,20 +776,6 @@
       "archive": false
     },
     {
-      "id": "c0eddffb5bde61b4",
-      "title": "Mega-Sena pode pagar R$ 230 milhões neste sábado; g1 transmite ao vivo",
-      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena pode pagar R$ 230 milhões neste sábado; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/24/mega-sena-pode-pagar-r-230-milhoes-neste-sabado-g1-transmite-ao-vivo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-24T03:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "3c4b4e3633d3c88d",
       "title": "Em entrevista após debate, Lula diz que mudar autonomia do BC não é o principal: 'Quero que baixe os juros'",
       "summary": "O veículo G1 publicou uma atualização sobre: em entrevista após debate, Lula diz que mudar autonomia do BC não é o principal: 'Quero que baixe os juros'. Consulte a reportagem para contexto, dados e declarações.",
@@ -702,20 +786,6 @@
       "candidate": "lula",
       "election_type": "Fala",
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "23073363e8e99628",
-      "title": "Em entrevista após debate, Lula diz que mudar autonomia do BC não é o principal: 'Quero que baixe os juros' - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: em entrevista após debate, Lula diz que mudar autonomia do BC não é o principal: 'Quero que baixe os juros'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0ZZYmJiMko2eFlYOHpoNWtNOG94Yk1ObGNIMEpfTS0xeERETVZkZ2taX19GcTNYc2lRaFZqdnlyQlVHeVo4VFVQSlY3MUMxTHF0b2pwb0JXakNFS1MzaGJLdGQ4dDJSRzRCU3pjTWJrWFBhMVVrdU9DRFVjRnpqbVpKSlJRRHNzSTZIZXNlZzZtM09yZEJ6NjhaOXVDQdIBrAFBVV95cUxPVE03N2pqVEhRV3l5QzlObWlremxEVWJtVzhMNm1VS0ZjTjdxMi1PR29laGJWMjhlNVBrZGpYRllCYUpwM3BkOE4xdkNLNFFLenE0OEhJRUdMZndYSzk1dWttZXRtVVk0cmcwQ2NHXzVLN2VMbzlLR0w2dGdncnFRTmMxUmVTVXpnVnloNDZxRFBWNlF0bllBbTZkYnlPaTBFQ2ZxUENTa1JZY1RI?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-24T02:59:47+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -860,20 +930,6 @@
       "archive": false
     },
     {
-      "id": "b9035a7419a68175",
-      "title": "Polícia Civil diz ter identificado dez suspeitos ligados a quatro corpos encontrados em SP",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia Civil diz ter identificado dez suspeitos ligados a quatro corpos encontrados em SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-civil-diz-ter-identificado-dez-suspeitos-ligados-a-quatro-corpos-encontrados-em-sp.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T01:01:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "6eae2cd6991c786b",
       "title": "Moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: moraes determina bloqueio de até R$ 6 bilhões do advogado Willer Tomaz. Consulte a reportagem para contexto, dados e declarações.",
@@ -898,20 +954,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1f80242f0e664523",
-      "title": "MPT apura carta de supermercado a funcionários com teor eleitoral",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mPT apura carta de supermercado a funcionários com teor eleitoral. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/mpt-apura-carta-de-supermercado-funcionarios-com-teor-eleitoral",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-24T00:42:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1280,20 +1322,6 @@
       "archive": false
     },
     {
-      "id": "22f51e3d39702b80",
-      "title": "Desinformação faz com que só 5% das crianças sejam protegidas da covid",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: desinformação faz com que só 5% das crianças sejam protegidas da covid. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/desinformacao-faz-com-que-so-5-das-criancas-sejam-protegidas-da-covid",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-23T17:53:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "11ced151522988c0",
       "title": "Áudio: Eleitores voltam às urnas no domingo para definir o próximo presidente",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Eleitores voltam às urnas no domingo para definir o próximo presidente. Consulte a reportagem para contexto, dados e declarações.",
@@ -1314,20 +1342,6 @@
       "url": "https://www.camara.leg.br/noticias/1300663-projeto-cria-recuperacao-judicial-simplificada-para-pequenas-dividas",
       "source": "Agência Câmara",
       "published_at": "2026-10-23T17:14:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9eb9868ce5c77f22",
-      "title": "Presidente e governadores eleitos tomam posse em novas datas em 2027",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: presidente e governadores eleitos tomam posse em novas datas em 2027. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/materias/2026/10/23/presidente-e-governadores-eleitos-tomam-posse-em-novas-datas-em-2027",
-      "source": "Senado Federal",
-      "published_at": "2026-10-23T17:11:18+00:00",
       "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
@@ -1385,6 +1399,20 @@
       "source": "VEJA",
       "published_at": "2026-10-23T14:13:55+00:00",
       "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "486690dd1e2e6a1f",
+      "title": "Prévia da inflação oficial cai pela metade e fecha outubro em 0,32%",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: prévia da inflação oficial cai pela metade e fecha outubro em 0,32%. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previa-da-inflacao-oficial-cai-pela-metade-e-fecha-outubro-em-032",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-23T13:42:00+00:00",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1546,20 +1574,6 @@
       "archive": false
     },
     {
-      "id": "aaf357c285a05cd2",
-      "title": "#Eleições2026: Ato religioso em apoio a Flávio Bolsonaro está previsto para Salvador nesta sexta - Jornal da Chapada",
-      "summary": "O veículo Jornal da Chapada publicou uma atualização sobre: #Eleições2026: Ato religioso em apoio a Flávio Bolsonaro está previsto para Salvador nesta sexta - Jornal da Chapada. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPanVURHJBZDRnLUxveUZwaVZKNmh5WUNXazZaUFpzLXVUWkZPRmFUZHIyczFCU1R2RUlpSG5vVjNIV2lMbUpWQ2l1WmJ1a0JwS211WUNXWHNIUTAyVVdCV056UzdkaUJZTjBPZFlXOHAxb2Ywa053aVppeUIweUNDX1dYNERJWHB3WFltZWVXa1ByVkNrelNaMWZPX3NzQVlxcWh2YmpUWUNXbDRWdDhjczhHS1VhTlRvbENaaGxvOTVYVG1Vak52MWhidDE2a21EcndR0gHYAUFVX3lxTE9zYlJyV2hkYTg3ZGNyeHVZX293b0J6RndaWGplTVlZTmVaNG9lQTRLMjZfMl9kZXI1TDFxZFJUQUFKa1dFdUItN1A4UTlyY0kxTTVBOWtGaW9oTlAzQWVkSUlKX1ViUHQ5dUZXMUo4VE1WZEUwbURjNGxyWEliQlZuMGhKdnktUFYyV3lNWkJVWHIySkhIUzIzTVA3TldTemk4N2hsSUtua0RvUlRyYTJSc2kzcWpzOHRUWU5LU1JUWDB6QVNjNkxLNURqN0lpM09ZSEM1RkJhMQ?oc=5",
-      "source": "Jornal da Chapada",
-      "published_at": "2026-10-22T16:22:44+00:00",
-      "category": "Eleições",
-      "candidate": "flavio",
-      "election_type": "Apoiador",
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b4b2625329b217f4",
       "title": "Ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola. Consulte a reportagem para contexto, dados e declarações.",
@@ -1647,7 +1661,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 42
+      "items": 33
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1659,7 +1673,7 @@
     },
     "VEJA": {
       "status": "ok",
-      "items": 7
+      "items": 10
     },
     "The New York Times": {
       "status": "ok",
@@ -1671,7 +1685,7 @@
     },
     "Agência Brasil · Política": {
       "status": "ok",
-      "items": 4
+      "items": 5
     },
     "Agência Brasil · Economia": {
       "status": "ok",
@@ -1707,7 +1721,7 @@
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 39
+      "items": 37
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1715,31 +1729,31 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 79
+      "items": 80
     },
     "Estadão": {
       "status": "ok",
-      "items": 42
+      "items": 44
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 59
+      "items": 58
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 63
+      "items": 62
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 67
+      "items": 68
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 56
+      "items": 53
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 58
+      "items": 60
     }
   },
   "notes": [
