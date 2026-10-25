@@ -1,10 +1,122 @@
 {
   "schema_version": 1,
-  "status": "atualizado",
-  "last_checked_at": "2026-10-25T06:52:22.835050+00:00",
-  "last_success_at": "2026-10-25T06:52:22.835050+00:00",
+  "status": "parcial",
+  "last_checked_at": "2026-10-25T07:45:24.304964+00:00",
+  "last_success_at": "2026-10-25T07:45:24.304964+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "bbd5716bf36c93ae",
+      "title": "Do “Exército” digital às ruas, Lula mudou rota no 2º turno por virada - Itamaraju Notícias",
+      "summary": "O veículo Itamaraju Notícias publicou uma atualização sobre: do “Exército” digital às ruas, Lula mudou rota no 2º turno por virada - Itamaraju Notícias. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVTk4MjBiT0ZCa3U2MVc5el9zRFZSc1llN2FRakFWWm1OaldyaGZuWWg2WVpnQnlTRXRwNGo5ejR0aFQtRXBKWHVFVjdUU2p6LU1haFc0eGhaQ0JBOGFOb2NoaU9nYld1eXRiRERLTGVEaWp3UWRFOVdxcEd6V3hNWlBvX0lyRGR1dGdycDE0Ym8tSTNXUE1hVDNpN2FMeG01S2tmLTZCTTFKM25SVi1XODRxaUFnM252eVRSYUl4OXdRQ1U?oc=5",
+      "source": "Itamaraju Notícias",
+      "published_at": "2026-10-25T07:33:23+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ba6c6b1ae56e6174",
+      "title": "Brasil volta às urnas neste domingo para decidir entre Flávio e Lula - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: brasil volta às urnas neste domingo para decidir entre Flávio e Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjk4WXNGanlFT0FrSTZfdGhGUVpjeGd5T3EzMkhpNDVnR0huVktWWlFaREpsZERJYThWZUdGU0ZuYzFVb2xZVFY1N3F6V18zdUFKTks1NFFnNC1PNjk4cGpmY2xVWDZUUzdCeVFPUzkyZUxLTTRWdnZOamFKT1BUZTNRMExyWGtKQ3NIazcxenJydEtrZkRncDdLN01fNnNrazdncA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T07:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9f0f8da80030a23a",
+      "title": "Saiba quais estados têm 2º turno para governador neste domingo (25/10) - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: saiba quais estados têm 2º turno para governador neste domingo (25/10) - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0FwQnhqVW5rTzZTSVBfcnBZVzQyYzlVQk05XzlKTnhjSWFLSDF4NERrUEtkbDI3MWNtN1pLdUozejdwY1FrVTl6YUV2elh6aDlxd1NlUVdzWEZJd2VDM25aSU9TU2ZaZXBBbDhDbUdHNmhLWW04aXFONU1Na1VBekduNUFjZFhFam1RUGMxVXBTd0o3bi1NTnQ5bTFYc0tINk5OTg?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T07:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0e753d4944f68874",
+      "title": "Flávio Bolsonaro x Lula: saiba onde votam os candidatos à Presidência - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio Bolsonaro x Lula: saiba onde votam os candidatos à Presidência - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFgtM2JSS0tPZEJ2R0FZdGR5WG1NM3h3NHk3aFU5UnRRQlNwdEhBamZEY01oWDQ5UDlLcExYbkxxeVB2ZWhJWERBdTJjTFQ5N0lEOFJ2MkNnYk0xTXBYTlBCVjdDNnlZUjBlR21rZ0lDbkF0dm9aV1dZdWpLZHpjSXVBOHpRNFJCb193a2pfU2NVZWpiN01ORURUOEpvYnUyandHeA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T07:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a479f734044da8b0",
+      "title": "Flávio Bolsonaro chega ao 2º turno com novos aliados e investigações no STF - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio Bolsonaro chega ao 2º turno com novos aliados e investigações no STF - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRDM5OHR3VGxtV3dTLW8tZlJSNC0wYmU4UVFJU2lrSTk2S2NfeVNpUGpSR0UxeGl3UURUVlRKSnZfZDg3aHp6UlBvbmdFdUlaeno3a2NrbXoyZF9wTzZfdmRKeExod29yQ3k5MWluVktuQmxyMFpNQkYzMGpJdVVjLVByT0FBVkFaMFFINFB2ZEZXQTVCUUloRDlweG1zTHpBVFNsbldaa2hFUUROMHc?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T07:30:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "82abcb32669d2e93",
+      "title": "Do “cheiro de Lula no ar” ao fantasma do retrocesso - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: do “cheiro de Lula no ar” ao fantasma do retrocesso - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUktfQXcySXhMSF9sRVQ4eS14ZDZJMVlKODRxd3dLa3FoelZFd0UxQk82TGZnRmJVZHhVYUNXT1pRdE5vN0ppNXFDSm9UcEZQUE16ZDZWbTA3a0M1MEJQQkF5bzl2Y2xVcjZhSnE2aUJ6aDBSajVoVTJQRDgtTEJHR0gwUTNJay1KSUs5X1dNVFVSSWRxUEFvRTcydFZFSGIzNUFFTUs3S2pxdw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T07:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cc6ad30ca804b42c",
+      "title": "Vacinação global contra sarampo caiu após Covid, com aumento de casos e mortalidade em 2023",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vacinação global contra sarampo caiu após Covid, com aumento de casos e mortalidade em 2023. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/vacinacao-global-contra-sarampo-caiu-apos-covid-com-aumento-de-casos-e-mortalidade-em-2023.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5e92398b008540c5",
+      "title": "Estadão tem postagens sobre eleições censuradas pela Meta e recorre ao TSE - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: estadão tem postagens sobre eleições censuradas pela Meta e recorre ao TSE. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLUFhNXVLVzNSZ21FWWhOZExtVjhGamVPazZjRF9iVTFtalUyQnhsdzVLYzFjT2pIRlEtS0ExRGstSmpBTVBxNmd6eks0QWJQa2o2VFNFVEdmdDZHZ0NlbXdZMEJEVVhMLU1zcVNBV29KOXBpOUlKS1BTR2R4MlY3TWdTcmd0azBveEJsd1lXdXg0QU1JOVNVdmE0U3FFX0lhcWMyczlxMHdZSnZlS2RqTElGSmt3c0VxZlVLTUdMc1paWlVTUkZJ?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-25T06:56:27+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "a719f9c7ed11228a",
       "title": "Eleições 2026 no Paraná: mudanças nos locais de votação, justificativas e tudo o que você precisa saber para votar neste domingo (25)",
@@ -90,20 +202,6 @@
       "archive": false
     },
     {
-      "id": "571857c9dd865a50",
-      "title": "Celina Leão tenta se reeleger como governadora do DF neste domingo; veja como foi a campanha",
-      "summary": "O veículo G1 publicou uma atualização sobre: celina Leão tenta se reeleger como governadora do DF neste domingo; veja como foi a campanha. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/celina-leao-tenta-se-reeleger-como-governadora-do-df-neste-domingo-veja-como-foi-a-campanha.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T04:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "6f1ef84eaf8e7053",
       "title": "Ideia que nasceu no AC, e-Título vira principal ferramenta digital da Justiça Eleitoral no país: 'Projeto exitoso'",
       "summary": "O veículo G1 publicou uma atualização sobre: ideia que nasceu no AC, e-Título vira principal ferramenta digital da Justiça Eleitoral no país: 'Projeto exitoso'. Consulte a reportagem para contexto, dados e declarações.",
@@ -111,48 +209,6 @@
       "source": "G1",
       "published_at": "2026-10-25T04:00:00+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "be1d51c58004258b",
-      "title": "Eleições no DF: Metrô e ônibus terão passe livre neste domingo; veja horários e regras",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições no DF: Metrô e ônibus terão passe livre neste domingo; veja horários e regras. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/eleicoes-no-df-metro-e-onibus-terao-passe-livre-neste-domingo-veja-horarios-e-regras.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T04:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4fc961e0176c9ef8",
-      "title": "Eleições 2026: voto nulo ou branco beneficia mais Lula ou Flávio? Entenda - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: eleições 2026: voto nulo ou branco beneficia mais Lula ou Flávio? Entenda - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1JfSVRoVlNWNEdranRxT2RwUG56TkVNS214a0xQNmI4Z1lyS0J6YmhUaW54THVmblpKTzkxRVY3TVlmZ25BM0VhbFM2VVB6dVNuZzRkUDNaclJGS2xLQ0M0QXNJMHlRcFlkMm5sRWJZMy1YdHhvYl9GM2RFVVJ3OWplV2E5dWcxNWdIeXlFTjB0YlRsbVVidl82bVRkYmtYenN4SjlNalE?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T03:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "647707fc5b387a6b",
-      "title": "Alerta laranja: mais de 300 cidades do Paraná podem registrar temporais com ventos de 100 km/h no domingo de eleição",
-      "summary": "O veículo G1 publicou uma atualização sobre: alerta laranja: mais de 300 cidades do Paraná podem registrar temporais com ventos de 100 km/h no domingo de eleição. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/25/alerta-laranja-temporal-parana.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T03:05:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -174,16 +230,16 @@
       "archive": false
     },
     {
-      "id": "203fc7dd6c9d018f",
-      "title": "Votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe",
+      "id": "3083111c29d0fceb",
+      "title": "Votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzJBSHFYWHVMTWdFdVpqY2ZfME1EWjk4ZTRqbTZEZzZYOGR5WXgwaDV2ZC1yR3Jsb0g3a0FWZmRIbUx3T1FXUjlWaGxtMWh0ZnRKRFVjYkw1LXhSTzZvQlVmS0FmeFBxdFJHazBxTXdZMjYxRk5Eek5UWWxzOWwwNW5DU24xUHNZRXRoUFdla1BlcFNJRDlqY1NJdG1vNFZ0LVFsT2xVUkp1cHpaeHo0MWE1ZXBpQU01UXNzeXpFVi1TOGFLdGFmeGJWQXdxMFhT0gHfAUFVX3lxTE91bi12SnhWNmdSZENWZEpJak40U3B6NVNvOFNDeFhrWkJSMDlyZnAyaFNWY2RpZjJ6QTMzWmd4TElZZndnQVhldEZHMnhVUzRxeE5aaDNzRFp4OTZteFU2RmtTQWRkc3hRMHJoMFZkOGN6SkNyeDNMRDZodEswaVFvejc5bkJmY3RrLXN3MXU2MFdjaVhzLTAxOS1pRjBreUF3X3FzWDBoTGtEODBDaTlNTFpfOC1kY2VDVlByTGxLa2l0cmcyUUo1Wm5yNll0eUZWVzJGdXVxa1NSTHNoWFk?oc=5",
       "source": "G1",
       "published_at": "2026-10-25T03:00:06+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -226,34 +282,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9e2bdc4c89b10152",
-      "title": "Flávio repete fake news sobre mesários votarem no lugar de ausentes - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio repete fake news sobre mesários votarem no lugar de ausentes - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkUzaE92c01HUGtfb2FSVE1kT0tUV2RHWURudEhUX1kwdFlSZk5mbnpuMFBQM1F3dzZfQjlraHkwRGRVcVN4UGVMMUpiVHFEbnhfS2JDeHNvVmRTMTFocGxlamstY3ROd0FDQWROZ0I2ZUh6MDVSalJNU1ZTNThCOXlZcXU5R0p5eUhTLUZ4Y1lHVTM2UFVCVl9PV1BzU2xIYWtzdA?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T02:42:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d77987c915fda464",
-      "title": "Clima de Carnaval e apelo por democracia: como foi último ato de Lula em SP - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: clima de Carnaval e apelo por democracia: como foi último ato de Lula em SP - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMU51V2JSRG9relpkQTJEM1BHMGw1cndCdXdjSXRsVHVhNlY3Ui12SU1OM0tTWEhHU0FCcFYxU05XU2ppemMxWF9peS1jVWVzaG9PYnhfNUpQbDlvUzdkbnR1aVVwU2hhbHNUT21NZ1V2RWdLemxzQ25pQjRDZ3A5aU96WUZjcFNhcDZNNDlPMHE3SzFnSTZRVmR3dGlTNTZoaTRla3dWUldqWXJBYmFSMw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T02:28:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -650,20 +678,6 @@
       "archive": false
     },
     {
-      "id": "99eaa07302316d38",
-      "title": "Procuradoria defende manutenção de 'Exército do Lula' após TSE barrar suspensão do canal",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: procuradoria defende manutenção de 'Exército do Lula' após TSE barrar suspensão do canal. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/procuradoria-defende-manutencao-de-exercito-do-lula-apos-tse-barrar-suspensao-do-canal.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T20:29:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "cbed7602dcad3b90",
       "title": "Flávio reúne apoiadores no Rio para último ato de campanha e fala em ‘jornada histórica’",
       "summary": "O veículo VEJA publicou uma atualização sobre: flávio reúne apoiadores no Rio para último ato de campanha e fala em ‘jornada histórica’. Consulte a reportagem para contexto, dados e declarações.",
@@ -706,6 +720,20 @@
       "archive": false
     },
     {
+      "id": "670c27bd156afd58",
+      "title": "Ministério Público Eleitoral se manifesta contra suspensão do 'Exército do Lula' - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: ministério Público Eleitoral se manifesta contra suspensão do 'Exército do Lula'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT1lEUXkwdXM2elRQZlhldTRVUEZfZGEzcEtDXzdKS2FBN3VoaG1xSDdYb3pLZVVrcTE3alVLLWhicjYwaU9YR1daNVZqTWotaEdqUnBTZTVBNGltd285RWpJQ1g3alhPWlNiNmVFQXhfRE5oV1dHcTFLRjFHOE11cE0yM05OQTJhVmNqYVZKUUFpak9aOVhoU2NxbkdNNFduM29ZLU5yVV9Kc1g0TTRvX2FPUjBfZE1oMTJOek9qNzZYYlZlUzNLNFoyVnpoeXRidmJDS2xSWkxLakQxeUJpRNIB7wFBVV95cUxQNVU0Y25EQXlmb05XQmR4d0FmX3FrUVFSYUc5N0VCRlRqQkVfc0h1YmtPMDJPTEUyc3pHZGpMdXJ6OHQxMVNVZXp1UlFSdVlzYzhzajZuX1JXcGJETy1od2U3MVYwdWE3eEt3dmh3TnJZMkt6Y0JLRE5ZT3Y2Ulg5SEJkX19UelBCYlZZT2dqUG84QUVkMk5UOVcwUFQzcHFTNy05MmphbVhuQnI1SzdmbWFkQUoyLTFrTkpyaExrZVV0dU9NT0x3bV9pTFF3Wm1VZDByeXRqLWtNT2pVenZLLVcxMXhwOGdpOWd5R0NaMA?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-24T19:53:22+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "6cc39c4d471e12ad",
       "title": "'Nove dedos', segurança pública e caso Ana Clara: pesquisas revelam altos e baixos de Lula e Flávio Bolsonaro no debate da Globo - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Nove dedos', segurança pública e caso Ana Clara: pesquisas revelam altos e baixos de Lula e Flávio Bolsonaro no debate da Globo. Consulte a reportagem para contexto, dados e declarações.",
@@ -734,13 +762,13 @@
       "archive": false
     },
     {
-      "id": "2a84b16f750c0aa7",
-      "title": "Presidente do TSE defende urnas a observadores internacionais: \"Super Bowl\" - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: presidente do TSE defende urnas a observadores internacionais: \"Super Bowl\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNWEzVFktZGVUdzdmU2FtVXVpTGkxRHZlTkZQOTU2aTYwQVY1NEtKRTVsbmItQmZ0YV9Ud0IxNGtRS0hQZXJIdTl6WEFsTkRSMHNES3dZcjFUanpPTDQxalpzRUlUSWhiVmRjV2NqbVVlRDNOMXZZMkczc0dRSGVpZy1IcnBzLVZPT0d1eGYzTGt4X3N2U3d1S1JKUQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T18:19:00+00:00",
-      "category": "STF e Justiça",
+      "id": "16abbeebe8fdee08",
+      "title": "Homem é preso suspeito de esfaquear sobrinho em Bom Repouso; vítima morreu no hospital - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: homem é preso suspeito de esfaquear sobrinho em Bom Repouso; vítima morreu no hospital. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFJ0LWRxNnJfTUxtdzBmVVMzcmJ6VFZWNGdEeFQ1bHFfUlRGUkhEVUZVNVcweFNFUEg3ZjQwbEhqT1FvMG9DYm92QWYzc1BWdzBCTk1BdXRYTTBXT1RaU0RnVEJKOG0yMU52YlcxTkd6dkRobE5ZZkVRNklzXzJCd3R0eGdXS1VUaW9JNWRFaVVBa0dEN1pCdldOZWtrQmFKdEFJOGlnMjdtaGVEM2lJc2R1ZkNVajZRbUluc0FFbzg5bzl2UGpjblJESnVIdm1Sc2xqMDJ0bTE1b2QzdFVtM9IB7wFBVV95cUxOT0JINjNJUDVwcHV0X1JUcUlqb0haU2xoRWZCdWpaNGYzTFdsR05obXJJZXZsUk53VFF1YWJKWWtJNXJUUGtPMWdVZ18xRThiNWJXMG9KWXo4aG9BOWFjdThiNS1yTnJCTjZfenF2dmhJSWl5ZXJKMUF2ZHlTdjVQT0JERXVORlFhSkJxUGRtT2w0OHNhZmxMNDdEdENRVm50cHdON1dyempsVmdQeDN5d2dBNWsxSGNSS3ZtZ3lLdzRxLUxxWWRrSFM1YjBmZGxFOHB4ODVSSmtmXzB6czZSSF94OXROMGFHNWJQWXR1QQ?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-24T18:49:34+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -828,6 +856,20 @@
       "candidate": "lula",
       "election_type": "Articulação",
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2727f4d9ea174c3b",
+      "title": "Ministério da Justiça diz que mais de 264 mil profissionais vão atuar na segurança do 2º turno - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: ministério da Justiça diz que mais de 264 mil profissionais vão atuar na segurança do 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMlFKM1NYcmdnbm5HRjdLdWI1QnplYXEyRTVwMW8tRVFXQzBCTWhUejRiclBVdzhrc2JKNUxTYkhyOFVwVlJLNklpVlNDc1k4WlZLdzNKSVhGalpLaHl2X3cwaWNlZG5oT0NiSXVnZmVOS3QzWlhNMUNYMjlsZElaU2V0c0V0Y3pZT29kS1NtSzhLeHFFakItbTQwdHlCQ3R3WklRa1hxb0xsdUtXcmgzRWtyYW1DQUdsVlIxWXNkV0ZfemZvTkcwSkVDSFVnZjJuVTVNOUhjck44bENOMlBuWTJYbjdUSGRuSy16UUtyenZyTjlLaXfSAYQCQVVfeXFMT3Q4cWppNjRnTmJ6OGZEcGdPY0tWbU9pMnFDcnhUbnBYV3YzTVozYVA2NXNkTWxpbXFvN3VBaEtEaUQ1VzZ0anBnTzVHVGlLNUxSRGRSUENXZ2oxMmZqYldxSWRrT2FWTnkxdlJReEU4RlM5Ums2RjJ0ZHlQZE5sSlc4a01LdkRQMVZtMDBtemYyREhFX3A1ZGlrY2VzYzVzQUxYSEJOUnpvc1FiNEl2S1hxUW14MzRnY0M1cnJaTFJFTjV4Qk5ObHAzall4Vkp0c2J3bWU2Q0h1eE9EMHg1dTZ2dXM1cVh2dUdXbl8zRldOWk1GZmU1b2lUdUdjbHhUejdGenc?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-24T15:18:12+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1406,20 +1448,6 @@
       "archive": false
     },
     {
-      "id": "0d17fe9c96e8a711",
-      "title": "Polícia Civil investiga seis mortes de bebês em hospital de SP; Secretaria de Saúde fala em 35 casos - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: polícia Civil investiga seis mortes de bebês em hospital de SP; Secretaria de Saúde fala em 35 casos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTlJubm9QZGxFYWhkY3R1UnVMYWdaZHNxNURzWmNZOU14QVdYNlhMUmIzQkxCWW8yblFCQ0JGb19XSk5xc2Q4VmlxaVQ4VW1VUzZDZzV2ZWxBMXd1cDU5OHhVa1c4MWIwbjJvN092enpPVG51dmJMcjdJNTRwMlRVVWFsYnNRcUt0UFFMTmRZQ1ZuSko4OG9Sckk3Z3dMN2dpUEUzcHEwbHRKVGxLNFJfZnQxbGtFSVExb2pmNFNGXzdVNlVlNVpGNTc4NlNuNjlfNkNJamMtb0JmZmI1RHJBSDNaSERBQdIB9AFBVV95cUxPeks5Y3RjdldNbTNla3poV2dfVDRiaEUzOWhSbmpRc2NDaWVjT0MwYzBJR2ZhY1pWMkJJY2lKTjdRM25QYkNkTmo5N0xEMFE1eWZCaVYzWXZsTjlpV0taMTVMTkZwbklFd1R1M3ZJWWlkZ3owYmNlUnV1N3FxVDNEMzZubXhxTVFqRTVQaXVsekN6ZUhmSWlac1dnSXkxcUJyaGU0NVl0SEw5UXBYd2VmN1d2TTB5Q2NYVHEtcHhjclVVUHBnblU4cTYxYjhEMV9LY296RUV4c0Q3d2NiS1lLWEc2R1o0MGNCbE1IYU9maWlLVDlh?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-23T13:07:43+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "de1733a9ea1fcf9f",
       "title": "Ligado a Gilmar Mendes, IDP recebe registro de universidade no Ministério da Educação - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: ligado a Gilmar Mendes, IDP recebe registro de universidade no Ministério da Educação. Consulte a reportagem para contexto, dados e declarações.",
@@ -1630,20 +1658,6 @@
       "archive": false
     },
     {
-      "id": "e3e795531d8fad26",
-      "title": "Ex-ministro de Temer ganha força para integrar eventual governo Flávio - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: ex-ministro de Temer ganha força para integrar eventual governo Flávio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGsxZlVQQWdYaENFSkpxb25EVVROdFdvTVNmRTBqSy1UQUE0WmZKX3ZKRm9HMmd1QUE1bHRNSC1XcHBQN0tzTVJ0d29Sc3FpUGRUakNSaF9EbjNQRkR1NE5PUjVnc19KcnBKU3hFOGYtU3VCdjYwWTFuSjIyU0ZKdDU4MVhIQVJNVHVKSkpHQUNBd3dubUxUWkthNWdWY3FnZU1SbFBPTnNsZGpGZGJudll2ZXV3X19mUFhCWmd3ejhrajFRbGk2Y05VeFPSAdsBQVVfeXFMT2dfcEN6ckpZTW5xaFYzNFotVzBYenBfbmxiVkkxM1ItT3d3R2NYMFpOcHB6Ym5YUmU3TEJaVExnVmFibHpwaldhUEFKMXhGRk0tRzhwaHRURklTTUtpQ0V6SFZ2Yi1NOHFZYUhIYkpqeExlNlBJMHJoTTRqRnkzUFAtRGZWMGUxbC1FZ09jdVNNZHdsQ01rbEVjRlhFb2FWQkdYaGEtZzJtMUI5N2ZRbkFnQ2dqb0Z5S2dLZWNGbHhnZTFzQmhOd0pXbTQ2S21HLS0xU3Zsa2V4LTFv?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-21T15:44:28+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a2e252eba7756189",
       "title": "Estudantes de escolas públicas querem ensino e aprendizagem melhores",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: estudantes de escolas públicas querem ensino e aprendizagem melhores. Consulte a reportagem para contexto, dados e declarações.",
@@ -1674,8 +1688,9 @@
   ],
   "source_health": {
     "G1": {
-      "status": "ok",
-      "items": 37
+      "status": "erro",
+      "items": 0,
+      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1683,7 +1698,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 54
+      "items": 53
     },
     "VEJA": {
       "status": "ok",
@@ -1731,27 +1746,27 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 75
+      "items": 74
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 32
+      "items": 31
     },
     "Metrópoles · Política": {
       "status": "ok",
-      "items": 95
+      "items": 96
     },
     "O Globo": {
       "status": "ok",
-      "items": 73
+      "items": 72
     },
     "Estadão": {
       "status": "ok",
-      "items": 49
+      "items": 54
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 64
+      "items": 63
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1763,11 +1778,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 57
+      "items": 31
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 60
+      "items": 58
     }
   },
   "notes": [
