@@ -1,10 +1,66 @@
 {
   "schema_version": 1,
-  "status": "parcial",
-  "last_checked_at": "2026-10-25T07:45:24.304964+00:00",
-  "last_success_at": "2026-10-25T07:45:24.304964+00:00",
+  "status": "atualizado",
+  "last_checked_at": "2026-10-25T08:43:04.904906+00:00",
+  "last_success_at": "2026-10-25T08:43:04.904906+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "fd065f92aa392eec",
+      "title": "Transporte de urnas para locais de votação começa em MG",
+      "summary": "O veículo G1 publicou uma atualização sobre: transporte de urnas para locais de votação começa em MG. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/minas-gerais/ao-vivo/cobertura-apuracao-votacao-2-turno-mg.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T08:27:55+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "45abcc8e8f93a1b9",
+      "title": "Eleições 2026: Acreanos vão escolher governador e presidente neste domingo (25)",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Acreanos vão escolher governador e presidente neste domingo (25). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-acreanos-vao-escolher-governador-e-presidente-neste-domingo-25.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T08:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3e933df1ffdb860c",
+      "title": "Quase 7 milhões de eleitores estão aptos a votar no 2º turno da eleição para presidente no Ceará",
+      "summary": "O veículo G1 publicou uma atualização sobre: quase 7 milhões de eleitores estão aptos a votar no 2º turno da eleição para presidente no Ceará. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/25/quase-7-milhoes-de-eleitores-estao-aptos-a-votar-no-2o-turno-da-eleicao-para-presidente-no-ceara.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T08:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "da61b3c8d2a7f7bb",
+      "title": "Eleições 2026: veja como consultar filas antes de sair para votar no PI",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: veja como consultar filas antes de sair para votar no PI. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-filas-segundo-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T08:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "bbd5716bf36c93ae",
       "title": "Do “Exército” digital às ruas, Lula mudou rota no 2º turno por virada - Itamaraju Notícias",
@@ -90,11 +146,39 @@
       "archive": false
     },
     {
-      "id": "cc6ad30ca804b42c",
-      "title": "Vacinação global contra sarampo caiu após Covid, com aumento de casos e mortalidade em 2023",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vacinação global contra sarampo caiu após Covid, com aumento de casos e mortalidade em 2023. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/10/vacinacao-global-contra-sarampo-caiu-apos-covid-com-aumento-de-casos-e-mortalidade-em-2023.shtml",
-      "source": "Folha de S.Paulo",
+      "id": "b1961bd702950d70",
+      "title": "Lula tem 80,5% dos votos na Nova Zelândia, contra 19,4% de Flávio Bolsonaro - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: lula tem 80,5% dos votos na Nova Zelândia, contra 19,4% de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFRwTnU4eUloNkl5dVFvN2JiQXFhc2pFQWVPZ2xwWnJyZkktX25lWXd5bVJUVzFxSmJ2Zl9WcHoxbTBvanRkVWh1TVVFOTlLeXBmNldHTWlZSjE2d1NUQUtwNEhHZ3lyYTFPNjB6c1pkbjQxeEZ2eVFYXzZ0ajJXS29OSFpZUEZuNG9IWVdKanlBT01IejdFVF9USFIxcVBIZjJHVmhvdGFFV0p0b0g0OTc4a3VyamJwb1BVVkNneVYwZXBpajJB?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-25T07:06:45+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e437d457ef8001c2",
+      "title": "2º turno das Eleições 2026: 1,4 milhão de eleitores votam para presidente em São Carlos e região neste domingo",
+      "summary": "O veículo G1 publicou uma atualização sobre: 2º turno das Eleições 2026: 1,4 milhão de eleitores votam para presidente em São Carlos e região neste domingo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/25/2o-turno-das-eleicoes-2026-14-milhao-de-eleitores-votam-para-presidente-em-sao-carlos-e-regiao-neste-domingo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T07:00:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "692327ce7c048e1e",
+      "title": "Maioria das eleições para governador no DF teve 2° turno; veja como foi cada disputa",
+      "summary": "O veículo G1 publicou uma atualização sobre: maioria das eleições para governador no DF teve 2° turno; veja como foi cada disputa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/maioria-das-eleicoes-para-governador-no-df-teve-2-turno-veja-como-foi-cada-disputa.ghtml",
+      "source": "G1",
       "published_at": "2026-10-25T07:00:00+00:00",
       "category": "Política",
       "candidate": null,
@@ -114,90 +198,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a719f9c7ed11228a",
-      "title": "Eleições 2026 no Paraná: mudanças nos locais de votação, justificativas e tudo o que você precisa saber para votar neste domingo (25)",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026 no Paraná: mudanças nos locais de votação, justificativas e tudo o que você precisa saber para votar neste domingo (25). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-no-parana-mudancas-nos-locais-de-votacao-justificativas-e-tudo-o-que-voce-precisa-saber-para-votar-neste-domingo-25.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T06:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e4b2261ca14277fc",
-      "title": "Sabia que o DF já teve prefeitos? Entenda como era a organização política da capital antes de 1969",
-      "summary": "O veículo G1 publicou uma atualização sobre: sabia que o DF já teve prefeitos? Entenda como era a organização política da capital antes de 1969. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/sabia-que-o-df-ja-teve-prefeitos-entenda-como-era-a-organizacao-politica-da-capital-antes-de-1969.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T06:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3f262e36cce5454c",
-      "title": "Eleições 2026: Santana do Itararé, no Norte Pioneiro do Paraná, também terá votação para prefeito neste domingo",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Santana do Itararé, no Norte Pioneiro do Paraná, também terá votação para prefeito neste domingo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-santana-do-itarare-no-norte-pioneiro-do-parana-tambem-tera-votacao-para-prefeito-neste-domingo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T05:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "85799553729873d4",
-      "title": "Eleições 2026: Nova Zelândia encerra período de votação no segundo turno - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: eleições 2026: Nova Zelândia encerra período de votação no segundo turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQmthNHZRQ0p3anFHejlKWkc4Y2hFUWdwZnJEQ0prTDVuS0dLYUoyNklCZDNDME9UdUFHNFRKZ1VVeEhDMFRTclA4bXl4MmFlUV9JdTZOUXdHU0RNaGkyWW5WUExRckt5WVpfR281TU5reTN5eWpzWGM2WjlwSFUxSUhXNmlmMDlkZG93Z3d3c1czLXRIUzlJRndQS2w2LXlRU1pXWkp0LTc0UFFPVHZBSDdhU0dleFNhN3ZBYndaMG9FNHdBeDdILWIyMzdNR3VVei1oSlFyOUhndlBj0gHrAUFVX3lxTE5nRmV6TEdtNmh4bjN3ODI3RkJ0ZUo0QzlFa19IOUMybHBONVFoSTVKLVZmN0xGU1UxY1RJZDBOQ1FCSzN2Q0FWOWZYZWxtMUtVR2kyc3dKVGpVc2F3b2JaUnZQTzB6Y1I3bS1SVkNWM252OWlPa0dMSFZBbndETUdsNUZ5cGZ3N2JHRkMzbGp5a3dqVXpJakRFZ0RMa3JBY1FsV09DS3JNV0pzclV2cmI0ZlpuNTFuZ0I3ckJRNVRqVzFkNC1aUWl5Nlp4a3hSS3ZETXB6ckh5X091dzQtT1ZmQUxETGsycWtnWjA?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-25T04:03:26+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1a86b39f0c9fe8ec",
-      "title": "Eleições 2026: Arroio do Sal, no RS, também terá votação para prefeito neste domingo",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Arroio do Sal, no RS, também terá votação para prefeito neste domingo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-arroio-do-sal-no-rs-tambem-tera-votacao-para-prefeito-neste-domingo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T04:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a7a263a1cbc4dbc0",
-      "title": "Leandro Grass tenta se eleger governador do DF neste domingo; veja como foi a campanha",
-      "summary": "O veículo G1 publicou uma atualização sobre: leandro Grass tenta se eleger governador do DF neste domingo; veja como foi a campanha. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/leandro-grass-tenta-se-eleger-governador-do-df-neste-domingo-veja-como-foi-a-campanha.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T04:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -230,16 +230,16 @@
       "archive": false
     },
     {
-      "id": "3083111c29d0fceb",
-      "title": "Votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe - G1",
+      "id": "203fc7dd6c9d018f",
+      "title": "Votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe",
       "summary": "O veículo G1 publicou uma atualização sobre: votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzJBSHFYWHVMTWdFdVpqY2ZfME1EWjk4ZTRqbTZEZzZYOGR5WXgwaDV2ZC1yR3Jsb0g3a0FWZmRIbUx3T1FXUjlWaGxtMWh0ZnRKRFVjYkw1LXhSTzZvQlVmS0FmeFBxdFJHazBxTXdZMjYxRk5Eek5UWWxzOWwwNW5DU24xUHNZRXRoUFdla1BlcFNJRDlqY1NJdG1vNFZ0LVFsT2xVUkp1cHpaeHo0MWE1ZXBpQU01UXNzeXpFVi1TOGFLdGFmeGJWQXdxMFhT0gHfAUFVX3lxTE91bi12SnhWNmdSZENWZEpJak40U3B6NVNvOFNDeFhrWkJSMDlyZnAyaFNWY2RpZjJ6QTMzWmd4TElZZndnQVhldEZHMnhVUzRxeE5aaDNzRFp4OTZteFU2RmtTQWRkc3hRMHJoMFZkOGN6SkNyeDNMRDZodEswaVFvejc5bkJmY3RrLXN3MXU2MFdjaVhzLTAxOS1pRjBreUF3X3FzWDBoTGtEODBDaTlNTFpfOC1kY2VDVlByTGxLa2l0cmcyUUo1Wm5yNll0eUZWVzJGdXVxa1NSTHNoWFk?oc=5",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
       "source": "G1",
       "published_at": "2026-10-25T03:00:06+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": true,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -748,16 +748,16 @@
       "archive": false
     },
     {
-      "id": "9aaa3fce502c69ea",
-      "title": "Master pagou milhões a advogado que gravitava entre poderosos no Senado",
+      "id": "13ea65457783eb32",
+      "title": "Master pagou milhões a advogado que gravitava entre poderosos no Senado - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: master pagou milhões a advogado que gravitava entre poderosos no Senado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/master-pagou-milhoes-a-advogado-que-gravitava-entre-poderosos-no-senado/",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWENGeThjUE5kbmNmM2wtUVN4clJnbHZveW1FdXhBVjV2X2hVTzJxcDV1cU1uajFiV1gyZ1pHLW9fWHN5TGJwUE44dUttUGlpOEtNZ2hBdnNnMDhSY1QyZzl2OGdDbFhNRE5xZURBOVdVZkJ4dGM1eDc1SWp1WWI0ekRQbFBIc2tQOWw1RV9PbGpoWVpId1R2QmRhOWFYa1JpSFBLZE84Q1M?oc=5",
       "source": "VEJA",
       "published_at": "2026-10-24T19:01:01+00:00",
       "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -856,20 +856,6 @@
       "candidate": "lula",
       "election_type": "Articulação",
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2727f4d9ea174c3b",
-      "title": "Ministério da Justiça diz que mais de 264 mil profissionais vão atuar na segurança do 2º turno - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: ministério da Justiça diz que mais de 264 mil profissionais vão atuar na segurança do 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMlFKM1NYcmdnbm5HRjdLdWI1QnplYXEyRTVwMW8tRVFXQzBCTWhUejRiclBVdzhrc2JKNUxTYkhyOFVwVlJLNklpVlNDc1k4WlZLdzNKSVhGalpLaHl2X3cwaWNlZG5oT0NiSXVnZmVOS3QzWlhNMUNYMjlsZElaU2V0c0V0Y3pZT29kS1NtSzhLeHFFakItbTQwdHlCQ3R3WklRa1hxb0xsdUtXcmgzRWtyYW1DQUdsVlIxWXNkV0ZfemZvTkcwSkVDSFVnZjJuVTVNOUhjck44bENOMlBuWTJYbjdUSGRuSy16UUtyenZyTjlLaXfSAYQCQVVfeXFMT3Q4cWppNjRnTmJ6OGZEcGdPY0tWbU9pMnFDcnhUbnBYV3YzTVozYVA2NXNkTWxpbXFvN3VBaEtEaUQ1VzZ0anBnTzVHVGlLNUxSRGRSUENXZ2oxMmZqYldxSWRrT2FWTnkxdlJReEU4RlM5Ums2RjJ0ZHlQZE5sSlc4a01LdkRQMVZtMDBtemYyREhFX3A1ZGlrY2VzYzVzQUxYSEJOUnpvc1FiNEl2S1hxUW14MzRnY0M1cnJaTFJFTjV4Qk5ObHAzall4Vkp0c2J3bWU2Q0h1eE9EMHg1dTZ2dXM1cVh2dUdXbl8zRldOWk1GZmU1b2lUdUdjbHhUejdGenc?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-24T15:18:12+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1688,9 +1674,8 @@
   ],
   "source_health": {
     "G1": {
-      "status": "erro",
-      "items": 0,
-      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "status": "ok",
+      "items": 36
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1698,7 +1683,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 53
+      "items": 52
     },
     "VEJA": {
       "status": "ok",
@@ -1750,7 +1735,7 @@
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 31
+      "items": 30
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1758,7 +1743,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 72
+      "items": 73
     },
     "Estadão": {
       "status": "ok",
@@ -1774,15 +1759,15 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 63
+      "items": 64
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 31
+      "items": 58
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 58
+      "items": 60
     }
   },
   "notes": [
