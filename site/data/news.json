@@ -1,10 +1,66 @@
 {
   "schema_version": 1,
-  "status": "parcial",
-  "last_checked_at": "2026-10-25T05:41:04.790728+00:00",
-  "last_success_at": "2026-10-25T05:41:04.790728+00:00",
+  "status": "atualizado",
+  "last_checked_at": "2026-10-25T06:52:22.835050+00:00",
+  "last_success_at": "2026-10-25T06:52:22.835050+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "a719f9c7ed11228a",
+      "title": "Eleições 2026 no Paraná: mudanças nos locais de votação, justificativas e tudo o que você precisa saber para votar neste domingo (25)",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026 no Paraná: mudanças nos locais de votação, justificativas e tudo o que você precisa saber para votar neste domingo (25). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-no-parana-mudancas-nos-locais-de-votacao-justificativas-e-tudo-o-que-voce-precisa-saber-para-votar-neste-domingo-25.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e4b2261ca14277fc",
+      "title": "Sabia que o DF já teve prefeitos? Entenda como era a organização política da capital antes de 1969",
+      "summary": "O veículo G1 publicou uma atualização sobre: sabia que o DF já teve prefeitos? Entenda como era a organização política da capital antes de 1969. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/sabia-que-o-df-ja-teve-prefeitos-entenda-como-era-a-organizacao-politica-da-capital-antes-de-1969.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T06:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3f262e36cce5454c",
+      "title": "Eleições 2026: Santana do Itararé, no Norte Pioneiro do Paraná, também terá votação para prefeito neste domingo",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Santana do Itararé, no Norte Pioneiro do Paraná, também terá votação para prefeito neste domingo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-santana-do-itarare-no-norte-pioneiro-do-parana-tambem-tera-votacao-para-prefeito-neste-domingo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T05:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "85799553729873d4",
+      "title": "Eleições 2026: Nova Zelândia encerra período de votação no segundo turno - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: eleições 2026: Nova Zelândia encerra período de votação no segundo turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQmthNHZRQ0p3anFHejlKWkc4Y2hFUWdwZnJEQ0prTDVuS0dLYUoyNklCZDNDME9UdUFHNFRKZ1VVeEhDMFRTclA4bXl4MmFlUV9JdTZOUXdHU0RNaGkyWW5WUExRckt5WVpfR281TU5reTN5eWpzWGM2WjlwSFUxSUhXNmlmMDlkZG93Z3d3c1czLXRIUzlJRndQS2w2LXlRU1pXWkp0LTc0UFFPVHZBSDdhU0dleFNhN3ZBYndaMG9FNHdBeDdILWIyMzdNR3VVei1oSlFyOUhndlBj0gHrAUFVX3lxTE5nRmV6TEdtNmh4bjN3ODI3RkJ0ZUo0QzlFa19IOUMybHBONVFoSTVKLVZmN0xGU1UxY1RJZDBOQ1FCSzN2Q0FWOWZYZWxtMUtVR2kyc3dKVGpVc2F3b2JaUnZQTzB6Y1I3bS1SVkNWM252OWlPa0dMSFZBbndETUdsNUZ5cGZ3N2JHRkMzbGp5a3dqVXpJakRFZ0RMa3JBY1FsV09DS3JNV0pzclV2cmI0ZlpuNTFuZ0I3ckJRNVRqVzFkNC1aUWl5Nlp4a3hSS3ZETXB6ckh5X091dzQtT1ZmQUxETGsycWtnWjA?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-25T04:03:26+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "1a86b39f0c9fe8ec",
       "title": "Eleições 2026: Arroio do Sal, no RS, também terá votação para prefeito neste domingo",
@@ -104,34 +160,6 @@
       "archive": false
     },
     {
-      "id": "2ed0bb300ddfdedc",
-      "title": "O que considerar antes de escolher os materiais para o banheiro",
-      "summary": "O veículo G1 publicou uma atualização sobre: o que considerar antes de escolher os materiais para o banheiro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/10/25/o-que-considerar-antes-de-escolher-os-materiais-para-o-banheiro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T03:03:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6dfb084506a415ee",
-      "title": "Eleição mais acirrada desde a redemocratização opõe Flávio Bolsonaro a Lula com 158 milhões aptos a votar",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eleição mais acirrada desde a redemocratização opõe Flávio Bolsonaro a Lula com 158 milhões aptos a votar. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicao-mais-acirrada-desde-a-redemocratizacao-opoe-flavio-bolsonaro-a-lula-com-158-milhoes-aptos-a-votar.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T03:02:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "088332db62ae092d",
       "title": "Lula e Flávio disputam 40 mil votos de 3ª via, nulos e brancos no exterior - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: lula e Flávio disputam 40 mil votos de 3ª via, nulos e brancos no exterior - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -146,55 +174,13 @@
       "archive": false
     },
     {
-      "id": "3083111c29d0fceb",
-      "title": "Votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzJBSHFYWHVMTWdFdVpqY2ZfME1EWjk4ZTRqbTZEZzZYOGR5WXgwaDV2ZC1yR3Jsb0g3a0FWZmRIbUx3T1FXUjlWaGxtMWh0ZnRKRFVjYkw1LXhSTzZvQlVmS0FmeFBxdFJHazBxTXdZMjYxRk5Eek5UWWxzOWwwNW5DU24xUHNZRXRoUFdla1BlcFNJRDlqY1NJdG1vNFZ0LVFsT2xVUkp1cHpaeHo0MWE1ZXBpQU01UXNzeXpFVi1TOGFLdGFmeGJWQXdxMFhT0gHfAUFVX3lxTE91bi12SnhWNmdSZENWZEpJak40U3B6NVNvOFNDeFhrWkJSMDlyZnAyaFNWY2RpZjJ6QTMzWmd4TElZZndnQVhldEZHMnhVUzRxeE5aaDNzRFp4OTZteFU2RmtTQWRkc3hRMHJoMFZkOGN6SkNyeDNMRDZodEswaVFvejc5bkJmY3RrLXN3MXU2MFdjaVhzLTAxOS1pRjBreUF3X3FzWDBoTGtEODBDaTlNTFpfOC1kY2VDVlByTGxLa2l0cmcyUUo1Wm5yNll0eUZWVzJGdXVxa1NSTHNoWFk?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-25T03:00:06+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "203fc7dd6c9d018f",
-      "title": "Votação no exterior: acompanhe os resultados do 2º turno entre Lula e Flávio Bolsonaro",
-      "summary": "O veículo G1 publicou uma atualização sobre: votação no exterior: acompanhe os resultados do 2º turno entre Lula e Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe",
+      "summary": "O veículo G1 publicou uma atualização sobre: votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
       "source": "G1",
       "published_at": "2026-10-25T03:00:06+00:00",
       "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c7575504d50f4215",
-      "title": "Eleições 2026: qual é a ordem de votação no segundo turno?",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: qual é a ordem de votação no segundo turno?. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/qual-a-ordem-de-votacao-no-segundo-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T03:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c94a90f74f42115f",
-      "title": "Eleições 2026: Roupa, celular, números dos candidatos – o que pode e o que não pode no dia da eleição",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Roupa, celular, números dos candidatos – o que pode e o que não pode no dia da eleição. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-roupa-celular-numeros-dos-candidatos-o-que-pode-e-o-que-nao-pode-no-dia-da-eleicao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T03:00:01+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -566,6 +552,20 @@
       "archive": false
     },
     {
+      "id": "ca84a72d3c11bb9b",
+      "title": "Cerca de 1.200 palestinos são deslocados após operação do Exército de Israel",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: cerca de 1.200 palestinos são deslocados após operação do Exército de Israel. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/cerca-de-1200-palestinos-sao-deslocados-em-hebron-apos-israel-iniciar-operacao-militar.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-24T22:24:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "2d355ca65f0e9f39",
       "title": "Campanha de Flávio diz temer interferência e tratamento desigual por ministros do TSE",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: campanha de Flávio diz temer interferência e tratamento desigual por ministros do TSE. Consulte a reportagem para contexto, dados e declarações.",
@@ -604,6 +604,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "67b664d82318c69d",
+      "title": "Adolescente é morto na porta de casa, e pai acusa PM de efetuar disparos; Polícia diz que agente estava fora do horário de serviço - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: adolescente é morto na porta de casa, e pai acusa PM de efetuar disparos; Polícia diz que agente estava fora do horário de serviço. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPY014UkpGM3hxYkZ2TnE3aENRMmhjWnYyc2FUcjFaS1U0Y3ZHVXlWVDlsUTdHdWZuSEVlMTB3V0xlRjBnc0w3Q19uMDNTdXl0S1h5Tm85bnJpenExMHFSQThkdDJINDFLZmt0cjNpeXlDdmxrZTZSdTZjdFhod09PU2tjWTJ0T1UyRDRuZGNJeFVmSUVOeTF3T2dSUkFLS3pEVTJaUDE4SFBObFlmSWdiQ3EweVVLQkZ6M3pBOW9OeWZ4REM5TXNlVEtUUVd5Z3l1cEQ4M3doYW82M0RBT05BdzcxMmk5U3ZuSWpVMFc5R29NbEtQNzJJWWFLVFA3SjFubk5EX2RRaGh6NlJTdHFvSU5uRklJWjNzUlHSAagCQVVfeXFMUHpfREU1MmxkczFZYklyMDdBT1lCdGVqVTBSd1p2N0M4V0x2SXVhdlVNdEp0QnVNdVJUTl9JSGc3VnlVM2c5ckpDeVA2dWJEdTZENEVqNVJ5d09xTEtYMEdPdmhyeDhsdzczRE1hTFZuZnlkU3o5YkptUno4T2wyQmVEV056blFZWXJnQU83V18wQTJsVUFaV2ZPdTMwRUg1dmFlZm5EZXJxakdVa2ZaSEFyMFpDbHNxdUE4NWpSN1p4ZHR5V3hJUmdlVGUzb1MzUUl5dXAyMzl4cGlMVUk5ZjZEZXRSYnFPTFd2UDNCUnFSUnpQZ1VmcnktN0U0SU5SOVl2YXRqV05WaWd1M3EtSURiYW8wbUUycWZGeVRKU1hBajNCVlo2cjY?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-24T21:44:33+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -993,20 +1007,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-24T06:30:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "66920d9463867bc0",
-      "title": "Chamas consomem retiro de Hitler na Alemanha; polícia prende suspeito de crime - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: chamas consomem retiro de Hitler na Alemanha; polícia prende suspeito de crime. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX1Nmb1FXZmlRdnAwSXJKdXFPRE56VnJtZkJ0Qk5qeHBzdFhNckU3b2xLcTlVRzRkMTZZMWFKajgtWktXTktrVldEbXVWRTFFVnZ5QUFBQ0V6NHcwaDhielVtWXBJRVFYWnhja1ZwdE9LRU9YM19ZekE5STV3SGZpOXRUcHFMMmQ3SzJOenNTRVNwSjUzUXVZMW5vLVRkSVBXSU40WU5uRHgwQS01ekczb1ZGOFJEMDdPQzlKSXBjNUhnak5XT29iV2FsZVlvZ9IB3AFBVV95cUxOR3hWVGprNGhZd1pLdENVX2xnZWJGdDdDdkFRbjMtM3liSzdvVDNnZWlxT1dZbHE4bTVPVTg1UGJ4cU1UcWx3OVJhdVBPaHVlV0U2SEtKMWg2MU9WLThHUG1TRlJVM3lQcDVGYm9Wbm9TdHhrbWlKYlg0V3V1U1B4ZnVvMWlnWU95TF9mckJwTnlpa0tyNUdYTlp6ZHFmOEFxRWpTVEtiVTY0R20zUmNPU25XTHE3NE9SdHRlTXpicnFzWXZVSGhJanEzUnlfcXpyNXhpUU9ubWFhNHNT?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-24T05:49:51+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1674,9 +1674,8 @@
   ],
   "source_health": {
     "G1": {
-      "status": "erro",
-      "items": 0,
-      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "status": "ok",
+      "items": 37
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1684,7 +1683,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 55
+      "items": 54
     },
     "VEJA": {
       "status": "ok",
@@ -1736,7 +1735,7 @@
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 33
+      "items": 32
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1744,15 +1743,15 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 71
+      "items": 73
     },
     "Estadão": {
       "status": "ok",
-      "items": 48
+      "items": 49
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 63
+      "items": 64
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1764,11 +1763,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 58
+      "items": 57
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 59
+      "items": 60
     }
   },
   "notes": [
