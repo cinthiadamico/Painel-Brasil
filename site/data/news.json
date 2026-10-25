@@ -1,10 +1,346 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-25T20:39:08.530594+00:00",
-  "last_success_at": "2026-10-25T20:39:08.530594+00:00",
+  "last_checked_at": "2026-10-25T21:40:49.393859+00:00",
+  "last_success_at": "2026-10-25T21:40:49.393859+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "809f5462b7025c19",
+      "title": "Menos de 1% dos voos comerciais do fim de semana foram cancelados, diz Anac",
+      "summary": "O veículo VEJA publicou uma atualização sobre: menos de 1% dos voos comerciais do fim de semana foram cancelados, diz Anac. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/menos-de-1-dos-voos-comerciais-do-fim-de-semana-foram-cancelados-diz-anac/",
+      "source": "VEJA",
+      "published_at": "2026-10-25T21:36:23+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "747c9fe20433c7e9",
+      "title": "Rogério Marinho critica decisão de Zanin e acusa tentativa de tumultuar eleição",
+      "summary": "O veículo VEJA publicou uma atualização sobre: rogério Marinho critica decisão de Zanin e acusa tentativa de tumultuar eleição. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/rogerio-marinho-critica-decisao-de-zanin-e-acusa-tentativa-de-tumultuar-eleicao/",
+      "source": "VEJA",
+      "published_at": "2026-10-25T21:36:02+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3f4d8569b1747e19",
+      "title": "Zanin determina prorrogação da votação até 19h em todo o País - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: zanin determina prorrogação da votação até 19h em todo o País. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0JWVEJQN3VjNGFIODFOb1hXS2pHZ051bHlUdTBDZlVfZ2wxNEFpN1M4aERPNGRrRUtyNEtfeVpOQk1OOHA3c3dCdG5lb2tta1gxdVZITno2Yk9BQmY5VzVLTUNIeFowSWg5TlM3SEJRV1JTRHc3dkVUWExhU0tuWm1ycWZpNjFwdjlPeTQyOXpHeDJmMllnZTh4WHppMEphQUdhNXh1OHJKYW_SAbABQVVfeXFMTnctUXFPcnRLaWFiQ3RmOEZsMHVoVk85S0hIdWt6ZG1nOWZ1dWVOSmhsaUV3bzNSM0sxdmZtZldKWlhMLXIzV2V2clRqMkhKUmVMWlA2Vl9jNkVLVjFpMjVIaGZiTldIamtkaXZwZDU0YzIwNnVMS2YtdDRmZWNVcUkxc0VScmUyMUlIZE9USDhDeThPQUdIbXlwNDFxYmlodjVSZXJ4cU83Q0lKT1pWSE8?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-25T21:31:05+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5c2972e139832136",
+      "title": "EM TEMPO REAL: acompanhe a votação e a apuração dos votos no 2º turno no Espírito Santo",
+      "summary": "O veículo G1 publicou uma atualização sobre: eM TEMPO REAL: acompanhe a votação e a apuração dos votos no 2º turno no Espírito Santo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-espirito-santo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:29:11+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "171720cabe9c2dc0",
+      "title": "Eleições 2026: Prorrogação vale apenas para seções eleitorais ainda abertas",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Prorrogação vale apenas para seções eleitorais ainda abertas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rr/roraima/eleicoes/2026/ao-vivo/eleicoes-2026-acompanhe-a-cobertura-do-2-turno-em-roraima.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:29:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0d80395f3a706b6d",
+      "title": "Eleições 2026: apuração dos votos é pausada após Zanin prorrogar tempo de votação até às 19h - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: apuração dos votos é pausada após Zanin prorrogar tempo de votação até às 19h. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQd0tibmhzejB5dHdKelFfSWplOGRoajE0djBnZXFydl9yS0VHUE9RNmE4SnJkUENGUDFOc1IzNzJ5eWUwbEJGWUZxR1VOT3hKOWxYTGN6WUZmam9acm5YYWZOaGtJemZoc29oanZXb21BQlNNRkRybjlzeHB3b3cydWRIYzNwY1VfWVBWMkpudjhhVmZwMjN0NGFyN1c0cWxVY0EyZDdRV3l4TnBEdU9aVU9VVHVQYW1OaWlHdTM4ZV91bldiTjVBUndyUU54a1FSLWhzQTlKQ0RRTllGelNhaUM0Wm83aXlteUtpUFdyQXZUUdIBgAJBVV95cUxPZUxZYzNhTWg2bjB6SElHWWRVenZyZkdJTVZNUHNSQ2E5UldabDhST3pMRllpaWd6N2lzWFc0QVZPbUhlMDRhUWZTQTM3QUhEa3hPUXJvaUZyajR0LW5VdWljblFpNy1jeVB1RFJaMU1UbXpNUzFmQU5NUUFvT2g1WkNNcWlLS0g1OTJMTTNLUS1jMldWTjJabkllZkUyM2lxeEd0MC1ieXdYY1dYUDIxLW44RnZpeFRqVDVLNS1WbGNaUXpncFVrWXViTjFHR3ZhLURFbHo4bjdSdy11cjBZN2QtQ3d2MjZBQWViZGVuVzJ5T01pck1LMW9Wc3lVSTRU?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-25T21:28:51+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "112af5a4e8c7a5d5",
+      "title": "Decisão de prorrogar eleições afeta apenas locais com urnas ainda abertas, diz ministro; SIGA movimentação na região",
+      "summary": "O veículo G1 publicou uma atualização sobre: decisão de prorrogar eleições afeta apenas locais com urnas ainda abertas, diz ministro; SIGA movimentação na região. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-campinas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:27:15+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "803fa4d35e7ddc2c",
+      "title": "Eleições 2026: Acompanhe a cobertura do 2º turno em São Carlos, Araraquara e região",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Acompanhe a cobertura do 2º turno em São Carlos, Araraquara e região. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-em-sao-carlos-araraquara-e-regiao.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:26:59+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4f0e4148dae6a839",
+      "title": "Votação em Uberlândia foi encerrada às 17h",
+      "summary": "O veículo G1 publicou uma atualização sobre: votação em Uberlândia foi encerrada às 17h. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/triangulo-mineiro/eleicoes/2026/noticia/2026/10/25/votacao-em-uberlandia-foi-encerrada-as-17h.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:26:57+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "88a20a458b534306",
+      "title": "AO VIVO: Votação termina às 17h na maioria das seções do RN",
+      "summary": "O veículo G1 publicou uma atualização sobre: aO VIVO: Votação termina às 17h na maioria das seções do RN. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-no-rio-grande-do-norte.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:25:50+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1276db5a74f2f81d",
+      "title": "Ex-estrategista de Trump critica decisão de Zanin: “Não dá para acreditar” - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: ex-estrategista de Trump critica decisão de Zanin: “Não dá para acreditar” - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTmVVeFNrUUdZTURNOEV0Q0FJbElXYUN5VDN6c25yUS1IYjFESWJnLUtpOVM5WXBHTHlXRFlqd1NmcS0zRWV1UHRQQk82ZzlLdS1EMzB6eXFKR3BNamJyQWJ6TTQzSUdTOVczMnVqVHpxOTNGamNYRVdtbklpMk5kakxyWG1yQ2ZVQWJPSzV0TE5zVWhEd0t1aE1YS3hNbk53TXlXUnJpNA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T21:25:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5edc43b9cd9561e3",
+      "title": "TSE prorroga horário da votação; acompanhe a cobertura das eleições 2026 no Amazonas",
+      "summary": "O veículo G1 publicou uma atualização sobre: tSE prorroga horário da votação; acompanhe a cobertura das eleições 2026 no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-amazonas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:23:18+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "61fbc8c8249f3c86",
+      "title": "Veículo com propaganda política tenta recolher urnas no Mapiri e Justiça Eleitoral envia carro oficial após protesto de eleitores",
+      "summary": "O veículo G1 publicou uma atualização sobre: veículo com propaganda política tenta recolher urnas no Mapiri e Justiça Eleitoral envia carro oficial após protesto de eleitores. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/25/veiculo-com-propaganda-politica-tenta-recolher-urnas-no-mapiri-e-justica-eleitoral-envia-carro-oficial-apos-protesto-de-eleitores.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:22:59+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cfae82d572b0d119",
+      "title": "TRE-PB mandou cumprir extensão de horário de votação em seções na Paraíba após decisão do STF",
+      "summary": "O veículo G1 publicou uma atualização sobre: tRE-PB mandou cumprir extensão de horário de votação em seções na Paraíba após decisão do STF. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/25/tre-pb-cumprir-extensao-horario-votacao-secoes-paraiba-decisao-stf.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:22:50+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7210134062f1d212",
+      "title": "TSE começa a totalizar votos, mesmo com decisão de Zanin, e depois paralisa",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tSE começa a totalizar votos, mesmo com decisão de Zanin, e depois paralisa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tse-comeca-a-totalizar-votos-mesmo-com-decisao-de-zanin-e-depois-paralisa.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T21:19:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a5b8e4df98fa807e",
+      "title": "TSE: seções eleitorais ainda abertas devem manter votação até as 19h",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: tSE: seções eleitorais ainda abertas devem manter votação até as 19h. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-secoes-eleitorais-ainda-abertas-devem-manter-votacao-ate-19h",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-25T21:15:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8bfacb4b2747def7",
+      "title": "Eleições 2026: eleitora corre para votar após decisão do STF, mas encontra seção encerrada em Valinhos",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: eleitora corre para votar após decisão do STF, mas encontra seção encerrada em Valinhos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-eleitora-corre-para-votar-apos-decisao-do-stf-mas-encontra-secao-encerrada-em-valinhos.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:10:07+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c22e9a9f45b5c34b",
+      "title": "Votação termina às 17h na maioria das seções do RN, apesar de prorrogação determinada pelo STF",
+      "summary": "O veículo G1 publicou uma atualização sobre: votação termina às 17h na maioria das seções do RN, apesar de prorrogação determinada pelo STF. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/25/votacao-termina-as-17h-na-maioria-das-secoes-do-rn-apesar-de-prorrogacao-determinada-pelo-stf.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:08:44+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "86d44955c09efde2",
+      "title": "Horário de votação ampliado será apenas onde urnas não foram fechadas",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: horário de votação ampliado será apenas onde urnas não foram fechadas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/horario-de-votacao-ampliado-sera-apenas-onde-urnas-nao-foram-fechadas",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-25T21:08:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6d437268fd2f1ff3",
+      "title": "MATO GROSSO DO SUL NÃO TERÁ PRORROGAÇÃO DAS ELEIÇÕES APÓS DECISÃO DO STF",
+      "summary": "O veículo G1 publicou uma atualização sobre: mATO GROSSO DO SUL NÃO TERÁ PRORROGAÇÃO DAS ELEIÇÕES APÓS DECISÃO DO STF. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/ao-vivo-cobertura-apuracao-votacao-segundo-turno-mato-grosso-do-sul.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T21:02:21+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "780d37e93c8f32ac",
+      "title": "Mesários relatam urnas fechadas às 17h mesmo após decisão do STF - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: mesários relatam urnas fechadas às 17h mesmo após decisão do STF - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSTZpcHl0R1R3UTQyLVNMeDI3ci1KTkw4eG9VbU9GcG1YTXRaUFp1aE94LVlxRmQ1R20xMGRQYWRVZHhUSTJuc210Zy0tU3FPRkxLMHhtVk9vY1pnLXRqVGFJU3RibnJkdG9IUGdwZUlGb3BEVDhNUUtEOUxUNTh5MV9iem8zb01pX0Z3a0FDLTRyU1NxRThTXzZrZkNqemM?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T20:57:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a6a112402966b458",
+      "title": "Extensão do horário de votação pode anular 2º turno, diz professor da FGV",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: extensão do horário de votação pode anular 2º turno, diz professor da FGV. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/professor-da-fgv-diz-que-decisao-do-stf-pode-levar-a-anulacao-do-turno.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T20:48:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "61d1e9ddcdcbbb05",
+      "title": "Professor da FGV diz que decisão de extensão do horário de votação pode levar à anulação do 2º turno - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: professor da FGV diz que decisão de extensão do horário de votação pode levar à anulação do 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHNZb1huOU14ZkYwQTg2MXVIdGhYOHhqYlZMem1tZTg2Zzk0TzZ4dXdqREtfRmpUNDRZcTBkSmVtcTEwMEtrNXJoZVJiUHR0UDRfWVgxNjNUbmJlYm5qSXpCbE03bUlGZXlpUmM3SkNiZDdPVmFCeGttMGoyRElqS00yb3BiR0RYa3FBOEJvc2piOGRqYzJScHlicWw2ZHZpRUlzODNsUF9UZXg1TGJaMEl6RVItNjJrdUU2NlhULWEyNUFpakhTNktRb2RKNk5uaXc?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T20:48:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c540353b7b0f0778",
+      "title": "Lula acompanha apuração em hotel de São Paulo com a cúpula da campanha - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula acompanha apuração em hotel de São Paulo com a cúpula da campanha - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOEJwbUFaYjkzenE3R3hnMmhPYzJjRFpYV2Ztb2t4RTNwZENxYmlUZnpQazFqeUh2dWV2Ykk3M0JRbGFCV21hMkt4NV91T1prc1J6VHZ5NEhua1ZNSXJqWkdqZ3pLVEU2VlA1MnIwalNiZkFYTzJjYU9ReThqWkhPbWtqak1CYzlLaXBJOXZ0RXNrdFBTQmJMZ1JxaUR2bTZUN1c4RWRvc3BFMTQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T20:45:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "fa5f24ce2e40389e",
       "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
@@ -34,90 +370,6 @@
       "archive": false
     },
     {
-      "id": "ce4a8a16bba822fe",
-      "title": "Se Flávio for eleito, investigações sobre ele serão paralisadas",
-      "summary": "O veículo VEJA publicou uma atualização sobre: se Flávio for eleito, investigações sobre ele serão paralisadas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/se-flavio-for-eleito-investigacoes-sobre-ele-serao-paralisadas/",
-      "source": "VEJA",
-      "published_at": "2026-10-25T20:30:43+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a60311a48df65f4b",
-      "title": "Policial militar é preso acusado de venda de voto no estado do Rio",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: policial militar é preso acusado de venda de voto no estado do Rio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policial-militar-e-preso-acusado-de-venda-de-voto-no-estado-do-rio",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-25T20:28:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "62958557bc6c975d",
-      "title": "Horário de votação é prorrogado até as 19h após pedido de extensão do prazo",
-      "summary": "O veículo G1 publicou uma atualização sobre: horário de votação é prorrogado até as 19h após pedido de extensão do prazo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-segundo-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T20:26:39+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f1e12ac886d74df5",
-      "title": "Acompanhe a evolução da apuração do segundo turno para presidente com gráfico do ‘Estadão’ - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: acompanhe a evolução da apuração do segundo turno para presidente com gráfico do ‘Estadão’. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc2VmdkZ2UEQ0Y2xZbWtWRjJsN3NEbGp5dXVMZ1hiRWhKR2FULXlHNlVQMkk1ZVlMLS1iR2I4NTBHOEdSTVRRWUY1OVJXLTlGZnNJN0gxdDdHWk9SbGcwbllrVWc4RkEzNC0yejlwbkJ2S2txanZrdDdhRjdSMkpDREJ6YUN0R1N0SmRkaGFkTEtKRWdBVzdYbURoV3Y0LUtERVl2TW9VNTFqZnpSVTYzT1l4UUhXekRkSG1jM01TUldLZ01Wc2M3RU9rYXhLYjJ1MkZ1M2c2VlJWdw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-25T20:26:13+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d0e98d1530fc669c",
-      "title": "Eleições 2026: apuração dos votos é pausada após Zanin prorrogar tempo de votação até às 19h",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: apuração dos votos é pausada após Zanin prorrogar tempo de votação até às 19h. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-apuracao-dos-votos-e-pausada-apos-zanin-prorrogar-tempo-de-votacao-ate-as-19h.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T20:25:43+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cec53e9096bfe918",
-      "title": "Eleitor é preso após tentar filmar voto em cabine de votação em RO",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleitor é preso após tentar filmar voto em cabine de votação em RO. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ro/rondonia/noticia/2026/10/25/eleitor-e-preso-apos-tentar-filmar-voto-em-cabine-de-votacao-em-ro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T20:23:04+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "2fc23fc91c898fb6",
       "title": "Votação no exterior: quem ganhou na Europa no 2º turno das eleições 2026?",
       "summary": "O veículo G1 publicou uma atualização sobre: votação no exterior: quem ganhou na Europa no 2º turno das eleições 2026?. Consulte a reportagem para contexto, dados e declarações.",
@@ -132,79 +384,9 @@
       "archive": false
     },
     {
-      "id": "f7c3da823ee64e36",
-      "title": "STF manda estender período de votação até às 19h; siga",
-      "summary": "O veículo G1 publicou uma atualização sobre: sTF manda estender período de votação até às 19h; siga. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-bauru-itapetininga-presidente-prudente-rio-preto-sorocaba.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T20:21:48+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d47e82ad803f9e95",
-      "title": "Além de São Paulo e Salvador, eleitores de mais cidades relatam dificuldades de acesso a transportes; Lula cobra prorrogação do prazo - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: além de São Paulo e Salvador, eleitores de mais cidades relatam dificuldades de acesso a transportes; Lula cobra prorrogação do prazo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOOEJpMkwtUS1vWmtzV2NaLUVoQWlsRHdFVGhQWkU4MjJ5ckpqQlo3bkNHbGJQNlozSHd4UFdWOHpxOERxZzltb1cyNndGd05SallsZkstdmZKN1ViWTZBTDZlYlVXdXRRX1psVEYzZXUzMERHeU5xbjBDdjNtRHB2UzNsTHJMWkZKWEtKNnA3RVVwT2F3OHFmYzdtRFFfNGNYMU92RDZDSGRzNXE2cXhTYTRzWnlublZCNnFOelhiNHVEdlNqMkRiN0dsd05OYlBGbVRxaXZ5ZTdxSkI4LV9UcF9HVUwwaUhfcWJhUGhfS0N6a1Z2MkxPdC1OQUxJQVlnTk1nSDF4czR1VHc1RTF4eFRnX200RGhIWURscW0temZpRTZTYzN4MmNJV3Fla0tRZFHSAcACQVVfeXFMT0t3Sm9mSldsbWVETzBlLS1aX213RVRnM2x3QnhNaWdkZ3ZEWnBXWnJGc2J0VDdQekJ3TkZoa2dqNVhJLU8wdFl4SjNnblZnSEs3VVJDUXJBVF84eDE3SFBqd0RNbTBjNDQ1TEZiM1ZFUWdJclg0THFfczM4U3luODRoSDhOWkl6UW96alRpT0pWckFFWGNpbVAzd1ZRYUljZFlDb3E2M29ERXVtN1lMXzhicnRlbWtXeEtjcnV4X3BqOGh5cERYcXJpaldIZlJLU2RjcjdXMlFnV3JJM0oyeTliZmhOU2Z3V3M0aXdrUEIwV1NkVm5ZOE8ybklpOVBoaXdvNWlEMlFJS2JhQUl0aUJJTGM2eV90eGlHTFdkTU9McUQ3S2dYZ1hudUpYSVQzRE9zSGJjMmRqNXdoS3lpLWY?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-25T20:20:58+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "474b116373d2343d",
-      "title": "Juiz intima Prefeitura de SP a prestar informação imediata sobre denúncia de frota de ônibus reduzida",
-      "summary": "O veículo G1 publicou uma atualização sobre: juiz intima Prefeitura de SP a prestar informação imediata sobre denúncia de frota de ônibus reduzida. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/juiz-intima-prefeitura-de-sp-a-prestar-informacao-imediata-sobre-denuncia-de-frota-reduzida.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T20:20:54+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "95b659c18a1d9046",
-      "title": "Locais de votação fecham portões às 17h; acompanhe as últimas notícias",
-      "summary": "O veículo G1 publicou uma atualização sobre: locais de votação fecham portões às 17h; acompanhe as últimas notícias. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-ceara.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T20:19:34+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5edc43b9cd9561e3",
-      "title": "TSE prorroga horário da votação; acompanhe a cobertura das eleições 2026 no Amazonas",
-      "summary": "O veículo G1 publicou uma atualização sobre: tSE prorroga horário da votação; acompanhe a cobertura das eleições 2026 no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-amazonas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T20:15:36+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c7d7f0a1bc5b1f8b",
-      "title": "Eleições: apuração começa a ser divulgada mesmo após STF prorrogar votação - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: eleições: apuração começa a ser divulgada mesmo após STF prorrogar votação - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Eleições 2026: apuração dos votos começa mesmo após STF prorrogar votação - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: eleições 2026: apuração dos votos começa mesmo após STF prorrogar votação - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa2J6SWxDeW1mbW9DOHBRekJlOHRrbUFPS2VyT0F4dkx3aWFhQ21BY1RRdl9PQ1dSZ293VFVfcEFoTVktTFJialBYOTlIZ29QRW84bi1GSEZBTmRjR3BNSGdPdVc0RG5ZZkZ4bU9hSHY1aV9GTjhMTEsyT3FUYS15cXpUWE5DYlJ5OEdrYnpMSUU5Ylloa1FIMGZFRjhXZkFVNFY4UjVXXy1OQQ?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-25T20:13:00+00:00",
@@ -237,118 +419,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-25T20:09:00+00:00",
       "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b146c426c59772b8",
-      "title": "Eleições 2026: STF prorroga votação em todo o Brasil por duas horas; acompanhe a cobertura do 2º turno em SP",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: STF prorroga votação em todo o Brasil por duas horas; acompanhe a cobertura do 2º turno em SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/eleicoes-2026-cobertura-2-turno-sao-paulo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T20:08:43+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8be050fcf7abcf18",
-      "title": "Eleições 2026: acompanhe a apuração do 2º turno em todo o Brasil - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: eleições 2026: acompanhe a apuração do 2º turno em todo o Brasil - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnFua1loMDJOd1pnWGJMSGY3SFZXZDduNjZ5N3RzNG1kTzhrWkJrZ2lXNVVEQ01GZmhjTjlWejVORE5mY3o5cnNsY1dJM2ZnOV9jYWc0bUVUbGNhR0l6SUtubUtGSTFrMjhiNEZ0UzcxVU5uU0ctU0VwckMyN25QeDV3cjl1SDBWVVRZUncxSnd6YktZbTdrOEU5YTg0ZnBr?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T20:08:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "44697ceb3b9b82a8",
-      "title": "Zanin manda ampliar horário de votação até as 19h em todo o país",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: zanin manda ampliar horário de votação até as 19h em todo o país. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/zanin-manda-ampliar-horario-de-votacao-ate-19h",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-25T20:07:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f04b78f213ee6ff2",
-      "title": "STF prorroga votação por duas horas em todo o país",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: sTF prorroga votação por duas horas em todo o país. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/stf-prorroga-votacao-por-duas-horas-em-todo-o-pais.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T20:06:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "628d9893ea370a7a",
-      "title": "Nunes Marques dá meia hora para TRE-BA responder sobre transporte",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: nunes Marques dá meia hora para TRE-BA responder sobre transporte. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-marques-da-meia-hora-para-tre-ba-responder-sobre-transporte",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-25T20:05:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dbb1df6d4ed6299a",
-      "title": "Cristiano Zanin, do STF, estende até as 19h horário de eleições no Brasil",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: cristiano Zanin, do STF, estende até as 19h horário de eleições no Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/zanin-do-stf-estende-ate-as-19h-horario-de-eleicoes-no-brasil.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T20:04:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5b120de68c2f1c7e",
-      "title": "Zanin, do STF, determina extensão da votação em todo o país até as 19h após denúncias de problemas no transporte - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: zanin, do STF, determina extensão da votação em todo o país até as 19h após denúncias de problemas no transporte. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeHJIbi04YzZpR1hWZG5SeDFNbTJSYmQ0TW5Fdi10N3kzaDFCRUxtYjM2eTBRWVhFTTJubllwNmRYalpyWk9GREZpR1ZMODRzazlGQjBwRGNpWWVTLVItNlo1OHpyZ0ctYWQzYkJETHcwSEx1QURxYUU5YnUyUHFDcXNENnE5bzJhLUVWcF8zOFAxNU00RDZ4UTVNYzYwVGdicnV6dnE0REpCeWdzVEhkR1ZLMUVCUnpEV1VYNTlva2dBRGdMVlBuYnhEc2hvUmdwMGRVQVRET0ZKZGRrdHpwRW9xQTQtdkFwSnpMbNIB-wFBVV95cUxQN2V1ZVF5d0pncEFfcUM2ZFBaZXMwd3ZxQXRuUkNOTG15dmpUWS1zcEdYbU15LURUdGdKOUJLcmVva1M2MWNMZTBseUlfNXBmS25mMkFHc1BHUVVPTVVlaXVyQjNuSW5YMWJPekdNZ2VmaUlSUmlEVW9vamtjVzdRaTZuSF96MmRwZkRLVGVfcXo5Q0NqYmFUU1NaNXdOQnZvVDlOWU82aWwzcFdqWm1HYWg0NGR3Ykp3Y3RYTlM5MWdGUnVJREhHblZ6VXdDVlByM2RBaktXeUNIYlZOa1hzMHY3VEVDc0liT2JGQzFrUXRnV2hXal8yUVZ4WQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-25T20:03:45+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "59339488a775dad7",
-      "title": "Campanhas de Flávio e Lula pedem ao TSE prorrogação do horário de votação",
-      "summary": "O veículo VEJA publicou uma atualização sobre: campanhas de Flávio e Lula pedem ao TSE prorrogação do horário de votação. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/campanhas-de-flavio-e-lula-pedem-ao-tse-prorrogacao-do-horario-de-votacao/",
-      "source": "VEJA",
-      "published_at": "2026-10-25T20:01:35+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -454,6 +524,20 @@
       "archive": false
     },
     {
+      "id": "7f79837512b27901",
+      "title": "Opinião - Bianca Santana: Bloqueios de redes nos EUA e no Brasil foram falhas ou cumprimentos da Meta? - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: opinião - Bianca Santana: Bloqueios de redes nos EUA e no Brasil foram falhas ou cumprimentos da Meta?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOW5wdVpZd3RxM2Nqdlh3Y3EtQ2NHOHZLMUVDVjU3c0pFeFVOQUdUc0RROVZkVkR3QlRpNmRnRFVyOXhzS3g5VjBqVzlYM1RvUnhXSWJ0NFMwZGN4YmRMMEpZbVJPQTRSWm1WN29lYzFXamlENlFCN3BmeEpWcnBkZkNOaTRRalZnVmVUZXBjWjdqSUZUeW8tRjhJU0JoMmo2S2l2aHRmWlN6V2ZvZEpjQUNiRVA3NU4xX2dWU0hOWnVmcndzeFRqVThhV05sdDViby1fRWZZXzU3UQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T19:34:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "852e06dc4d640585",
       "title": "Influenciador filma voto com óculos inteligente e jovem registra voto para impressionar amigos, diz polícia; veja outros casos em Goiás",
       "summary": "O veículo G1 publicou uma atualização sobre: influenciador filma voto com óculos inteligente e jovem registra voto para impressionar amigos, diz polícia; veja outros casos em Goiás. Consulte a reportagem para contexto, dados e declarações.",
@@ -524,20 +608,6 @@
       "archive": false
     },
     {
-      "id": "06be011279cc95af",
-      "title": "Flávio pede ao TSE mais 2 horas de votação em cidades de SP, PR e SC - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio pede ao TSE mais 2 horas de votação em cidades de SP, PR e SC - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjhLTlduTGlkWHZiN2puYmQ3M3R1ZGpxNzJxeGpxcjdDR3lMSHFaNWxxY2o5Y2tZT3BacVlCOUhvSk0zTkV5eHZucDc0Ul9JeEMydDVwdkpmUHVleVhISnZZMldJVmI3RmkzWko2ZXlMQ0pTY2xoaFRyTjlHQVRzaER5aldaNGpiYmNwZjMxdGRHcWlHZXRFdlUzUHhGbHBsYUlr?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T18:57:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "bdcd7b34ffa03b4b",
       "title": "What’s at Stake in Brazil’s Elections?",
       "summary": "O veículo The New York Times publicou uma atualização sobre: what’s at Stake in Brazil’s Elections?. Consulte a reportagem para contexto, dados e declarações.",
@@ -594,68 +664,12 @@
       "archive": false
     },
     {
-      "id": "3d67f83ef2231e4a",
-      "title": "Navegação em Hormuz não voltará ao padrão pré-guerra, diz chanceler do Irã",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: navegação em Hormuz não voltará ao padrão pré-guerra, diz chanceler do Irã. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/navegacao-em-hormuz-nao-voltara-ao-padrao-pre-guerra-diz-chanceler-do-ira.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T18:09:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "6188d07f6fa8a94b",
-      "title": "Quem ganhou as eleições 2026 na China? Veja resultado da apuração entre Lula e Bolsonaro - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: quem ganhou as eleições 2026 na China? Veja resultado da apuração entre Lula e Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2NVN0dlOFBVUnVjdUU1cldHeGp4WmVRM0E3b3BpS3pwXzcyMGJ5YXE2cEVpSGlTYkExLUQ4UmF0akY5ZzBURlZzTDNObDFyamdLUHZuWE5wNFAwRGs1MzhiVkRxNEpNMXU5Z2ZIWW1tY25RWFJ6bkJpN2k3QV9rUXRqWTk0QThha0JzYTNnRWtXM05FT29POUg3MEdOOWp2bHBpeFJHR3YyaFREUWlvd1AxTmVuSmRnekcybEtiNEJveTQ3YzN4RkdReC1DZERDMDh0RzFGdXhveFVhRnNqVFRXbVA0aGZfLWp6eG5tMVM0QdIBgAJBVV95cUxPdXJjSkxjb3RfSmVwdDFYSUgtcm50WDZVYk8weDl3bkR4Y3FBQS01eWdUUlo5d0paeV9rc2ZlSHJUVTFXckVFejh5RFFjbHlWZTQ0VE1TcGVCQlUwc0Fra1Vaa0VBNHlMS3MySDlHajJqdDlhcmF2cmtNa0dXRllFbWZKaUcxOGRDYzB6N0gtbnV2ZDcwM00yR0g4RXQzeWliTGVLWk4tTHM5NmNNSGw3R2VRMVpEZU9SNUpQVXJEcmhsMlBHbmN3akw0WE9rR0dyb2QtWFkwTS03YmNkTWFwY2Q1QVBWODl2cFNWS09YcHBzLTVxcjNJZGVfT1A3dk92?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-25T18:02:17+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "5a0a70d8b5ee9f7b",
       "title": "Polícia apreende quase R$ 2 milhões em pufe que seria de delegada de São Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia apreende quase R$ 2 milhões em pufe que seria de delegada de São Paulo. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/policia-apreende-quase-r-2-milhoes-em-pufe-que-seria-de-delegada-de-sao-paulo.shtml",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-25T18:00:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5d6097a5340e7cb5",
-      "title": "Hora da merenda: escola de Limeira prepara almoço para mesários nas eleições; veja cardápio do dia",
-      "summary": "O veículo G1 publicou uma atualização sobre: hora da merenda: escola de Limeira prepara almoço para mesários nas eleições; veja cardápio do dia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2026/noticia/2026/10/25/hora-da-merenda-escola-de-limeira-prepara-almoco-para-mesarios-nas-eleicoes-veja-cardapio-do-dia.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T17:57:18+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "34fdf67d78882e36",
-      "title": "Polícia Civil investiga três jovens por apologia ao nazismo no Maranhão",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia Civil investiga três jovens por apologia ao nazismo no Maranhão. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/25/policia-civil-investiga-tres-jovens-por-apologia-ao-nazismo-no-maranhao.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T17:56:31+00:00",
       "category": "Segurança",
       "candidate": null,
       "election_type": null,
@@ -685,20 +699,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-25T17:00:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9787eef32c598eaa",
-      "title": "Senadores paraibanos votam para presidente no 2° Turno das Eleições 2026",
-      "summary": "O veículo G1 publicou uma atualização sobre: senadores paraibanos votam para presidente no 2° Turno das Eleições 2026. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/25/senadores-paraibanos-votam-para-presidente-no-2-turno-das-eleicoes-2026.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T16:43:04+00:00",
-      "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -741,34 +741,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-25T16:08:00+00:00",
       "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "deee77055e44c991",
-      "title": "Corpo de adolescente morto a tiros na porta de casa é velado neste domingo em BH; caso é investigado pela Polícia Civil",
-      "summary": "O veículo G1 publicou uma atualização sobre: corpo de adolescente morto a tiros na porta de casa é velado neste domingo em BH; caso é investigado pela Polícia Civil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/25/corpo-de-adolescente-morto-a-tiros-na-porta-de-casa-e-velado-neste-domingo-em-bh-caso-e-investigado-pela-policia-civil.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T16:00:01+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "541a26ed4d5ddfd8",
-      "title": "Polícia investiga mortes de três homens encontrados com sinais de violência na Zona Sul de SP",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia investiga mortes de três homens encontrados com sinais de violência na Zona Sul de SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/25/policia-investiga-mortes-de-tres-homens-encontrados-com-sinais-de-violencia-na-zona-sul-de-sp.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T15:55:10+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1000,20 +972,6 @@
       "archive": false
     },
     {
-      "id": "d4274abd5e63459e",
-      "title": "Vacina para câncer de pele renova fé na genômica",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vacina para câncer de pele renova fé na genômica. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/10/vacina-para-cancer-de-pele-renova-fe-na-genomica.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T11:30:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "040229fe51922607",
       "title": "Opinião - Marcelo Leite: Vacina para câncer de pele renova fé na genômica - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: opinião - Marcelo Leite: Vacina para câncer de pele renova fé na genômica. Consulte a reportagem para contexto, dados e declarações.",
@@ -1024,6 +982,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d4274abd5e63459e",
+      "title": "Vacina para câncer de pele renova fé na genômica",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vacina para câncer de pele renova fé na genômica. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/marceloleite/2026/10/vacina-para-cancer-de-pele-renova-fe-na-genomica.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T11:30:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1154,6 +1126,20 @@
       "archive": false
     },
     {
+      "id": "6cc39c4d471e12ad",
+      "title": "'Nove dedos', segurança pública e caso Ana Clara: pesquisas revelam altos e baixos de Lula e Flávio Bolsonaro no debate da Globo - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Nove dedos', segurança pública e caso Ana Clara: pesquisas revelam altos e baixos de Lula e Flávio Bolsonaro no debate da Globo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOR1V2Qzc1TnQ4MUd0SFMtT1M5OTl5WU5WMWRtMXJFTFphTTd4ZWRnZHJlMnphTXFWWEtIcHpLLWo2QkxKMDZ1ME1ZRFVUWEJXVm1pSHRvbjZYZE9hemtfSnJzUDRSalZRM2lja1VJa1VRWENOd01PSDVZa0gyck03T1RFUk9MUDU2Z3BKOGhMOTY2ekpMaUIzZmJMMGpEeVVnSlNvcjlTcHhJNnZvZWpHV0gwdjR0ZkRmSUtxYkJBeFpDZUNjQ2RKSk1fZC1aRjNabFFZQUw4M0hVNk12aDBmUzNkbmtoZlBYSHBPSVFhVXNGaU14ZU9iNmJ1ODNyTHlwZmZ0bEJ3M01jaHBTRjR6UmFwVVQ0NDBEWWxkTWZBOWYteGPSAbICQVVfeXFMTW90RTJiVjFia185R3ptZjU3MWF2MHNGOTQzTVBKYmYyWUxCa0RheEQ3UjZMSFdES0xNOUNpaUpOUlNoaXdEWk0ydUs2NVhGQktlZmtBNUxsRTJNNXBTb2RncUNaVUY4a2drb0lHZ3NDOVJxVDJwaC1ES2NaUXhvM0RvMkpYMUxiTmhvMVlsZHhudEsySHFQWkZaZ2h4Y2pRRjczaGF0WWwycUg0QVFkLUJjQXZfT3NicC1SYkc4cGtQREozNGhMS1pOSmNmMXRxbUpsOE1VSkJUcGtsTlJrdlRHOENjOHlWRFBjZU5XSlRoTEZGTXFzdGg3ci1Wdlp1V0x4bC00VDN6YjM1bThiZk5IaERnN1dPbVdNTmUteTNEaEMySWVtc3BtWlNVRzhVVTJB?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-24T19:17:38+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "13ea65457783eb32",
       "title": "Master pagou milhões a advogado que gravitava entre poderosos no Senado - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: master pagou milhões a advogado que gravitava entre poderosos no Senado. Consulte a reportagem para contexto, dados e declarações.",
@@ -1224,6 +1210,20 @@
       "archive": false
     },
     {
+      "id": "bb0160c020eea3b8",
+      "title": "Why Brazil’s Election Could Come Down to Crime",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: why Brazil’s Election Could Come Down to Crime. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-24T14:32:25+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "7aec7b91058590e7",
       "title": "Ministério Público do Trabalho apura carta de supermercado a funcionários com teor eleitoral",
       "summary": "O veículo VEJA publicou uma atualização sobre: ministério Público do Trabalho apura carta de supermercado a funcionários com teor eleitoral. Consulte a reportagem para contexto, dados e declarações.",
@@ -1252,13 +1252,13 @@
       "archive": false
     },
     {
-      "id": "9034ce5e7592d280",
-      "title": "OMS anuncia testes clínicos da vacina contra o ebola no Congo - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: oMS anuncia testes clínicos da vacina contra o ebola no Congo - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlFueHNSWFBPWGFFM19aMENpbHJ2WW1EU2NWUjlhWlJXcXZ1T2lSRTFqbUJzbmpkTFVXVEZZemlXclZFY25uQlZjMExIcVBIbk04dnJVbDlFb0xXRkZvSm9kWkVxNUYteWpjWmFheUxWeDZpSWw4Zkc3dXNvdW91MTU1a3c0ZTlhRHpsSExTV2t1QV9GcW5nSUdR?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T09:18:00+00:00",
-      "category": "Saúde",
+      "id": "53c2bef3d9bf7429",
+      "title": "Lula tem ato falho e fala em “acabar com a polícia” durante debate com Flávio Bolsonaro - Goiás 246",
+      "summary": "O veículo Goiás 246 publicou uma atualização sobre: lula tem ato falho e fala em “acabar com a polícia” durante debate com Flávio Bolsonaro - Goiás 246. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSUJ1NnJ3ZENaNHlJZ09kR0JzTlhpRFIxQmo4UUc1dDVnWWpreXc5TUdaOE9LbUdVdVg5UC14bXNwOHJlSnRiamZLSy01MUIwcTJkRUdHTG9NWEhUQ0UyMTBETlVlMUZ2c296dEI5NkRvOFprNGZwWHJ4SmdqYTlMSEtfdW8xUkVFNW9fZ0xNRFI5SXRLa0JLTXAxVzZ0RkxSd0Y0TkNkdmY0MGJXMnIwNEN6LW9HYVYyaXNiUVVZUTRWNHUyLU5qeG94NUtXandSRXRiU2dfclFVR1VTSG9PbFFWbVk1ejA?oc=5",
+      "source": "Goiás 246",
+      "published_at": "2026-10-24T09:57:00+00:00",
+      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1266,12 +1266,12 @@
       "archive": false
     },
     {
-      "id": "429d7f233e4cb503",
-      "title": "Solidão é o fator mais ligado à pior saúde mental no Brasil, mostra pesquisa - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: solidão é o fator mais ligado à pior saúde mental no Brasil, mostra pesquisa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWlNpclhPblRaVGQ1S05pUkU5Z1FaXzhIRWMyQ0I1QUx0LXI4Z3hyUmwtbmI0THNQeHU0YTR1RDlNSmtwcGlSaFk4eXZ6UUl1WWpoVi15QjJuY1EwZ1hnOHpfRVkxX0NmYlktTXIyZnc2MTBCMkQzS0hmUG9nSHVPOWtXZGdkZnZVX2N4TVR4clVoQ2k4MDVIemVkWGRCNklXWTM5YTk1VEVtNnJDYXp6ZGJjUHJpcmhjTFRLTmV3TlRLdGV0azVPWWZQQWYzTGlod1E?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T07:00:00+00:00",
+      "id": "9034ce5e7592d280",
+      "title": "OMS anuncia testes clínicos da vacina contra o ebola no Congo - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: oMS anuncia testes clínicos da vacina contra o ebola no Congo - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlFueHNSWFBPWGFFM19aMENpbHJ2WW1EU2NWUjlhWlJXcXZ1T2lSRTFqbUJzbmpkTFVXVEZZemlXclZFY25uQlZjMExIcVBIbk04dnJVbDlFb0xXRkZvSm9kWkVxNUYteWpjWmFheUxWeDZpSWw4Zkc3dXNvdW91MTU1a3c0ZTlhRHpsSExTV2t1QV9GcW5nSUdR?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-24T09:18:00+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
@@ -1518,6 +1518,20 @@
       "archive": false
     },
     {
+      "id": "9025bb4aa5f74a2a",
+      "title": "Subcomissão avalia políticas públicas em execução na Terra Indígena Yanomami",
+      "summary": "O veículo Senado Federal publicou uma atualização sobre: subcomissão avalia políticas públicas em execução na Terra Indígena Yanomami. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/10/23/subcomissao-avalia-politicas-publicas-em-execucao-na-terra-indigena-yanomami",
+      "source": "Senado Federal",
+      "published_at": "2026-10-23T19:09:44+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "d251490398bad210",
       "title": "Estela Aranha libera propaganda de Flávio que liga Lula a aumento da violência e do endividamento - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: estela Aranha libera propaganda de Flávio que liga Lula a aumento da violência e do endividamento. Consulte a reportagem para contexto, dados e declarações.",
@@ -1567,20 +1581,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-23T17:53:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "82d3870435ae9329",
-      "title": "Recife abrirá 34 creches no domingo para facilitar o voto dos pais",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: recife abrirá 34 creches no domingo para facilitar o voto dos pais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/recife-abrira-34-creches-no-domingo-para-facilitar-o-voto-dos-pais",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-23T14:29:00+00:00",
-      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1672,13 +1672,13 @@
       "archive": false
     },
     {
-      "id": "b4b2625329b217f4",
-      "title": "Ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ministro-preve-renegociacao-de-r-90-bi-em-3a-fase-do-desenrola",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T23:07:00+00:00",
-      "category": "Governo federal",
+      "id": "a4bdf4e0beca5912",
+      "title": "Projeto padroniza termos sobre saúde da mulher e maternidade em documentos federais",
+      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto padroniza termos sobre saúde da mulher e maternidade em documentos federais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.camara.leg.br/noticias/1307916-projeto-padroniza-termos-sobre-saude-da-mulher-e-maternidade-em-documentos-federais",
+      "source": "Agência Câmara",
+      "published_at": "2026-10-22T20:23:00+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1689,7 +1689,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 70
+      "items": 81
     },
     "G1 · Economia": {
       "status": "erro",
@@ -1698,23 +1698,23 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 59
+      "items": 58
     },
     "VEJA": {
       "status": "ok",
-      "items": 13
+      "items": 15
     },
     "The New York Times": {
       "status": "ok",
-      "items": 17
+      "items": 16
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 4
+      "items": 7
     },
     "Agência Brasil · Política": {
       "status": "ok",
-      "items": 4
+      "items": 5
     },
     "Agência Brasil · Economia": {
       "status": "ok",
@@ -1746,11 +1746,11 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 78
+      "items": 79
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 35
+      "items": 34
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1758,31 +1758,31 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 72
+      "items": 70
     },
     "Estadão": {
       "status": "ok",
-      "items": 59
+      "items": 58
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 73
+      "items": 72
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 61
+      "items": 64
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 69
+      "items": 72
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 57
+      "items": 55
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 59
+      "items": 58
     }
   },
   "notes": [
