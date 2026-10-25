@@ -1,10 +1,262 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-25T08:43:04.904906+00:00",
-  "last_success_at": "2026-10-25T08:43:04.904906+00:00",
+  "last_checked_at": "2026-10-25T09:42:12.055420+00:00",
+  "last_success_at": "2026-10-25T09:42:12.055420+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "3c41d33899f95eea",
+      "title": "Jovem de 19 anos morre durante carreata em apoio a Flávio Bolsonaro - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: jovem de 19 anos morre durante carreata em apoio a Flávio Bolsonaro - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVpIVE4zWGZhc19EV3Rsd3pDZ19LOEtfTENzdnp1cU92MFFldGJfSnFoVG9Nc1haZzFZaW9Tb1NkMmlQMFZ2VHdyc01UUVFSWEc1MGtlTW92R3Zybl8tNHFOSnFldjFZRnFLcEIzbURMUmh6TGQ0S0ZQNDhGRE9OWmJtUnJjdWJxX1lSMVhwWWVEVWd2VEJnQ1J3azcteGs4b0dSbHBPenA0azRTMnVZRm5odUdTN013LXlJ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T09:32:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d8556c3db9d6cb39",
+      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: elon Musk Says Ukraine Violated Starlink’s Rules. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-25T09:28:35+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3fb21d3245f92dbe",
+      "title": "Eleições 2026 no Amazonas: veja horários, documentos, passe livre e o que pode ou não no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026 no Amazonas: veja horários, documentos, passe livre e o que pode ou não no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-no-amazonas-veja-horarios-documentos-passe-livre-e-o-que-pode-ou-nao-no-2o-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T09:25:36+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "754aea25f6f9d5de",
+      "title": "Quem é o engenheiro espancado que participava de ato pró-Lula em SP",
+      "summary": "O veículo G1 publicou uma atualização sobre: quem é o engenheiro espancado que participava de ato pró-Lula em SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/25/quem-e-o-engenheiro-espancado-que-participava-de-ato-pro-lula-em-sp.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T09:09:42+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7d7e8df940f44f91",
+      "title": "Juíza pede para ouvir vice-prefeita morta em acidente em processo sobre servidora fantasma",
+      "summary": "O veículo G1 publicou uma atualização sobre: juíza pede para ouvir vice-prefeita morta em acidente em processo sobre servidora fantasma. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/25/juiza-pede-para-ouvir-vice-prefeita-morta-em-acidente-em-processo-sobre-servidora-fantasma.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T09:09:32+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b6088a40ba3941ff",
+      "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: what to Know About Brazil’s Election as Bolsonaro Faces Off With Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-25T09:01:45+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0bd0cde13b899035",
+      "title": "The Expat Voters Hoping to Swing Israel’s Election",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: the Expat Voters Hoping to Swing Israel’s Election. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/video/world/middleeast/100000011225659/expat-voters-israel-election.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-25T09:01:42+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7f9e8730e617785f",
+      "title": "Israel’s High-Stakes Election: What to Know",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: israel’s High-Stakes Election: What to Know. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-25T09:01:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6aec9bdd9e6140e7",
+      "title": "Campanha de Lula aposta em crescimento de votos no Nordeste com mobilização - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: campanha de Lula aposta em crescimento de votos no Nordeste com mobilização - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONE5FeWhqNlRhWXZjUkxuTHJiOEJCWkhKLVJJVk5ZTnpHRGRha2M2NktMZGJDLUptMmlzVUJLOTB6eUktbWxIZWFyMWhabWRLUnpxWWhDXzdnSWtwN00ycmFBbEJIcnRmdi1uZll2RUpBZ2FzNnBQbTU1WmVFZjJBZ3FVbmc1dVFPeGdEamhTbXpGZmpjTGhyeGFYLVdFRk44M2xCeDA0UlVJYnNoUnpwZ1lNY0RpLVBUNGpSMHdBYng?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2f719e21c52f8718",
+      "title": "Mais de 401 mil eleitores de Roraima voltam às urnas para escolher presidente do Brasil",
+      "summary": "O veículo G1 publicou uma atualização sobre: mais de 401 mil eleitores de Roraima voltam às urnas para escolher presidente do Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/25/mais-de-401-mil-eleitores-de-roraima-voltam-as-urnas-para-escolher-presidente-do-brasil.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7b7ec7281608212f",
+      "title": "Mais de 5 milhões de eleitores devem ir às urnas em Goiás para votar no 2º turno para presidente; veja o que pode levar",
+      "summary": "O veículo G1 publicou uma atualização sobre: mais de 5 milhões de eleitores devem ir às urnas em Goiás para votar no 2º turno para presidente; veja o que pode levar. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/10/25/mais-de-5-milhoes-de-eleitores-devem-ir-as-urnas-em-goias-para-votar-no-2o-turno-para-presidente-veja-o-que-pode-levar.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b1f64d0e947af64d",
+      "title": "Eleições 2026: assista à GloboNews ao vivo com sinal aberto no globoplay",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: assista à GloboNews ao vivo com sinal aberto no globoplay. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/globonews/noticia/2026/10/25/eleicoes-2026-assista-a-globonews-ao-vivo-com-sinal-aberto-no-globoplay.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "37f4aefb94e2190a",
+      "title": "Eleições 2026: veja onde acompanhar a apuração para presidente e como consultar os votos em Goiás",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: veja onde acompanhar a apuração para presidente e como consultar os votos em Goiás. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-veja-onde-acompanhar-a-apuracao-para-presidente-e-como-consultar-os-votos-em-goias.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4000673ce0732e8c",
+      "title": "Do hospital à mesa do restaurante: como os robôs estão ganhando espaço na Serra Gaúcha",
+      "summary": "O veículo G1 publicou uma atualização sobre: do hospital à mesa do restaurante: como os robôs estão ganhando espaço na Serra Gaúcha. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/25/como-os-robos-estao-ganhando-espaco-na-serra-gaucha.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a2a2efe4b357ff30",
+      "title": "Trabalho por hora que Flávio Bolsonaro já defendeu é alvo de críticas no exterior",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: trabalho por hora que Flávio Bolsonaro já defendeu é alvo de críticas no exterior. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/trabalho-por-hora-que-flavio-bolsonaro-ja-defendeu-e-alvo-de-criticas-no-exterior.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0dd4acde2b4afed2",
+      "title": "Trump deve anunciar plano da Audi para construir fábrica na Geórgia, nos EUA, diz fonte",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: trump deve anunciar plano da Audi para construir fábrica na Geórgia, nos EUA, diz fonte. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/trump-deve-anunciar-plano-da-audi-para-construir-fabrica-na-georgia-nos-eua-diz-fonte.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "573c67a0ff34f8e4",
+      "title": "A América Latina está se aproximando de Israel. E Netanyahu quer surfar nessa onda - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: a América Latina está se aproximando de Israel. E Netanyahu quer surfar nessa onda. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1FHaUU2QlZ6YXgtMkh4VzkyR096ZVE5VFE5MUVRN3FBN0k2aTBGcFVheFY5QjBCXzFDSlBqZzd2SGNIUUVFRnlBUW90MlJLR2hGelBGbFgyZzhlc0ZyN0J2VGt1dEFKRVBWaENUaTBvZTlpb0pvMzRRUElzMUhUQjkzV29Zd19IN1p3MnJFTC1UUF9wOVZiRFNOay1BeVRjelNuZnRVOW92bE1aVm81b01yeXRZVUstUWczVy1FWk7SAcYBQVVfeXFMTTRXNE14ZEhjdy0wMUZTYTdHM1NIcXhxTER0WEQ0SzNkV081RFB5ODAzS3dxbEs0bGJMUU1DVDdiSUJzZkFvbE1hVXZzcFZpZEh2cFd4MnF0Qkg3YnhqXzZkV1NwZDFyWDlhLU1yQXlYd3JpNVR4MmpJRkdJXzhDelpxWFR6djY0cXc3RFB3SmhqOVpuY0l1R0pOVFg4VFFxTUEzelU0eDBVeWMxWGxYNUVxSm05THFCSWlYa3pQV3dqaE10WHlB?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-25T08:30:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "85aaf36764f00a95",
+      "title": "Em tempo real: projeção da apuração mostra possível resultado do 2º turno para presidente - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: em tempo real: projeção da apuração mostra possível resultado do 2º turno para presidente. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaUw1cUJYM2tWcmVWTlJuYng5bUZmcUdaekc4cVZMS1d3dkhFMFI3Z0p1NFJFWTdnbi10QkRsQTY4a2RLZ3FPLVVxYmotX0dCX2hEY0lLbWNwRl9rNTI5U2ZxektZQ05tNVRFdkk2SFU1UllzU3ZMWVg5czVCdGVTQ09RaXBBTzlkb1JqZFVNelNZT1VaazVSRk1GWGM4WHNDTHYyaGpfZXRwR1JydElfbGF2X2xNQkhMMmVoZ1JHQlR2c0NxUXlyQmM5dE1zQdIB0wFBVV95cUxNSE9nVlVlLTFRS0dkM2FJSFFFVmNxRmhrSS1haWdMT3VnNWxFTkxFeHJ5RmJCSFNobVgwSW01bENfMVdPYkdhUm03cEtZMjd1RTdnTHpiR1R2dnhWbXFVekRkLVVNXzljWkRtV05rLUFjc2RRM2Jxcl9FRHBpZHExLUdXSVNzeXdkT0xaNjd4SzItSHhsWmtSUExHR3B0ZE9IR2lRNHByelkwazdVSWNaWnN6MUZIQVBVSGJVcG95ZU9aelIwSUNVTU94S0xuWEJaZHkw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-25T08:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "fd065f92aa392eec",
       "title": "Transporte de urnas para locais de votação começa em MG",
@@ -20,96 +272,12 @@
       "archive": false
     },
     {
-      "id": "45abcc8e8f93a1b9",
-      "title": "Eleições 2026: Acreanos vão escolher governador e presidente neste domingo (25)",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Acreanos vão escolher governador e presidente neste domingo (25). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-acreanos-vao-escolher-governador-e-presidente-neste-domingo-25.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T08:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3e933df1ffdb860c",
-      "title": "Quase 7 milhões de eleitores estão aptos a votar no 2º turno da eleição para presidente no Ceará",
-      "summary": "O veículo G1 publicou uma atualização sobre: quase 7 milhões de eleitores estão aptos a votar no 2º turno da eleição para presidente no Ceará. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/25/quase-7-milhoes-de-eleitores-estao-aptos-a-votar-no-2o-turno-da-eleicao-para-presidente-no-ceara.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T08:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "da61b3c8d2a7f7bb",
-      "title": "Eleições 2026: veja como consultar filas antes de sair para votar no PI",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: veja como consultar filas antes de sair para votar no PI. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-filas-segundo-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T08:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bbd5716bf36c93ae",
-      "title": "Do “Exército” digital às ruas, Lula mudou rota no 2º turno por virada - Itamaraju Notícias",
-      "summary": "O veículo Itamaraju Notícias publicou uma atualização sobre: do “Exército” digital às ruas, Lula mudou rota no 2º turno por virada - Itamaraju Notícias. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVTk4MjBiT0ZCa3U2MVc5el9zRFZSc1llN2FRakFWWm1OaldyaGZuWWg2WVpnQnlTRXRwNGo5ejR0aFQtRXBKWHVFVjdUU2p6LU1haFc0eGhaQ0JBOGFOb2NoaU9nYld1eXRiRERLTGVEaWp3UWRFOVdxcEd6V3hNWlBvX0lyRGR1dGdycDE0Ym8tSTNXUE1hVDNpN2FMeG01S2tmLTZCTTFKM25SVi1XODRxaUFnM252eVRSYUl4OXdRQ1U?oc=5",
-      "source": "Itamaraju Notícias",
-      "published_at": "2026-10-25T07:33:23+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ba6c6b1ae56e6174",
-      "title": "Brasil volta às urnas neste domingo para decidir entre Flávio e Lula - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: brasil volta às urnas neste domingo para decidir entre Flávio e Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjk4WXNGanlFT0FrSTZfdGhGUVpjeGd5T3EzMkhpNDVnR0huVktWWlFaREpsZERJYThWZUdGU0ZuYzFVb2xZVFY1N3F6V18zdUFKTks1NFFnNC1PNjk4cGpmY2xVWDZUUzdCeVFPUzkyZUxLTTRWdnZOamFKT1BUZTNRMExyWGtKQ3NIazcxenJydEtrZkRncDdLN01fNnNrazdncA?oc=5",
+      "id": "3da98abc592b7d4e",
+      "title": "Lula passa o chapéu no PT e arrecada mais de R$ 100 mil com aliados - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula passa o chapéu no PT e arrecada mais de R$ 100 mil com aliados - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcEE2QkJCVUJNUWE3dFk3T2FYdXpGNVNGejlWQ0lpamV2TWx3SHdqQTg1dmp3bTdTVUVoLUlxc0k5aVlycEFTSlJQa0M4SWxWaXV6OGpEQjNwWlNud3NuMm1xS2ttZVJIN0VVT2xFS2xfMmNsSmJudXJaaFE0QUtVdV92T0JXRW0xM3MtZThWaVB0WFVfU0pOZEoyYVZYa1RPWFhQY0lfd1Q0dG1RSmZ4YUg3Yjk?oc=5",
       "source": "Metrópoles",
-      "published_at": "2026-10-25T07:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9f0f8da80030a23a",
-      "title": "Saiba quais estados têm 2º turno para governador neste domingo (25/10) - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: saiba quais estados têm 2º turno para governador neste domingo (25/10) - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0FwQnhqVW5rTzZTSVBfcnBZVzQyYzlVQk05XzlKTnhjSWFLSDF4NERrUEtkbDI3MWNtN1pLdUozejdwY1FrVTl6YUV2elh6aDlxd1NlUVdzWEZJd2VDM25aSU9TU2ZaZXBBbDhDbUdHNmhLWW04aXFONU1Na1VBekduNUFjZFhFam1RUGMxVXBTd0o3bi1NTnQ5bTFYc0tINk5OTg?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T07:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0e753d4944f68874",
-      "title": "Flávio Bolsonaro x Lula: saiba onde votam os candidatos à Presidência - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio Bolsonaro x Lula: saiba onde votam os candidatos à Presidência - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFgtM2JSS0tPZEJ2R0FZdGR5WG1NM3h3NHk3aFU5UnRRQlNwdEhBamZEY01oWDQ5UDlLcExYbkxxeVB2ZWhJWERBdTJjTFQ5N0lEOFJ2MkNnYk0xTXBYTlBCVjdDNnlZUjBlR21rZ0lDbkF0dm9aV1dZdWpLZHpjSXVBOHpRNFJCb193a2pfU2NVZWpiN01ORURUOEpvYnUyandHeA?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T07:30:00+00:00",
+      "published_at": "2026-10-25T08:00:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -128,62 +296,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "82abcb32669d2e93",
-      "title": "Do “cheiro de Lula no ar” ao fantasma do retrocesso - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: do “cheiro de Lula no ar” ao fantasma do retrocesso - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUktfQXcySXhMSF9sRVQ4eS14ZDZJMVlKODRxd3dLa3FoelZFd0UxQk82TGZnRmJVZHhVYUNXT1pRdE5vN0ppNXFDSm9UcEZQUE16ZDZWbTA3a0M1MEJQQkF5bzl2Y2xVcjZhSnE2aUJ6aDBSajVoVTJQRDgtTEJHR0gwUTNJay1KSUs5X1dNVFVSSWRxUEFvRTcydFZFSGIzNUFFTUs3S2pxdw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T07:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b1961bd702950d70",
-      "title": "Lula tem 80,5% dos votos na Nova Zelândia, contra 19,4% de Flávio Bolsonaro - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: lula tem 80,5% dos votos na Nova Zelândia, contra 19,4% de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFRwTnU4eUloNkl5dVFvN2JiQXFhc2pFQWVPZ2xwWnJyZkktX25lWXd5bVJUVzFxSmJ2Zl9WcHoxbTBvanRkVWh1TVVFOTlLeXBmNldHTWlZSjE2d1NUQUtwNEhHZ3lyYTFPNjB6c1pkbjQxeEZ2eVFYXzZ0ajJXS29OSFpZUEZuNG9IWVdKanlBT01IejdFVF9USFIxcVBIZjJHVmhvdGFFV0p0b0g0OTc4a3VyamJwb1BVVkNneVYwZXBpajJB?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-25T07:06:45+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e437d457ef8001c2",
-      "title": "2º turno das Eleições 2026: 1,4 milhão de eleitores votam para presidente em São Carlos e região neste domingo",
-      "summary": "O veículo G1 publicou uma atualização sobre: 2º turno das Eleições 2026: 1,4 milhão de eleitores votam para presidente em São Carlos e região neste domingo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-carlos-regiao/eleicoes/2026/noticia/2026/10/25/2o-turno-das-eleicoes-2026-14-milhao-de-eleitores-votam-para-presidente-em-sao-carlos-e-regiao-neste-domingo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T07:00:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "692327ce7c048e1e",
-      "title": "Maioria das eleições para governador no DF teve 2° turno; veja como foi cada disputa",
-      "summary": "O veículo G1 publicou uma atualização sobre: maioria das eleições para governador no DF teve 2° turno; veja como foi cada disputa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/maioria-das-eleicoes-para-governador-no-df-teve-2-turno-veja-como-foi-cada-disputa.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T07:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -231,8 +343,8 @@
     },
     {
       "id": "203fc7dd6c9d018f",
-      "title": "Votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe",
-      "summary": "O veículo G1 publicou uma atualização sobre: votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia; acompanhe. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia e na Coreia do Sul; acompanhe",
+      "summary": "O veículo G1 publicou uma atualização sobre: votação no exterior: Lula vence Flávio Bolsonaro na Nova Zelândia e na Coreia do Sul; acompanhe. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
       "source": "G1",
       "published_at": "2026-10-25T03:00:06+00:00",
@@ -314,20 +426,6 @@
       "archive": false
     },
     {
-      "id": "1e751a676444373d",
-      "title": "Executivos brasileiros trocam o Vale do Silício pela China atrás de inovação",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: executivos brasileiros trocam o Vale do Silício pela China atrás de inovação. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/executivos-brasileiros-trocam-o-vale-do-silicio-pela-china-atras-de-inovacao.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T02:00:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "04952e6b97380f8a",
       "title": "Ações no TSE devem prolongar disputa entre Lula e Flávio Bolsonaro com ares de 'terceiro turno'",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ações no TSE devem prolongar disputa entre Lula e Flávio Bolsonaro com ares de 'terceiro turno'. Consulte a reportagem para contexto, dados e declarações.",
@@ -356,20 +454,6 @@
       "archive": false
     },
     {
-      "id": "2b402949980a604e",
-      "title": "Guto Barra estreia na ficção com distopia sobre a perseguição a gays nos EUA",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: guto Barra estreia na ficção com distopia sobre a perseguição a gays nos EUA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/guto-barra-estreia-na-ficcao-com-distopia-sobre-a-perseguicao-a-gays-nos-eua.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T02:00:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ad45ca14df85682e",
       "title": "Ex-jogador é preso após pendurar cachorro pela pata em janela - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: ex-jogador é preso após pendurar cachorro pela pata em janela - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -380,20 +464,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "711cef9c8ca5b359",
-      "title": "Kim Jong-un Makes First Visit to China in Over a Year",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: kim Jong-un Makes First Visit to China in Over a Year. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-25T01:14:39+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -454,20 +524,6 @@
       "archive": false
     },
     {
-      "id": "d8556c3db9d6cb39",
-      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: elon Musk Says Ukraine Violated Starlink’s Rules. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-25T00:10:07+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c66a579e2b0ec896",
       "title": "Mega-sena não tem ganhadores e próximo concurso pode pagar até R$ 300 milhões; confira os números sorteados",
       "summary": "O veículo G1 publicou uma atualização sobre: mega-sena não tem ganhadores e próximo concurso pode pagar até R$ 300 milhões; confira os números sorteados. Consulte a reportagem para contexto, dados e declarações.",
@@ -492,20 +548,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ccbd687fa4e6a0d7",
-      "title": "Eleições 2026: Japão, Coreia do Sul e Oceania abrem votação no exterior - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: eleições 2026: Japão, Coreia do Sul e Oceania abrem votação no exterior - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45eUU0TWJIbnpOZjBreUx1MWctUXNnSjZIRTU3YjQ5TGVydWtMaU45LVV5dDZLNzhaMkl1cDh4alRyanB6dUt2ZjRfZUNwQThKOGdrN0NETnE3Z0tza3NOQVAwYlNNRUR5a0hxTDV6QU1tUkhOSXFKTw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-24T23:55:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -552,20 +594,6 @@
       "archive": false
     },
     {
-      "id": "4711abd3cbc6709a",
-      "title": "Kim Jong-un encerra visita à China em gesto de aproximação com Pequim - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: kim Jong-un encerra visita à China em gesto de aproximação com Pequim. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbnM3MlR4V2ZwN0VtODZLLUttbWM1ZENOZE1hckprOHJBZHo4b09rTmVRUVUzUFBxLVBkV3lUVTBvMDBiaTJ6a3BJazJyeWs3b3JtN0hZYjI1a3dvOXdBWUhwUjRKaEEyN1hacVBRVVlLTkU1YWZnSkljTEZLOTkzbkhjRVhBOE1VTWw2RUlNbEVUVEdseXpGMjhjSHZLdWF2OTllUHdrNVgydXJZMkRERzJBNDlDbHhTSk9ZdlpR0gHMAUFVX3lxTFBPZGpiOUhDSkx6dndmcTUzd0tFMWlDeGxVbDUtZ1h1R1RvdmRVdHVzTEFDRkJMQi1OQ2NDSlhOd1o5RmhiNENhZUhKVklnRnFuVkx0WGJFNVk4QmpoajRUb21VQjZFVE9QUG93anZqSnRDN2kySVRUUDI4NjlWZk5yelR3YzV4eGdNWi12UnpsZEZXdFUzSUZrNVVDQW9BYjl5SkNpSk1ibDZacGhkb1dITlRSZWh5cGpCSHhHVThoMEwweU1qejJrWW1DVg?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-24T23:40:50+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "331ffd456d59a4df",
       "title": "Chuva bloqueia rodovias, alaga ruas e deixa escola embaixo de água no Paraná - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: chuva bloqueia rodovias, alaga ruas e deixa escola embaixo de água no Paraná. Consulte a reportagem para contexto, dados e declarações.",
@@ -576,20 +604,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ca84a72d3c11bb9b",
-      "title": "Cerca de 1.200 palestinos são deslocados após operação do Exército de Israel",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: cerca de 1.200 palestinos são deslocados após operação do Exército de Israel. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/cerca-de-1200-palestinos-sao-deslocados-em-hebron-apos-israel-iniciar-operacao-militar.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T22:24:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -720,20 +734,6 @@
       "archive": false
     },
     {
-      "id": "670c27bd156afd58",
-      "title": "Ministério Público Eleitoral se manifesta contra suspensão do 'Exército do Lula' - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: ministério Público Eleitoral se manifesta contra suspensão do 'Exército do Lula'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT1lEUXkwdXM2elRQZlhldTRVUEZfZGEzcEtDXzdKS2FBN3VoaG1xSDdYb3pLZVVrcTE3alVLLWhicjYwaU9YR1daNVZqTWotaEdqUnBTZTVBNGltd285RWpJQ1g3alhPWlNiNmVFQXhfRE5oV1dHcTFLRjFHOE11cE0yM05OQTJhVmNqYVZKUUFpak9aOVhoU2NxbkdNNFduM29ZLU5yVV9Kc1g0TTRvX2FPUjBfZE1oMTJOek9qNzZYYlZlUzNLNFoyVnpoeXRidmJDS2xSWkxLakQxeUJpRNIB7wFBVV95cUxQNVU0Y25EQXlmb05XQmR4d0FmX3FrUVFSYUc5N0VCRlRqQkVfc0h1YmtPMDJPTEUyc3pHZGpMdXJ6OHQxMVNVZXp1UlFSdVlzYzhzajZuX1JXcGJETy1od2U3MVYwdWE3eEt3dmh3TnJZMkt6Y0JLRE5ZT3Y2Ulg5SEJkX19UelBCYlZZT2dqUG84QUVkMk5UOVcwUFQzcHFTNy05MmphbVhuQnI1SzdmbWFkQUoyLTFrTkpyaExrZVV0dU9NT0x3bV9pTFF3Wm1VZDByeXRqLWtNT2pVenZLLVcxMXhwOGdpOWd5R0NaMA?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-24T19:53:22+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "6cc39c4d471e12ad",
       "title": "'Nove dedos', segurança pública e caso Ana Clara: pesquisas revelam altos e baixos de Lula e Flávio Bolsonaro no debate da Globo - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Nove dedos', segurança pública e caso Ana Clara: pesquisas revelam altos e baixos de Lula e Flávio Bolsonaro no debate da Globo. Consulte a reportagem para contexto, dados e declarações.",
@@ -755,20 +755,6 @@
       "source": "VEJA",
       "published_at": "2026-10-24T19:01:01+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "16abbeebe8fdee08",
-      "title": "Homem é preso suspeito de esfaquear sobrinho em Bom Repouso; vítima morreu no hospital - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: homem é preso suspeito de esfaquear sobrinho em Bom Repouso; vítima morreu no hospital. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOFJ0LWRxNnJfTUxtdzBmVVMzcmJ6VFZWNGdEeFQ1bHFfUlRGUkhEVUZVNVcweFNFUEg3ZjQwbEhqT1FvMG9DYm92QWYzc1BWdzBCTk1BdXRYTTBXT1RaU0RnVEJKOG0yMU52YlcxTkd6dkRobE5ZZkVRNklzXzJCd3R0eGdXS1VUaW9JNWRFaVVBa0dEN1pCdldOZWtrQmFKdEFJOGlnMjdtaGVEM2lJc2R1ZkNVajZRbUluc0FFbzg5bzl2UGpjblJESnVIdm1Sc2xqMDJ0bTE1b2QzdFVtM9IB7wFBVV95cUxOT0JINjNJUDVwcHV0X1JUcUlqb0haU2xoRWZCdWpaNGYzTFdsR05obXJJZXZsUk53VFF1YWJKWWtJNXJUUGtPMWdVZ18xRThiNWJXMG9KWXo4aG9BOWFjdThiNS1yTnJCTjZfenF2dmhJSWl5ZXJKMUF2ZHlTdjVQT0JERXVORlFhSkJxUGRtT2w0OHNhZmxMNDdEdENRVm50cHdON1dyempsVmdQeDN5d2dBNWsxSGNSS3ZtZ3lLdzRxLUxxWWRrSFM1YjBmZGxFOHB4ODVSSmtmXzB6czZSSF94OXROMGFHNWJQWXR1QQ?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-24T18:49:34+00:00",
-      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1675,7 +1661,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 36
+      "items": 35
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1683,15 +1669,15 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 52
+      "items": 53
     },
     "VEJA": {
       "status": "ok",
-      "items": 17
+      "items": 16
     },
     "The New York Times": {
       "status": "ok",
-      "items": 14
+      "items": 17
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1731,11 +1717,11 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 74
+      "items": 75
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 30
+      "items": 29
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1743,11 +1729,11 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 73
+      "items": 72
     },
     "Estadão": {
       "status": "ok",
-      "items": 54
+      "items": 55
     },
     "G1 · Busca alternativa": {
       "status": "ok",
@@ -1755,19 +1741,19 @@
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 61
+      "items": 62
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 64
+      "items": 63
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 58
+      "items": 57
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 60
+      "items": 59
     }
   },
   "notes": [
