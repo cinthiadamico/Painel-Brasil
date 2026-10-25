@@ -1,10 +1,108 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-25T02:43:00.768314+00:00",
-  "last_success_at": "2026-10-25T02:43:00.768314+00:00",
+  "last_checked_at": "2026-10-25T03:44:05.527697+00:00",
+  "last_success_at": "2026-10-25T03:44:05.527697+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "4fc961e0176c9ef8",
+      "title": "Eleições 2026: voto nulo ou branco beneficia mais Lula ou Flávio? Entenda - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: eleições 2026: voto nulo ou branco beneficia mais Lula ou Flávio? Entenda - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1JfSVRoVlNWNEdranRxT2RwUG56TkVNS214a0xQNmI4Z1lyS0J6YmhUaW54THVmblpKTzkxRVY3TVlmZ25BM0VhbFM2VVB6dVNuZzRkUDNaclJGS2xLQ0M0QXNJMHlRcFlkMm5sRWJZMy1YdHhvYl9GM2RFVVJ3OWplV2E5dWcxNWdIeXlFTjB0YlRsbVVidl82bVRkYmtYenN4SjlNalE?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T03:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6dfb084506a415ee",
+      "title": "Eleição mais acirrada desde a redemocratização opõe Flávio Bolsonaro a Lula com 158 milhões aptos a votar",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eleição mais acirrada desde a redemocratização opõe Flávio Bolsonaro a Lula com 158 milhões aptos a votar. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/eleicao-mais-acirrada-desde-a-redemocratizacao-opoe-flavio-bolsonaro-a-lula-com-158-milhoes-aptos-a-votar.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T03:02:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "088332db62ae092d",
+      "title": "Lula e Flávio disputam 40 mil votos de 3ª via, nulos e brancos no exterior - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula e Flávio disputam 40 mil votos de 3ª via, nulos e brancos no exterior - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2hVVmFkTTBrMWtWZXFyY2xJV01GU3ZkTTN0cldMLUdUX1hDWjJjdmo5UWVrTDNVSVJlT0NjOU1VWmh5cWthdEdTclIwZ1lWb0I1Q2xYUUZSeGh0aXJUT1RYZkZmYjNuS00xRVRqN1NsRG5wQjVpOW83dWxraWVBSF9fMnpwaE5EUEdpRlBvUTRTZnlhejJEN3A4TGxTZ0RPSVlTSU5IaGlHZw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T03:01:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "621df6e470207111",
+      "title": "Eleição: 3º maior eleitorado fora do Brasil, Japão abre votação do 2º turno - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: eleição: 3º maior eleitorado fora do Brasil, Japão abre votação do 2º turno - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzl2TjlJN0NYRkt6QVBHNlY5TWlPTHhGdGVVYnVFdVhYZ2NTZkt4aFdGMGR3QjBscHhjTmJXdjVDcGlGT3ZVU0RzX0tTWmdYNTM0ZXN6ekZXekd1OE15aGdUUEV3TnZhZlZDa1V6ZGZNYWFNN1dhVkRzM2tXNXMyS25RaXFfSUE3ZWNSTHZLUjB1alpycTR0Z2VFeThwdjAyUGNFWUtNUUNUZw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T02:59:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fa5f24ce2e40389e",
+      "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: as Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-25T02:46:38+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7d849045e1b4f1bb",
+      "title": "Lula fala a apoiadores em frente a sua casa em SP: 'Vocês são mais do que os partidos políticos'",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula fala a apoiadores em frente a sua casa em SP: 'Vocês são mais do que os partidos políticos'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-fala-a-apoiadores-em-frente-a-sua-casa-em-sp-voces-sao-mais-do-que-os-partidos-politicos.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T02:44:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9e2bdc4c89b10152",
+      "title": "Flávio repete fake news sobre mesários votarem no lugar de ausentes - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio repete fake news sobre mesários votarem no lugar de ausentes - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkUzaE92c01HUGtfb2FSVE1kT0tUV2RHWURudEhUX1kwdFlSZk5mbnpuMFBQM1F3dzZfQjlraHkwRGRVcVN4UGVMMUpiVHFEbnhfS2JDeHNvVmRTMTFocGxlamstY3ROd0FDQWROZ0I2ZUh6MDVSalJNU1ZTNThCOXlZcXU5R0p5eUhTLUZ4Y1lHVTM2UFVCVl9PV1BzU2xIYWtzdA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T02:42:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "d77987c915fda464",
       "title": "Clima de Carnaval e apelo por democracia: como foi último ato de Lula em SP - Metrópoles",
@@ -174,20 +272,6 @@
       "archive": false
     },
     {
-      "id": "92572081ca9e18b9",
-      "title": "Foco de Lula e Flávio Bolsonaro nas eleições, MEI exigirá ajustes para afastar bomba para a Previdência",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: foco de Lula e Flávio Bolsonaro nas eleições, MEI exigirá ajustes para afastar bomba para a Previdência. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/foco-de-lula-e-flavio-bolsonaro-nas-eleicoes-mei-exigira-ajustes-para-afastar-bomba-para-a-previdencia.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e9d467ddcbc6a4b7",
       "title": "Economia, STF, Congresso e ruas: conheça os desafios do próximo presidente",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: economia, STF, Congresso e ruas: conheça os desafios do próximo presidente. Consulte a reportagem para contexto, dados e declarações.",
@@ -216,20 +300,6 @@
       "archive": false
     },
     {
-      "id": "ef695846d5b3b3b9",
-      "title": "Redução de ministérios tem como foco gestão e não reduzir despesa, diz assessor econômico de Flávio",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: redução de ministérios tem como foco gestão e não reduzir despesa, diz assessor econômico de Flávio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/reducao-de-ministerios-tem-como-foco-gestao-e-nao-reduzir-despesa-diz-assessor-economico-de-flavio.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ad45ca14df85682e",
       "title": "Ex-jogador é preso após pendurar cachorro pela pata em janela - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: ex-jogador é preso após pendurar cachorro pela pata em janela - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -249,25 +319,11 @@
       "summary": "O veículo The New York Times publicou uma atualização sobre: kim Jong-un Makes First Visit to China in Over a Year. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
       "source": "The New York Times",
-      "published_at": "2026-10-25T01:14:38+00:00",
+      "published_at": "2026-10-25T01:14:39+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1c7488f682007470",
-      "title": "Em live com Janones, Lula pede mobilização \"até o último voto\" - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: em live com Janones, Lula pede mobilização \"até o último voto\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSEZCV2tXUl9pTnFsRzQ3b0JLcDBJOUtPamoyUjQ1M21iLTBHcjJ0d0tmUkM1eDlaajNoV3FQZ05pZ0EzbU82ZWd6MDZscHRfZGsxbXNmSmxGb1JoMklYMGpZVFJvMGNXQm5meFBnT3FWZDJKeHdUMFRyenJNTE5obVZYRlBYX3V3aF91Nkt0YnFxRDBXQko4d0MwWEd5ZFJuMDJN?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T01:07:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -324,20 +380,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "55550da280c6adc9",
-      "title": "Datafolha: no DF, Flávio Bolsonaro tem 56% de votos válidos, e Lula, 44% - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: datafolha: no DF, Flávio Bolsonaro tem 56% de votos válidos, e Lula, 44% - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSE1MWkpNTk93Q2VwcXNDVzJkRWhBMGtkQXU0TEdqbUFjSF9Ca1BxSGFoS2tYTV9QYmdqajlBUEdYN1hDVGxEczRTczRTTXFBek5wNVVwQWpLMmc0MDJfclNNRHpSOHV1Zmw2V0hPVWpmdlFqRTB0eUo3dmlEVmhpZV9yYW9CWUs1cFA1MzVjdnJvQVNabXNhTW1MVVVQMVhWNXVfQ3RKbVJmVV9XVkVn?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T00:23:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -412,16 +454,16 @@
       "archive": false
     },
     {
-      "id": "6be50bb3d2eb6a4a",
-      "title": "Em pronunciamento na véspera do 2º turno, presidente do TSE orienta que eleitor confira local de votação",
+      "id": "5ccfb34a0152e330",
+      "title": "Em pronunciamento na véspera do 2º turno, presidente do TSE orienta que eleitor confira local de votação - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: em pronunciamento na véspera do 2º turno, presidente do TSE orienta que eleitor confira local de votação. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/pronunciamento-presidente-tse-2-turno.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWW1fUjVfNXhIMmxMOF83d1ZsNFdRaDAzN1JMdG9WWHlHMXhmRjZpRDdsN3gxUFdVOEhERTJFdTJ2ZVJyVm5UcTJISXl5dmlCN01TTENJTF90ZW9weGNTN3N3Tk9SWVRCS1otLWc5cmUtUjRwX1FxR1dNX19tYUhha2hnbGp5eFBuTF85cEdYUWk5SlJOMG02blU3V0FGU21CWkhSTnpWc25DZ9IBuAFBVV95cUxQbFd5WkJtVlRjYlY4Z0tDYVVZZE5IR29KVXpMTmFPbk13Q0h4b1Z2b1h2bzZhVGMyX2dWSG9CQzFkWDBYQ2lTNDJrVmxlXzBNakRIVnhxSHhBUHd3a29LYkJMM0h3Vm9lbUV5MTZBLXRpRzVKcldSQXNDYjVDZ1JNaXVoMTREN1hUaGc5LUxpZXhZamprWWtCUmdISjlFMVJPWElRZjJ4SktXYWx6dFBXUEFJVmJDZnYy?oc=5",
       "source": "G1",
       "published_at": "2026-10-24T23:46:20+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -692,34 +734,6 @@
       "archive": false
     },
     {
-      "id": "efa181d202090bfd",
-      "title": "Eleições: 2º turno começa no exterior, e brasileiros já vão às urnas na Nova Zelândia - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: eleições: 2º turno começa no exterior, e brasileiros já vão às urnas na Nova Zelândia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOX1NwUFgzbGNQemtueTVYZ1BLWm1IY3hleDBwQXRxaWQybDl4RjlnbUNTdXYzdUtibGlXTk1kallmYlVkcHh2X3dibHRUV1g0UkZsdVlTTHlHXzBTVFNNREcwekhQdzl5Mk9ianAwWmV6RmU1WmJNQVhOblI5cm1aX0tuRjR1aGItT2t4aklKYXpiZlkyNHkxZExqc3VLTVVDT1VsSEpqUnRySVBORE44aFZoV3prTzB2LXRUb1JOOXdpcUtBX1c0M2lGQzlMNmNDeGREbFRTWTBxQWhRXzRWMHlkOGhnVThROWc3cdIB-wFBVV95cUxPSXlteFFaZlJERFhnQjZlWUY4emxFMHpCeTlzX2JxOXpBcHBKUlV0eGJfTFowNWVtQXFuRHdLc0Z0TjFRMGNNT0xHZktuc054bENkbFNjZ1JjYUZGOWQwa0Q4LTBlZjBmTHY1RWRzMTl0VEhraUJfTFBKTnBxTzc0XzdLZGNYQldmNXJkMnZqbndlbUZ4dGRYbWpETld4MF9WN2tCMC1QTmZwZmloc2ZOYlV2MXEwb2JSajBqSm1aa1M5VHVNT0pEMWRHYWVkNVMydHhvbFdIQlg0TUhDek1CQm4tQ1IxU0tqY2t0eGpwZmg2bzlhU1ZHMlNwSQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-24T19:53:14+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "246bb5eb860651d5",
-      "title": "Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeTJCd1F4RjdpV0tpTFh4cDBmanJBTWVRQ2pVZ1lkRy04Z2dvdG1wSHJUbEpxTkdCdzVtT3Q5T0dwSlhveHJ4bzFIMjNuTm85NzBTMVM2Q1pCUkRaMUsyNHJFYzVPUzRFYjVGNUV6TVpEeV8zS21kTjdaRGJ6NWhIeTdDbWExNEZqQ2ozX3hYUGowdS1BdkhYQVFDSnc3VDdQMWF3UGNXRVlpbXlFWjhpcnJDa0FfMlRJUFRyeVdHS1UtLTcxQkpJRjdBbk5xMXUwRUZCVTR0THhmZElzQnfSAewBQVVfeXFMTzllOGF2ZUpxeWVrbVdUcHJzemlBU0dCVlVVOTBEc2ljVzFQY2Z6enVEVW51WkdRRnV2T0E4MENmbHlndk4xbTdSQnF0SGs5eFpmZXVtN1ltT3pSN2lJSks1ZzJvX2lPZjFQTmlFaVp0MXE0OGh0dnlHeFZBZHpJTXoyb01kUGo3eXVjMThRUXlqbkdiNXdfMDdVLWNLSUl6c1FmTFZ5ckpRR1JFOWZ3NjZ5UWVwMGJJOVBqdlFWVVJtQ1plUEJwSmxGSDI3a1NtZklESmtibW9HM1o0UFVVN0ZzMWxoNXlMOHpRTWQ?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-24T19:51:08+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "4a6ecefe7cf4dffe",
       "title": "Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques. Consulte a reportagem para contexto, dados e declarações.",
@@ -741,20 +755,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-24T19:17:38+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "051745eaaafeadcf",
-      "title": "Lula ou Flávio: 2º turno começa no exterior; brasileiros na Nova Zelândia são os primeiros a votar - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: lula ou Flávio: 2º turno começa no exterior; brasileiros na Nova Zelândia são os primeiros a votar. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSzNjR1BGWmRacG5oUW1McmxOdXhrODRoNlN5WjExdXVnb296eXRBSmY5UkhENHBQMWJCVm1BN0xtaVpLeGdhbHV1N0syZHF4V3ZwRnpOUnhOMGRrWkJOVThoLUJuU0FjVHEzcGk4QkkwM1N0bE81eVVvMUdWUDQtZlJQX0hmc2Rjb09Cd0hMRmloT3hxdGJvVEdtb19iZGJBdUNfXzdGRUQxTmVUMmlDYk5kS1gxdk9nc1NzOWlqQ21GVE5qS1F6azFqQWVBZVVGMW54UVdDYXVzSEV4MGNUYjJ2UQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-24T19:16:51+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1052,6 +1052,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7ea8a6d3594a423e",
+      "title": "INSS: faltou ao 1º turno? Votar no segundo pode servir como prova de vida; veja como funciona",
+      "summary": "O veículo G1 publicou uma atualização sobre: iNSS: faltou ao 1º turno? Votar no segundo pode servir como prova de vida; veja como funciona. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/24/inss-faltou-ao-1o-turno-votar-no-segundo-pode-servir-como-prova-de-vida-veja-como-funciona.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-24T06:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1616,20 +1630,6 @@
       "archive": false
     },
     {
-      "id": "a6e497d997a88fd9",
-      "title": "Arrecadação federal cresce 5,62% em setembro e soma R$ 239,4 bilhões",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: arrecadação federal cresce 5,62% em setembro e soma R$ 239,4 bilhões. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/arrecadacao-federal-cresce-562-em-setembro-e-soma-r-2394-bilhoes",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-22T14:45:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b4b2625329b217f4",
       "title": "Ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola. Consulte a reportagem para contexto, dados e declarações.",
@@ -1698,7 +1698,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 56
+      "items": 55
     },
     "VEJA": {
       "status": "ok",
@@ -1750,7 +1750,7 @@
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 31
+      "items": 33
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1758,7 +1758,7 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 74
+      "items": 73
     },
     "Estadão": {
       "status": "ok",
@@ -1766,7 +1766,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 60
+      "items": 63
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1778,7 +1778,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 54
+      "items": 31
     },
     "Eleições · Flávio": {
       "status": "ok",
