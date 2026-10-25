@@ -1,17 +1,213 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-25T14:41:03.128611+00:00",
-  "last_success_at": "2026-10-25T14:41:03.128611+00:00",
+  "last_checked_at": "2026-10-25T15:41:57.032492+00:00",
+  "last_success_at": "2026-10-25T15:41:57.032492+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
-      "id": "f34a2309e194b5d4",
-      "title": "Lula vence Flávio Bolsonaro na Austrália no 2º turno das eleições - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula vence Flávio Bolsonaro na Austrália no 2º turno das eleições - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1R4V1NvZ3JZWlAzZTJOTGhJZ21EQmRyZW4wZFdobnM5R29lb0dGSW9uS0o3SmZOMWpXbmd5TTRMRHo2ZzVrS1BRZzc4WEI0dEItQTM5WjdDRVVxZEtnREFHRDhIZWZxV2txMlJYS0lvVlByeWR0eGZsM0xrOGFOSHo3Z3NHZUUxV05HYVRhZVVhZkNNcUF6S0lLSjAxeHc?oc=5",
+      "id": "a467445017909804",
+      "title": "Marcas de luxo perdem 250 bilhões de euros em valor de mercado com queda na demanda chinesa",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: marcas de luxo perdem 250 bilhões de euros em valor de mercado com queda na demanda chinesa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/marcas-de-luxo-perdem-250-bilhoes-de-euros-em-valor-de-mercado-com-queda-na-demanda-chinesa.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T15:34:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2dfa3ffd1d7c187d",
+      "title": "Meta volta a censurar posts do Estadão após jornal entrar com ação no TSE - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: meta volta a censurar posts do Estadão após jornal entrar com ação no TSE. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaWFPVkxRNFM4Q3B1YzJFOUdJSXpYWWxhNW9hRkQxQXlfalAwM0tsa1lhQkZ3YUxVd2ROOVVPYUVydTNPWnZvLTA0b2VXOUplUFF3d0lucTBxdEVOVFNyeGM0MDh2ck1ZLU5iVEd5OU9tY2tLT0NLUk9uMTduVkF3V0ZiUlhtQzlWZDhabVlsMnE1ZmN6RWhtOHd2NDVjdTNiSGM1anNrTUVoNEVvTjNtWER1Vzl2VDN2N0Z0ZzBJcFJBNHFmc3c?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-25T15:31:42+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bd72e7e8f7af8235",
+      "title": "Eleições em São Paulo seguem dentro da normalidade, diz TRE-SP",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: eleições em São Paulo seguem dentro da normalidade, diz TRE-SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-em-sao-paulo-seguem-dentro-da-normalidade-diz-tre-sp",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-25T15:31:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "878ee5f5667a9b4e",
+      "title": "Eleições 2026: acompanhe a cobertura do 2º turno na região de Piracicaba",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: acompanhe a cobertura do 2º turno na região de Piracicaba. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-piracicaba.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T15:30:21+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "88a20a458b534306",
+      "title": "AO VIVO: Votação no RN é tranquila nas primeiras horas",
+      "summary": "O veículo G1 publicou uma atualização sobre: aO VIVO: Votação no RN é tranquila nas primeiras horas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-no-rio-grande-do-norte.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T15:30:09+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8c4ce3f29a5fda11",
+      "title": "RN: candidatos ao governo, Allyson Bezerra e Cadu de Lula votam no 2º turno - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: rN: candidatos ao governo, Allyson Bezerra e Cadu de Lula votam no 2º turno - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjUyQVJSQ2FvUE90akxGWWpQUTNIZEtmbHZKUDJpTUh5TmZKS2V6RGw1dXRzVHUzTmE5WUdfU3lKLWFzYW56QnI4TGNfTDcwX3Z2b0VpdlFzOEpqZWpQMkdYTnVqejFNdmFrM0J4Q085aXBybHIyRi0tNjQ0Tk9pUWNDTTUyUW5OaEk1dk5fZGl1MEcxY2J2NXJTUkRTckxISlgxdUlBNkdrcGM?oc=5",
       "source": "Metrópoles",
-      "published_at": "2026-10-25T14:35:00+00:00",
+      "published_at": "2026-10-25T15:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "57decee7a74c1384",
+      "title": "Eleições 2026: urna eletrônica com teclas 1 e 3 travadas é substituída no interior de SP",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: urna eletrônica com teclas 1 e 3 travadas é substituída no interior de SP. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/25/eleicoes-2026-urna-eletronica-teclas-travadas-substituida-interior-sp.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T15:29:59+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5c2972e139832136",
+      "title": "EM TEMPO REAL: acompanhe o dia de votação e a apuração dos votos no 2º turno no Espírito Santo",
+      "summary": "O veículo G1 publicou uma atualização sobre: eM TEMPO REAL: acompanhe o dia de votação e a apuração dos votos no 2º turno no Espírito Santo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-espirito-santo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T15:28:58+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "285ce19d1b2e7abe",
+      "title": "Segundo turno tem 14 ocorrências registradas como crimes eleitorais no Acre",
+      "summary": "O veículo G1 publicou uma atualização sobre: segundo turno tem 14 ocorrências registradas como crimes eleitorais no Acre. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/25/ocorrencias-sejusp-segundo-turno-acre.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T15:28:30+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "63e64414a40db74b",
+      "title": "Homem morre e outro fica ferido a tiros após carreata de Flávio Bolsonaro em MS",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: homem morre e outro fica ferido a tiros após carreata de Flávio Bolsonaro em MS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/homem-morre-e-outro-fica-ferido-a-tiros-apos-carreata-de-flavio-bolsonaro-em-ms.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T15:28:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fd065f92aa392eec",
+      "title": "Balanço parcial do TRE-MG indica votação dentro da normalidade no estado",
+      "summary": "O veículo G1 publicou uma atualização sobre: balanço parcial do TRE-MG indica votação dentro da normalidade no estado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/minas-gerais/ao-vivo/cobertura-apuracao-votacao-2-turno-mg.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T15:26:34+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "839faa47a9909909",
+      "title": "Lucas Ribeiro, governador reeleito da PB, vota para presidente no 2º turno das eleições, em Campina Grande",
+      "summary": "O veículo G1 publicou uma atualização sobre: lucas Ribeiro, governador reeleito da PB, vota para presidente no 2º turno das eleições, em Campina Grande. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/25/lucas-ribeiro-governador-reeleito-da-pb-vota-para-presidente-no-2o-turno-das-eleicoes-em-campina-grande.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T15:25:42+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "62958557bc6c975d",
+      "title": "2º turno: Ministério da Justiça registra 58 possíveis crimes eleitorais; TSE já trocou mais de 900 urnas",
+      "summary": "O veículo G1 publicou uma atualização sobre: 2º turno: Ministério da Justiça registra 58 possíveis crimes eleitorais; TSE já trocou mais de 900 urnas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-segundo-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T15:24:22+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ac1e294914b44bd4",
+      "title": "Nunes Marques diz que votações acontecem \"dentro do esperado\" - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: nunes Marques diz que votações acontecem \"dentro do esperado\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM29yRHVUX192dlFWWUF6YXhRc2Zmbkc0Uml2Rm5GS01sZXBlaUw4V0ZiTWluNnd1aUZLNDBrS2ZMandsQ294Si0ySWpJMVQ0QnI3OWE5LTdSQ1RYbEtMT19tVndISG1lVlU2N1NzUzRBaG50d2xMdGgxbEpER0pzdWRFWWZkZnlfbHVJRmx6MlR1SEZUWUswZg?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T15:23:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3cd9eeb442e60ccd",
+      "title": "Votação parcial no exterior: Flávio lidera após vencer nos Emirados Árabes - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: votação parcial no exterior: Flávio lidera após vencer nos Emirados Árabes - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzFWTmpVSURaY0RsRF9lVjJvN2loTEFIZ3RmMlFsaWdjeUM1Rzc2X0VkSFVncFI1LXJnZzRBZ2huclFhanBmeVJORFNHR2lPR2Y1X01jUGI3bVNTa3dibTlEdjZzWXlDRFotWHE3dWNMc1l4SlU5aXdvRjROS2MtUGFfeXV6YTZoTEE?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T15:23:00+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
@@ -20,13 +216,97 @@
       "archive": false
     },
     {
-      "id": "c0064fb57eb7f2e6",
-      "title": "O conselho de Michel Temer para o próximo presidente da República",
-      "summary": "O veículo VEJA publicou uma atualização sobre: o conselho de Michel Temer para o próximo presidente da República. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/o-conselho-de-michel-temer-para-o-proximo-presidente-da-republica/",
-      "source": "VEJA",
-      "published_at": "2026-10-25T14:30:19+00:00",
+      "id": "6d437268fd2f1ff3",
+      "title": "Polícia pede apreensão de adolescente que matou homem em ato político",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia pede apreensão de adolescente que matou homem em ato político. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/ao-vivo-cobertura-apuracao-votacao-segundo-turno-mato-grosso-do-sul.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T15:12:09+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d61100b23c6c085b",
+      "title": "Michelle diz o que Bolsonaro achou de debate de Flávio e Lula - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: michelle diz o que Bolsonaro achou de debate de Flávio e Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFRLT1Myb252cUZSZW9FVkh0SjdiaFFEckpkNHFCV2FiYjZGNHlSWDQyMXgzOWFLZ1ltSmFQS0w1aTBOUUFPQmhaRzhUSWRocjlSc0x5azJtY3lmdTV4Z1EzN3RsN3ByT19yaDRYT1NSdW9peHF1WGZ1RF9OeGVxT09xSThEQlVJTGI0ZTFJOTRFczdXSHpjaVRUWm1hc0hTNXhjaldmZFM?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T15:02:00+00:00",
       "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e03b6f7012196400",
+      "title": "Lula vence Flávio Bolsonaro na China no 2º turno das eleições - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula vence Flávio Bolsonaro na China no 2º turno das eleições - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWVnREFHM2c5b0FlWXhaNHY3UU9NUUFpNk1BY3hLcWVnN2tWMTFEZFozd2RDc05ZT0NjRXJ5Q05vcHZGN044My1jMjYyd0diaEtNeC1LYWpkNUxXTTN1THUtTEtYTkoteVhYcnU0U2hPQW83OXVtLW5iMVlNQnNURFpTbXNJNm1tVUs5QjJaVUlDZ3F2RFhBVF9R?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-25T15:01:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2b49394eff4e9f79",
+      "title": "Presidente do TSE diz que eleições estão dentro do esperado e estima resultado até 21h",
+      "summary": "O veículo G1 publicou uma atualização sobre: presidente do TSE diz que eleições estão dentro do esperado e estima resultado até 21h. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/presidente-do-tse-diz-que-eleicoes-estao-dentro-do-esperado-e-estima-resultado-ate-21h.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T14:57:40+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e8092d112ad96672",
+      "title": "Interferência de Trump em eleições, inclusive no Brasil, prejudica os EUA, afirma editorial do New York Times",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: interferência de Trump em eleições, inclusive no Brasil, prejudica os EUA, afirma editorial do New York Times. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/interferencia-de-trump-em-eleicoes-inclusive-no-brasil-prejudica-os-eua-afirma-editorial-do-new-york-times.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-25T14:52:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dccec53768485e13",
+      "title": "Presidente do STF, Fachin vota no segundo turno e diz que ‘poder emana do povo’",
+      "summary": "O veículo VEJA publicou uma atualização sobre: presidente do STF, Fachin vota no segundo turno e diz que ‘poder emana do povo’. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/presidente-do-stf-fachin-vota-no-segundo-turno-e-diz-que-poder-emana-do-povo/",
+      "source": "VEJA",
+      "published_at": "2026-10-25T14:46:29+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d967acfd5aaa8d8c",
+      "title": "Decreto de gratuidade: eleitores ficam sem embarcar e denunciam falta de transporte para o Marajó",
+      "summary": "O veículo G1 publicou uma atualização sobre: decreto de gratuidade: eleitores ficam sem embarcar e denunciam falta de transporte para o Marajó. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/25/mesmo-com-decreto-de-gratuidade-eleitores-ficam-sem-embarcar-para-o-marajo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-25T14:46:24+00:00",
+      "category": "Governo federal",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -48,48 +328,6 @@
       "archive": false
     },
     {
-      "id": "c70b4205c888463e",
-      "title": "Flávio X Lula: 467 urnas foram substituídas até às 10h da manhã",
-      "summary": "O veículo VEJA publicou uma atualização sobre: flávio X Lula: 467 urnas foram substituídas até às 10h da manhã. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/flavio-x-lula-467-urnas-foram-substituidas-ate-as-10h-da-manha/",
-      "source": "VEJA",
-      "published_at": "2026-10-25T14:29:56+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d6b1f49d4244a2c9",
-      "title": "Professora Maria do Carmo (PL) vota em Manaus",
-      "summary": "O veículo G1 publicou uma atualização sobre: professora Maria do Carmo (PL) vota em Manaus. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/25/professora-maria-do-carmo-pl-vota-em-manaus.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T14:25:41+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5265cc1c2ad5bf92",
-      "title": "Indígenas Kayapó votam no 2º turno em aldeias e na zona urbana do Pará",
-      "summary": "O veículo G1 publicou uma atualização sobre: indígenas Kayapó votam no 2º turno em aldeias e na zona urbana do Pará. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-indigenas-kayapo-votam-no-2o-turno-em-aldeias-e-na-zona-urbana-no-para.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T14:23:34+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9057c087eee7e044",
       "title": "Mesária é presa no DF suspeita de fazer campanha para Lula dentro de escola - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: mesária é presa no DF suspeita de fazer campanha para Lula dentro de escola - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -100,34 +338,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "878ee5f5667a9b4e",
-      "title": "Eleições 2026: acompanhe a cobertura do 2º turno na região de Piracicaba",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: acompanhe a cobertura do 2º turno na região de Piracicaba. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-piracicaba.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T14:19:59+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7774ad65e3c8b546",
-      "title": "Eleições 2026: Alan Rick (Republicanos) vota em Rio Branco",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: Alan Rick (Republicanos) vota em Rio Branco. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-acre.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T14:19:44+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -146,20 +356,6 @@
       "archive": false
     },
     {
-      "id": "6d437268fd2f1ff3",
-      "title": "Presidente de seção dorme demais e votação começa atrasada em escola de Campo Grande",
-      "summary": "O veículo G1 publicou uma atualização sobre: presidente de seção dorme demais e votação começa atrasada em escola de Campo Grande. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/ao-vivo-cobertura-apuracao-votacao-segundo-turno-mato-grosso-do-sul.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T14:17:53+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "95b659c18a1d9046",
       "title": "Homem é detido após arremessar urna no chão em escola de Fortaleza; acompanhe em tempo real",
       "summary": "O veículo G1 publicou uma atualização sobre: homem é detido após arremessar urna no chão em escola de Fortaleza; acompanhe em tempo real. Consulte a reportagem para contexto, dados e declarações.",
@@ -174,58 +370,16 @@
       "archive": false
     },
     {
-      "id": "288319ae76807dec",
-      "title": "Urnas eletrônicas são substituídas durante votação na Baixada Santista; veja onde",
-      "summary": "O veículo G1 publicou uma atualização sobre: urnas eletrônicas são substituídas durante votação na Baixada Santista; veja onde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/santos-regiao/eleicoes/2026/noticia/2026/10/25/urnas-eletronicas-substituidas-votacao-baixada-santista.ghtml",
+      "id": "4b1922aa6afd375b",
+      "title": "Ministério da Justiça registra 58 casos de possíveis crimes eleitorais neste domingo",
+      "summary": "O veículo G1 publicou uma atualização sobre: ministério da Justiça registra 58 casos de possíveis crimes eleitorais neste domingo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/pf-registra-casos-de-possiveis-crimes-eleitorais-neste-domingo-pessoas-foram-conduzidas.ghtml",
       "source": "G1",
-      "published_at": "2026-10-25T14:16:38+00:00",
-      "category": "Política",
+      "published_at": "2026-10-25T14:15:49+00:00",
+      "category": "Governo federal",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fd065f92aa392eec",
-      "title": "Senadora eleita Marília Campos vota em Contagem",
-      "summary": "O veículo G1 publicou uma atualização sobre: senadora eleita Marília Campos vota em Contagem. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/minas-gerais/ao-vivo/cobertura-apuracao-votacao-2-turno-mg.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T14:16:32+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "65f68980e05b7049",
-      "title": "Sargento da PM morre após passar mal em fila de votação na Bahia",
-      "summary": "O veículo VEJA publicou uma atualização sobre: sargento da PM morre após passar mal em fila de votação na Bahia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/sargento-da-pm-morre-apos-passar-mal-em-fila-de-votacao-na-bahia/",
-      "source": "VEJA",
-      "published_at": "2026-10-25T14:16:21+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5aab9063f78c43bd",
-      "title": "Eleições 2026: acompanhe a votação do 2º turno em todo o Brasil Siga no YouTube - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: eleições 2026: acompanhe a votação do 2º turno em todo o Brasil Siga no YouTube - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPam91bXpEbG9xVEZwbi1LUlhodWI2VHFKTFgyUEZNZzB3SE9VczRiV1VaaVRNc0c5TURwaGhia0FHVnFKNUh3ZHFTelBHbGdWMkE5eUlDcm9Sd0ZNR1Y0Q1FxUmplemRfbVYwRWEwbFhBTVYyS09GQ0tCcU5jN1BfcEZOOVNVQUlUUkFtMTNKS1FoQQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T14:11:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -258,34 +412,6 @@
       "archive": false
     },
     {
-      "id": "e5559d605a959edd",
-      "title": "Vizinhos de Lula em SP fazem serenata e presidente discursa da janela - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: vizinhos de Lula em SP fazem serenata e presidente discursa da janela - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkFiRFZ2b3hCTnNzRGNNLVMtOTZTbVA5eVZQUEhrWnozaU93WU9VS1Izd3BORzhRODhtNUo5VFVtMlNvRjlERi1SOWNEZHpYRGl5LVp6TDRySGNsckFXMFRaTElaWVpvRkpUMDJzVjVBRFBpSHNOZWc1Q1dlV3BmQUdqeDBMSy1hRWJEbm1GcGFtb3lpQk5jNEJiNGdXR2RsTkxucmJzd2tnazYtUzhfN285d2o5TnZFcFlTS0JyWWFUUQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T14:02:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bd0fb260f3ba7089",
-      "title": "Líder nas pesquisas, Flávio critica Lula ao votar: \"A esperança virou medo\" - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: líder nas pesquisas, Flávio critica Lula ao votar: \"A esperança virou medo\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXlhQlBma3dWS0dPcHlJaDRGdGIxLWdsb2lDenZtUi01ZU94VS0wblZlbXZFbU1kbzVOTExONWlEcU1KQU1MVGFOa2FIYWRSOXVMSWZnSHFQd0tJckNhTXI3TzFoSmk0M3loV2FULW5tN1k5X0lsTHMzX0tlR1dZSzR3RVNvOE90TjBSVGdhNWFTd0J0T25uOTI4MVhSZXBub0NpQy1iMDQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T14:02:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a016b2b968dc1278",
       "title": "Morre no hospital mulher esfaqueada pelo ex, que enviou áudio ao irmão da vítima: 'Tenta socorrer. Não sei se matei'",
       "summary": "O veículo G1 publicou uma atualização sobre: morre no hospital mulher esfaqueada pelo ex, que enviou áudio ao irmão da vítima: 'Tenta socorrer. Não sei se matei'. Consulte a reportagem para contexto, dados e declarações.",
@@ -301,8 +427,8 @@
     },
     {
       "id": "35474fb2bd0c2c7f",
-      "title": "Eleições 2026: TSE informa que 467 urnas foram substituídas até 10h deste domingo",
-      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: TSE informa que 467 urnas foram substituídas até 10h deste domingo. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Eleições 2026: TSE informa que 900 urnas foram substituídas até 12h deste domingo",
+      "summary": "O veículo G1 publicou uma atualização sobre: eleições 2026: TSE informa que 900 urnas foram substituídas até 12h deste domingo. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-tse-informa-que-467-urnas-foram-substituidas-ate-10h-deste-domingo.ghtml",
       "source": "G1",
       "published_at": "2026-10-25T13:57:28+00:00",
@@ -468,20 +594,6 @@
       "archive": false
     },
     {
-      "id": "94cf79e8fbbb1071",
-      "title": "Ministra do STF Cármen Lúcia vota em Belo Horizonte",
-      "summary": "O veículo G1 publicou uma atualização sobre: ministra do STF Cármen Lúcia vota em Belo Horizonte. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/25/ministra-do-stf-carmen-lucia-vota-em-belo-horizonte.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T13:08:48+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "8d542f85fb757dd6",
       "title": "Exército de Israel diz que fechará entradas da Cisjordânia no dia da eleição",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: exército de Israel diz que fechará entradas da Cisjordânia no dia da eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -552,20 +664,6 @@
       "archive": false
     },
     {
-      "id": "93a1d19f82185bde",
-      "title": "TSE agiliza aprovação de transporte para indígenas e quilombolas",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: tSE agiliza aprovação de transporte para indígenas e quilombolas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-agiliza-aprovacao-de-transporte-para-indigenas-e-quilombolas",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-25T12:27:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "87e6d4b9fe38feda",
       "title": "Ao votar no Rio de Janeiro, Flávio diz que representa a mudança",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: ao votar no Rio de Janeiro, Flávio diz que representa a mudança. Consulte a reportagem para contexto, dados e declarações.",
@@ -575,20 +673,6 @@
       "category": "Eleições",
       "candidate": "flavio",
       "election_type": "Fala",
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8cbcfb6ebc1b7b29",
-      "title": "Presidente do Senado, Davi Alcolumbre vota no AP e pede respeito nas urnas: 'Hoje a palavra é do povo'",
-      "summary": "O veículo G1 publicou uma atualização sobre: presidente do Senado, Davi Alcolumbre vota no AP e pede respeito nas urnas: 'Hoje a palavra é do povo'. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/presidente-do-senado-davi-alcolumbre-vota-no-ap-e-pede-respeito-nas-urnas-hoje-a-palavra-e-do-povo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T12:07:54+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
       "via_aggregator": false,
       "curated": false,
       "archive": false
@@ -650,16 +734,16 @@
       "archive": false
     },
     {
-      "id": "d32315751dea406e",
-      "title": "Espetáculo que aborda saúde mental e identidade será apresentado em São Luís",
-      "summary": "O veículo G1 publicou uma atualização sobre: espetáculo que aborda saúde mental e identidade será apresentado em São Luís. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ma/maranhao/cultura/noticia/2026/10/25/espetaculo-que-aborda-saude-mental-e-identidade-sera-apresentado-em-sao-luis.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T12:00:00+00:00",
-      "category": "Saúde",
+      "id": "767df55f2bb3b5f5",
+      "title": "Flávio Bolsonaro cita aumento da violência ao votar no RJ e diz que ‘chegou a hora de mudar’ - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: flávio Bolsonaro cita aumento da violência ao votar no RJ e diz que ‘chegou a hora de mudar’. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeHB1Tl9Da2x0YW85REZybzNoSTBFaWcza2ExUlo4bWE2TE1iSVFOaV9wcTFUSGdCUVRnWUFaOVVicnM3NVlVVTZvdVBpOVhPanh2aDh4VlFEb0hWVF9oOEs3aEpxVGU5V0dmMlZsZlFLNUMwZU82TGZRRi1MMThuQThXbVVYQ2ZnR3NJMW1KeUJTbmhCeWtKWE5VRHd1dlRUY01NM09CN3VrM09mcnQ3UzdVNm1LNXZ5XzZvWlRJRmpKdFR0TG9Tbk5n?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-25T11:52:56+00:00",
+      "category": "Segurança",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -706,62 +790,6 @@
       "archive": false
     },
     {
-      "id": "712b60c718bad520",
-      "title": "Presidente do TSE, Nunes Marques vota no 2º turno em Brasília",
-      "summary": "O veículo VEJA publicou uma atualização sobre: presidente do TSE, Nunes Marques vota no 2º turno em Brasília. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/presidente-do-tse-nunes-marques-vota-no-2o-turno-em-brasilia/",
-      "source": "VEJA",
-      "published_at": "2026-10-25T11:20:45+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "174608feea03fec8",
-      "title": "Chuva alaga rua de escola com 2,3 mil eleitores em Campinas e provoca quedas de árvores",
-      "summary": "O veículo G1 publicou uma atualização sobre: chuva alaga rua de escola com 2,3 mil eleitores em Campinas e provoca quedas de árvores. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/25/chuva-provoca-pontos-de-alagamento-e-queda-de-arvores-na-regiao-de-campinas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-25T11:20:15+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c5cc4ec2c8bbda6a",
-      "title": "Votação no exterior: quem ganhou no Japão no 2º turno das eleições 2026? - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: votação no exterior: quem ganhou no Japão no 2º turno das eleições 2026?. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcTMxYWNLb1BvcFpoM2RfeEtacHVGWlNrazJqWVpNSVFhTGRtT2dSM0EzakdtRk94X3FKRktrTGhEM0hSb1hncExpOE0tWGJmZkpMNG5zSktoNFF4WHdvdnZYaWlQcDc2TkktcTdPTHl0d1NRNmtPU1BxV0l4RWRRc3hmRDNiZWtYRnp5bDU0UdIBngFBVV95cUxPOVdncnZRZXlHNE1xLUE3U041cUR6bWhhZEVqVjBMVEFZdXJXYVh6VlRTa05NRlZIZ2dLWFR0NnNpYnZienVULTZTMlZiaE1GbE5FUmNTVVRXdkFaUU9nakl1WmpUaWwwbHJCaTRWdXFWcW5rNnp5NWdaZk9XdUUwWUw5aHJOWTZUYlZ5U3hFUTZHVGNuZ2RkVVVZbjJSUQ?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-25T11:14:46+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "afba032a884aaf22",
-      "title": "O que acontece nos EUA acontece aqui também",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: o que acontece nos EUA acontece aqui também. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/o-que-acontece-nos-eua-acontece-aqui-tambem.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T11:00:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "4e06df46a06ad6fe",
       "title": "Saiba quais as condutas consideradas crime eleitoral no dia da votação",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: saiba quais as condutas consideradas crime eleitoral no dia da votação. Consulte a reportagem para contexto, dados e declarações.",
@@ -797,20 +825,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-25T09:40:00+00:00",
       "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3097f0210bc6bc7a",
-      "title": "Bastidores do STF: o que está em jogo para Moraes nas eleições deste domingo - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: bastidores do STF: o que está em jogo para Moraes nas eleições deste domingo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeHdGSnJfX3k2Z0NSM1RuV2tUT2QwWDVLVXE1N1N6YkVDUFVjMVBpelpDeHR2MXdFNjRZclNSaEhndzA5OXZSUTFTWHV6emZoRVY1clpXZC1MTTFESmI5Q1F3aXZJSGNKUXItdzZ5S3JnSmttUXg2cy1zQXJLR0FCZktIVjZ4bC10azQzWDA5azRsOHpDNVJfMGo0VkViRkhiQ012VnM0RXJlNnZfSmZpV1JNbFViUWRFMFlDekFoNFVCVVB3Y2hILUpR0gHPAUFVX3lxTE11aGV5NUd3MkNzY215aGpwVUctajB2OV9keVBHSWZnRlBEaDhQenJ0RUw4T1pLdUUyRy14TDNSb1lQWE5TVlB6QUhkMEZ6Q3pDTjR3ZHhmLUp5elFpaFd2SFVTdU1rNmZvUFM4NDJleDVfOHJzdFFuV3pvVHI1dHBWb3ZjQ0IzZ2tZaVYxZlNKZXBscEM4YlZiR3dmWWFLOHNJaW5mbDJuLTMxYlpuRGNtTTMyMnBMVlJGbnhwbDlJS3dXSGR4MGNTMko0dVZnTQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-25T09:33:46+00:00",
-      "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1112,20 +1126,6 @@
       "archive": false
     },
     {
-      "id": "bb0160c020eea3b8",
-      "title": "Why Brazil’s Election Could Come Down to Crime",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: why Brazil’s Election Could Come Down to Crime. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-24T14:32:25+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "63ab7c0a02170fc9",
       "title": "República Democrática do Congo inicia teste de vacina contra ebola - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: república Democrática do Congo inicia teste de vacina contra ebola. Consulte a reportagem para contexto, dados e declarações.",
@@ -1182,40 +1182,12 @@
       "archive": false
     },
     {
-      "id": "53c2bef3d9bf7429",
-      "title": "Lula tem ato falho e fala em “acabar com a polícia” durante debate com Flávio Bolsonaro - Goiás 246",
-      "summary": "O veículo Goiás 246 publicou uma atualização sobre: lula tem ato falho e fala em “acabar com a polícia” durante debate com Flávio Bolsonaro - Goiás 246. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSUJ1NnJ3ZENaNHlJZ09kR0JzTlhpRFIxQmo4UUc1dDVnWWpreXc5TUdaOE9LbUdVdVg5UC14bXNwOHJlSnRiamZLSy01MUIwcTJkRUdHTG9NWEhUQ0UyMTBETlVlMUZ2c296dEI5NkRvOFprNGZwWHJ4SmdqYTlMSEtfdW8xUkVFNW9fZ0xNRFI5SXRLa0JLTXAxVzZ0RkxSd0Y0TkNkdmY0MGJXMnIwNEN6LW9HYVYyaXNiUVVZUTRWNHUyLU5qeG94NUtXandSRXRiU2dfclFVR1VTSG9PbFFWbVk1ejA?oc=5",
-      "source": "Goiás 246",
-      "published_at": "2026-10-24T09:57:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9034ce5e7592d280",
       "title": "OMS anuncia testes clínicos da vacina contra o ebola no Congo - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: oMS anuncia testes clínicos da vacina contra o ebola no Congo - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlFueHNSWFBPWGFFM19aMENpbHJ2WW1EU2NWUjlhWlJXcXZ1T2lSRTFqbUJzbmpkTFVXVEZZemlXclZFY25uQlZjMExIcVBIbk04dnJVbDlFb0xXRkZvSm9kWkVxNUYteWpjWmFheUxWeDZpSWw4Zkc3dXNvdW91MTU1a3c0ZTlhRHpsSExTV2t1QV9GcW5nSUdR?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-24T09:18:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "429d7f233e4cb503",
-      "title": "Solidão é o fator mais ligado à pior saúde mental no Brasil, mostra pesquisa - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: solidão é o fator mais ligado à pior saúde mental no Brasil, mostra pesquisa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWlNpclhPblRaVGQ1S05pUkU5Z1FaXzhIRWMyQ0I1QUx0LXI4Z3hyUmwtbmI0THNQeHU0YTR1RDlNSmtwcGlSaFk4eXZ6UUl1WWpoVi15QjJuY1EwZ1hnOHpfRVkxX0NmYlktTXIyZnc2MTBCMkQzS0hmUG9nSHVPOWtXZGdkZnZVX2N4TVR4clVoQ2k4MDVIemVkWGRCNklXWTM5YTk1VEVtNnJDYXp6ZGJjUHJpcmhjTFRLTmV3TlRLdGV0azVPWWZQQWYzTGlod1E?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-24T07:00:00+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
@@ -1294,6 +1266,20 @@
       "archive": false
     },
     {
+      "id": "5c2972b541daaf7d",
+      "title": "Convidada para ser ministra de Jair fecha com Lula: \"Não mexam com o SUS\" - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: convidada para ser ministra de Jair fecha com Lula: \"Não mexam com o SUS\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVEUzMkdrLU80dFZkSDQ3eWVON0VuWHc4cDB1NlFub3k3UEV2RUs1N3c4LW4yUmFEVC1MN3FYSW9fMGpNenVTT1oxc0NkN1pqU2o3UlBTZXNoLXhkNkM5a2gzYm9Dd1hmQ2FDVjRVUXZlczJwREFRaGZYSUpQRTBTbXdUVG1aRWFSUmZ2bFViZFhZYy1VSlBqVWtoZHhhT2pVeW1hbHdKRjIyRDRSd25TTTVobk1kMjFmMjRGMA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-23T21:35:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "c8b849794a2cc498",
       "title": "Professora de escola de idiomas morre ao tentar ajudar aluno trancado no banheiro em Guarulhos, SP - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: professora de escola de idiomas morre ao tentar ajudar aluno trancado no banheiro em Guarulhos, SP. Consulte a reportagem para contexto, dados e declarações.",
@@ -1304,6 +1290,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f76b24e7c6ef385f",
+      "title": "Mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mais Médicos Especialistas oferece 224 vagas imediatas em nova chamada. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mais-medicos-especialistas-oferece-224-vagas-imediatas-em-nova-chamada",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-23T21:04:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1476,6 +1476,20 @@
       "archive": false
     },
     {
+      "id": "9c1be95d14d6fdd2",
+      "title": "Áudio: Medida Provisória libera R$ 300 milhões para ações da Defesa Civil",
+      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Medida Provisória libera R$ 300 milhões para ações da Defesa Civil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/medida-provisoria-libera-r-300-milhoes-para-acoes-da-defesa-civil",
+      "source": "Senado Federal",
+      "published_at": "2026-10-23T18:19:37+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "de7ce15a47f2b23b",
       "title": "Plano de governo de Lula: o que o petista propõe para um 4º mandato - Exame",
       "summary": "O veículo Exame publicou uma atualização sobre: plano de governo de Lula: o que o petista propõe para um 4º mandato - Exame. Consulte a reportagem para contexto, dados e declarações.",
@@ -1556,6 +1570,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7b26c8cb0726cd53",
+      "title": "Projeto cria política de saúde mental na educação básica",
+      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto cria política de saúde mental na educação básica. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.camara.leg.br/noticias/1312271-projeto-cria-politica-de-saude-mental-na-educacao-basica",
+      "source": "Agência Câmara",
+      "published_at": "2026-10-23T10:48:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1644,44 +1672,16 @@
       "archive": false
     },
     {
-      "id": "a6e497d997a88fd9",
-      "title": "Arrecadação federal cresce 5,62% em setembro e soma R$ 239,4 bilhões",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: arrecadação federal cresce 5,62% em setembro e soma R$ 239,4 bilhões. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/arrecadacao-federal-cresce-562-em-setembro-e-soma-r-2394-bilhoes",
+      "id": "b747fe6f9c2c1a49",
+      "title": "Aberta inscrição para seleção de professor elaborador do Enade 2027",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: aberta inscrição para seleção de professor elaborador do Enade 2027. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/aberta-inscricao-para-selecao-de-professor-elaborador-do-enade-2027",
       "source": "Agência Brasil",
-      "published_at": "2026-10-22T14:45:00+00:00",
-      "category": "Economia",
+      "published_at": "2026-10-22T17:17:00+00:00",
+      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b4b2625329b217f4",
-      "title": "Ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ministro-preve-renegociacao-de-r-90-bi-em-3a-fase-do-desenrola",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-21T23:07:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1ad9e36ae75d52c7",
-      "title": "Governo federal chama de ‘descabido’ pedido do DF de aval para salvar BRB - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: governo federal chama de ‘descabido’ pedido do DF de aval para salvar BRB. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVDhVX0RQN0ZOS2hMTm1Bd1pPNXZUUFA2bXJqNy1hdnJlMHh0cDVqcjNtLVRfaUVfajNGdmlVdEJUcm5QandLdmc2bDRGcDR3U3dQNzUyQXFBYlRWZzk5S3JUcDlZclhiem9zbE4yZDNnUDJoWl9uazU1Yy1icktHQllCdHFXLXBKMm9MdUtaUnhMX2FIbVA4NW40V3ZMaURtMTVtRVFybzdZNkUwOVV0UFdUbE45WHhKRTFMQm4yb3dFN01ibXFGOGhn0gHYAUFVX3lxTFBZNG5HZDRRNHB0NE9PaVhCbS1kQ08xbTdIQzdFdWlzd1dkSnZvM0p0ODdiaGo3V1BTRFNYamQ0bDR5alJLdVFUS2VyOWVIRUJDTS03VnN1cDh6b0dJT1pjQVB6a3E3WHdVYWhYWGVrX2k2WjhQMkZYaWdyUmN5bnBYRHJOMnVEc2p4eG01NlpJT29VMjNyV0ZJME4wWnIzUjlrZHpWd2xTRk9aMVFNanN4OWlCeEFFTll1NEJBU1VQZEp5MmhVdjVjbUVCRUxFWExOelFvSmU0Mg?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-21T22:28:43+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     }
@@ -1689,7 +1689,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 68
+      "items": 63
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1697,11 +1697,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 52
+      "items": 54
     },
     "VEJA": {
       "status": "ok",
-      "items": 15
+      "items": 13
     },
     "The New York Times": {
       "status": "ok",
@@ -1713,7 +1713,7 @@
     },
     "Agência Brasil · Política": {
       "status": "ok",
-      "items": 9
+      "items": 8
     },
     "Agência Brasil · Economia": {
       "status": "ok",
@@ -1745,39 +1745,39 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 77
+      "items": 75
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 32
+      "items": 34
     },
     "Metrópoles · Política": {
       "status": "ok",
-      "items": 97
+      "items": 98
     },
     "O Globo": {
       "status": "ok",
-      "items": 78
+      "items": 77
     },
     "Estadão": {
       "status": "ok",
-      "items": 53
+      "items": 56
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 67
+      "items": 65
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 63
+      "items": 61
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 65
+      "items": 66
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 57
+      "items": 58
     },
     "Eleições · Flávio": {
       "status": "ok",
