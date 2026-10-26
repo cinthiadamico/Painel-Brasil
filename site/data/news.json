@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "status": "parcial",
-  "last_checked_at": "2026-10-26T08:54:56.203374+00:00",
-  "last_success_at": "2026-10-26T08:54:56.203374+00:00",
+  "status": "atualizado",
+  "last_checked_at": "2026-10-26T09:54:55.814764+00:00",
+  "last_success_at": "2026-10-26T09:54:55.814764+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
-      "id": "0c7bf7fa00355b63",
-      "title": "Britânia (GO): resultado do local de votação por zonas eleitorais no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: britânia (GO): resultado do local de votação por zonas eleitorais no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/britania-go-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
+      "id": "6f312b1c0b5a8bd3",
+      "title": "E. M. Jackson Kleper Lago, 110ª zona eleitoral: resultado da votação em Morros (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: e. M. Jackson Kleper Lago, 110ª zona eleitoral: resultado da votação em Morros (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/e-m-jackson-kleper-lago-110a-zona-eleitoral-resultado-da-votacao-em-morros-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:43+00:00",
+      "published_at": "2026-10-26T09:44:24+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -20,12 +20,12 @@
       "archive": false
     },
     {
-      "id": "180af1f4746cd692",
-      "title": "Colegio Milita 2 de Julho Unidade Iv - Seções do Luis Alves Madureira, 18ª zona eleitoral: resultado da votação em Bacabeira (MA) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: colegio Milita 2 de Julho Unidade Iv - Seções do Luis Alves Madureira, 18ª zona eleitoral: resultado da votação em Bacabeira (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/colegio-milita-2-de-julho-unidade-iv-secoes-do-luis-alves-madureira-18a-zona-eleitoral-resultado-da-votacao-em-bacabeira-ma-no-2o-turno.ghtml",
+      "id": "b557e8b34b81f291",
+      "title": "C.E.F. Vera Cruz, 107ª zona eleitoral: resultado da votação em Serrano do Maranhão (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: c.E.F. Vera Cruz, 107ª zona eleitoral: resultado da votação em Serrano do Maranhão (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/c-e-f-vera-cruz-107a-zona-eleitoral-resultado-da-votacao-em-serrano-do-maranhao-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:43+00:00",
+      "published_at": "2026-10-26T09:44:24+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -34,26 +34,12 @@
       "archive": false
     },
     {
-      "id": "209d4cf1e1b31e8f",
-      "title": "Escola Municipal Tabeliao Augusto Costa - St Pontakayana Ue-Mun, 49ª zona eleitoral: resultado da votação em Trindade (GO) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Tabeliao Augusto Costa - St Pontakayana Ue-Mun, 49ª zona eleitoral: resultado da votação em Trindade (GO) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/escola-municipal-tabeliao-augusto-costa-st-pontakayana-ue-mun-49a-zona-eleitoral-resultado-da-votacao-em-trindade-go-no-2o-turno.ghtml",
+      "id": "b376bb55f234c272",
+      "title": "SENAC - Serviço Nacional de Aprendizagem Comercial, 4ª zona eleitoral: resultado da votação em Caxias (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: sENAC - Serviço Nacional de Aprendizagem Comercial, 4ª zona eleitoral: resultado da votação em Caxias (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/senac-servico-nacional-de-aprendizagem-comercial-4a-zona-eleitoral-resultado-da-votacao-em-caxias-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:41+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "629ea1e220ee1a84",
-      "title": "Complexo Educacional Neide Costa, 12ª zona eleitoral: resultado da votação em Água Doce do Maranhão (MA) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: complexo Educacional Neide Costa, 12ª zona eleitoral: resultado da votação em Água Doce do Maranhão (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/complexo-educacional-neide-costa-12a-zona-eleitoral-resultado-da-votacao-em-agua-doce-do-maranhao-ma-no-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-26T08:47:38+00:00",
+      "published_at": "2026-10-26T09:44:24+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -62,40 +48,12 @@
       "archive": false
     },
     {
-      "id": "e3b655ddfd76ddcf",
-      "title": "Escola Municipal Cristiano Carlos Friaça - Ue-Mun, 80ª zona eleitoral: resultado da votação em São Luís de Montes Belos (GO) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Cristiano Carlos Friaça - Ue-Mun, 80ª zona eleitoral: resultado da votação em São Luís de Montes Belos (GO) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/escola-municipal-cristiano-carlos-friaca-ue-mun-80a-zona-eleitoral-resultado-da-votacao-em-sao-luis-de-montes-belos-go-no-2o-turno.ghtml",
+      "id": "4b03442a45a13e24",
+      "title": "Unidade Integrada Dr. José Neiva, 17ª zona eleitoral: resultado da votação em Pastos Bons (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: unidade Integrada Dr. José Neiva, 17ª zona eleitoral: resultado da votação em Pastos Bons (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/unidade-integrada-dr-jose-neiva-17a-zona-eleitoral-resultado-da-votacao-em-pastos-bons-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:38+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4ae91c24ea4b2e54",
-      "title": "Escola Municipal Ambrosio Ferreira da Hora - Ue-Mun, 29ª zona eleitoral: resultado da votação em Posse (GO) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Ambrosio Ferreira da Hora - Ue-Mun, 29ª zona eleitoral: resultado da votação em Posse (GO) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/escola-municipal-ambrosio-ferreira-da-hora-ue-mun-29a-zona-eleitoral-resultado-da-votacao-em-posse-go-no-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-26T08:47:37+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "412c63e06bf20754",
-      "title": "JARDIM de Infância Chapeuzinho Vermelho, 109ª zona eleitoral: resultado da votação em Anajatuba (MA) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: jARDIM de Infância Chapeuzinho Vermelho, 109ª zona eleitoral: resultado da votação em Anajatuba (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/jardim-de-infancia-chapeuzinho-vermelho-109a-zona-eleitoral-resultado-da-votacao-em-anajatuba-ma-no-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-26T08:47:37+00:00",
+      "published_at": "2026-10-26T09:44:22+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -104,12 +62,26 @@
       "archive": false
     },
     {
-      "id": "39747c7e330fc8d6",
-      "title": "Centro Educacional Vieira da Silva, 96ª zona eleitoral: resultado da votação em Araguanã (MA) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: centro Educacional Vieira da Silva, 96ª zona eleitoral: resultado da votação em Araguanã (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/centro-educacional-vieira-da-silva-96a-zona-eleitoral-resultado-da-votacao-em-araguana-ma-no-2o-turno.ghtml",
+      "id": "056013320ef6576a",
+      "title": "Escola Municipal Dom Pedro I, 87ª zona eleitoral: resultado da votação em Olho Dágua das Cunhãs (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Dom Pedro I, 87ª zona eleitoral: resultado da votação em Olho Dágua das Cunhãs (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-municipal-dom-pedro-i-87a-zona-eleitoral-resultado-da-votacao-em-olho-dagua-das-cunhas-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:34+00:00",
+      "published_at": "2026-10-26T09:44:22+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fac501f46834962b",
+      "title": "E. M. Santa Helena, 110ª zona eleitoral: resultado da votação em Morros (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: e. M. Santa Helena, 110ª zona eleitoral: resultado da votação em Morros (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/e-m-santa-helena-110a-zona-eleitoral-resultado-da-votacao-em-morros-ma-no-2o-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-26T09:44:22+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -118,12 +90,12 @@
       "archive": false
     },
     {
-      "id": "32278915f96474b5",
-      "title": "GRUPO Escolar Gonçalves Dias, 12ª zona eleitoral: resultado da votação em Araioses (MA) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: gRUPO Escolar Gonçalves Dias, 12ª zona eleitoral: resultado da votação em Araioses (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/grupo-escolar-goncalves-dias-12a-zona-eleitoral-resultado-da-votacao-em-araioses-ma-no-2o-turno.ghtml",
+      "id": "7b8808d0a698de60",
+      "title": "Unidade Escolar Olimpio Teixeira de Almeida, 81ª zona eleitoral: resultado da votação em Matões (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: unidade Escolar Olimpio Teixeira de Almeida, 81ª zona eleitoral: resultado da votação em Matões (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/unidade-escolar-olimpio-teixeira-de-almeida-81a-zona-eleitoral-resultado-da-votacao-em-matoes-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:34+00:00",
+      "published_at": "2026-10-26T09:44:22+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -132,12 +104,12 @@
       "archive": false
     },
     {
-      "id": "31e8bdcded913c76",
-      "title": "Escola Estadual Francisco de Lobo Sobrinho - Ue-Est, 34ª zona eleitoral: resultado da votação em Adelândia (GO) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: escola Estadual Francisco de Lobo Sobrinho - Ue-Est, 34ª zona eleitoral: resultado da votação em Adelândia (GO) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/escola-estadual-francisco-de-lobo-sobrinho-ue-est-34a-zona-eleitoral-resultado-da-votacao-em-adelandia-go-no-2o-turno.ghtml",
+      "id": "b3fc9f89c796a92a",
+      "title": "Escola Indígena Yrikamiri, 15ª zona eleitoral: resultado da votação em Grajaú (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: escola Indígena Yrikamiri, 15ª zona eleitoral: resultado da votação em Grajaú (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-indigena-yrikamiri-15a-zona-eleitoral-resultado-da-votacao-em-grajau-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:34+00:00",
+      "published_at": "2026-10-26T09:44:22+00:00",
       "category": "Educação",
       "candidate": null,
       "election_type": null,
@@ -146,12 +118,40 @@
       "archive": false
     },
     {
-      "id": "e3bbc69f24c2a087",
-      "title": "Instituto Tecnológico do Estado de Goias - Itego - Ue-Est, 55ª zona eleitoral: resultado da votação em Porangatu (GO) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: instituto Tecnológico do Estado de Goias - Itego - Ue-Est, 55ª zona eleitoral: resultado da votação em Porangatu (GO) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/instituto-tecnologico-do-estado-de-goias-itego-ue-est-55a-zona-eleitoral-resultado-da-votacao-em-porangatu-go-no-2o-turno.ghtml",
+      "id": "687310f6b767d9fd",
+      "title": "Centro de Ensino Médio Oscar Galvão, 9ª zona eleitoral: resultado da votação em Pedreiras (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: centro de Ensino Médio Oscar Galvão, 9ª zona eleitoral: resultado da votação em Pedreiras (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/centro-de-ensino-medio-oscar-galvao-9a-zona-eleitoral-resultado-da-votacao-em-pedreiras-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:33+00:00",
+      "published_at": "2026-10-26T09:44:21+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "001ca1e7c0df44d8",
+      "title": "Alfredo Nogueira - Escola de Outeiro, 83ª zona eleitoral: resultado da votação em Turilândia (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: alfredo Nogueira - Escola de Outeiro, 83ª zona eleitoral: resultado da votação em Turilândia (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/alfredo-nogueira-escola-de-outeiro-83a-zona-eleitoral-resultado-da-votacao-em-turilandia-ma-no-2o-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-26T09:44:21+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a97da5d2b7608515",
+      "title": "Unidade Escolar Angélica Reis, 56ª zona eleitoral: resultado da votação em Barreirinhas (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: unidade Escolar Angélica Reis, 56ª zona eleitoral: resultado da votação em Barreirinhas (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/unidade-escolar-angelica-reis-56a-zona-eleitoral-resultado-da-votacao-em-barreirinhas-ma-no-2o-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-26T09:44:21+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -160,12 +160,12 @@
       "archive": false
     },
     {
-      "id": "87cb877e04dd4323",
-      "title": "EMEF - Sousandrade, 99ª zona eleitoral: resultado da votação em Amarante do Maranhão (MA) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: eMEF - Sousandrade, 99ª zona eleitoral: resultado da votação em Amarante do Maranhão (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/emef-sousandrade-99a-zona-eleitoral-resultado-da-votacao-em-amarante-do-maranhao-ma-no-2o-turno.ghtml",
+      "id": "17643b1e8bd4f5db",
+      "title": "Cresmam, 9ª zona eleitoral: resultado da votação em Pedreiras (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: cresmam, 9ª zona eleitoral: resultado da votação em Pedreiras (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/cresmam-9a-zona-eleitoral-resultado-da-votacao-em-pedreiras-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:33+00:00",
+      "published_at": "2026-10-26T09:44:21+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -174,12 +174,26 @@
       "archive": false
     },
     {
-      "id": "c35b376696b8092a",
-      "title": "CMEI Neusila Maria da Silva - Ue-Mun, 68ª zona eleitoral: resultado da votação em Indiara (GO) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: cMEI Neusila Maria da Silva - Ue-Mun, 68ª zona eleitoral: resultado da votação em Indiara (GO) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/cmei-neusila-maria-da-silva-ue-mun-68a-zona-eleitoral-resultado-da-votacao-em-indiara-go-no-2o-turno.ghtml",
+      "id": "1bd782888e31a1ed",
+      "title": "Escola Municipal do Povoado Felipa, 32ª zona eleitoral: resultado da votação em Humberto de Campos (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal do Povoado Felipa, 32ª zona eleitoral: resultado da votação em Humberto de Campos (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-municipal-do-povoado-felipa-32a-zona-eleitoral-resultado-da-votacao-em-humberto-de-campos-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:32+00:00",
+      "published_at": "2026-10-26T09:44:21+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1b0e8e187a9d45f5",
+      "title": "GRUPO Escolar Jose de Ribamar Fiquene, 92ª zona eleitoral: resultado da votação em Vila Nova dos Martírios (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: gRUPO Escolar Jose de Ribamar Fiquene, 92ª zona eleitoral: resultado da votação em Vila Nova dos Martírios (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/grupo-escolar-jose-de-ribamar-fiquene-92a-zona-eleitoral-resultado-da-votacao-em-vila-nova-dos-martirios-ma-no-2o-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-26T09:44:21+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -188,12 +202,12 @@
       "archive": false
     },
     {
-      "id": "92addcf687a65aa2",
-      "title": "Escola Renovadora do Brasil, 49ª zona eleitoral: resultado da votação em Altamira do Maranhão (MA) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: escola Renovadora do Brasil, 49ª zona eleitoral: resultado da votação em Altamira do Maranhão (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-renovadora-do-brasil-49a-zona-eleitoral-resultado-da-votacao-em-altamira-do-maranhao-ma-no-2o-turno.ghtml",
+      "id": "2e7452f55b326a62",
+      "title": "Escola Municipal Elias Haickel, 43ª zona eleitoral: resultado da votação em Monção (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Elias Haickel, 43ª zona eleitoral: resultado da votação em Monção (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-municipal-elias-haickel-43a-zona-eleitoral-resultado-da-votacao-em-moncao-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:28+00:00",
+      "published_at": "2026-10-26T09:44:15+00:00",
       "category": "Educação",
       "candidate": null,
       "election_type": null,
@@ -202,12 +216,12 @@
       "archive": false
     },
     {
-      "id": "c16d00444eccb86c",
-      "title": "Escola Municipal São José de Sousa, 96ª zona eleitoral: resultado da votação em Araguanã (MA) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal São José de Sousa, 96ª zona eleitoral: resultado da votação em Araguanã (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-municipal-sao-jose-de-sousa-96a-zona-eleitoral-resultado-da-votacao-em-araguana-ma-no-2o-turno.ghtml",
+      "id": "b82d1e705f874aef",
+      "title": "Escola Municipal Pedro Alvares Cabral, 77ª zona eleitoral: resultado da votação em Tufilândia (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Pedro Alvares Cabral, 77ª zona eleitoral: resultado da votação em Tufilândia (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-municipal-pedro-alvares-cabral-77a-zona-eleitoral-resultado-da-votacao-em-tufilandia-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:28+00:00",
+      "published_at": "2026-10-26T09:44:15+00:00",
       "category": "Educação",
       "candidate": null,
       "election_type": null,
@@ -216,12 +230,12 @@
       "archive": false
     },
     {
-      "id": "15e5020444c74f43",
-      "title": "Professor Dionesio Alves de Souza ( Bijui) - Ue-Mun, 125ª zona eleitoral: resultado da votação em Campinaçu (GO) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: professor Dionesio Alves de Souza ( Bijui) - Ue-Mun, 125ª zona eleitoral: resultado da votação em Campinaçu (GO) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/professor-dionesio-alves-de-souza-bijui-ue-mun-125a-zona-eleitoral-resultado-da-votacao-em-campinacu-go-no-2o-turno.ghtml",
+      "id": "6985aca981f43312",
+      "title": "Unidade Escolar de Educação Básica Municipal Raimundo Soares, 38ª zona eleitoral: resultado da votação em Palmeirândia (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: unidade Escolar de Educação Básica Municipal Raimundo Soares, 38ª zona eleitoral: resultado da votação em Palmeirândia (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/unidade-escolar-de-educacao-basica-municipal-raimundo-soares-38a-zona-eleitoral-resultado-da-votacao-em-palmeirandia-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:28+00:00",
+      "published_at": "2026-10-26T09:44:14+00:00",
       "category": "Educação",
       "candidate": null,
       "election_type": null,
@@ -230,12 +244,12 @@
       "archive": false
     },
     {
-      "id": "a3cd863fc8e4c0aa",
-      "title": "Escola Municipal Aparecida Nogueira do Prado (14 de Maio) - Ue-Est, 125ª zona eleitoral: resultado da votação em Campinaçu (GO) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Aparecida Nogueira do Prado (14 de Maio) - Ue-Est, 125ª zona eleitoral: resultado da votação em Campinaçu (GO) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/escola-municipal-aparecida-nogueira-do-prado-14-de-maio-ue-est-125a-zona-eleitoral-resultado-da-votacao-em-campinacu-go-no-2o-turno.ghtml",
+      "id": "4c6b99231405acbf",
+      "title": "Escola Municipal Thales Ribeiro Gonçalves, 87ª zona eleitoral: resultado da votação em Satubinha (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Thales Ribeiro Gonçalves, 87ª zona eleitoral: resultado da votação em Satubinha (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-municipal-thales-ribeiro-goncalves-87a-zona-eleitoral-resultado-da-votacao-em-satubinha-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:25+00:00",
+      "published_at": "2026-10-26T09:44:13+00:00",
       "category": "Educação",
       "candidate": null,
       "election_type": null,
@@ -244,12 +258,12 @@
       "archive": false
     },
     {
-      "id": "d924889c93ac21d2",
-      "title": "Escola Municipal Marlene Mariano Cardoso - Ue-Mun, 44ª zona eleitoral: resultado da votação em Planaltina (GO) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Marlene Mariano Cardoso - Ue-Mun, 44ª zona eleitoral: resultado da votação em Planaltina (GO) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/escola-municipal-marlene-mariano-cardoso-ue-mun-44a-zona-eleitoral-resultado-da-votacao-em-planaltina-go-no-2o-turno.ghtml",
+      "id": "cdc9c6dbee8b8ade",
+      "title": "Escola Municipal Infantil Pequeno Príncipe, 92ª zona eleitoral: resultado da votação em Vila Nova dos Martírios (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Infantil Pequeno Príncipe, 92ª zona eleitoral: resultado da votação em Vila Nova dos Martírios (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-municipal-infantil-pequeno-principe-92a-zona-eleitoral-resultado-da-votacao-em-vila-nova-dos-martirios-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:12+00:00",
+      "published_at": "2026-10-26T09:44:13+00:00",
       "category": "Educação",
       "candidate": null,
       "election_type": null,
@@ -258,13 +272,13 @@
       "archive": false
     },
     {
-      "id": "489249e6c2bf592a",
-      "title": "Posto de Saúde do Estreito - Lc-Mun, 55ª zona eleitoral: resultado da votação em Porangatu (GO) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: posto de Saúde do Estreito - Lc-Mun, 55ª zona eleitoral: resultado da votação em Porangatu (GO) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/posto-de-saude-do-estreito-lc-mun-55a-zona-eleitoral-resultado-da-votacao-em-porangatu-go-no-2o-turno.ghtml",
+      "id": "33ed3c5cbd9a849f",
+      "title": "Escola Raimundo Pedro Machado Serra, 86ª zona eleitoral: resultado da votação em Matinha (MA) no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: escola Raimundo Pedro Machado Serra, 86ª zona eleitoral: resultado da votação em Matinha (MA) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/26/escola-raimundo-pedro-machado-serra-86a-zona-eleitoral-resultado-da-votacao-em-matinha-ma-no-2o-turno.ghtml",
       "source": "G1",
-      "published_at": "2026-10-26T08:47:10+00:00",
-      "category": "Saúde",
+      "published_at": "2026-10-26T09:44:13+00:00",
+      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -272,16 +286,58 @@
       "archive": false
     },
     {
-      "id": "0e22cc4edbfea9f3",
-      "title": "Escola Municipal Professor Raimundo, 131ª zona eleitoral: resultado da votação em Água Fria de Goiás (GO) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Professor Raimundo, 131ª zona eleitoral: resultado da votação em Água Fria de Goiás (GO) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/26/escola-municipal-professor-raimundo-131a-zona-eleitoral-resultado-da-votacao-em-agua-fria-de-goias-go-no-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-26T08:47:09+00:00",
-      "category": "Educação",
+      "id": "ab7eef6e91a8ffed",
+      "title": "Israel: um líder político veterano que desafia as projeções e é reeleito?",
+      "summary": "O veículo VEJA publicou uma atualização sobre: israel: um líder político veterano que desafia as projeções e é reeleito?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/coluna/mundialista/israel-um-lider-politico-veterano-que-desafia-as-projecoes-e-e-reeleito/",
+      "source": "VEJA",
+      "published_at": "2026-10-26T09:25:27+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e431a6c3319e0951",
+      "title": "Após derrota de Flávio, bolsonarismo terá desafio de manter agenda viva e usará vantagem no Congresso",
+      "summary": "O veículo VEJA publicou uma atualização sobre: após derrota de Flávio, bolsonarismo terá desafio de manter agenda viva e usará vantagem no Congresso. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/apos-derrota-bolsonarismo-tera-desafio-de-manter-agenda-viva-mas-contara-com-maioria-no-congresso/",
+      "source": "VEJA",
+      "published_at": "2026-10-26T09:01:40+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5e99ed42eddcab5d",
+      "title": "Os desafios de Lula em seu quarto mandato na presidência da República",
+      "summary": "O veículo VEJA publicou uma atualização sobre: os desafios de Lula em seu quarto mandato na presidência da República. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/os-desafios-de-lula-em-seu-quarto-mandato-na-presidencia-da-republica/",
+      "source": "VEJA",
+      "published_at": "2026-10-26T09:00:37+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "983a6e780dcc53e6",
+      "title": "Virada de Lula: erros de Flávio e eleitores que ignoraram seus líderes - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: virada de Lula: erros de Flávio e eleitores que ignoraram seus líderes - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUFo5NVhyclB6RWFROEs4NUI4VHQ5WVhRelBYNGFabTdLNkNlTHJ3Y25vSGg4aHNSLUhNbHNiMnl6SlRxOXBpT3VLazdSVkxIdC02T18tVGhVUS03RUVYbmVaY18zYy1zY0ItX0M3Q3VzeG1kTUJTc19kMjBWNlZHY296QlV4T0J2MGdDbVMwQWVxVkZWTVEzRmQ3Zjg4SkVxWmF1eGNzVnV6enBrRHcxU19OUDgxNmFWMklV?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-26T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -363,20 +419,6 @@
       "source": "Metrópoles",
       "published_at": "2026-10-26T07:30:00+00:00",
       "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f4707d0c63f6aee5",
-      "title": "Em vídeo em inglês, Eduardo Bolsonaro acusa eleições de fraude sem provas - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: em vídeo em inglês, Eduardo Bolsonaro acusa eleições de fraude sem provas - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXcwbWFHVlctNXU3SU9ldldsVUxoNm5ETUxlZ3hIREx0cHkxc1NOQXJ4cWtzZW93Q1R3QldhaWI3dXJNY0t6QmlLWHJ1dVY3djVxVThCQTdyZ2dyd2d0NFFKUkpIdmN3XzZhbk9zVkdxQW1lLXdwbjFPRVR3MU5sZk9MNlY0TXVZUGVBalVGWWNHczg5NWZnMDZiYmRoRXhTazNEY2ZlV0Yydw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-26T07:12:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -636,6 +678,20 @@
       "archive": false
     },
     {
+      "id": "0284d586c5820a69",
+      "title": "O que Lula promete para o seu bolso? Veja as propostas para trabalhadores, aposentados e empresários",
+      "summary": "O veículo G1 publicou uma atualização sobre: o que Lula promete para o seu bolso? Veja as propostas para trabalhadores, aposentados e empresários. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/26/lula-eleito-propostas-economia.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-26T03:00:00+00:00",
+      "category": "Eleições",
+      "candidate": "lula",
+      "election_type": "Proposta",
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "a91597567574d673",
       "title": "Lula alcança 3.863 mil votos no Oriente Médio contra 1.383 mil de Flávio - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: lula alcança 3.863 mil votos no Oriente Médio contra 1.383 mil de Flávio - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -818,20 +874,6 @@
       "archive": false
     },
     {
-      "id": "d9ec41e683b59a33",
-      "title": "Eleições em Israel revolvem incertezas de israelenses e palestinos",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eleições em Israel revolvem incertezas de israelenses e palestinos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/eleicoes-em-israel-revolvem-incertezas-de-israelenses-e-palestinos.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T02:00:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "faec47d5539442ea",
       "title": "Vídeo: Davi reconhece resultado da eleição e defende pacificação do país",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: vídeo: Davi reconhece resultado da eleição e defende pacificação do país. Consulte a reportagem para contexto, dados e declarações.",
@@ -930,20 +972,6 @@
       "archive": false
     },
     {
-      "id": "612d2f36140dcd59",
-      "title": "Congresso mais à direita aumenta dependência de Lula do Centrão no 4º mandato - TNOnline - TNOnline",
-      "summary": "O veículo TNOnline publicou uma atualização sobre: congresso mais à direita aumenta dependência de Lula do Centrão no 4º mandato - TNOnline - TNOnline. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVHZ2ZWVKNnUxdGRpMHl1aUhMS3A3WGQtYVM3NlBIMUpVSG83NzVYRHB1VjkzQWlZTXFkX1lrV3dzRERNSF9LMDY3cDNQTmN6ejRHcm5SSmR0czVZYnVYVVlfWFZvOXFsSnJ3QjZvLTVCNlktXzBrVk00OE9CZDE5ai1HOEhUdFJVbDYzM2taM1o2MEp4Ry1yRDJIT29VYlhwcUdZYzZHcDYzNkI5QWFFYkMzVmtVZXotVWRLMlBheDI1UThQUlZzaHR3Z1RqckZRNV9yS9IB1AFBVV95cUxNVHZ2ZWVKNnUxdGRpMHl1aUhMS3A3WGQtYVM3NlBIMUpVSG83NzVYRHB1VjkzQWlZTXFkX1lrV3dzRERNSF9LMDY3cDNQTmN6ejRHcm5SSmR0czVZYnVYVVlfWFZvOXFsSnJ3QjZvLTVCNlktXzBrVk00OE9CZDE5ai1HOEhUdFJVbDYzM2taM1o2MEp4Ry1yRDJIT29VYlhwcUdZYzZHcDYzNkI5QWFFYkMzVmtVZXotVWRLMlBheDI1UThQUlZzaHR3Z1RqckZRNV9ySw?oc=5",
-      "source": "TNOnline",
-      "published_at": "2026-10-26T01:05:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "0f1ae6b09f608adf",
       "title": "Lula reeleito: o que o mercado vai cobrar do novo governo? - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: lula reeleito: o que o mercado vai cobrar do novo governo?. Consulte a reportagem para contexto, dados e declarações.",
@@ -1007,20 +1035,6 @@
       "source": "Metrópoles",
       "published_at": "2026-10-25T23:47:00+00:00",
       "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "641da9a469e3ff84",
-      "title": "Painel: É uma eleição do Vasco no auge do Eurico Miranda, diz professor - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: É uma eleição do Vasco no auge do Eurico Miranda, diz professor. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHhPR0ZuVXE4MHU2Mjd4dzg1clMwRk5TSGdoOW44UW9CWVBaRXZWUXBvVkxjWW1SNEJUSF9kMUdESHB0OHA0S0dDd1J3amp6N0pvNW5rWWFIQ2NlN0c1di13Mk9yMWltVnNuX2Z3eEtSQ0xCeHZLaEt1ZUdRblM2RjhycTU5eGxQRmlDbUh0c3lYNkpEY1dfQWNmMmZDTktKSE9xcnZYODJvZ2RXaU02Q3VJc3I4T3U0Tk80cnhR?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-25T21:58:00+00:00",
-      "category": "Educação",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1406,20 +1420,6 @@
       "archive": false
     },
     {
-      "id": "be592a2046acaa23",
-      "title": "Ministério da Justiça faz operação para garantir segurança no 2º turno",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: ministério da Justiça faz operação para garantir segurança no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ministerio-da-justica-faz-operacao-para-garantir-seguranca-no-2o-turno",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-24T15:18:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "bb0160c020eea3b8",
       "title": "Why Brazil’s Election Could Come Down to Crime",
       "summary": "O veículo The New York Times publicou uma atualização sobre: why Brazil’s Election Could Come Down to Crime. Consulte a reportagem para contexto, dados e declarações.",
@@ -1588,20 +1588,6 @@
       "archive": false
     },
     {
-      "id": "de7ce15a47f2b23b",
-      "title": "Plano de governo de Lula: o que o presidente propõe para o 4º mandato - Exame",
-      "summary": "O veículo Exame publicou uma atualização sobre: plano de governo de Lula: o que o presidente propõe para o 4º mandato - Exame. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGU2LTMySWpJcmVGamg0ZkpGdWVodGRBSEdjTFU3MDQ4VWNhdGIxUHRTalFRTm0tNkFPZDRVQ0txaGJxYjRYT3gydlVCdlVxOWNfU3VKTzNBSTFGelZSSVEzb2pHZ0hOanNWcWlxRFBWbXM4SmJpdVBseVhuMG12NTBwZUpQODFLazNodEVBY1VvWmZLeWVZ?oc=5",
-      "source": "Exame",
-      "published_at": "2026-10-23T18:18:11+00:00",
-      "category": "Eleições",
-      "candidate": "lula",
-      "election_type": "Proposta",
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "22f51e3d39702b80",
       "title": "Desinformação faz com que só 5% das crianças sejam protegidas da covid",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: desinformação faz com que só 5% das crianças sejam protegidas da covid. Consulte a reportagem para contexto, dados e declarações.",
@@ -1684,6 +1670,20 @@
       "via_aggregator": false,
       "curated": false,
       "archive": false
+    },
+    {
+      "id": "eec3e501868a8dd7",
+      "title": "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: doença de Newcastle: protocolos sanitários são cumpridos em SC. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/doenca-de-newcastle-protocolos-sanitarios-sao-cumpridos-em-sc",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-22T18:21:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
     }
   ],
   "source_health": {
@@ -1692,17 +1692,16 @@
       "items": 100
     },
     "G1 · Economia": {
-      "status": "erro",
-      "items": 0,
-      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "status": "ok",
+      "items": 96
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 74
+      "items": 73
     },
     "VEJA": {
       "status": "ok",
-      "items": 19
+      "items": 18
     },
     "The New York Times": {
       "status": "ok",
@@ -1750,7 +1749,7 @@
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 41
+      "items": 40
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1766,7 +1765,7 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 79
+      "items": 80
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1774,7 +1773,7 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 76
+      "items": 77
     },
     "Eleições · Lula": {
       "status": "ok",
@@ -1782,7 +1781,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 56
+      "items": 30
     }
   },
   "notes": [
