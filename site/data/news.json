@@ -1,10 +1,164 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-26T03:46:41.414485+00:00",
-  "last_success_at": "2026-10-26T03:46:41.414485+00:00",
+  "last_checked_at": "2026-10-26T04:46:01.828054+00:00",
+  "last_success_at": "2026-10-26T04:46:01.828054+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "edf5957af4cc888f",
+      "title": "Lulistas celebram vitória nas redes e fazem chacota de Flávio: 'De virada é mais gostoso'",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lulistas celebram vitória nas redes e fazem chacota de Flávio: 'De virada é mais gostoso'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/hashtag/2026/10/lulistas-celebram-vitoria-nas-redes-e-fazem-chacota-de-flavio-de-virada-e-mais-gostoso.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-26T04:41:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "37a43b7529d1d68d",
+      "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+      "source": "The New York Times",
+      "published_at": "2026-10-26T04:38:03+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "449a6f3731adb055",
+      "title": "Kassio deve descartar questionamentos sobre resultado após Flávio não reconhecer derrota eleitoral",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: kassio deve descartar questionamentos sobre resultado após Flávio não reconhecer derrota eleitoral. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/kassio-deve-descartar-questionamentos-sobre-resultado-apos-flavio-nao-reconhecer-derrota-eleitoral.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-26T04:36:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b3511cfc4f365a5a",
+      "title": "Who Is Netanyahu’s Main Opponent in Israel’s Elections?",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: who Is Netanyahu’s Main Opponent in Israel’s Elections?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/video/world/asia/100000011222464/who-is-netanyahus-main-opponent-in-israels-elections.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-26T04:14:41+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2fc00e6c60c024a8",
+      "title": "Vitória de Lula é afirmação contra tentações autocráticas, diz Celso de Mello, ex-ministro do STF",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vitória de Lula é afirmação contra tentações autocráticas, diz Celso de Mello, ex-ministro do STF. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vitoria-de-lula-e-afirmacao-contra-tentacoes-autocraticas-diz-celso-de-mello-ex-ministro-do-stf.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-26T04:12:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a4abf5171859193f",
+      "title": "Em novo mandato, Lula terá Congresso mais desafiador e precisará negociar para governar - Gazeta de Alagoas",
+      "summary": "O veículo Gazeta de Alagoas publicou uma atualização sobre: em novo mandato, Lula terá Congresso mais desafiador e precisará negociar para governar - Gazeta de Alagoas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTzBvelRVYlZhNUF1eFhtcnhzV3JKdzhVUjA0S2lxQXZpb1hOdmlWZVZpdU9rOUl3M1NZNllpdFpuZUEyLWltMWxEa0VxNUZiR00xdkE3TjJFQUNYeEtwZlljd2k3VWRDVk5FTE02NGFxVXBuQlZRNlpsZEc5ZUU2bVQzcUozaXZaR05UZzhsRUFYTm9GdjdQeDhpV0NKcUphV2ZYZjFKOHhBWXU0aXY2NXBSVHpDUVhLT2VRempPVkRacWpCS1NrTmJ2SU5LRldWMDJJ0gHbAUFVX3lxTE9LeFU5RFkxckJVYUh2ME9VQm1KLTVCVWxBZWpydFd5c25VUklUR1VBUVUyaFA5QXNlOHBreGdPWnBMUV85bVJsSUxQM3l2d05XV0EtcXh0bThKUzFrS2pPcm8xczktUjMzZzJWeGRiVC1yTno0eXlXc2pfWU9vNzNBcktXc2hjUVV0V2E4cWp4NlZDY1RrTWNETTlqSVgyNjExLVVnbEpNYnFhTFVwNS1lRy0xUFllSFp3b0ZTdFY2d3dHRjVremsyak04dVdWX2NIYkJ4YUNIWGQzbw?oc=5",
+      "source": "Gazeta de Alagoas",
+      "published_at": "2026-10-26T04:09:50+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "bc424ad8f77e24f7",
+      "title": "Ricardo Nunes diz ser difícil entender reviravolta na vitória de Lula",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ricardo Nunes diz ser difícil entender reviravolta na vitória de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/ricardo-nunes-diz-ser-dificil-entender-reviravolta-na-vitoria-de-lula.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-26T04:06:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "311c76977e2c65d4",
+      "title": "Regulamentação da PEC 6x1 e detalhe da Reforma Tributária: veja os projetos que Lula deve enviar ao Congresso após ser reeleito - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: regulamentação da PEC 6x1 e detalhe da Reforma Tributária: veja os projetos que Lula deve enviar ao Congresso após ser reeleito. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNU3dOUXl6ZXRxRWt6YzJWS19IQm14eFRkbW84Y05zODVVY0tiVkgwR1FuYWh5TkNiSVp0WmhpOTVWVElacXlIWXN0N3BjaEk3ZDdTNjR3d2hrd2xVTGhqdENqczRyTG9vZG5mdzlWVWptbVQwMlhDUFZtZEJ4REhfTUFBdGN3Ynpoamd6Rlk4R294RU1keTFkMGJKN01hdkd6QklBSWdPYi1JSlM3NUZCUnB3RjJXNFdEek5kTzBlNDRBbERXbk1TcHdNZDNRVWZrYWItV3lUV2ZRNTlWMkF5TXZ6dWJwREZkcWJ6dUJZc3FSWHI2V0ZmcG0zOEIyNnFyRk1Hb0NtSGFoWmctNm1MSGR3b9IBogJBVV95cUxPS25xMW96NDBzVWF3bzZudUs2NVZWMWlVX3RnLWJEbWxuUkRwQXRnclpMQ3E1WE1sTExsc3dja1Q0VFQ3djI4SzlPRHFzbkxKWmZFcGg2NDlCRWxKWC01V3diS0h4LTAyS05BODczamptUTdlYzVDdldZYklpVlh3b1hkanM4ZDhGY3RjaHBoeXlqdGQ4bnZCd2R6dUlHT0Z1aDFDdVB5UXNLQ3ZaamhJVnp4UWE3ZDRRdjFvMjBNMC0zdzE3dFMtdnNPaUprc1dmZmw0ZHZoZDZzVFBWOFFpR3drbmJhNGlybW5lcUdtcGNLX2JlamNPbEV6bkt2aER4MDlKUFJOMUV6cHZEdkkzR2U2cmtQTWh0eDNNQlNNTk9Fdw?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-26T04:00:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f97dd78e8b1d55ab",
+      "title": "Lula tem 64 milhões de votos, e Flávio Bolsonaro, 59 milhões; compare com a votação deles no 1º turno - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: lula tem 64 milhões de votos, e Flávio Bolsonaro, 59 milhões; compare com a votação deles no 1º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDBDclExTmpEemdnaTFtMEFKems2cExxSDhHTlVBVURWRWJMVkVHUlpBbWhMSDJuMUdDQl9SWjVwbXpVSXZWZXJUQkR1Q3o0R3hJQXEyLVlXWVBFWEtFc1lZaXp0dkhuZGZNQlZxN2RuZ2FBVnI0blozSmxPNHVUNlBfMVRrc1JQWkNiQ1NKcEZ4bE5Cd010ZjhuU0pWeW9WR1drR1NBT0FjM09zMmgzT0VwY0g5d19zMFFSMGlrR2RneFlYaEZJ0gHWAUFVX3lxTE9lc0hUTG9fSnl2WG0xRWNlNGNrMDFjejlsM0VlRlFYMmF0emkxVlZUWDVzUG1sLXlzSjVhRzEtYkpMcEhWZ2VpUEdlUGRnRnRTZnJVZVF5ZEhIRjFRQ2FYd3B5Y2tLazh5UkdlV3RnYzR6VkFwX3VfZTR2UHl1SVA1RVdLY1lxNkQyanFMTFBMd1BsYzJiMUE2eVBhUVZrWDZPY1ZUSlFxZy1NMkxaMV82ZHBQVkNwWWpJRzNwS29QRTFrbW9PMF90SDRGVC1ZMWJ1Mi1vdHc?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-26T03:51:11+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fa0002bb8ff3aa44",
+      "title": "Tarcísio vira nome natural da direita, e governadores do Nordeste despontam no PT para 2030",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: tarcísio vira nome natural da direita, e governadores do Nordeste despontam no PT para 2030. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/tarcisio-vira-nome-natural-da-direita-e-haddad-desponta-no-pt-para-2030.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-26T03:50:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3e64638455b37d87",
+      "title": "Reeleição de Lula traz desafios com STF, investigações e Congresso; veja análises do Estadão - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: reeleição de Lula traz desafios com STF, investigações e Congresso; veja análises do Estadão. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTUFNYkY1WjlDb0hlMF9maWxlYndnUjNpNzhIVVp5ZlR5TGNjcTFKOFd1czhVa21ZbWV0RWlyd2E0c21mY1hzaXBCUUloN1pfTTBEcklwV2ZlbGQxTHpISGR6TTc2b21xNDRwYkNhQzFkRkZ0eVpCV01XYXhsZnhkQ295SDlOOWJ1cE1TUDRkWmJ1VlZBTTZaYy1pQmU5NVdEdHIzM00xWWJSZ2xKMW5oNzdFdzY3TDlqQkdyWS1hYWFqODFVYS0tR2RJMkw3dnRoY2VlTzVvWDFvaTBX?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-26T03:49:12+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "522e6aaf8a8fc9b5",
       "title": "Escola Estadual Major Leonel, 55ª zona eleitoral: resultado da votação em Cabo Verde (MG) no 2º turno",
@@ -174,34 +328,6 @@
       "archive": false
     },
     {
-      "id": "265396926f076c15",
-      "title": "Ee. Antonio Carlos Ferreira Nobre, 325ª zona eleitoral: resultado da votação em São Paulo (SP) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: ee. Antonio Carlos Ferreira Nobre, 325ª zona eleitoral: resultado da votação em São Paulo (SP) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/26/ee-antonio-carlos-ferreira-nobre-325a-zona-eleitoral-resultado-da-votacao-em-sao-paulo-sp-no-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-26T03:42:54+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f90bea296fe3690b",
-      "title": "Santa Gertrudes (SP): resultado do local de votação por zonas eleitorais no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: santa Gertrudes (SP): resultado do local de votação por zonas eleitorais no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/26/santa-gertrudes-sp-resultado-do-local-de-votacao-por-zonas-eleitorais-no-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-26T03:42:54+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "6c5909a98d7ad7a4",
       "title": "Escola Municipal Afonso José da Silva, 215ª zona eleitoral: resultado da votação em Confins (MG) no 2º turno",
       "summary": "O veículo G1 publicou uma atualização sobre: escola Municipal Afonso José da Silva, 215ª zona eleitoral: resultado da votação em Confins (MG) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
@@ -244,20 +370,6 @@
       "archive": false
     },
     {
-      "id": "0a19958fd2ee7350",
-      "title": "Centro de Referência Assistência Social - Cras, 303ª zona eleitoral: resultado da votação em Caiana (MG) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: centro de Referência Assistência Social - Cras, 303ª zona eleitoral: resultado da votação em Caiana (MG) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/26/centro-de-referencia-assistencia-social-cras-303a-zona-eleitoral-resultado-da-votacao-em-caiana-mg-no-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-26T03:42:53+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "1dbc188e57ab5e3b",
       "title": "Escola Estadual de Olhos Dagua, 148ª zona eleitoral: resultado da votação em Cônego Marinho (MG) no 2º turno",
       "summary": "O veículo G1 publicou uma atualização sobre: escola Estadual de Olhos Dagua, 148ª zona eleitoral: resultado da votação em Cônego Marinho (MG) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
@@ -272,48 +384,6 @@
       "archive": false
     },
     {
-      "id": "fafa41a12cb15e10",
-      "title": "E. M. Prof. Paulo José Andery, 183ª zona eleitoral: resultado da votação em Bueno Brandão (MG) no 2º turno",
-      "summary": "O veículo G1 publicou uma atualização sobre: e. M. Prof. Paulo José Andery, 183ª zona eleitoral: resultado da votação em Bueno Brandão (MG) no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/26/e-m-prof-paulo-jose-andery-183a-zona-eleitoral-resultado-da-votacao-em-bueno-brandao-mg-no-2o-turno.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-26T03:42:51+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "37a43b7529d1d68d",
-      "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
-      "source": "The New York Times",
-      "published_at": "2026-10-26T03:40:54+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "21e352731711f2aa",
-      "title": "Lula vence em 13 estados, com virada histórica em Minas e avanço no Rio de Janeiro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula vence em 13 estados, com virada histórica em Minas e avanço no Rio de Janeiro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/lula-vence-em-13-estados-com-virada-historica-em-minas-e-avanco-no-rio-de-janeiro.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T03:40:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "7f228902f3cc0d98",
       "title": "Lula e Flávio Bolsonaro empatam em uma cidade do Paraná. Saiba qual - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: lula e Flávio Bolsonaro empatam em uma cidade do Paraná. Saiba qual - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -321,6 +391,34 @@
       "source": "Metrópoles",
       "published_at": "2026-10-26T03:35:00+00:00",
       "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b35663ba1041f00c",
+      "title": "TSE proclama vitória de Lula, e Nunes Marques diz que decisão de prorrogar horário de votação não provocou 'nenhuma alteração' no resultado da eleição - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: tSE proclama vitória de Lula, e Nunes Marques diz que decisão de prorrogar horário de votação não provocou 'nenhuma alteração' no resultado da eleição. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWm5sZUpxM1M1VXA2UmxPOTJRMW1hd2JwbjVxQnBOMTBTNk9yMW5leE1oajY1TmFxNG5lT3U1VVNubHVCRFV6OEQ4aFdOY2pFY0NZblFuSi1PTXd4S0wydGpVS2ZabEtKYmZ3bE5mSHF5LXIxZ2RpVVcwR2Jub05fbkhpQ19UX1I4YkdDS2l1cFdFTEQ2RWt1QWMyNHpsdUI4TERlb1FQRElmRWdGQ2FqVldfZUlYU2V0amcxUEM4Y0k2alE1anlNcFA3M1ZjOGxDcGtBRjQ5R05CbzdGaG9ZT2VUeF9yZVFWNGFjN0JvT3ZCSktqVWEwZ0NxSUVZUdIBjAJBVV95cUxPaFRuT3Y1c1YwVEE1bkJPRk5vY09MeDBVd3Y5RW1MV1Z0dWNwckVGWFhBRlhvOE4xb1F1d2tnWTZhbDRHd3FnN0tvUDZmTm5aa0hMbV9wZ2dVSjk2Z1hCdnYxcEJ0bTljS2cyQ1hhczdsWS14OGJHZHFXS0xyRmhFOFlBSWRJTjZVd0tadk95amlTelBaaDhOVE1LMkhHZFEwdndsUHdkTXRicm9VVzFETHRVY1RaVW9LMTVUNmNRa01sbnU0UmUwWnRvX2U3aXM1MmI4MG9Jd2dDeUxucjJnNFpjYUtlbzd4dG9iMFJyRGhxRHhFc3Zxby1BZmlRUDdCOFc0eHNvaFY3WmRl?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-26T03:24:37+00:00",
+      "category": "Eleições",
+      "candidate": "lula",
+      "election_type": "Fala",
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "08f84fe86cc4039a",
+      "title": "Lula reeleito: imprensa internacional repercute resultado do 2º turno da eleição no Brasil - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: lula reeleito: imprensa internacional repercute resultado do 2º turno da eleição no Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQi1mWVdYMEc4cFBucTNOeVFZam1KZV9zTmtaWlE0UUp2Ml91Rkd4UkVDX1JiQnBGdkNXREt6VmdPQk1uY1RVOERMU3B3ZU1KUXVQaTJ6LWZxWWE3ajRpczd0M0xpc1hmb09xNmNQejhxdmI2cWd5N0hFb2lmUzFPQkgxTE1EeWkwQm5mSGp4bVVQaUVseFA0SHlaOS1wR2doVkxpODZXRTZIMzhRWFlOQm9PbzR4bnVqWDhxek1Vb2RhMzJld0N5ZXd3aksyZFVsWk9JdjVhcjjSAecBQVVfeXFMTlE0c1hWRUhLOEdQUXRLTDZ4Y1ZyQWViQVgzWlFxSXhiOWU2d1k0LWNITVdadGhzekY5cC1vX2tLbFk5Mlp3S1F6eGxWTDlLTXdfbm44WGJ3SFBWOXM5MjlfV0Zua0JrN1Awd01acHpCMjFtajdwdGc1ZVZybUdDSXRkdkQ2VXE4S2VRak9SbTNxUWxDSE5RMG90NExHeEhqTWZTekc2YXdGbE9DR1hpMlVCNk5icVFhQmNybk50YzY3M2dVZ2VxX0RPTFlZS2NtelBVNDhtbXVLZ1lhcDVMS0tUeUpYUDZv?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-26T03:10:16+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -380,20 +478,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "1a9d2331e30f7a98",
-      "title": "Lula agradece votos e diz que teve de vencer intromissão vinda de fora",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: lula agradece votos e diz que teve de vencer intromissão vinda de fora. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-agradece-votos-e-diz-que-teve-de-vencer-intromissao-vinda-de-fora",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-26T02:49:00+00:00",
-      "category": "Eleições",
-      "candidate": "lula",
-      "election_type": "Fala",
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -692,20 +776,6 @@
       "archive": false
     },
     {
-      "id": "c2f5073a6ea17af7",
-      "title": "Nunes Maques diz que decisão de Zanin dificultou processo eleitoral",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: nunes Maques diz que decisão de Zanin dificultou processo eleitoral. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-maques-diz-que-decisao-de-zanin-dificultou-processo-eleitoral",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-26T01:34:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "7d4ceb6ed40e3f04",
       "title": "Lideranças latino-americanas de esquerda parabenizam Lula por reeleição - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: lideranças latino-americanas de esquerda parabenizam Lula por reeleição - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -762,20 +832,6 @@
       "archive": false
     },
     {
-      "id": "aed4ecefa8c80bae",
-      "title": "Vídeo: Nunes Marques explica como TSE tratou decisão de prorrogar horário da eleição",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: vídeo: Nunes Marques explica como TSE tratou decisão de prorrogar horário da eleição. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/videos/2026/10/nunes-marques-explica-como-tse-tratou-decisao-de-prorrogar-horario-da-eleicao",
-      "source": "Senado Federal",
-      "published_at": "2026-10-26T01:22:34+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d4bbe52486168905",
       "title": "Flávio diz que houve sacanagem, afirma ser impossível reconhecer resultado e fala em pedir anulação de eleição",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio diz que houve sacanagem, afirma ser impossível reconhecer resultado e fala em pedir anulação de eleição. Consulte a reportagem para contexto, dados e declarações.",
@@ -786,34 +842,6 @@
       "candidate": "flavio",
       "election_type": "Fala",
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "08d3d838e2e5aecb",
-      "title": "De direita, presidente do Paraguai parabeniza Lula por vitória nas eleições - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: de direita, presidente do Paraguai parabeniza Lula por vitória nas eleições - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlBET2h5VnA3YUxIRjRWRHI2UGhlU1pOSlUtSi1sSXFiY0YwTkVlbFpBZndFWmkyWlRXVm1DQ3hNLUU1MFQwUlJHWnVyblB4Y2RMYnhqLTB3WVRBV1ZNVFh3Rm1rRWh0eEplSW9lLTI5SF93UWhQLTZFcV9qaFY0cVNFUURZOUkyanFUMDFNTVVOQ3A3WTlVdU9NM2NmdlpMbWZzX1ppdnVJTm8?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-26T01:15:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cd72e1d8db39a235",
-      "title": "Reeleição de Lula para 4º mandato repercute na imprensa internacional - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: reeleição de Lula para 4º mandato repercute na imprensa internacional - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNF9uVkhCZWZKWmlwSHFPWnpja1VZOXd2UGtTMHdKd0NXTGJqWEJkWmFqRUxYVEZpU3BCTWxmYnVHdUlILXhDYjI0bDY5U0dURG5jUW5IdGhuQ3hmVU1jTlByRkptV21pd0d2dzBEazBTeWhReS1keWhXRUZ3dFdDZV8yVlJHTnZMX1MydHNKOWFwSlJvYnl5SjhzcFB3TnR3WUtZMA?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-26T01:12:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -846,20 +874,6 @@
       "archive": false
     },
     {
-      "id": "6be6129b8e954857",
-      "title": "Vídeo: Relembre a trajetória de Lula, eleito para presidir o país pela quarta vez",
-      "summary": "O veículo Senado Federal publicou uma atualização sobre: vídeo: Relembre a trajetória de Lula, eleito para presidir o país pela quarta vez. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www12.senado.leg.br/noticias/videos/2026/10/relembre-a-trajetoria-de-lula-eleito-para-presidir-o-pais-pela-quarta-vez",
-      "source": "Senado Federal",
-      "published_at": "2026-10-26T00:47:26+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "0f1ae6b09f608adf",
       "title": "Lula reeleito: o que o mercado vai cobrar do novo governo? - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: lula reeleito: o que o mercado vai cobrar do novo governo?. Consulte a reportagem para contexto, dados e declarações.",
@@ -867,20 +881,6 @@
       "source": "Estadão",
       "published_at": "2026-10-26T00:42:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b2e166409fce2b9c",
-      "title": "Reeleito para o quarto mandato, Lula enfrentará Congresso de maioria oposicionista e terá de negociar para aprovar projetos - A Cidade Costa Verde",
-      "summary": "O veículo A Cidade Costa Verde publicou uma atualização sobre: reeleito para o quarto mandato, Lula enfrentará Congresso de maioria oposicionista e terá de negociar para aprovar projetos - A Cidade Costa Verde. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQV9QaHBEb0VTMXVWVTJBa2lyRkxkX1FxTFBRaUZVWVgwNkV1VnR1UFFPOU9Td3hXV0ROc3JSR0JobEtHeUZqaDFfWV9FQkI5cFdRc3ZKYWltY0djcWoybnpVRHQwcXVJbXVydXF5dGNHTnQ4V0NrWUZWYTVaQWM1QmZjREs2eFp3bk5BdHJXbFBGU2hWTzdySkZwU2VJcmNOSHBRNGJCTzdZdm1ETENKdHdHNF80dFdtNWlTVXZsTlBJal9icFppSGlqT25BRWJrek9jeUNpVzQ2MDlqOTVXdG5rbUszaVhxS0J4ZHFrV1FUSGhwR2c?oc=5",
-      "source": "A Cidade Costa Verde",
-      "published_at": "2026-10-26T00:41:00+00:00",
-      "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -958,16 +958,16 @@
       "archive": false
     },
     {
-      "id": "e2627b7d57b80eee",
-      "title": "Senador eleito apresenta pedido de impeachment contra ministro Zanin",
+      "id": "9c03d8c3fa8a3909",
+      "title": "Senador eleito apresenta pedido de impeachment contra ministro Zanin - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: senador eleito apresenta pedido de impeachment contra ministro Zanin. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/senador-eleito-apresenta-pedido-de-impeachment-contra-ministro-zanin/",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcDVKeXZDZTl4dm56aG0yLXlrMjVMVTcydUc2TDRWbnRLLTQyUFE1WEpiNHBOMXY4S2t1MGJ5bGM0TXFFWjdkVFhTYWlZWjRMd2lYMzlmdC1qQXBOei1JQk56eDVRQmR2cXVHV0F1T0s4UXZoNFpLQjNUY0NyRVJ1YklGUm1Gam0zT3pQSl9EUUZHV0V3Tlc4U2pOaHlTa2Z2ZjduYg?oc=5",
       "source": "VEJA",
       "published_at": "2026-10-25T21:40:56+00:00",
       "category": "Governo federal",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1024,6 +1024,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dc85380d825ddb6f",
+      "title": "Polícia Civil investiga três jovens por apologia ao nazismo no Maranhão - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: polícia Civil investiga três jovens por apologia ao nazismo no Maranhão. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcF9wYkc2Ukl5UHlkZlZMY2NJVm5xNlJlcGJSNGxZcl9TY2VPd0EySXBBQjdsZFdBSTVwRjRucGdTSVRvaElxb0NTNWFsaG1LS1ZLd0JwekFYa2lRX2p0cjI3cEJ5VmlFeThqWVkxUEFoVU9TZDBHUXlhak5VcTZFRUFjWGZmNWljUGo2cG0xcDlQRFpYMGZudm9SUUZfUldyYldVV0RJUW00OEJobXFGRDh5QjJpWl9NWEh6M294cW1DSFAtM2FaU9IB1wFBVV95cUxOSVVFZjg2QWF5bEdCWjg4V21mMzRZZTdPejdZSk1DY1lhOGM5bDRfMl9CVE5MQmxjU1U0X09aVS1SSktqOUNlSTN3NHlNT0JaY3Z6aDF6cmE0SkxzLUF5Y1J6eS1USVdhd0l6aDFmczN6ajlqeTRyeGlyT2VmSS1hYVZrZkw1SmtObmI4WUEtdkpCWml1S3ZvZml1em1RT0dSSEdHRjhiUUo4dm5iOEpaeFl6NVhWLVYySmNLUE1BTFlLSWtXZjNDbzQzWldQX3pCbnVOb3RsRQ?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-25T17:56:31+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1490,13 +1504,13 @@
       "archive": false
     },
     {
-      "id": "f460c4d9df5bb63e",
-      "title": "Lula x Flávio Bolsonaro: o que cada um propõe para a segurança pública? - Exame",
-      "summary": "O veículo Exame publicou uma atualização sobre: lula x Flávio Bolsonaro: o que cada um propõe para a segurança pública? - Exame. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTy00T2xnNmYzYUpGSE5XTDJHLXd4TW91WWlrVDhSby1FSHdKbkpUZzNpNHJRY2JwVEhxa3FlYkh4VzVDNjNKNFpLZWRjbnNpbGU0bmdfMm9wZ3JqR2FPMUhvanNEdXNWSWNHQVQwRmRmdk11bWpXakJaTTg3VkcwVHBXQW9SaXRZb2pKaWN2ZFhpdXliUmxlMkhERQ?oc=5",
-      "source": "Exame",
-      "published_at": "2026-10-24T00:24:01+00:00",
-      "category": "Segurança",
+      "id": "887decdcea59a3ec",
+      "title": "Debate da Globo: Lula e Flávio Bolsonaro discutem dívidas dos brasileiros, salário mínimo e SUS e trocam ofensas e ataques com 'nove dedos' e 'miliciano' - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: debate da Globo: Lula e Flávio Bolsonaro discutem dívidas dos brasileiros, salário mínimo e SUS e trocam ofensas e ataques com 'nove dedos' e 'miliciano'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzJMVjg5Z0xLeWN3T0xqNzZYeGhPV00yNmRsNm53UVpRRUtkeUVGdUlDczJSVk5Ebkk4T0NCWk9uSFNmMlpKLWx5RVdYUFJQb3BQRjh0R09QNnlmaUVuaTMyMGtHVFlzWVZaUnhoWUpFUHAwa21mLUtvWnA3VE5KOXZhMGN5SUc0VzNBUNIBmwFBVV95cUxNUUhPNnRicDEtRk13dVBJYk1tNVVCX0U2Z3gwXzZYaEZYZ2gzamFuVDhSUy1TS1BLSG13SjZWUkZHMXBORnU0enI0RXVEc2x2a24ya0ZjMDJKNG1xN0ZTVzBYUDJCVHhuenJfWEVZM0ZhWmNubWZneENWaXhSZjVzeVZzMnNESXVfUDVvYi1FT3VOUGFTd09tdG5wcw?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-24T00:39:27+00:00",
+      "category": "Saúde",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1670,26 +1684,13 @@
       "via_aggregator": false,
       "curated": false,
       "archive": false
-    },
-    {
-      "id": "eec3e501868a8dd7",
-      "title": "Doença de Newcastle: protocolos sanitários são cumpridos em SC",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: doença de Newcastle: protocolos sanitários são cumpridos em SC. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/doenca-de-newcastle-protocolos-sanitarios-sao-cumpridos-em-sc",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-22T18:21:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
     }
   ],
   "source_health": {
     "G1": {
-      "status": "ok",
-      "items": 100
+      "status": "erro",
+      "items": 0,
+      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "G1 · Economia": {
       "status": "erro",
@@ -1746,7 +1747,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 79
+      "items": 80
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1754,35 +1755,35 @@
     },
     "Metrópoles · Política": {
       "status": "ok",
-      "items": 96
+      "items": 97
     },
     "O Globo": {
       "status": "ok",
-      "items": 78
+      "items": 80
     },
     "Estadão": {
       "status": "ok",
-      "items": 57
+      "items": 59
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 77
+      "items": 78
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 77
+      "items": 76
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 74
+      "items": 75
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 57
+      "items": 56
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 58
+      "items": 57
     }
   },
   "notes": [
