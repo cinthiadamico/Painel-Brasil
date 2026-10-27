@@ -216,6 +216,9 @@
       tab.setAttribute('aria-pressed', String(tab.dataset.view === view));
     });
     get('archiveSection').hidden = view !== 'arquivo';
+    document.querySelector('.dashboard').hidden = view === 'arquivo';
+    document.querySelector('.tools').hidden = view === 'arquivo';
+    document.querySelector('.separator-heading').hidden = view === 'arquivo';
     get('search').disabled = view === 'arquivo';
     get('search').placeholder = view === 'arquivo'
       ? 'Use a pesquisa dentro de cada edição histórica'
@@ -223,13 +226,16 @@
     get('sort').disabled = view === 'arquivo';
     get('resultsKicker').textContent = categories[view].subtitle;
     get('resultsTitle').textContent = categories[view].title;
-    get('overline').textContent = view === 'arquivo' ? 'Memória de edições' : 'Atualizações por fonte';
-    get('heading').textContent = view === 'arquivo' ?
-      'História preservada, com datas e origens.' :
-      view === 'geral' ? 'Notícias do Brasil, com contexto e origem clara.' : categories[view].title;
+    get('overline').textContent = view === 'arquivo' ? 'Memória documental' : 'Panorama da atualidade';
+    var headingText = view === 'arquivo' ? 'A memória também conta a história' :
+                      view === 'geral' ? 'O Brasil em perspectiva' : categories[view].title;
+    get('heading').replaceChildren(document.createTextNode(headingText),
+                                  el('span', 'gold-period', '.'));
     get('introText').textContent = view === 'arquivo'
-      ? 'Consulte o histórico RSS e os conteúdos importados do Claude, sem confundi-los com notícias atuais.'
-      : 'Manchetes recentes das fontes monitoradas. Análises de IA são identificadas e não substituem a leitura original.';
+      ? 'Recupere edições anteriores do Claude e notícias preservadas por data, sempre com a indicação de sua origem e do caráter histórico.'
+      : view === 'geral'
+      ? 'Acompanhe o país por meio de manchetes rastreáveis, com acesso às fontes e separação clara entre notícias, memória documental e IA.'
+      : 'Manchetes recentes por editoria, com links aos veículos originais. Os registros históricos e as perguntas de IA ficam em seções distintas.';
     if (updateURL) {
       var url = new URL(location.href); url.searchParams.set('aba', view);
       history.replaceState(null, '', url);
