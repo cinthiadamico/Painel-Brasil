@@ -105,3 +105,27 @@ O protótipo de interface não substitui o index.html publicado e não permite
 sincronizar diretamente Artifacts privados do Claude.ai. A integração da API
 só será testável com credenciais e créditos fornecidos pela proprietária.
 As avaliações automáticas não são garantia de precisão jornalística.
+
+## Erro HTTP 400 por workspace não selecionado (27/10/2026)
+
+A API informou `invalid_request_error` associado a workspace. Chaves
+não limitadas a um único workspace exigem o header `anthropic-workspace-id`.
+Corrigimos o módulo `scripts/claude_enrich.py` para reconhecer a variável
+`ANTHROPIC_WORKSPACE_ID` e passá-la com a requisição quando configurada.
+
+1. Abra https://platform.claude.com/settings/workspaces e copie a coluna ID
+   do workspace acessível pela sua chave (identificador `wrkspc_...`).
+2. Abra GitHub > Painel-Brasil > Settings > Secrets and variables > Actions >
+   **Variables** > **New repository variable** e cadastre:
+   Name = `ANTHROPIC_WORKSPACE_ID`; Value = o ID que você copiou.
+   É uma variável de configuração, NÃO sua chave ou senha.
+3. Mantenha `ANTHROPIC_API_KEY` em **Secrets**, sem copiá-la para Variables.
+4. A execução da branch de teste poderá ser disparada alterando
+   `experimentos/executar-claude.txt`.
+5. Alternativa: gerar uma chave vinculada a um único workspace no Console
+   e substituir o secret `ANTHROPIC_API_KEY`, sem definir a variável.
+6. Quando a API retorna erro, o workflow acusa falha, mantendo a
+   camada editorial anterior. Os logs exibem somente HTTP e categoria, nunca
+   o valor da chave ou o texto livre retornado pelo servidor.
+
+Documentação: https://platform.claude.com/docs/en/manage-claude/authentication
