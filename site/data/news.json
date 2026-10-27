@@ -1,10 +1,38 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-27T03:46:00.092807+00:00",
-  "last_success_at": "2026-10-27T03:46:00.092807+00:00",
+  "last_checked_at": "2026-10-27T04:43:41.970028+00:00",
+  "last_success_at": "2026-10-27T04:43:41.970028+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "85d4372ca89279ac",
+      "title": "O que significa \"maxxing\", eleita a palavra do ano por site norte-americano - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: o que significa \"maxxing\", eleita a palavra do ano por site norte-americano - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUEFoTTlsOUlFakhPMzNLSmNORDUzOUlaUkRjNDR4N29RcDdQemJBRHRkVE9PdGNFcll2RHdZd1lzSk1qcmNLYVowek1TUG8wTU1SZWxZTV94NEFDbDQtc3JqYjhqMnd3X3hONThDanNWQ1lNay1Md3FTWGRQdFYtZ1lTSWluNERwQ3M3ZjVaZWV2TUhnNmZ3aFBPTVJlUVdDdm5YX2d0NWM?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T04:14:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e644e6694109b923",
+      "title": "What to Know About Brazil’s Election, and What Comes Next",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: what to Know About Brazil’s Election, and What Comes Next. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-27T04:08:13+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "084a3e31edad1b8c",
       "title": "Brasileiros lotam redes de Trump com pedidos de ajuda após vitória de Lula - Metrópoles",
@@ -139,20 +167,6 @@
       "source": "G1",
       "published_at": "2026-10-27T03:14:16+00:00",
       "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c08a2a1c68a4a6b0",
-      "title": "Bolsonaro’s Party Recognizes Lula’s Victory in Brazil: What to Know",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: bolsonaro’s Party Recognizes Lula’s Victory in Brazil: What to Know. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-27T03:12:54+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1070,20 +1084,6 @@
       "archive": false
     },
     {
-      "id": "0cb68f5381f344c7",
-      "title": "Trump diz que eleição no Brasil “pareceu fraudada” - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: trump diz que eleição no Brasil “pareceu fraudada” - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQczV3MTRxLTZ0aVhwckF0ZXk5YVp1NnZ0UWVibm9XcnZ6aTdMYVJFU3ozYU9vcG8ySHFFM3haVFFXc3d0WXNYcjdsX1R1dWN2d0dFUlF3TGlXQUgxdGNPbHVCekpJZ084bUdQRWNjR2xFUjJrcE1uQ3FPUDIwRTJDLTJ3RjRraFp0?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-26T19:46:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "29b39c7a5f3a4e06",
       "title": "Polícia investiga eleitora que fez saudação nazista no Rio",
       "summary": "O veículo VEJA publicou uma atualização sobre: polícia investiga eleitora que fez saudação nazista no Rio. Consulte a reportagem para contexto, dados e declarações.",
@@ -1588,6 +1588,20 @@
       "archive": false
     },
     {
+      "id": "b989de561fe8054e",
+      "title": "Bruna Marquezine é confirmada no elenco da 3ª temporada de ‘Magnatas do Crime’ - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: bruna Marquezine é confirmada no elenco da 3ª temporada de ‘Magnatas do Crime’. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUjZ3UFUwQ1pFVVdIT0Z5aWN6amlrUDM2QlhFZ29qRU5CWEVSS0Z3cUFDaXBqajFGV3dwckJwZ1A4aWRwbEZnOWhGUDR0OEZNdHNxLXMzQW1YREx6amh5WTAzNEZSRm9kek1CRFQ3bWlyOGlqNlZkR242VWZMOHhfSjhnWGRadEI5UlYtTHZybGx6Q1YxV09Wck84V2VsVjgwSm1IWm5QVmVqbFd4Zk56bXNDRGxCakM2ejFtNFdJSTlWQdIBxwFBVV95cUxOYlB4V0JmQURULVBMb0NHNnc4eDZuYm1SeU1EbGNLeDM0RUc5VlFoOWNlV0xub2tLRlZnUWVDbEtxLUZDbTYyMmI2MERwZEpINHpBQVRwVHNFLWJPbEtjTDltbVhOclNGMi1pRUt2eDNmbG5zZUNlWkpWbWoxcnVNRGdKTGQ2ekJzTHRGc08zU3RMTFRndGJ1cDdTZzF5b0dFZTk1TDFjNlBUbXNkVVVpSlAyUGlyN25ZYUhzLTd4R2h0V09jWWF3?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-23T15:24:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "82d3870435ae9329",
       "title": "Recife abrirá 34 creches no domingo para facilitar o voto dos pais",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: recife abrirá 34 creches no domingo para facilitar o voto dos pais. Consulte a reportagem para contexto, dados e declarações.",
@@ -1660,8 +1674,9 @@
   ],
   "source_health": {
     "G1": {
-      "status": "ok",
-      "items": 48
+      "status": "erro",
+      "items": 0,
+      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "G1 · Economia": {
       "status": "erro",
@@ -1718,11 +1733,11 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 83
+      "items": 84
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 44
+      "items": 45
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1730,19 +1745,19 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 87
+      "items": 89
     },
     "Estadão": {
       "status": "ok",
-      "items": 69
+      "items": 57
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 60
+      "items": 62
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 69
+      "items": 68
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1750,11 +1765,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 29
+      "items": 28
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 61
+      "items": 60
     }
   },
   "notes": [
