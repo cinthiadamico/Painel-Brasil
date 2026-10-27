@@ -3,81 +3,146 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="color-scheme" content="light dark">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#16333d">
   <title>Painel Brasil | Laboratório editorial</title>
-  <meta name="description" content="Protótipo da nova organização do Painel Brasil: fontes, notícias, arquivo Claude e análise editorial experimental.">
+  <meta name="description" content="Nova organização do Painel Brasil: notícias com fontes identificadas, editorias, arquivo documental e perguntas editoriais do Claude.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="./lab.css">
   <script src="./lab.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">Ir para o conteúdo</a>
-  <div class="lab-ribbon">VERSÃO DE TESTE · Esta página não substitui o portal publicado</div>
+  <div class="lab-ribbon">
+    <div class="layout ribbon-inner">
+      <span><span class="ribbon-dot" aria-hidden="true"></span> LABORATÓRIO EDITORIAL</span>
+      <span>Versão de teste · O portal público não foi alterado</span>
+    </div>
+  </div>
   <header class="topbar">
     <div class="layout topinner">
-      <div class="brand"><span class="brandmark">PB</span>
-        <div><p class="eyebrow">Panorama nacional, com fontes</p>
-          <h1>Painel <em>Brasil</em></h1></div>
+      <div class="masthead">
+        <div class="brand-symbol" aria-hidden="true">PB<span>.</span></div>
+        <div class="brand-copy">
+          <p class="eyebrow">Informação para compreender o país</p>
+          <h1>Painel <em>Brasil</em></h1>
+          <p class="brand-subtitle">Notícias, contexto e memória documental.</p>
+        </div>
       </div>
-      <div class="topstatus"><span class="signal" id="signal"></span><span id="status">Consultando a última coleta…</span></div>
+      <div class="masthead-aside">
+        <p class="eyebrow">EDIÇÃO EM DESENVOLVIMENTO</p>
+        <p class="edition-day" id="editionDate">Panorama nacional</p>
+        <div class="topstatus" role="status"><span class="signal" id="signal" aria-hidden="true"></span><span id="status">Consultando a última coleta…</span></div>
+      </div>
     </div>
   </header>
+  <div class="nav-shell">
+    <div class="layout nav-container">
+      <nav class="tabs" aria-label="Editorias">
+        <button class="tab active" data-view="geral" type="button" aria-pressed="true">Visão geral</button>
+        <button class="tab" data-view="eleicoes" type="button">Eleições</button>
+        <button class="tab" data-view="politica" type="button">Política e governo</button>
+        <button class="tab" data-view="economia" type="button">Economia</button>
+        <button class="tab" data-view="congresso" type="button">Congresso</button>
+        <button class="tab" data-view="justica" type="button">STF e Justiça</button>
+        <button class="tab" data-view="social" type="button">Brasil</button>
+        <button class="tab" data-view="mundo" type="button">Mundo</button>
+        <button class="tab archive-tab" data-view="arquivo" type="button">Arquivo Claude</button>
+      </nav>
+      <span class="nav-note">FONTES IDENTIFICADAS</span>
+    </div>
+  </div>
   <div class="layout">
-    <nav class="tabs" aria-label="Editorias">
-      <button class="tab active" data-view="geral" type="button">Visão geral</button>
-      <button class="tab" data-view="eleicoes" type="button">Eleições</button>
-      <button class="tab" data-view="politica" type="button">Política e governo</button>
-      <button class="tab" data-view="economia" type="button">Economia</button>
-      <button class="tab" data-view="congresso" type="button">Congresso</button>
-      <button class="tab" data-view="justica" type="button">STF e Justiça</button>
-      <button class="tab" data-view="social" type="button">Brasil</button>
-      <button class="tab" data-view="mundo" type="button">Mundo</button>
-      <button class="tab" data-view="arquivo" type="button">Arquivo Claude</button>
-    </nav>
     <main id="main">
       <section class="intro" aria-labelledby="heading">
-        <div>
-          <p class="eyebrow" id="overline">Edição experimental</p>
-          <h2 id="heading">Notícias do Brasil, com contexto e origem clara.</h2>
-          <p id="introText">Notícias recentes, perguntas editoriais produzidas por IA e conteúdo histórico do Claude. Cada conteúdo é identificado por sua origem e data.</p>
+        <div class="intro-main">
+          <div class="intro-kicker"><span class="gold-line" aria-hidden="true"></span><p class="eyebrow" id="overline">Panorama da atualidade</p></div>
+          <h2 id="heading">O Brasil em perspectiva<span class="gold-period">.</span></h2>
+          <p id="introText">Acompanhe notícias recentes por assunto, explore as fontes originais e consulte o arquivo histórico sem confundir fatos com análises de IA.</p>
+          <div class="intro-foot">
+            <span class="intro-sign"><span class="small-mark" aria-hidden="true">PB</span> Curadoria de fontes públicas</span>
+            <span class="intro-divider" aria-hidden="true"></span>
+            <span>Atualização e rastreabilidade</span>
+          </div>
         </div>
-        <div class="intro-aside">
-          <span>FONTES EM PRIMEIRO LUGAR</span>
+        <div class="intro-aside" aria-label="Panorama em números">
+          <div class="aside-decor" aria-hidden="true"></div>
+          <span class="aside-overline">RADAR DE NOTÍCIAS</span>
           <strong id="itemCount">—</strong>
-          <small>registros recentes no conjunto publicado</small>
+          <span class="aside-label">manchetes recentes</span>
+          <div class="aside-bottom">
+            <span><b id="categoryCount">—</b> editorias</span>
+            <span><b id="sourceCount">—</b> veículos</span>
+          </div>
+          <span class="aside-caption">Números do último arquivo RSS consultado</span>
         </div>
       </section>
+      <div class="separator-heading">
+        <span>JORNALISMO COM ORIGEM</span>
+        <span class="separator-rule"></span>
+        <span>LEITURA CLARA, SEM RUÍDO</span>
+      </div>
       <section class="tools" aria-label="Pesquisa e filtros">
-        <label class="search" for="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar por assunto, veículo ou palavra-chave"></label>
-        <label class="sort" for="sort"><span>Ordenar</span><select id="sort"><option value="date">Mais recentes</option><option value="source">Por fonte</option></select></label>
+        <label class="search" for="search">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="search" type="search" placeholder="Pesquisar notícias, veículos e assuntos" autocomplete="off">
+        </label>
+        <label class="sort" for="sort">
+          <span>Organizar por</span>
+          <select id="sort"><option value="date">Mais recentes</option><option value="source">Veículo</option></select>
+        </label>
       </section>
       <div class="dashboard">
         <section class="main-column" aria-labelledby="resultsTitle">
-          <div class="section-heading"><div><p class="eyebrow" id="resultsKicker">Manchetes rastreáveis</p><h3 id="resultsTitle">Em destaque</h3></div><span id="resultsCount"></span></div>
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow" id="resultsKicker">Seleção por editorias</p>
+              <h3 id="resultsTitle">Em destaque</h3>
+            </div>
+            <span id="resultsCount" class="results-count"></span>
+          </div>
           <div id="results" class="news-grid" aria-live="polite"><p class="notice">Carregando informações…</p></div>
-          <button id="more" class="more" type="button" hidden>Mostrar mais notícias</button>
+          <button id="more" class="more" type="button" hidden>Ver mais notícias <span aria-hidden="true">↓</span></button>
         </section>
-        <aside class="side-column">
-          <section class="sidebox" aria-labelledby="aiTitle">
-            <div class="side-label"><span class="violetdot"></span>PRODUZIDO POR IA</div>
-            <h3 id="aiTitle">Perguntas para acompanhar</h3>
-            <p class="side-intro">Quando a API estiver ativada, o Claude formula perguntas a partir de manchetes RSS, sem afirmar que verificou as reportagens.</p>
+        <aside class="side-column" aria-label="Análise e transparência editorial">
+          <section class="sidebox ai-box" aria-labelledby="aiTitle">
+            <div class="side-label"><span class="violetdot" aria-hidden="true"></span> INTELIGÊNCIA ARTIFICIAL · CONTEXTO</div>
+            <h3 id="aiTitle">O que vale acompanhar<span class="gold-period">.</span></h3>
+            <p class="side-intro">Perguntas formuladas pelo Claude a partir de títulos de notícias, para orientar a leitura das fontes. Não são reportagens ou verificações.</p>
             <div id="ai" class="ai-list"><p class="notice">Consultando informações editoriais…</p></div>
-            <p class="disclosure">As perguntas da IA não são notícias nem checagem independente. Verifique sempre a fonte original.</p>
+            <p class="disclosure">Conteúdo automatizado, não verificado. Consulte sempre a fonte original antes de tirar conclusões.</p>
           </section>
           <section class="sidebox mutedbox">
-            <p class="side-label">TRANSPARÊNCIA</p>
-            <h3>Como ler este painel</h3>
-            <p>Notícias RSS: títulos com links às fontes. Arquivos Claude: edições importadas, não verificadas. IA: perguntas editoriais que exigem confirmação.</p>
-            <div class="legend"><span><i class="dot newsdot"></i>RSS recente</span><span><i class="dot claudedot"></i>Claude histórico</span></div>
+            <div class="side-label">COMPROMISSO EDITORIAL</div>
+            <h3>Transparência em primeiro lugar.</h3>
+            <p>Cada manchete aponta para seu veículo de origem. As edições antigas do Claude ficam separadas do noticiário atual; os conteúdos de IA são identificados.</p>
+            <div class="legend">
+              <span><i class="dot newsdot" aria-hidden="true"></i> Notícias RSS</span>
+              <span><i class="dot claudedot" aria-hidden="true"></i> Arquivo Claude</span>
+            </div>
+          </section>
+          <section class="sidebox editorial-note">
+            <p class="eyebrow">MEMÓRIA E CONTEXTO</p>
+            <h3>O histórico também importa.</h3>
+            <p>Explore edições arquivadas e recupere registros de datas anteriores.</p>
+            <button type="button" id="goArchive">Explorar arquivo <span aria-hidden="true">↗</span></button>
           </section>
         </aside>
       </div>
       <section id="archiveSection" class="archive" hidden aria-labelledby="archiveTitle">
-        <div class="section-heading"><div><p class="eyebrow">Memória documental</p><h3 id="archiveTitle">Edições e dias arquivados</h3></div></div>
+        <div class="section-heading">
+          <div><p class="eyebrow">Arquivo documental</p><h3 id="archiveTitle">Edições e dias arquivados</h3></div>
+          <p class="archive-note">Conteúdo histórico não equivale a notícia atual</p>
+        </div>
         <div id="archive" class="archive-content"><p class="notice">Carregando arquivo…</p></div>
       </section>
     </main>
-    <footer><strong>Painel Brasil</strong><span>Projeto editorial independente · dados de fontes públicas · laboratório não publicado</span><a href="./index.html">Abrir versão original</a></footer>
+    <footer>
+      <div class="footer-brand"><span class="footer-mark">PB.</span><div><strong>Painel Brasil</strong><span>Informação, perspectiva e memória.</span></div></div>
+      <p>Projeto editorial independente · Dados de fontes públicas · Laboratório ainda não publicado</p>
+      <a href="./index.html">Versão pública original <span aria-hidden="true">↗</span></a>
+    </footer>
   </div>
 </body>
 </html>
