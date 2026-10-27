@@ -1,10 +1,220 @@
 {
   "schema_version": 1,
-  "status": "parcial",
-  "last_checked_at": "2026-10-27T06:54:51.617914+00:00",
-  "last_success_at": "2026-10-27T06:54:51.617914+00:00",
+  "status": "atualizado",
+  "last_checked_at": "2026-10-27T07:54:55.487256+00:00",
+  "last_success_at": "2026-10-27T07:54:55.487256+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "d68612ab686758b7",
+      "title": "Eleição: silêncio de Milei sobre Lula acirra crise entre Brasil e Argentina - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: eleição: silêncio de Milei sobre Lula acirra crise entre Brasil e Argentina - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHppd2tIZ0NBUS1QLUlJbDY1VnpUNUdCRVlWdlJYWmttQUR5T0NYRXJLbTZGajh0MjZLZGU4OUlJaHdxczN5cWZtRG8xeGpEZTlNaW1LWjhoeUdZS0lZSEFtUkNaaDBaQW5CVW1nbVlKdF9ORWpJcVFhUk9kRWlWOG52bVF3ejRCcnZ4eUQ2aWlKZjNtMkxWeUhWdE93ZmlDY05ZSGJYd0RDQVk?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T07:30:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "aebb9042eb5de660",
+      "title": "O salto de comparecimento que selou a vitória de Lula em 2026 - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: o salto de comparecimento que selou a vitória de Lula em 2026 - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkROQkFDY2Zjak5RZ2tid2RDaW9yUE5OSk5WOC0tR0d6NVdqUkVLWk9YdkkxaHh6WENocGZkZlB1c3lXdVdJYlFPVWJzN3ZpS2xuQWxHWmtfZmlMVVZwWVp5bnF4MXF6ZmFzckdvSUtXOVhDc3F6bFFmbC1xbzhORWd4VDdsMFpIMzNONjc5UlBXNlRxSE5CV2VDZkFZRF8xdElINEx3?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T07:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fb432f700c3c8d88",
+      "title": "Procuradoria nega abuso de Tarcísio ao fechar Metrô após ato de Lula em SP - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: procuradoria nega abuso de Tarcísio ao fechar Metrô após ato de Lula em SP - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUndvdi1ZaE5IUmpwUWZYZEtSYXRiTzM4dVVwNUdhbjh0Q09yR3doQ25GVlQ3STMwSVp3bHNQcV9GaFdLaFpQeER5Y1JYaFZpTTJmZTlrVkJyRlJzd2dleHJYWlJuS2NmejJnMHNnMGxEek1oSUV1LTJhbEJ4NzNKblAtaGpNNnBOLU9GaFJXVWFKMVFiblpCNVFSaTkzT2xzVzJvRlNLbTNjamVRZTZ2LTVteWVUOHBuUkRzeUNiaV8?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T07:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "539692311a58b75d",
+      "title": "Por governabilidade, Lula inicia conversas com partidos que apoiaram Flávio - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: por governabilidade, Lula inicia conversas com partidos que apoiaram Flávio - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU00tTHlET00yVU4tZTBYN25tR0c5TlFzeVF6ZkRDUlBDODhZS2FDOG5Dd3UxTHMxekJnVDk5cjA4R3JuQ1lYTnEzWmx2WTl2aWNwUjM3cllVQ0RXX3pETTB5d24yenNzcDRBN2hWM3VMTUhkRFNJb0VUR2lGLUM3X2pNYVFaNHNNaFNGU0xXZmJNUlo2YmE1VHE3allkQzNtdUpFMXJNbk1uUFRE?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T07:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "285f993069c2bfaa",
+      "title": "Reeleito para 4º mandato, Lula completa 81 anos nesta terça-feira (27/10) - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: reeleito para 4º mandato, Lula completa 81 anos nesta terça-feira (27/10) - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHdGVEYxa0ZLdG1aYXJiX2JoLThhVGhBUXMwcllWdWhMUWlZeEhPM25wbkhjR0Y1UmpTVmNremhGYU9TOTFpX3JTN0hBRlVUZHlQOW0yeUpvUHJfQjlrekwtUnNzU0hoanY3TU9tcUlWcHFwbmc5Ymo4LTgxMGVfUGNwQTZMQnpZNk1mMmtQYUJlMWE4a2doa2FETmNXeUE?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T07:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8fdd188f8390b8d7",
+      "title": "Sucessão, governabilidade e derrotados: o que pesa na montagem do Lula 4 - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: sucessão, governabilidade e derrotados: o que pesa na montagem do Lula 4 - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHNkaEpTTEtyZkdOdHI0R1h4a3p0em1hZGc2ekJVQ2hwa0dhN2hKVS01TnV5YjhrU28wdEp2S0p6RmpQS01kTVI1LVFRbDc5VGxQbklEZ3RpZXRFN1JjTm9uRDE2a3NBN3YyN3Q0aFk4elllNWU2bllwNWc4NDBfSkNIY0ZxM1IyeUNsQVR6bUk2Q3JCb0ZQSHEyNlAwRnU2cms3Z29oQQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T07:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0fbb3c8eab425df9",
+      "title": "De olho no \"pós-Lula\" e em 2030, partidos discutem formação de federações - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: de olho no \"pós-Lula\" e em 2030, partidos discutem formação de federações - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTk9CWGtmSTk0ZDBveUs5TEtYSnI3QVBHOEpQRjVtT3NRUlFXUERZaHhUcHlPbWlNVExFM0pDZU5LODNMMkZBMmlIYmFiODFXa1RfbHRDWXdwSVoxLXBUcTRVYlkwajVhMXpab2w0Ujd1aUJ4WHdlNm01ZFVlcndsek5TSDRnTU1jaXRuTGhITURWdE9TYV9UWHhkMWhyV0ZOVU9ZUUczTQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T07:30:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dcc7914d74cf595a",
+      "title": "Como Lula reverteu desvantagem em MG e venceu no estado no 2º turno",
+      "summary": "O veículo G1 publicou uma atualização sobre: como Lula reverteu desvantagem em MG e venceu no estado no 2º turno. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/27/como-lula-reverteu-desvantagem-em-mg-e-venceu-no-estado-no-2o-turno.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T07:00:02+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "89cfa50e5d17ee35",
+      "title": "Gavião é usado para afastar pombos em hospital de Vitória; ave também 'trabalha' no aeroporto",
+      "summary": "O veículo G1 publicou uma atualização sobre: gavião é usado para afastar pombos em hospital de Vitória; ave também 'trabalha' no aeroporto. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/27/gaviao-e-usado-para-afastar-pombos-em-hospital-de-vitoria-ave-tambem-trabalha-no-aeroporto.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "95a5a33f7f156732",
+      "title": "Emprego: confira as 271 vagas disponíveis em Petrolina, Salgueiro e Araripina",
+      "summary": "O veículo G1 publicou uma atualização sobre: emprego: confira as 271 vagas disponíveis em Petrolina, Salgueiro e Araripina. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/27/emprego-confira-as-271-vagas-disponiveis-em-petrolina-salgueiro-e-araripina.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a7487e5e2047b7ea",
+      "title": "Steve Bannon insiste em vitória de Flávio e diz que Trump deve isolar 'regime marxista' de Lula",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: steve Bannon insiste em vitória de Flávio e diz que Trump deve isolar 'regime marxista' de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/steve-bannon-insiste-em-vitoria-de-flavio-e-diz-que-trump-deve-isolar-regime-marxista-de-lula.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4c23dc36a466a201",
+      "title": "A ciência e a política por trás do pânico em torno dos alimentos ultraprocessados",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: a ciência e a política por trás do pânico em torno dos alimentos ultraprocessados. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrio/2026/10/a-ciencia-e-a-politica-por-tras-do-panico-em-torno-dos-alimentos-ultraprocessados.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5687bb84080487aa",
+      "title": "Lula volta a ganhar entre presos no 2º turno, com 72% ante 27,8% de Flávio - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula volta a ganhar entre presos no 2º turno, com 72% ante 27,8% de Flávio - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHRKR1pBdG9lTV8tdk1sVkRXOC1kUGpqUUdlRUZGNE02U2VkeU5sTUY1YUU1RW9RWjhZR2FpejI2TTdyWE5zTkRBOVQ1bW1UVjNvTWlaWjFlS3ZxeGQwUFd3ZV91Z08zVVpEdFFWOTlrVjBsbEt2NkV6RVpyeU1aWFM1eWdIMHA0cFM3b2RzSU44dExDcld4YTdSbE40Wjctc3RsenRzUWY4am5vX3k5dzFSc3QtV1JaQ2c?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "65219791dfec5a5d",
+      "title": "Rússia e Ucrânia suspendem ataques em Oleshky para ação humanitária; ataques continuam",
+      "summary": "O veículo G1 publicou uma atualização sobre: rússia e Ucrânia suspendem ataques em Oleshky para ação humanitária; ataques continuam. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/27/russia-e-ucrania-suspendem-ataques-em-oleshky-para-acao-humanitaria.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T06:59:37+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a27a9729acf61866",
+      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-27T06:59:20+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "e8a4feac254e165b",
       "title": "Começa trégua humanitária em Oleshky, cidade ucraniana ocupada pela Rússia - Metrópoles",
@@ -20,44 +230,72 @@
       "archive": false
     },
     {
-      "id": "fdefc4cb53fb1be1",
-      "title": "Como derrota de Flávio Bolsonaro impacta planos de Ricardo Nunes em SP - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: como derrota de Flávio Bolsonaro impacta planos de Ricardo Nunes em SP - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0d1WFgwS1A1QjBPbHBRY3dlNkdGWWFpM2w1Ry1Xa3NWcU9FQW9Ec25iaFlmU01HQVMxeTFQMTd0MjVnRDY1ODlFQ1FuVldSc3lqT1U4czZoLTFjUU81WGQzWDdaTlJpNUhhcXFlalpKRDN0MXdiNjlMankwN2NfVHZza3N2d0F4OS05bExoMURlU3o0a3hNNzNEVURlYjk2amp6R2xuSkYyZTg?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-27T05:15:00+00:00",
+      "id": "67f83974b0ab5cae",
+      "title": "Sono: o agente modificador das doenças neurodegenerativas",
+      "summary": "O veículo G1 publicou uma atualização sobre: sono: o agente modificador das doenças neurodegenerativas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/10/27/sono-o-agente-modificador-das-doencas-neurodegenerativas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T06:30:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": true,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
     {
-      "id": "abb360f424ce1501",
-      "title": "\"Dobradinha\": cerca de 85 mil eleitores no DF votaram em Lula e Celina - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: \"Dobradinha\": cerca de 85 mil eleitores no DF votaram em Lula e Celina - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeE92LWJGTXRjUDlHdl8tT1M0SW1NQmhEdmpOOEpKTElhZk1Wa3RGUTlncHhqbGxRVF8yc3N1NHN5T2l4YzAyeWRjT09pMHhjLWk2QjZfUlVMNkg0bE5MSF9Kb0pqVDY5LWhxWDNGTkpzSGtBcnFKa2c3WDBLVG9oVjZNb1lUcHhxNHFXWUw1QVJNUUQybVFTTlpZY0JJYkJEcnJIMjZZS09kYjRLemZPNw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-27T05:06:00+00:00",
+      "id": "eb4cc1dfdb48165e",
+      "title": "Apesar de disputa acirrada, Lula venceu com mais de 95% dos votos em dois países; veja quais",
+      "summary": "O veículo G1 publicou uma atualização sobre: apesar de disputa acirrada, Lula venceu com mais de 95% dos votos em dois países; veja quais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/27/apesar-de-disputa-acirrada-lula-venceu-com-mais-de-95percent-dos-votos-em-dois-paises-veja-quais.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T06:30:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": true,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
     {
-      "id": "156bda1f14be250c",
-      "title": "Flávio vence no Entorno do DF, mas Lula cresce em 31 dos 33 municípios - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio vence no Entorno do DF, mas Lula cresce em 31 dos 33 municípios - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUlFwRlQ0dVg5UUVTRmlsLWkxQjJEY2s0N0tpOW12Z3lLdTdzWHl2bmdqdVlTVGNGd3p0dFRBbjVEbUZFemZtbDQxaTNmbm9nNDBKRExmODFGSHI5RUhpT0NaR2NyYzFFUF9VYnBESW5xeUozVjVHMV9NcXVrYjJoU3QwOGNyZWM2dVktM2U2VnY1bGVEUXQwcG42R1F0MGZkdThsYkpVYVJ0V0tOVFhiajE3RlF4TmpnNUlSZjh3?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-27T05:02:00+00:00",
-      "category": "Política",
+      "id": "276d0f94c4e8e43e",
+      "title": "Mesmo derrotado, Flávio Bolsonaro venceu com folga em alguns países do exterior; veja quais",
+      "summary": "O veículo G1 publicou uma atualização sobre: mesmo derrotado, Flávio Bolsonaro venceu com folga em alguns países do exterior; veja quais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/10/27/mesmo-derrotado-flavio-bolsonaro-venceu-com-folga-em-alguns-paises-do-exterior-veja-quais.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T06:30:00+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": true,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6b7a6fec72443b13",
+      "title": "Denúncias de assédio eleitoral no trabalho mais que dobram em outubro; veja como denunciar",
+      "summary": "O veículo G1 publicou uma atualização sobre: denúncias de assédio eleitoral no trabalho mais que dobram em outubro; veja como denunciar. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/27/denuncias-de-assedio-eleitoral-no-trabalho-outubro.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T06:30:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "acfe90ff8b412401",
+      "title": "Empresas recorrem à religião para ensinar ética à IA",
+      "summary": "O veículo G1 publicou uma atualização sobre: empresas recorrem à religião para ensinar ética à IA. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/27/empresas-recorrem-a-religiao-para-ensinar-etica-a-ia.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T06:30:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -76,16 +314,16 @@
       "archive": false
     },
     {
-      "id": "fe5fb50361fe70da",
-      "title": "Defesa de Vorcaro vislumbra cenário ruim para banqueiro com vitória de Lula - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: defesa de Vorcaro vislumbra cenário ruim para banqueiro com vitória de Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVi1zQ0RkMEdXMlFRYk5zRXdVNXhBTHMySmd1QmJwOXNuX0h4dDNjM2Q4RENEekJkOFotY2xtXzdxRGthZHBKLUdUS1JhSFBPSFlSSzJwdVhjRGFDSlg0ZlRlUEVBMUJLWXdTd2dMcTI5V3k3cno2UG1penYySlpYbkgtRU40UlJFcHdLUnQ3UHF2UkZ4U0wtZ1Vaeko2LXFrUkJzMXRhR3JrdVczVkR5V2dNMFZfeTNUOGwxd2d4MU0?oc=5",
-      "source": "Metrópoles",
+      "id": "1489f0c3b2ff1955",
+      "title": "Saiba quanto a Prefeitura de Ribeirão Preto quer recuperar com Refis e como isso afeta futuro do orçamento local",
+      "summary": "O veículo G1 publicou uma atualização sobre: saiba quanto a Prefeitura de Ribeirão Preto quer recuperar com Refis e como isso afeta futuro do orçamento local. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/27/saiba-quanto-a-prefeitura-de-ribeirao-preto-quer-recuperar-com-refis-e-como-isso-afeta-futuro-do-orcamento-local.ghtml",
+      "source": "G1",
       "published_at": "2026-10-27T05:00:00+00:00",
-      "category": "Política",
+      "category": "Endividamento",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": true,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -118,16 +356,16 @@
       "archive": false
     },
     {
-      "id": "170901246a2828cd",
-      "title": "Entenda caso em que Flávio atuou como advogado de PM acusado de matar menina - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: entenda caso em que Flávio atuou como advogado de PM acusado de matar menina. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRtNzQ4Y19fRXFNUDBXYkhGZnRWWjd1UDM5bDR6Nk4ySmp0VU1pcHVwRTlka2NjMmd4Vms5ejk4aXpIbjlFMWRUZ1pSYkY5Qlh3LXZxNmNlVWRmc3pId0JQZmR0UHd3ZlJEZkl3UDQzVGRnRFVpY3lLa19BZnpMVVN6bGk5RHhNV1RqSVVBQUFURjg3aWtaTkVubi1hOS1sQ0Zuc1hnTmp4Q1ZvX203RXB3?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-27T03:53:54+00:00",
-      "category": "Política",
+      "id": "5c25f4772fe8f722",
+      "title": "Brasileira confronta Eduardo Bolsonaro em seção eleitoral nos EUA e vídeo viraliza: 'Fugitivo'",
+      "summary": "O veículo G1 publicou uma atualização sobre: brasileira confronta Eduardo Bolsonaro em seção eleitoral nos EUA e vídeo viraliza: 'Fugitivo'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/27/video-discussao-brasileira-eduardo-bolsonaro-eua.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T04:00:00+00:00",
+      "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": true,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -146,76 +384,6 @@
       "archive": false
     },
     {
-      "id": "1defbcebd936d0bf",
-      "title": "Cadu de Lula, do PT, é eleito governador do RN",
-      "summary": "O veículo G1 publicou uma atualização sobre: cadu de Lula, do PT, é eleito governador do RN. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/27/cadu-de-lula-do-pt-e-eleito-governador-do-rn.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T03:33:44+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "37d9a1ea8d578353",
-      "title": "Como a proibição das bets pelo governo Lula agrava o aperto financeiro dos clubes de futebol - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: como a proibição das bets pelo governo Lula agrava o aperto financeiro dos clubes de futebol. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2hkYm9CVGdCZHBzOUdVMU9WU0p2Yy1LMDVaZnFxUXY2Y1U0WnhWcHhKOExCNlluMXZLYVlEaXN4UWVDYWNUTV9CS3FNZk42dHM2bU1GRTBUZEh4Y1pUTVdqSjM1LWdXUkVkaXhHVmhSc2QyTV9JUE04OWF6SzQ2OVNlTEZsZGVtVmtneGUyUTJGdDUzd183eGh0al9aTVkyUkNSb3hEVjVTZGhDaE0xZ3dvRE1sZGY4RzluV254b25pbjlpMmZF?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-27T03:31:45+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "179f4ad15be83305",
-      "title": "‘Estadão’ terá projeção do resultado durante apuração do 2º turno para presidente; entenda o modelo - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: ‘Estadão’ terá projeção do resultado durante apuração do 2º turno para presidente; entenda o modelo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUTh0X0l0TFZmRktfaUd3WUs3N1g4TFJDTU1kVE8yME1LWm1vMWlVbklrOUZyMEs3bUNNX0l1ektpMFJKQWI5OVZjYVp4eWRFQnRyUm9fNy1iY2JfRXlKOW9Nb0xKdGVFclo3eGE4TVNaR2h6Qy1YTEQ0VXo5RFhwQm5EU0tRVmUyQkFyWTJ1S2oyS3dLZ2V5UVRWWnB5RDBhdVpNd3paUGFhMUhXaWtQcDA1bGZqMnQ3WGxLUEE2STdyZDN5OUR1azkxeEpnTVhwRWRNWlZhOXhqa1BzdHEzRVZ1aw?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-27T03:30:46+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "19d7e53c250e10a9",
-      "title": "O quarto mandato de Lula: vitória nas urnas e futuro do governo - O Assunto #1833",
-      "summary": "O veículo G1 publicou uma atualização sobre: o quarto mandato de Lula: vitória nas urnas e futuro do governo - O Assunto #1833. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/27/o-quarto-mandato-de-lula-vitoria-nas-urnas-e-futuro-do-governo-o-assunto-1833.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T03:30:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d139b21d23b44c14",
-      "title": "Vicentinho Junior, do PSDB, é eleito governador do TO",
-      "summary": "O veículo G1 publicou uma atualização sobre: vicentinho Junior, do PSDB, é eleito governador do TO. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/27/vicentinho-junior-do-psdb-e-eleito-governador-do-to.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T03:29:10+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "14482b8b9af1a233",
       "title": "Governo Lula quer votar pautas antes de 2027 - SpaceMoney",
       "summary": "O veículo SpaceMoney publicou uma atualização sobre: governo Lula quer votar pautas antes de 2027 - SpaceMoney. Consulte a reportagem para contexto, dados e declarações.",
@@ -226,34 +394,6 @@
       "candidate": "lula",
       "election_type": "Proposta",
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "71accd51fde51237",
-      "title": "Mailza Assis, do Progressistas, é reeleita governadora do AC",
-      "summary": "O veículo G1 publicou uma atualização sobre: mailza Assis, do Progressistas, é reeleita governadora do AC. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/27/mailza-assis-do-progressistas-e-reeleita-governadora-do-ac.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T03:25:21+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8a3c8dd0f4c21292",
-      "title": "Omar Aziz, do PSD, vence segundo turno e voltará a governar o AM depois de 12 anos",
-      "summary": "O veículo G1 publicou uma atualização sobre: omar Aziz, do PSD, vence segundo turno e voltará a governar o AM depois de 12 anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/27/omar-aziz-do-psd-vence-segundo-turno-e-voltara-a-governar-o-am-depois-de-12-anos.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T03:21:19+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -314,16 +454,16 @@
       "archive": false
     },
     {
-      "id": "8daa2511e0dedb4b",
-      "title": "Lula se torna recordista ao igualar ex-presidente dos EUA como maior vencedor de eleições em democracias",
+      "id": "e98da7432614dd6d",
+      "title": "Lula se torna recordista ao igualar ex-presidente dos EUA como maior vencedor de eleições em democracias - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: lula se torna recordista ao igualar ex-presidente dos EUA como maior vencedor de eleições em democracias. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/27/lula-se-torna-recordista-ao-igualar-ex-presidente-dos-eua-como-maior-vencedor-de-eleicoes-em-democracias.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVGxiVk82U3NhMlk3dkQ2R3o3b1VOM1NyMzBuSFpFNGZCVFU4TlFYS3Zya0duVTRmMVdLbnhocmcyVnVxM19jemE4MXdMYWlKSzJPY1R0TVhlakpXRFNOdjQ3UHlfWWVjeEU0czEtczU0V0h5X2x5eDlJc2ZzYmRjTkROU3hZNVJDWUF4V2NpMDVrRlhkRDdnU1lXWFRFUmo1cG9vNy1MU2tFU0Znc1E3dGhMQUMwX1RaazlQN2FEY2w3N1FwWmJiSnV3bGdZWGFoeTVHRGQ2UHRKc1d6REpkRzdSUjktWDlsZU5WMlJJV0tZVW0wRzRYYkZMbm1nYVc2Wkg3NnJPRVDSAZcCQVVfeXFMTll5NHF6UFlyUmhCNWFDT2tNbk5jSHoxTWFBQ0p6QXFIeGhTQy1OWGdjc2JzUWxWc0xZbkR4NTNQd0phc2RydFRxcGF1OFJSTFZxTEsxVjFGYXlKNlJUQjNkUFRrbjRJRlJ5X2YzMjdxYy1RcVJldXJpMk55V0gzam11RG1KUlhnaGMxLW9GWXcxTnlXNW1Xc1FpS3g2YmtLZmRRd0lmTGdrdHN0cV82SXVYOWJfRFdNR2x4YWt2eUxkMTE2cS10aHVFVC1zQzBaZzlYZE1tMVBHSWpaWXBXbnpBMVlHQ1hmM19nZXpBZGRTRTlsZ3BJSEhMUHYxbWNCVnExLTNWOWJkenpuLXE1LXcxaldKUjlJ?oc=5",
       "source": "G1",
       "published_at": "2026-10-27T03:00:00+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -363,34 +503,6 @@
       "source": "G1",
       "published_at": "2026-10-27T02:45:24+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "96624ec62604a9cc",
-      "title": "Mercado financeiro reage à vitória de Lula com queda da bolsa de valores e alta do dólar",
-      "summary": "O veículo G1 publicou uma atualização sobre: mercado financeiro reage à vitória de Lula com queda da bolsa de valores e alta do dólar. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/mercado-financeiro-reage-a-vitoria-de-lula-com-queda-da-bolsa-de-valores-e-alta-do-dolar.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T02:37:19+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b1b0f6394013fe08",
-      "title": "Governo federal autoriza envio de Força Nacional para Tabatinga, no Amazonas",
-      "summary": "O veículo G1 publicou uma atualização sobre: governo federal autoriza envio de Força Nacional para Tabatinga, no Amazonas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/26/governo-federal-autoriza-envio-de-forca-nacional-para-tabatinga-no-amazonas.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T02:29:32+00:00",
-      "category": "Governo federal",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -482,48 +594,6 @@
       "archive": false
     },
     {
-      "id": "f44d2837c0c7e188",
-      "title": "Chile informa que presidente José Kast comparecerá à posse de Lula - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: chile informa que presidente José Kast comparecerá à posse de Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUdZTFI5VWllTnp0YWNrMnZXWHZpWkNNX0Y4ZGduMHB4am1kT2Iwd05TWEVaTVIzaHMtaFI1Vkw4bWoyM0ZhTngyVnlTS1pfNTNZYkZoS3owR3E3SGVTTzgxWnhWZ01KS3JFSkV2aGVDY19GZzNQUGtKT2FUeUhOdGQxYXN4S2oxTW42RWJqWXVsa0U2NXlWZ3Z0UzhvQVow?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-27T01:46:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "61d0cfd354d07bf4",
-      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-27T01:34:24+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5b1abbd06a5672bd",
-      "title": "Resumão diário do JN: Após reeleição, Lula reúne líderes do Congresso; PF intima Flávio Bolsonaro a entregar passaportes; sem provas, Trump afirma que eleição no Brasil pareceu 'fraudada'",
-      "summary": "O veículo G1 publicou uma atualização sobre: resumão diário do JN: Após reeleição, Lula reúne líderes do Congresso; PF intima Flávio Bolsonaro a entregar passaportes; sem provas, Trump afirma que elei. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/resumao-diario-do-jn-apos-reeleicao-lula-reune-lideres-do-congresso-pf-intima-flavio-bolsonaro-a-entregar-passaportes-sem-provas-trump-afirma-que-eleicao-no-brasil-pareceu-fraudada.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T01:27:22+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "0b152bbc072b4e50",
       "title": "STF e TSE atrapalharam a eleição, diz especialista em direito eleitoral",
       "summary": "O veículo VEJA publicou uma atualização sobre: sTF e TSE atrapalharam a eleição, diz especialista em direito eleitoral. Consulte a reportagem para contexto, dados e declarações.",
@@ -566,20 +636,6 @@
       "archive": false
     },
     {
-      "id": "75c9cdd47f725884",
-      "title": "Incêndio de grandes proporções atinge indústria gráfica em Porto Alegre; cão preso no prédio é salvo",
-      "summary": "O veículo G1 publicou uma atualização sobre: incêndio de grandes proporções atinge indústria gráfica em Porto Alegre; cão preso no prédio é salvo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/26/incendio-atinge-industria-grafica-porto-alegre-cao-preso-predio-salvo.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T01:05:08+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "2291877cfe79a577",
       "title": "Mercado precifica a crise semeada por Lula",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mercado precifica a crise semeada por Lula. Consulte a reportagem para contexto, dados e declarações.",
@@ -608,34 +664,6 @@
       "archive": false
     },
     {
-      "id": "1ffa42dbdc418ab3",
-      "title": "Governo Trump defende nos bastidores candidatura de Viktor Orbán a liderança da ONU, diz jornal",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo Trump defende nos bastidores candidatura de Viktor Orbán a liderança da ONU, diz jornal. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/governo-trump-defende-nos-bastidores-candidatura-de-viktor-orban-a-lideranca-da-onu-diz-jornal.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-27T00:47:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0f339974a765c452",
-      "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: how Lula’s Social Media Campaign Helped Him Win Brazil’s Election. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-27T00:45:26+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "dbc5a06f4dc2cf43",
       "title": "Comissão criada pela ONU diz que forças de Israel promovem extermínio na Cisjordânia",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: comissão criada pela ONU diz que forças de Israel promovem extermínio na Cisjordânia. Consulte a reportagem para contexto, dados e declarações.",
@@ -643,20 +671,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-27T00:34:00+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2ede3f9a792896c7",
-      "title": "Brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: brazil Supreme Court Orders Flávio Bolsonaro to Hand Over Passports in Money Laundering Inquiry. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/26/world/americas/flavio-bolsonaro-passport-brazil.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-26T23:55:15+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -832,20 +846,6 @@
       "archive": false
     },
     {
-      "id": "f1e8e4ef393522ae",
-      "title": "Reeleição de Lula: Ibovespa derrete quase 14% e dólar tem maior oscilação desde janeiro de 1999 - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: reeleição de Lula: Ibovespa derrete quase 14% e dólar tem maior oscilação desde janeiro de 1999. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNm1GTjRzX3dVNVNnSUozbjV3ZHJKRWkwNXQydEp6dEE4eHAwV21NbW5xS201NWRLSnY0ZTAzdmFDdTI5YXVzWHVoRzNBTXZUdkRfdlNSSnFEUUlyeWxQUnl1Q0ZhU2FYRFY1ZXpiNXNGajhZYjFfdG9PZVdxSlVhbEJiSlpQbzZ4YXFZN3ZBUWdFSDNKd2k5U0V2d0FDeHhEZldHQnJOM291Mnl1YnY4ZmhpMEY3TGFEZXhFZnhOZmo4YUxMY0dPLU9JektmTzNyaDl30gHYAUFVX3lxTE90NWZqTG42dVhCWE5MVkg3d1lNeHdjckdRQ3llTnFLa3FfU3Z0Y2ZiS2VhNmJRbUNHWXBMdmN2ZmhhcndnUWllekxnb1FjcVVuVHBIYXNueWxiVWdJeVF4cjV6ZEtOX29PSlNyQXFFYUhkY0YzeGdvSmduY0hMWG1iZFJnei1jWlh5T0ZSVUUyWTdXWFlSb1U2bngxUjd6STFTV0pCeVlqR3lqNG9kWEJLSGhpN0ZmQS1HOUVPcEx1UllBUUNIUzBFTFd2VnNzZ1V2UU8xaUFidA?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-26T21:46:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "76d4e9d33c3bf301",
       "title": "Projeto facilita captação de recursos privados para produtores rurais",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto facilita captação de recursos privados para produtores rurais. Consulte a reportagem para contexto, dados e declarações.",
@@ -902,6 +902,20 @@
       "archive": false
     },
     {
+      "id": "6df9a396890ba831",
+      "title": "Áudio: Projeto em análise na CDH inclui o turismo entre os direitos dos idosos",
+      "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Projeto em análise na CDH inclui o turismo entre os direitos dos idosos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-em-analise-na-cdh-inclui-o-turismo-entre-os-direitos-dos-idosos",
+      "source": "Senado Federal",
+      "published_at": "2026-10-26T21:32:11+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "48c14e4a8aa3294a",
       "title": "Polícia de Portugal abre investigação sobre caso de brasileira agredida após votar em Lisboa",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia de Portugal abre investigação sobre caso de brasileira agredida após votar em Lisboa. Consulte a reportagem para contexto, dados e declarações.",
@@ -940,20 +954,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "554c00bef96d1188",
-      "title": "Governo federal transfere ponto facultativo do Dia do Servidor Público para 30 de outubro - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: governo federal transfere ponto facultativo do Dia do Servidor Público para 30 de outubro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS21MVjFESnNPR0JGaHhYT3VqVDQzMmltS2VRZUp6ZFR4VEVXRWx1LThkQmlFS3gwS2ZkQlZ2Y3A1SEUxeGdKbERLaWdOd1ZYbkNvTnJnOXQxNzZGTUM2UjAxMlRZdzNveVlPYmJHbng1bDEzMHBTUmlUQ1BLUXVrSzFRb3ppMHRGWXRZWGV1Rm4xaWkzQXAzeFVEQ25aeEI5YVNTX0U4YVB3VGt0Rk5LUjBHbzh1cEI4R09mME5pazJOWG5IRHlJQTRQV1o1WTRSN0dhczFjUlhSenk00gHrAUFVX3lxTE9KWW1aWTVndEZXV0lBSWR1bkNDdmF6UGJUTmlySVNENFprME0xLWJlbXhuZGQ0M0VWcElXV3ZmLXc1OFdnck1SNkZGelVpQnAtVnZod2VlQzNGVmdBbVJhSnVGTkRjQ2V2SWs2eTJUbi1DRUhtdU9yT3NkVzJFd3FaNzZEYTlwSy1JQTRZV0hfYkFTVGFnclMtODBOVnVydGhSeWNSc3YyYU91V1IwU3Y1MzNWWEZjc2Yzck9ZREh6UGZWajd6bWYxQ0FSTWh1NGxzVWpCT0ZvWGx5dXFvLTdXbkJOdzh6dnFCUDA?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-26T21:12:44+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1238,20 +1238,6 @@
       "archive": false
     },
     {
-      "id": "136dcf282bd00274",
-      "title": "Em dia de nervosismo no mercado, Tesouro Nacional recompra R$ 7,1 bilhões em títulos públicos - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: em dia de nervosismo no mercado, Tesouro Nacional recompra R$ 7,1 bilhões em títulos públicos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVnNzbFFkYnk4cnpBWHYwTGVqYlYwVTNXNi1Nc2stMV9aR0szT0hwM3BJZlVxV1RaYkYyMjBpVWpXWDFuOE1ZLUZSVTBhQ3F0RXZCUDdUTmJ5MXBXSnctVXA4VUU1R0h1SkZQVWVrSGxFZmdKM3JoY1FvZGNpVzZXNENHdjNwYVBmcUpaV2liMmN5QktBdlJFb3VfWHpZclM3UXpnV0VoT0NBcFBNMWRVRE5xMHh1c3Q5dmVaS09GYlNlcVpYWEQ4YVFmSWE0VlJmc3Z3NXYxbHRNS2lTdFHSAewBQVVfeXFMUDRLM1RvcjFadzQzdVZRWXNSX2ZKcDZOQnhhNmltOUZ6cUp1NUM2ODlxaUc0Rk5EX0RGSVVMZ1FEN1pNVUkwcU5HNlpsZWliZ0NNcWkzQlNoR0RIN0k1Q0llSTlndkRwU1o5TE12azFSSlUtMHpjVUoyUmNPQUR1TFRUQ1pPQ3d5R3hMTXV1VmJiZmt1aGNmVlFQcHBPV3NLSS1SWk1yVDg3a3ZKeC1UWGZXdFFmTl95elpmU2JpYk9rSzE0NmFfVjFocWp6OGhmZzhXWTNTVjZxbHpuZGxWVE9oYTVLYXc1WnlVdjI?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-26T15:53:39+00:00",
-      "category": "Endividamento",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "101d73978c4d9fcc",
       "title": "Agência de Comunicação - Agree lança escola de IA voltada ao agronegócio - Estadão Blue Studio",
       "summary": "O veículo Estadão Blue Studio publicou uma atualização sobre: agência de Comunicação - Agree lança escola de IA voltada ao agronegócio. Consulte a reportagem para contexto, dados e declarações.",
@@ -1448,6 +1434,34 @@
       "archive": false
     },
     {
+      "id": "28972c9134b840f4",
+      "title": "[VÍDEO] Cadu confirma telefonema de Lula, celebra apoio do Governo Federal e garante cumprimento de propostas - Blog do BG",
+      "summary": "O veículo Blog do BG publicou uma atualização sobre: [VÍDEO] Cadu confirma telefonema de Lula, celebra apoio do Governo Federal e garante cumprimento de propostas - Blog do BG. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXRKMjRXSHNVT1ZTNHFKX0tKb2s5S2EweTg4TXZ2d2pwSF9LZE5xSUlWNlpDdlpOVGZLd1BEdTR0OVNGZGJyRUtyTWdEQzdVeGVtUUNWZ2pyUjFOTWh1OWl1SE5fUGc5SG9wc0ZlZlVHZnZna0EwTU5Rd0tjcFhSZ3F4RzRMaFp2Z0hYZUdtYUljaS1uMDBYdENVejFmR3JDRE9DdHZnZkZUNXR2bVBybU1vQ0J0NXBxVXhSRmswdkg5QWFxamUtNDB2bDJ3dFh5?oc=5",
+      "source": "Blog do BG",
+      "published_at": "2026-10-26T01:32:00+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "db0a156315a701e4",
+      "title": "Governador eleito no RN, Cadu de Lula agradece eleitores e reforça articulação com Governo Federal - Tribuna do Norte",
+      "summary": "O veículo Tribuna do Norte publicou uma atualização sobre: governador eleito no RN, Cadu de Lula agradece eleitores e reforça articulação com Governo Federal - Tribuna do Norte. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTE10N2dOYktvcV80YmFINXdyYkpobUJQMkE2b1JxTXhNLWtVWUVkUXZWTkp5MHVvT19qM09HZkRXWmx2ZVdDS19LZXBEWXgycm5DYUx4Y2hPR0VXTDhqUEY2NHBCY3R6N2xMYnBFMDhqaUZLQ3psZW01TjlSNllTSndpZFlTOHRSZ0czTUVraDlFaUs0MUVadzNZSDZJbUtEblNUaGR1c2plYlNCdkdkbWVhY1V5UWpjMm42TEVZZ2ZPNFI4YllXYnpLclhLT3Yxcm8xM3E2SHJLM2xIS2tzaU5pVQ?oc=5",
+      "source": "Tribuna do Norte",
+      "published_at": "2026-10-26T01:31:46+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "641da9a469e3ff84",
       "title": "Painel: É uma eleição do Vasco no auge do Eurico Miranda, diz professor - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: painel: É uma eleição do Vasco no auge do Eurico Miranda, diz professor. Consulte a reportagem para contexto, dados e declarações.",
@@ -1468,20 +1482,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSHNZb1huOU14ZkYwQTg2MXVIdGhYOHhqYlZMem1tZTg2Zzk0TzZ4dXdqREtfRmpUNDRZcTBkSmVtcTEwMEtrNXJoZVJiUHR0UDRfWVgxNjNUbmJlYm5qSXpCbE03bUlGZXlpUmM3SkNiZDdPVmFCeGttMGoyRElqS00yb3BiR0RYa3FBOEJvc2piOGRqYzJScHlicWw2ZHZpRUlzODNsUF9UZXg1TGJaMEl6RVItNjJrdUU2NlhULWEyNUFpakhTNktRb2RKNk5uaXc?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-25T20:48:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9057c087eee7e044",
-      "title": "Mesária é presa no DF suspeita de fazer campanha para Lula dentro de escola - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: mesária é presa no DF suspeita de fazer campanha para Lula dentro de escola - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeXNtaE1hTDg5cmxwRmMybjNyaHQ2MjFFZFh1WktzSDVFSnR4dUJ1M1dDRzJQWFVqd05NN0J3dmVla3dJNm5WVW9BaW8xLWJQRkFER0swZk9xeThnZzloTFZheTlFeHB2ZkgzNGRZcGlxMTl6Vy1GX0pwaXR4THRKU09TcDJhaS1wT3RJLVFxTEM0X2tVWkMzbUN3c0lORVJuM0NEWEtJaVdFRlY1WjJ1b1NlY051NmpXa3Uydnl4MXNUNmtwUkE?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T14:21:00+00:00",
       "category": "Educação",
       "candidate": null,
       "election_type": null,
@@ -1528,20 +1528,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3f9fcd47404b2167",
-      "title": "França: novos protestos sacodem país e terminam em confronto com a polícia - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: frança: novos protestos sacodem país e terminam em confronto com a polícia - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXE0R29SdUtWNmprTi1WeVd4blgwUFduQlI1TGFsMWVPdjU1ZHpxRjl6Vi1sYk92cHBNdC04TTZJaHFCbzJpd0Z4Mk5jZmpockhaNVdmeVF3RnMwZmhzQkd3QTFtNDRQcWprVExXOFMteUN1S05PLXBCaEJCQmg4dWxzdll2TU04dVhBMzluR3lwb2R4SDU2bXpzUm5sTGZDNjdydHBOb3lGUQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-25T10:38:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1616,6 +1602,20 @@
       "archive": false
     },
     {
+      "id": "82d3870435ae9329",
+      "title": "Recife abrirá 34 creches no domingo para facilitar o voto dos pais",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: recife abrirá 34 creches no domingo para facilitar o voto dos pais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/recife-abrira-34-creches-no-domingo-para-facilitar-o-voto-dos-pais",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-23T14:29:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "f0105b910ed5bfc8",
       "title": "Previsão de superávit no Orçamento de 2027 está mantida, diz Durigan",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: previsão de superávit no Orçamento de 2027 está mantida, diz Durigan. Consulte a reportagem para contexto, dados e declarações.",
@@ -1656,36 +1656,20 @@
       "via_aggregator": false,
       "curated": false,
       "archive": false
-    },
-    {
-      "id": "866320447389de09",
-      "title": "Anvisa aprova novo medicamento para câncer de pulmão avançado",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: anvisa aprova novo medicamento para câncer de pulmão avançado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-medicamento-para-cancer-de-pulmao-avancado",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-22T12:48:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
     }
   ],
   "source_health": {
     "G1": {
-      "status": "erro",
-      "items": 0,
-      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "status": "ok",
+      "items": 27
     },
     "G1 · Economia": {
-      "status": "erro",
-      "items": 0,
-      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "status": "ok",
+      "items": 98
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 51
+      "items": 47
     },
     "VEJA": {
       "status": "ok",
@@ -1733,11 +1717,11 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 84
+      "items": 83
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 46
+      "items": 47
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1753,23 +1737,23 @@
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 62
+      "items": 60
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 70
+      "items": 72
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 80
+      "items": 79
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 52
+      "items": 29
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 60
+      "items": 32
     }
   },
   "notes": [
