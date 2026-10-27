@@ -14,7 +14,7 @@ import re
 import sys
 from pathlib import Path
 import tempfile
-from urllib.error import HTTPError
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
@@ -27,6 +27,50 @@ MODEL = os.environ.get("CLAUDE_MODEL", "claude-haiku-5-5")
 MAX_ITEMS = 10
 MAX_AGE_HOURS = 48
 MAX_TOKENS = 1300
+
+
+class ClaudeAPIError(RuntimeError):
+    """Diagnóstico tipado; não inclui texto recebido da API nem chave."""
+    def __init__(self, code, category, hint):
+        self.code = code
+        self.category = category
+        self.hint = hint
+        super().__init__(f"HTTP {code}; categoria={category}; orientacao={hint}")
+
+
+def safe_http_error(exc):
+    code = int(getattr(exc, "code", 0) or 0)
+    category, message = "unknown_error", ""
+    try:
+        body = json.loads(exc.read(12_000).decode("utf-8"))
+        error = body.get("error", {})
+        if isinstance(error, dict):
+            allowed = {"authentication_error", "billing_error", "permission_error",
+                       "invalid_request_error", "not_found_error", "rate_limit_error",
+                       "api_error", "timeout_error", "overloaded_error"}
+            if error.get("type") in allowed:
+                category = error["type"]
+            message = str(error.get("message", "")).lower()
+    except (OSError, ValueError, UnicodeDecodeError, TypeError, AttributeError):
+        pass
+    hints = {
+        400: "revisar_requisicao_ou_limites_de_gastos",
+        401: "verificar_chave_no_anthropic_console",
+        402: "verificar_creditos_ou_faturamento",
+        403: "verificar_permissoes_e_workspace",
+        404: "verificar_modelo_ou_endpoint",
+        429: "limites_de_uso_atingidos",
+        500: "falha_temporaria_da_api",
+        504: "tempo_limite",
+        529: "sobrecarga_da_api"
+    }
+    hint = hints.get(code, "consultar_console")
+    if code == 400:
+        if "workspace" in message: hint = "verificar_workspace_da_chave"
+        elif any(x in message for x in ("credit", "billing", "spend")):
+            hint = "verificar_creditos_ou_limite_de_gastos"
+        elif "model" in message: hint = "verificar_modelo_configurado"
+    return ClaudeAPIError(code, category, hint)
 
 
 def iso_date(value):
@@ -151,13 +195,9 @@ def call_api(articles, key, model=MODEL, opener=urlopen):
         with opener(request, timeout=60) as response:
             answer = json.loads(response.read(400_000).decode("utf-8"))
     except HTTPError as exc:
-        try:
-            error = json.loads(exc.read(4_000).decode("utf-8")).get("error", {})
-            detail = error.get("message") if isinstance(error, dict) else None
-        except (AttributeError, UnicodeDecodeError, ValueError):
-            detail = None
-        detail = str(detail or exc.reason)[:300]
-        raise RuntimeError(f"Anthropic API HTTP {exc.code}: {detail}") from None
+        raise safe_http_error(exc) from None
+    except URLError:
+        raise RuntimeError("falha_de_rede_ao_contatar_anthropic") from None
     return parse_response(answer, articles)
 
 
@@ -202,12 +242,14 @@ def main():
     args = parser.parse_args()
     try:
         print(json.dumps(generate(dry_run=args.dry_run), ensure_ascii=False))
+    except ClaudeAPIError as exc:
+        print(f"Falha na geração editorial: {exc}. Saída anterior mantida.",
+              file=sys.stderr)
+        raise SystemExit(1) from None
     except (OSError, ValueError, RuntimeError, json.JSONDecodeError) as exc:
-        print(
-            f"Falha na geração editorial; saída anterior mantida "
-            f"({type(exc).__name__}: {exc}).",
-            file=sys.stderr,
-        )
+        # Nunca exibir str(exc) de fontes externas nos logs.
+        print("Falha na geração editorial: tipo_local=" +
+              type(exc).__name__ + ". Saída anterior mantida.", file=sys.stderr)
         raise SystemExit(1) from None
 
 
