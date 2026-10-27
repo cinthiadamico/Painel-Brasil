@@ -62,9 +62,14 @@ automaticamente. A importação exige um arquivo fornecido pela responsável.
    de gastos e faturamento. Não enviar chaves no chat ou incluir em commits.
 2. No GitHub: Settings > Secrets and variables > Actions >
    New repository secret. Nome exato: ANTHROPIC_API_KEY.
-3. Abrir Actions > Claude editorial experimental (sem deploy),
-   selecionar a branch teste/reformulacao-claude-api e executar
-   Run workflow manualmente. Conferir o log e o arquivo gerado **na branch**.
+3. Para testar na branch sem fazer merge, criar um arquivo
+   experimentos/executar-claude.txt na branch teste/reformulacao-claude-api,
+   com um identificador de execução (ex.: data da revisão), e fazer commit
+   nessa branch. Esse push explícito aciona o workflow Claude experimental
+   sem etapa de deploy. Para executar novamente, alterar o conteúdo do
+   mesmo arquivo e fazer outro commit. Conferir o log e o JSON **na branch**.
+   A execução manual via botão Run workflow pode não aparecer na interface
+   antes de o workflow existir na branch default, conforme regras do GitHub.
 4. A API usa POST /v1/messages com anthropic-version 2026-10-21,
    modelo claude-haiku-5-5 por padrão, até 10 manchetes nas últimas 48 h,
    máximo 1300 tokens de saída por execução. Isso LIMITA o volume por chamada,
