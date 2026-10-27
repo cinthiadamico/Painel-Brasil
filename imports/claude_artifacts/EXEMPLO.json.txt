@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "title": "Título da matéria citada no Artifact",
+      "url": "https://exemplo.org/materia-real",
+      "source": "Nome da fonte",
+      "summary": "Resumo exportado do Claude; não verificado de maneira independente.",
+      "category": "Política",
+      "published_at": null
+    }
+  ]
+}
