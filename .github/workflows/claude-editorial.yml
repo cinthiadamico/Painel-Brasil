@@ -2,8 +2,13 @@ name: Claude editorial experimental (sem deploy)
 
 on:
   workflow_dispatch:
-  # Apenas quando este workflow for aprovado e integrado a main.
-  # O agendamento NAO roda para branches de teste.
+  # Permite um teste intencional na branch: criar/alterar o arquivo-gatilho.
+  push:
+    branches:
+      - teste/reformulacao-claude-api
+    paths:
+      - 'experimentos/executar-claude.txt'
+  # Este agendamento só passa a rodar quando o workflow estiver na main.
   schedule:
     - cron: '43 10 * * *'
 
@@ -30,7 +35,7 @@ jobs:
         run: |
           python scripts/import_claude.py
           python scripts/import_artifacts.py
-      - name: Coletar titulares RSS para referencias atualizadas
+      - name: Atualizar referencias RSS
         run: python scripts/update.py
       - name: Geracao via API do Claude
         env:
