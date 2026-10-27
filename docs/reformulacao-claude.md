@@ -41,6 +41,17 @@ desativada. O JSON de exemplo é um estado desativado, não conteúdo inventado.
 Abrir HTML diretamente via file:// pode impedir o fetch de JSON.
 
 O workflow testar-reformulacao.yml valida Python e JavaScript sem chave API.
+Também executa `tests/smoke_lab.mjs` em Chrome headless com os dados reais da
+branch: consulta manchetes, filtra Eleições, testa busca, abre a edição Claude
+de 21/10/2026 com 689 registros, pesquisa seu conteúdo e verifica telas de
+390 px sem rolagem horizontal. O teste captura três imagens em
+`qa/screenshots/`: `desktop.png`, `arquivo.png` e `celular.png`.
+O workflow anexa essas imagens como artifact `painel-brasil-capturas`.
+
+O campo de busca principal filtra apenas notícias RSS recentes. No Arquivo
+Claude, cada edição aberta tem uma pesquisa própria, sem misturar dados
+históricos e notícias atuais. Para edições com data desconhecida, a interface
+indica claramente `Sem data confirmada`.
 A cada execução aprovada na branch de teste, produz também o artifact
 `painel-brasil-preview` para download na aba Actions (retenção de 14 dias).
 Descompacte-o e execute `python -m http.server 8000` a partir da pasta
