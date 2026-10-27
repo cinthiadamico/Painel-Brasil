@@ -86,7 +86,11 @@
     var data = filtered();
     get('resultsCount').textContent = data.length + ' notícias';
     if (!data.length) area.append(notice('Nenhuma notícia encontrada neste filtro ou no conjunto atual.'));
-    data.slice(0, state.limit).forEach(function (it) { area.append(card(it, false)); });
+    data.slice(0, state.limit).forEach(function (it, index) {
+      var tile = card(it, false);
+      if (index === 0 && state.view === 'geral' && !state.search) tile.classList.add('is-lead');
+      area.append(tile);
+    });
     get('more').hidden = state.limit >= data.length;
   }
   function renderAI() {
@@ -243,6 +247,13 @@
     state.sort = event.target.value; renderNews();
   });
   get('more').addEventListener('click', function () { state.limit += 12; renderNews(); });
+  get('goArchive').addEventListener('click', function () {
+    setView('arquivo', true);
+    get('archiveSection').scrollIntoView({ block: 'start', behavior: 'smooth' });
+  });
+  get('editionDate').textContent = new Intl.DateTimeFormat('pt-BR', {
+    timeZone: 'America/Sao_Paulo', day: 'numeric', month: 'long', year: 'numeric'
+  }).format(new Date());
   (async function boot() {
     var result = await Promise.allSettled([
       json('./data/news.json'),
@@ -255,6 +266,10 @@
       var feed = result[0].value;
       state.items = Array.isArray(feed.items) ? feed.items : [];
       get('itemCount').textContent = state.items.length;
+      get('categoryCount').textContent =
+        new Set(state.items.map(function (it) { return it.category; }).filter(Boolean)).size;
+      get('sourceCount').textContent =
+        new Set(state.items.map(function (it) { return it.source; }).filter(Boolean)).size;
       var last = Date.parse(feed.last_success_at || '');
       var age = Date.now() - last;
       var fresh = Number.isFinite(age) && age >= 0 && age <= 3 * 60 * 60 * 1000;
@@ -264,6 +279,8 @@
     } else {
       get('status').textContent = 'Coleta RSS indisponível';
       get('itemCount').textContent = '0';
+      get('categoryCount').textContent = '0';
+      get('sourceCount').textContent = '0';
       get('signal').className = 'signal stale';
     }
     if (result[1].status === 'fulfilled' &&
