@@ -37,6 +37,13 @@ class ClaudeAPITest(unittest.TestCase):
         self.assertEqual(result[0]["title"], self.item["title"])
         self.assertFalse(result[0]["verified"])
 
+    def test_rejects_new_numbers_in_question(self):
+        answer = {"content": [{"type": "text", "text": json.dumps({"entries": [
+            {"id": "abc", "question": "O projeto foi aprovado por 87 senadores?"},
+        ]})}]}
+        with self.assertRaises(ValueError):
+            ai.parse_response(answer, [self.item])
+
     def test_invalid_api_output_fails_closed(self):
         with self.assertRaises(ValueError):
             ai.parse_response({"content": [{"type": "text", "text": "texto livre"}]},
