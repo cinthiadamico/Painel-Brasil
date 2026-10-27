@@ -1,10 +1,66 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-27T04:43:41.970028+00:00",
-  "last_success_at": "2026-10-27T04:43:41.970028+00:00",
+  "last_checked_at": "2026-10-27T05:44:03.987835+00:00",
+  "last_success_at": "2026-10-27T05:44:03.987835+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "fdefc4cb53fb1be1",
+      "title": "Como derrota de Flávio Bolsonaro impacta planos de Ricardo Nunes em SP - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: como derrota de Flávio Bolsonaro impacta planos de Ricardo Nunes em SP - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0d1WFgwS1A1QjBPbHBRY3dlNkdGWWFpM2w1Ry1Xa3NWcU9FQW9Ec25iaFlmU01HQVMxeTFQMTd0MjVnRDY1ODlFQ1FuVldSc3lqT1U4czZoLTFjUU81WGQzWDdaTlJpNUhhcXFlalpKRDN0MXdiNjlMankwN2NfVHZza3N2d0F4OS05bExoMURlU3o0a3hNNzNEVURlYjk2amp6R2xuSkYyZTg?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T05:15:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "abb360f424ce1501",
+      "title": "\"Dobradinha\": cerca de 85 mil eleitores no DF votaram em Lula e Celina - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: \"Dobradinha\": cerca de 85 mil eleitores no DF votaram em Lula e Celina - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeE92LWJGTXRjUDlHdl8tT1M0SW1NQmhEdmpOOEpKTElhZk1Wa3RGUTlncHhqbGxRVF8yc3N1NHN5T2l4YzAyeWRjT09pMHhjLWk2QjZfUlVMNkg0bE5MSF9Kb0pqVDY5LWhxWDNGTkpzSGtBcnFKa2c3WDBLVG9oVjZNb1lUcHhxNHFXWUw1QVJNUUQybVFTTlpZY0JJYkJEcnJIMjZZS09kYjRLemZPNw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T05:06:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "620df02f4d5ada74",
+      "title": "Taxação de bilionários: eleitores da Califórnia podem aprovar primeiro imposto do tipo no mundo?",
+      "summary": "O veículo G1 publicou uma atualização sobre: taxação de bilionários: eleitores da Califórnia podem aprovar primeiro imposto do tipo no mundo?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/27/taxacao-de-bilionarios-eleitores-da-california-podem-aprovar-primeiro-imposto-do-tipo-no-mundo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T05:00:01+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fe5fb50361fe70da",
+      "title": "Defesa de Vorcaro vislumbra cenário ruim para banqueiro com vitória de Lula - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: defesa de Vorcaro vislumbra cenário ruim para banqueiro com vitória de Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVi1zQ0RkMEdXMlFRYk5zRXdVNXhBTHMySmd1QmJwOXNuX0h4dDNjM2Q4RENEekJkOFotY2xtXzdxRGthZHBKLUdUS1JhSFBPSFlSSzJwdVhjRGFDSlg0ZlRlUEVBMUJLWXdTd2dMcTI5V3k3cno2UG1penYySlpYbkgtRU40UlJFcHdLUnQ3UHF2UkZ4U0wtZ1Vaeko2LXFrUkJzMXRhR3JrdVczVkR5V2dNMFZfeTNUOGwxd2d4MU0?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T05:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "85d4372ca89279ac",
       "title": "O que significa \"maxxing\", eleita a palavra do ano por site norte-americano - Metrópoles",
@@ -30,6 +86,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "170901246a2828cd",
+      "title": "Entenda caso em que Flávio atuou como advogado de PM acusado de matar menina - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: entenda caso em que Flávio atuou como advogado de PM acusado de matar menina. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYTRtNzQ4Y19fRXFNUDBXYkhGZnRWWjd1UDM5bDR6Nk4ySmp0VU1pcHVwRTlka2NjMmd4Vms5ejk4aXpIbjlFMWRUZ1pSYkY5Qlh3LXZxNmNlVWRmc3pId0JQZmR0UHd3ZlJEZkl3UDQzVGRnRFVpY3lLa19BZnpMVVN6bGk5RHhNV1RqSVVBQUFURjg3aWtaTkVubi1hOS1sQ0Zuc1hnTmp4Q1ZvX203RXB3?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-27T03:53:54+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -174,20 +244,6 @@
       "archive": false
     },
     {
-      "id": "b11b98ec2d268e9a",
-      "title": "Trump faz insinuações e afirma, sem provas, que eleição no Brasil pareceu fraudada; Alckmin rebate",
-      "summary": "O veículo G1 publicou uma atualização sobre: trump faz insinuações e afirma, sem provas, que eleição no Brasil pareceu fraudada; Alckmin rebate. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/27/trump-faz-insinuacoes-e-afirma-sem-provas-que-eleicao-no-brasil-pareceu-fraudada-alckmin-rebate.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T03:09:38+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "bc10dcfe1fc22b78",
       "title": "Para facilitar aprovação, governistas defendem acelerar pautas no Congresso ainda em 2026",
       "summary": "O veículo G1 publicou uma atualização sobre: para facilitar aprovação, governistas defendem acelerar pautas no Congresso ainda em 2026. Consulte a reportagem para contexto, dados e declarações.",
@@ -195,6 +251,48 @@
       "source": "G1",
       "published_at": "2026-10-27T03:04:12+00:00",
       "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "92f46dfdc231057b",
+      "title": "Dia do Servidor Público é feriado ou ponto facultativo? Veja onde haverá folga",
+      "summary": "O veículo G1 publicou uma atualização sobre: dia do Servidor Público é feriado ou ponto facultativo? Veja onde haverá folga. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/27/dia-do-servidor-publico-veja-onde-havera-folga.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T03:00:02+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "214a6641b3d8fa12",
+      "title": "É hora de comprar ações? Veja o que avaliar após o tombo do Ibovespa",
+      "summary": "O veículo G1 publicou uma atualização sobre: é hora de comprar ações? Veja o que avaliar após o tombo do Ibovespa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/27/comprar-acoes-veja-o-que-avaliar-apos-tombo-do-ibovespa.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T03:00:02+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d0cb50e1c35a9b30",
+      "title": "Mega-Sena pode pagar R$ 305 milhões nesta terça-feira; g1 transmite ao vivo",
+      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena pode pagar R$ 305 milhões nesta terça-feira; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/27/mega-sena-pode-pagar-r-305-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T03:00:00+00:00",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -282,6 +380,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "deb52245929e7cdc",
+      "title": "Ministério cobra explicações sobre atropelamento da PM em festa pró-Lula - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: ministério cobra explicações sobre atropelamento da PM em festa pró-Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1hYR0Y2VTU1Yy1TT1ExakdPdHg3Zng5ckxWMmphNVpHUDlxekY3Ry1OTVQyTm8tQ25OTnE1eXNSSmpGdEduOVZLRmJHbmUyUGJGeHEwc0RfZ2dNWVlKU3pyTkVUblV4ejdxQVZ6SnVxVlRoRVNsZVRndEdpb0c2YUMwUU9UX3MwZjloX3hBS0QwQzFRQ0hKRk1OYXppaGd3V2VWQTk5dGtOQQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T02:02:00+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -510,20 +622,6 @@
       "archive": false
     },
     {
-      "id": "d57b7f2be0a1bfcd",
-      "title": "Filho encontra mãe morta a facadas em casa, em Anápolis; polícia investiga o caso",
-      "summary": "O veículo G1 publicou uma atualização sobre: filho encontra mãe morta a facadas em casa, em Anápolis; polícia investiga o caso. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/10/26/filho-encontra-mae-morta-a-facadas-em-casa-em-anapolis-policia-investiga-o-caso.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T00:39:53+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "dbc5a06f4dc2cf43",
       "title": "Comissão criada pela ONU diz que forças de Israel promovem extermínio na Cisjordânia",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: comissão criada pela ONU diz que forças de Israel promovem extermínio na Cisjordânia. Consulte a reportagem para contexto, dados e declarações.",
@@ -531,34 +629,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-27T00:34:00+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "55fa87eb685f4948",
-      "title": "Lula, reeleito, diz que vai mudar a forma de governar e que vai trabalhar com o Congresso",
-      "summary": "O veículo G1 publicou uma atualização sobre: lula, reeleito, diz que vai mudar a forma de governar e que vai trabalhar com o Congresso. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/lula-reeleito-diz-que-vai-mudar-a-forma-de-governar-e-que-vai-trabalhar-com-o-congresso.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T00:26:17+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "bd9f0dd1c5a0fc20",
-      "title": "Mega-Sena 3075 acumula e prêmio vai a R$ 305 milhões; confira os números sorteados",
-      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena 3075 acumula e prêmio vai a R$ 305 milhões; confira os números sorteados. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/26/mega-sena-concurso-3075-confira-os-numeros-sorteados.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T00:05:46+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -576,20 +646,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cb6639a1f7c00acf",
-      "title": "Após encontro com Lula, Motta diz que defenderá “harmonia entre os Poderes” - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: após encontro com Lula, Motta diz que defenderá “harmonia entre os Poderes” - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlpendGS2I4RHJoYWlBWWtNZzlpNkNPYW1DVl93NExkWHBFc01UdmpTWGRzTVZGQ1NfQ2E5X0pwZDBHWnhxVGtkRnZfS2ZrclI4cDlVSEVVb3JWZEYtMlYtb09vWEdEOVlNTkZYaERNakdrcHlHbjZicWdUMmpOY2luSm5GQmE4YmxBUUhYN3FQSURqdlJnTXVHbks1LXBTNnZfV0N1XzZQZw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-26T23:46:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -678,20 +734,6 @@
       "archive": false
     },
     {
-      "id": "f330c7886720e9a5",
-      "title": "No 2º turno, Lula virou e Flávio perdeu em 70 cidades comandadas pelo PL - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: no 2º turno, Lula virou e Flávio perdeu em 70 cidades comandadas pelo PL - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMV9Zd1JuSjVrbkRIbU1tX3dtSzQ0YWd2TkdqRHg5MG4yUXBGcU4wQ3ZvYWt1LTM1WVMxLXhKUm9DTGZJallQZFdVVXhxSUZMNk9mYmFqVFNOaURWV0xrV0VPaVJVOEhtQjlnR045OE1XcjNDcXkyUzgxMGZJWDE0RTZBNFBZc2ROZkk0ZVVQLUdIUWhQbWJyQ0xaU2NTXzlOM0pGZ3FOcVRSTDczaVIzNDktcw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-26T22:46:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "dc4128475bc3ee8d",
       "title": "Cadu projeta base de 16 deputados na Assembleia Legislativa e mira eleição da presidência - Portal 98 FM Natal",
       "summary": "O veículo Portal 98 FM Natal publicou uma atualização sobre: cadu projeta base de 16 deputados na Assembleia Legislativa e mira eleição da presidência - Portal 98 FM Natal. Consulte a reportagem para contexto, dados e declarações.",
@@ -699,20 +741,6 @@
       "source": "Portal 98 FM Natal",
       "published_at": "2026-10-26T22:45:00+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "8e1172640c736fe9",
-      "title": "Um dia após a eleição, explodem denúncias de assédio eleitoral ao MPT - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: um dia após a eleição, explodem denúncias de assédio eleitoral ao MPT - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObURUQmFlbDY3d053UmVMVm9IZkxTY19TYjdzRDlLdV92bjRtekdaVmpyajBHQ2lERmU0a0NlMllwQ0hwTHpYd3V3b3VMWDJUbzhjXzdvdUVueklIMkNUX29XN243RGxTbzNkT0RxM00yRllCalI5ZnJteXlCZWIxQVZXalNxaTBINGdmdURBblJkOVpkbjg5OXlqOEk4Y3Y0Ty1PdWhZbTI2QjlTQXhtNTh3Z20tbUZiLVRHLWVTTUlmZw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-26T22:35:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -762,6 +790,20 @@
       "archive": false
     },
     {
+      "id": "d4fde5af3e7870b0",
+      "title": "Lula se reúne com ministros da Fazenda e do Planejamento após queda da Bolsa e alta do dólar - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: lula se reúne com ministros da Fazenda e do Planejamento após queda da Bolsa e alta do dólar. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUE9CNXo5UkdzTG4xQmpjZDNIYnVQUW9WUjFMNXc3Vk5wMGhiQ1g2emRiTkNzcWZnVDBIbmVMa2RhdXBsVXR2eGdXekMySTVNbW9nclBoVXZWY3lYd0NlLVJsMHpkZ0xNa2dxWkxjMzFqVnlIX2I3amg1QlNubk5NWXlfR3dXQnpHODNpRzdHc2F5cklNMlNMNzRRT0ZNNUxiTVF6LVlrRmRNc3ZEZkZFSkdrUEJKN1NYX0FsdXBfREFwSHNubU9LM1ZlblBabjl6cVlHS1ZzaDc4WFNTeUZXQlh6NmdLQdIB9AFBVV95cUxPQ2M3WFhDU18xdTdVR1VmU1phTlg5a0ZRcjBQUld4WFo5NXlIbF9ialltdWpmdHdzSmhsazJ3MjJsU290TW1UVUh6OXBfTWpfTnJXNEU4STYxRDJnei1HVHUxem8wcVFzNVZoMUtTV005VXNLNDVVbG96dnh4dnJPUldoSHpsbmdlMFJFeE5iZVZQQy1tbGpjQ0tyb0g0a0ZjOTg3UDY3em9sbnpVeld1V0hqckhIQ1FHczk5dFJRZTZPbktIZmZWNUxic2xQTU9KeGxSdmJBWGtpLVVzckdVRlRWMHkzVjQzcmlhaEd2VFdmWHFk?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-26T21:58:45+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "f03862bc0242e740",
       "title": "Ministros do STF se surpreendem com decisão de Moraes sobre Flávio e temem por acirramento",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ministros do STF se surpreendem com decisão de Moraes sobre Flávio e temem por acirramento. Consulte a reportagem para contexto, dados e declarações.",
@@ -804,6 +846,20 @@
       "archive": false
     },
     {
+      "id": "76d4e9d33c3bf301",
+      "title": "Projeto facilita captação de recursos privados para produtores rurais",
+      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto facilita captação de recursos privados para produtores rurais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.camara.leg.br/noticias/1310277-projeto-facilita-captacao-de-recursos-privados-para-produtores-rurais",
+      "source": "Agência Câmara",
+      "published_at": "2026-10-26T21:41:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "612a59b92e5a9650",
       "title": "Lula precisará de ‘virada populista’ para governar e STF terá de rever atuação, diz jurista - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: lula precisará de ‘virada populista’ para governar e STF terá de rever atuação, diz jurista. Consulte a reportagem para contexto, dados e declarações.",
@@ -828,20 +884,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d5c17c3dabccb167",
-      "title": "Lula precisará dar forte guinada na economia para evitar que disparada do dólar vire uma recessão - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: lula precisará dar forte guinada na economia para evitar que disparada do dólar vire uma recessão. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV0FYUTRkcUotWERfSVNWVFBrclN1VmdNamdGck0zZXZySEVUOS1yN3RyOGNOd293N001Q1o3WnAxcGVSQWdIZ2ZucTYyU2RsOUFPQWRIR3RBT0lvN25WS3VRM3pGQzZBU2NmMFV2VjlocGxnZTdFUHBVY091UGVMTFRxMHhrQlQ1SHJrbWo2R3BsOWlLVU9iZV9uQzJiLUdoLTZvSE1IU0lxQXZDcXpncU5tUjBJNXVWRk0tRkFoTE13RzZ6Skh2ejN3YTVDMzV5R2NURVhHMjEyRjJjXzNPLXRn0gHnAUFVX3lxTE4ySV95SEhrRW5SQ1JmTFp3cXBWOW93a29BZkIxMFU4b000ODUwalVMcWRQUVAzWDVjby1NTXBJVm5DVmo3RGt5akdsdlJ1c1lheDF5WXZER1BJV0dmbmZuZlY1c0dvYV9jcm56MlM4NjhyQ1ZTMU83SlFMMXJIdkcxbldUSUlfYnZGa2lONWR2NnpjYlpKb3FqXzhXOHlkRjM1U0t6dzhZclhvYTZwY25DbThTZHQ4a3pxbXZLeDNWazFxQlJORXJCYmpkM1NrNkkyVGNObkN2S09JWW14d0hNelpUT3otNA?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-26T21:38:15+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -902,20 +944,6 @@
       "archive": false
     },
     {
-      "id": "645f6374ddaee91f",
-      "title": "Dólar fecha a R$ 5,40, Bolsa despenca 13,8%; BC e Tesouro atuam no mercado - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: dólar fecha a R$ 5,40, Bolsa despenca 13,8%; BC e Tesouro atuam no mercado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0w0Q2hNYjZ0dDM2bEY1Ujd2VGhFX2tmUGNOT2prdmxyNEY3NExubTZGdUo5YVhiX3pPNGxxWGMtZ2hEbnBCaDhmQmZxUFUyUHZXNEczMVBKYl93emlXNHNOWDJiWUUxUm1EcnJxOFhiVVZmd0s1dS11Y0hwT1o3UG5CeUxjMlJnQWhQSENxS0F1dkc0ZEt0bHZUaFFjNjFlaW9LVDJGQklIMmpKWU1fblc2aVpQdlhPc18zTU4wZzh0dmxSSGhJ0gHWAUFVX3lxTE00cXZqcmtUTk1jSDFUT2JlcHJmZ24wMVB4UEhCRURmQUdWekk3TzRDUDRJVWptcFhmTE9BU3QzNmRMWnlTSlRDTHp6aEFMY3ZMVjhxVkFDbkxCWUdRQlJMUVJOcEc3bk9EMzQ3OWRENWJJQ25wYjdZSzFzZUdOUDQwcXlCQmg2OWNWRWZERWJxSEFfRENSLTQ0LVBzQVlEQ0k3X1NjbWRmX1JGWHJQR2hUVmoySTRHMHV5X0VKUHRKRWRkZWtkUjNjcC1TeExLTURFbGl4c1E?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-26T21:01:32+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b5f82fd431ba44ac",
       "title": "Projeto incentiva emprego para mães e escola para autistas",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto incentiva emprego para mães e escola para autistas. Consulte a reportagem para contexto, dados e declarações.",
@@ -926,20 +954,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cb192fbaa9b37b95",
-      "title": "Ibovespa derrete 13,9% em pregão pós-reeleição de Lula; dólar tem maior alta diária desde 1999 - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: ibovespa derrete 13,9% em pregão pós-reeleição de Lula; dólar tem maior alta diária desde 1999. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaUlQRjAxbk5IUEgwd2R3MDVweHpmY09idTBidktWRWd6LUN2bFV5R1RFV3NuZllBY3NBVTZxQUUzc0kwQlltTzZVSjFlS1AzRDItczZiQ2ExdFluQmVKOFJXTUZaZUllZHEyMGRTcGtvU0xCa2Z3bzJrWWYtdTZxd09jUVpmbzVJVS1zLWVSeGVxLXU3dUNBdVk3QXBDRmJhWE9wTDdEY295ZHZpSkZpNmk4c3BsWjlBSkd4MUJKZlVONUhQLXc?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-26T20:40:53+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1140,20 +1154,6 @@
       "archive": false
     },
     {
-      "id": "7e828f2b5e4f6f9d",
-      "title": "Tesouro cancela leilões de títulos públicos após volatilidade do mercado - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: tesouro cancela leilões de títulos públicos após volatilidade do mercado - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEhWOFJXVWJVSkw3LUM5YjJ5d3NjdDJzSmxqU3V4a1l3RjFOTXZZZ19leHJ1d2ktaTV6YnpYRlAwZ2pLajV6QnNRMjNOS1RwbmFiZDBoelIwTld2UFl0V3V5Skc3Y210cWlSck5kcDlvQUJjZWU4WUk5ZVlpQ2psOVJRTGNZaUdJTWpJY0Vfd2FkT1dvbFhzTm1Jdkp5YXp3Z2hzWUFYZ3hqdw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-26T16:54:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "be57ef9e325b8441",
       "title": "Varejo, saúde e construção lideram tombo do Ibovespa pós-eleições - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: varejo, saúde e construção lideram tombo do Ibovespa pós-eleições. Consulte a reportagem para contexto, dados e declarações.",
@@ -1224,6 +1224,20 @@
       "archive": false
     },
     {
+      "id": "101d73978c4d9fcc",
+      "title": "Agência de Comunicação - Agree lança escola de IA voltada ao agronegócio - Estadão Blue Studio",
+      "summary": "O veículo Estadão Blue Studio publicou uma atualização sobre: agência de Comunicação - Agree lança escola de IA voltada ao agronegócio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnJtMEVEbldHNnh0ZW1xLXN3STg2a1lhVmxSZEIyUnU5ZnpZRGlaQUlCRFBfV1pFZXNtSjY5YlRfdUVEOWRGWHYzaml3STFTVVQwYnAzNmtjSVhkdkJsRWdqM0RzakFyRk5mOTBrU0dKNXlPNVVLR0w4TV9mZlN2cF91TWNWY2Vld2dEQy1LTnhhLTY5THpwR3AzMkVFdjlWTFVkMkhGaEgwRFZQbUhJeWxqZjFNT2FN?oc=5",
+      "source": "Estadão Blue Studio",
+      "published_at": "2026-10-26T15:20:14+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "21ca12c663f8c1cf",
       "title": "Um terceiro turno é possível? Professor avalia as chances de anulação da eleição entre Lula e Flávio",
       "summary": "O veículo VEJA publicou uma atualização sobre: um terceiro turno é possível? Professor avalia as chances de anulação da eleição entre Lula e Flávio. Consulte a reportagem para contexto, dados e declarações.",
@@ -1280,10 +1294,10 @@
       "archive": false
     },
     {
-      "id": "4262882379aab1fd",
+      "id": "57b22707469edd79",
       "title": "Rafael Fonteles é principal cotado para assumir o Ministério da Fazenda no governo Lula 4 - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: rafael Fonteles é principal cotado para assumir o Ministério da Fazenda no governo Lula 4. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeGdtckNxMFNUQ3FYZmVPLVFoSUxaOXV0MmgxcWNTb1djbVFEcUNvQmt3eFMzcXNLY1ZxeUxWazhGanRIYTVISjJLNzEzU0c5YTVCemxaci1KNVNOd2ZxR254Z2hURTdtRV9GR2c3NUJWMkoxaHJ1M3ZaVnNyTTFvMEw3cHQwWFB6ZHJsMExCblhVeHRDNS0xdVN4QVUxbTRaNzN4aXpOQVM5Zm1DRkhLZy1fdEZYNl8tOHExSXB1c0d5Skw4Y1djVm82V29DODFKWVlBSVljOTBUaWJZMTVSLXpwSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeGdtckNxMFNUQ3FYZmVPLVFoSUxaOXV0MmgxcWNTb1djbVFEcUNvQmt3eFMzcXNLY1ZxeUxWazhGanRIYTVISjJLNzEzU0c5YTVCemxaci1KNVNOd2ZxR254Z2hURTdtRV9GR2c3NUJWMkoxaHJ1M3ZaVnNyTTFvMEw3cHQwWFB6ZHJsMExCblhVeHRDNS0xdVN4QVUxbTRaNzN4aXpOQVM5Zm1DRkhLZy1fdEZYNl8tOHExSXB1c0d5Skw4Y1djVm82V29DODFKWVlBSVljOTBUaWJZMTVSLXpwSdIB8gFBVV95cUxNbThxQUNQQ3VyeV93V0NQWW1DVFJwOFpzMDB0RlJOQmdza3lTMHpXellvbzBmS1MtR0ROMl9jdHRraEtadjJNamNKNnh6V3NyTEJvZnFTOHV6VDJsNDJXTW9MTHRTRmRrZjZNWnU3bnhHeGtMZGJQdEJKSlNkZE1kYXNCNFZuQnhiMDk3RE91eWc5NmdWMFJQNXpoMWN5MnFjaFl1OTR1XzJFVzFETXVLLW1WYktWUkZobUkyLVZDRm9kaVNiS1FRMEdBaU8wdWI4UHlpSnhVUXFVQTdQbUJxdmstZl9wOTVkSnVNbFBWNkt5QQ?oc=5",
       "source": "O GLOBO",
       "published_at": "2026-10-26T13:32:32+00:00",
       "category": "Governo federal",
@@ -1412,20 +1426,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXRKMjRXSHNVT1ZTNHFKX0tKb2s5S2EweTg4TXZ2d2pwSF9LZE5xSUlWNlpDdlpOVGZLd1BEdTR0OVNGZGJyRUtyTWdEQzdVeGVtUUNWZ2pyUjFOTWh1OWl1SE5fUGc5SG9wc0ZlZlVHZnZna0EwTU5Rd0tjcFhSZ3F4RzRMaFp2Z0hYZUdtYUljaS1uMDBYdENVejFmR3JDRE9DdHZnZkZUNXR2bVBybU1vQ0J0NXBxVXhSRmswdkg5QWFxamUtNDB2bDJ3dFh5?oc=5",
       "source": "Blog do BG",
       "published_at": "2026-10-26T01:32:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "db0a156315a701e4",
-      "title": "Governador eleito no RN, Cadu de Lula agradece eleitores e reforça articulação com Governo Federal - Tribuna do Norte",
-      "summary": "O veículo Tribuna do Norte publicou uma atualização sobre: governador eleito no RN, Cadu de Lula agradece eleitores e reforça articulação com Governo Federal - Tribuna do Norte. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTE10N2dOYktvcV80YmFINXdyYkpobUJQMkE2b1JxTXhNLWtVWUVkUXZWTkp5MHVvT19qM09HZkRXWmx2ZVdDS19LZXBEWXgycm5DYUx4Y2hPR0VXTDhqUEY2NHBCY3R6N2xMYnBFMDhqaUZLQ3psZW01TjlSNllTSndpZFlTOHRSZ0czTUVraDlFaUs0MUVadzNZSDZJbUtEblNUaGR1c2plYlNCdkdkbWVhY1V5UWpjMm42TEVZZ2ZPNFI4YllXYnpLclhLT3Yxcm8xM3E2SHJLM2xIS2tzaU5pVQ?oc=5",
-      "source": "Tribuna do Norte",
-      "published_at": "2026-10-26T01:31:46+00:00",
       "category": "Governo federal",
       "candidate": null,
       "election_type": null,
@@ -1602,20 +1602,6 @@
       "archive": false
     },
     {
-      "id": "82d3870435ae9329",
-      "title": "Recife abrirá 34 creches no domingo para facilitar o voto dos pais",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: recife abrirá 34 creches no domingo para facilitar o voto dos pais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/recife-abrira-34-creches-no-domingo-para-facilitar-o-voto-dos-pais",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-23T14:29:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f0105b910ed5bfc8",
       "title": "Previsão de superávit no Orçamento de 2027 está mantida, diz Durigan",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: previsão de superávit no Orçamento de 2027 está mantida, diz Durigan. Consulte a reportagem para contexto, dados e declarações.",
@@ -1679,9 +1665,8 @@
       "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "G1 · Economia": {
-      "status": "erro",
-      "items": 0,
-      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "status": "ok",
+      "items": 98
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1749,11 +1734,11 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 57
+      "items": 68
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 62
+      "items": 63
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1761,11 +1746,11 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 78
+      "items": 80
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     "Eleições · Flávio": {
       "status": "ok",
