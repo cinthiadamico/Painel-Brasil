@@ -242,7 +242,12 @@
     if (result[1].status === 'fulfilled' &&
         Array.isArray(result[1].value.entries) &&
         result[1].value.status === 'generated') {
-      state.ai = result[1].value.entries.filter(function (it) { return !!safeLink(it.url); });
+      var generatedAt = Date.parse(result[1].value.generated_at || '');
+      var elapsed = Date.now() - generatedAt;
+      // Conteúdo gerado não deve parecer atual quando a execução envelhece.
+      if (Number.isFinite(elapsed) && elapsed >= 0 && elapsed < 72 * 60 * 60 * 1000) {
+        state.ai = result[1].value.entries.filter(function (it) { return !!safeLink(it.url); });
+      }
     }
     function valid(index) { return result[index].status === 'fulfilled' ? result[index].value : {}; }
     state.editions = editionsFrom(valid(2), valid(3), valid(4));
