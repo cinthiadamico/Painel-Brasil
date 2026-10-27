@@ -31,3 +31,10 @@ jobs:
           node --check site/lab.js
       - name: Validar selecao editorial sem acesso externo
         run: python scripts/claude_enrich.py --dry-run
+      - name: Empacotar interface para revisao (sem deploy)
+        uses: actions/upload-artifact@v4
+        with:
+          name: painel-brasil-preview
+          path: site/
+          retention-days: 14
+          if-no-files-found: error
