@@ -51,16 +51,23 @@ class ClaudeAPITest(unittest.TestCase):
             ai.parse_response({"content": [{"type": "text", "text": "texto livre"}]},
                               [self.item])
 
-    def test_api_http_error_includes_safe_diagnostic(self):
-        def fail_request(*args, **kwargs):
-            raise HTTPError(
-                ai.API_URL, 401, "Unauthorized", {},
-                io.BytesIO(b'{"error":{"message":"invalid x-api-key"}}'),
-            )
-
-        with self.assertRaisesRegex(
-                RuntimeError, r"Anthropic API HTTP 401: invalid x-api-key"):
-            ai.call_api([self.item], "example", opener=fail_request)
+    def test_api_http_diagnostic_does_not_expose_private_response(self):
+        for code, kind in ((401, "authentication_error"),
+                           (402, "billing_error"), (403, "permission_error"),
+                           (429, "rate_limit_error")):
+            body = json.dumps({"error": {"type": kind, "message":
+                        "PRIVATE_TOKEN_123 should not appear"}}).encode()
+            def fail_request(*args, **kwargs):
+                raise HTTPError(ai.API_URL, code, "private reason", {},
+                                io.BytesIO(body))
+            with self.assertRaises(ai.ClaudeAPIError) as caught:
+                ai.call_api([self.item], "PRIVATE_TOKEN_123",
+                            opener=fail_request)
+            diagnostic = str(caught.exception)
+            self.assertEqual(caught.exception.code, code)
+            self.assertIn(kind, diagnostic)
+            self.assertNotIn("PRIVATE_TOKEN_123", diagnostic)
+            self.assertNotIn("private reason", diagnostic)
 
     def test_dry_run_no_api_call_and_missing_key_does_not_overwrite(self):
         with tempfile.TemporaryDirectory() as tmp:
