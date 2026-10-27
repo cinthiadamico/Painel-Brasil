@@ -2,3 +2,5 @@ Teste controlado solicitado após configuração da chave em 2026-10-27.
 Objetivo: validar uma chamada única à Claude API no ambiente de desenvolvimento, sem publicação.
 Execução: até 10 manchetes RSS e até 1300 tokens de saída na requisição.
 A ausência ou falha de chave deve preservar o estado anterior.
+
+Reexecucao diagnostica 2026-10-27: classificar HTTP e validacao de dados sem expor chaves.
