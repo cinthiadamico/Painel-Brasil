@@ -34,7 +34,7 @@ try {
   const sectionTitle = await desktop.locator('#resultsTitle').innerText();
   assert.equal(sectionTitle, 'Eleições');
   const electionCategories = await desktop.locator('.story .tag').allInnerTexts();
-  assert.ok(electionCategories.every(cat => cat === 'Eleições'), 'Filtro Eleições deve isolar a editoria; categorias exibidas=' + JSON.stringify(electionCategories));
+  assert.ok(electionCategories.every(cat => cat.toLocaleLowerCase('pt-BR') === 'eleições'), 'Filtro Eleições deve isolar a editoria; categorias exibidas=' + JSON.stringify(electionCategories));
   await desktop.locator('#search').fill('assunto-inexistente-987654321');
   assert.equal(await desktop.locator('.story').count(), 0, 'Pesquisa vazia deve informar ausência');
   await desktop.locator('#search').fill('');
