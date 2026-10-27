@@ -1,10 +1,24 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-27T05:44:03.987835+00:00",
-  "last_success_at": "2026-10-27T05:44:03.987835+00:00",
+  "last_checked_at": "2026-10-27T06:54:51.617914+00:00",
+  "last_success_at": "2026-10-27T06:54:51.617914+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "e8a4feac254e165b",
+      "title": "Começa trégua humanitária em Oleshky, cidade ucraniana ocupada pela Rússia - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: começa trégua humanitária em Oleshky, cidade ucraniana ocupada pela Rússia - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmtpTjZHVzRveEFSZEpZTktMNi1FUzJrZ0hLd003Wjd6LWUxX2VGNGlzM1NYUGM1OGl4Y0FlMXRoMlByQS1qY1VSdzdfMHRMTEJhSkhwTFVIekhleEdpNS1wUUZzMEh1VFpJc05FSHlzT3UwTkVVVW5BYkpzWGktdFhTVFFneUotMkozeVltY1ktR0FYV3BKT3BraXBkLTRJVDFUWXF0WU5wdw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T06:42:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "fdefc4cb53fb1be1",
       "title": "Como derrota de Flávio Bolsonaro impacta planos de Ricardo Nunes em SP - Metrópoles",
@@ -26,6 +40,20 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeE92LWJGTXRjUDlHdl8tT1M0SW1NQmhEdmpOOEpKTElhZk1Wa3RGUTlncHhqbGxRVF8yc3N1NHN5T2l4YzAyeWRjT09pMHhjLWk2QjZfUlVMNkg0bE5MSF9Kb0pqVDY5LWhxWDNGTkpzSGtBcnFKa2c3WDBLVG9oVjZNb1lUcHhxNHFXWUw1QVJNUUQybVFTTlpZY0JJYkJEcnJIMjZZS09kYjRLemZPNw?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-27T05:06:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "156bda1f14be250c",
+      "title": "Flávio vence no Entorno do DF, mas Lula cresce em 31 dos 33 municípios - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio vence no Entorno do DF, mas Lula cresce em 31 dos 33 municípios - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUlFwRlQ0dVg5UUVTRmlsLWkxQjJEY2s0N0tpOW12Z3lLdTdzWHl2bmdqdVlTVGNGd3p0dFRBbjVEbUZFemZtbDQxaTNmbm9nNDBKRExmODFGSHI5RUhpT0NaR2NyYzFFUF9VYnBESW5xeUozVjVHMV9NcXVrYjJoU3QwOGNyZWM2dVktM2U2VnY1bGVEUXQwcG42R1F0MGZkdThsYkpVYVJ0V0tOVFhiajE3RlF4TmpnNUlSZjh3?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T05:02:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -146,6 +174,20 @@
       "archive": false
     },
     {
+      "id": "179f4ad15be83305",
+      "title": "‘Estadão’ terá projeção do resultado durante apuração do 2º turno para presidente; entenda o modelo - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: ‘Estadão’ terá projeção do resultado durante apuração do 2º turno para presidente; entenda o modelo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUTh0X0l0TFZmRktfaUd3WUs3N1g4TFJDTU1kVE8yME1LWm1vMWlVbklrOUZyMEs3bUNNX0l1ektpMFJKQWI5OVZjYVp4eWRFQnRyUm9fNy1iY2JfRXlKOW9Nb0xKdGVFclo3eGE4TVNaR2h6Qy1YTEQ0VXo5RFhwQm5EU0tRVmUyQkFyWTJ1S2oyS3dLZ2V5UVRWWnB5RDBhdVpNd3paUGFhMUhXaWtQcDA1bGZqMnQ3WGxLUEE2STdyZDN5OUR1azkxeEpnTVhwRWRNWlZhOXhqa1BzdHEzRVZ1aw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-27T03:30:46+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "19d7e53c250e10a9",
       "title": "O quarto mandato de Lula: vitória nas urnas e futuro do governo - O Assunto #1833",
       "summary": "O veículo G1 publicou uma atualização sobre: o quarto mandato de Lula: vitória nas urnas e futuro do governo - O Assunto #1833. Consulte a reportagem para contexto, dados e declarações.",
@@ -208,34 +250,6 @@
       "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/27/omar-aziz-do-psd-vence-segundo-turno-e-voltara-a-governar-o-am-depois-de-12-anos.ghtml",
       "source": "G1",
       "published_at": "2026-10-27T03:21:19+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "97b20601bf4aa5c1",
-      "title": "Lorenzo Pazolini, do Republicanos, é eleito governador do ES",
-      "summary": "O veículo G1 publicou uma atualização sobre: lorenzo Pazolini, do Republicanos, é eleito governador do ES. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/27/lorenzo-pazolini-do-republicanos-e-eleito-governador-do-es.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T03:18:04+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "06aae504e95b592f",
-      "title": "Celina Leão, do Progressistas, é reeleita governadora do DF",
-      "summary": "O veículo G1 publicou uma atualização sobre: celina Leão, do Progressistas, é reeleita governadora do DF. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/27/celina-leao-do-progressistas-e-reeleita-governadora-do-df.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T03:14:16+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
@@ -692,20 +706,6 @@
       "archive": false
     },
     {
-      "id": "d03ea63ab2d979d2",
-      "title": "Civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: civilian Suffering Was Goal of Russian Strikes in Ukraine, U.N. Panel Says. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/russia-ukraine-energy-strikes-un.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-26T23:12:02+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e5fb22b3bff39e07",
       "title": "Alckmin é o mais cotado para comandar Ministério da Fazenda em quarto mandato de Lula - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: alckmin é o mais cotado para comandar Ministério da Fazenda em quarto mandato de Lula. Consulte a reportagem para contexto, dados e declarações.",
@@ -940,6 +940,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "554c00bef96d1188",
+      "title": "Governo federal transfere ponto facultativo do Dia do Servidor Público para 30 de outubro - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: governo federal transfere ponto facultativo do Dia do Servidor Público para 30 de outubro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS21MVjFESnNPR0JGaHhYT3VqVDQzMmltS2VRZUp6ZFR4VEVXRWx1LThkQmlFS3gwS2ZkQlZ2Y3A1SEUxeGdKbERLaWdOd1ZYbkNvTnJnOXQxNzZGTUM2UjAxMlRZdzNveVlPYmJHbng1bDEzMHBTUmlUQ1BLUXVrSzFRb3ppMHRGWXRZWGV1Rm4xaWkzQXAzeFVEQ25aeEI5YVNTX0U4YVB3VGt0Rk5LUjBHbzh1cEI4R09mME5pazJOWG5IRHlJQTRQV1o1WTRSN0dhczFjUlhSenk00gHrAUFVX3lxTE9KWW1aWTVndEZXV0lBSWR1bkNDdmF6UGJUTmlySVNENFprME0xLWJlbXhuZGQ0M0VWcElXV3ZmLXc1OFdnck1SNkZGelVpQnAtVnZod2VlQzNGVmdBbVJhSnVGTkRjQ2V2SWs2eTJUbi1DRUhtdU9yT3NkVzJFd3FaNzZEYTlwSy1JQTRZV0hfYkFTVGFnclMtODBOVnVydGhSeWNSc3YyYU91V1IwU3Y1MzNWWEZjc2Yzck9ZREh6UGZWajd6bWYxQ0FSTWh1NGxzVWpCT0ZvWGx5dXFvLTdXbkJOdzh6dnFCUDA?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-26T21:12:44+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1224,6 +1238,20 @@
       "archive": false
     },
     {
+      "id": "136dcf282bd00274",
+      "title": "Em dia de nervosismo no mercado, Tesouro Nacional recompra R$ 7,1 bilhões em títulos públicos - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: em dia de nervosismo no mercado, Tesouro Nacional recompra R$ 7,1 bilhões em títulos públicos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVnNzbFFkYnk4cnpBWHYwTGVqYlYwVTNXNi1Nc2stMV9aR0szT0hwM3BJZlVxV1RaYkYyMjBpVWpXWDFuOE1ZLUZSVTBhQ3F0RXZCUDdUTmJ5MXBXSnctVXA4VUU1R0h1SkZQVWVrSGxFZmdKM3JoY1FvZGNpVzZXNENHdjNwYVBmcUpaV2liMmN5QktBdlJFb3VfWHpZclM3UXpnV0VoT0NBcFBNMWRVRE5xMHh1c3Q5dmVaS09GYlNlcVpYWEQ4YVFmSWE0VlJmc3Z3NXYxbHRNS2lTdFHSAewBQVVfeXFMUDRLM1RvcjFadzQzdVZRWXNSX2ZKcDZOQnhhNmltOUZ6cUp1NUM2ODlxaUc0Rk5EX0RGSVVMZ1FEN1pNVUkwcU5HNlpsZWliZ0NNcWkzQlNoR0RIN0k1Q0llSTlndkRwU1o5TE12azFSSlUtMHpjVUoyUmNPQUR1TFRUQ1pPQ3d5R3hMTXV1VmJiZmt1aGNmVlFQcHBPV3NLSS1SWk1yVDg3a3ZKeC1UWGZXdFFmTl95elpmU2JpYk9rSzE0NmFfVjFocWp6OGhmZzhXWTNTVjZxbHpuZGxWVE9oYTVLYXc1WnlVdjI?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-26T15:53:39+00:00",
+      "category": "Endividamento",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "101d73978c4d9fcc",
       "title": "Agência de Comunicação - Agree lança escola de IA voltada ao agronegócio - Estadão Blue Studio",
       "summary": "O veículo Estadão Blue Studio publicou uma atualização sobre: agência de Comunicação - Agree lança escola de IA voltada ao agronegócio. Consulte a reportagem para contexto, dados e declarações.",
@@ -1415,20 +1443,6 @@
       "category": "Eleições",
       "candidate": "flavio",
       "election_type": "Fala",
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "28972c9134b840f4",
-      "title": "[VÍDEO] Cadu confirma telefonema de Lula, celebra apoio do Governo Federal e garante cumprimento de propostas - Blog do BG",
-      "summary": "O veículo Blog do BG publicou uma atualização sobre: [VÍDEO] Cadu confirma telefonema de Lula, celebra apoio do Governo Federal e garante cumprimento de propostas - Blog do BG. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXRKMjRXSHNVT1ZTNHFKX0tKb2s5S2EweTg4TXZ2d2pwSF9LZE5xSUlWNlpDdlpOVGZLd1BEdTR0OVNGZGJyRUtyTWdEQzdVeGVtUUNWZ2pyUjFOTWh1OWl1SE5fUGc5SG9wc0ZlZlVHZnZna0EwTU5Rd0tjcFhSZ3F4RzRMaFp2Z0hYZUdtYUljaS1uMDBYdENVejFmR3JDRE9DdHZnZkZUNXR2bVBybU1vQ0J0NXBxVXhSRmswdkg5QWFxamUtNDB2bDJ3dFh5?oc=5",
-      "source": "Blog do BG",
-      "published_at": "2026-10-26T01:32:00+00:00",
-      "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
       "via_aggregator": true,
       "curated": false,
       "archive": false
@@ -1665,8 +1679,9 @@
       "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "G1 · Economia": {
-      "status": "ok",
-      "items": 98
+      "status": "erro",
+      "items": 0,
+      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "Folha de S.Paulo": {
       "status": "ok",
@@ -1678,7 +1693,7 @@
     },
     "The New York Times": {
       "status": "ok",
-      "items": 15
+      "items": 14
     },
     "Agência Brasil": {
       "status": "ok",
@@ -1722,7 +1737,7 @@
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 45
+      "items": 46
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1734,15 +1749,15 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 68
+      "items": 59
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 63
+      "items": 62
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 68
+      "items": 70
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1750,7 +1765,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 29
+      "items": 52
     },
     "Eleições · Flávio": {
       "status": "ok",
