@@ -6,7 +6,7 @@
       "days": [
         {
           "date": "2026-10-27",
-          "count": 378,
+          "count": 411,
           "claude_count": 0,
           "claude_original": false,
           "path": "arquivo/2026-10/2026-10-27/materias.json",
@@ -14,7 +14,7 @@
         },
         {
           "date": "2026-10-26",
-          "count": 614,
+          "count": 615,
           "claude_count": 0,
           "claude_original": false,
           "path": "arquivo/2026-10/2026-10-26/materias.json",
