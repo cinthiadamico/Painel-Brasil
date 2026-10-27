@@ -29,6 +29,12 @@ try {
   desktop.on('pageerror', e => errors.push('desktop: ' + String(e)));
   await ready(desktop);
   assert.ok((await desktop.locator('#itemCount').innerText()).trim().match(/^\d+$/));
+  assert.equal(await desktop.locator('#results .story.is-lead').count(), 1,
+               'A visão geral deve mostrar uma notícia principal em destaque');
+  assert.ok(Number(await desktop.locator('#categoryCount').innerText()) >= 5,
+            'Indicadores devem refletir editorias reais');
+  assert.ok(Number(await desktop.locator('#sourceCount').innerText()) >= 5,
+            'Indicadores devem refletir fontes reais');
   await desktop.screenshot({ path: output + '/desktop.png', fullPage: true });
   await desktop.locator('[data-view="eleicoes"]').click();
   const sectionTitle = await desktop.locator('#resultsTitle').innerText();
@@ -62,6 +68,15 @@ try {
   assert.equal(fits, true, 'Não pode haver rolagem horizontal na tela de celular');
   await mobile.screenshot({ path: output + '/celular.png', fullPage: true });
   await mobile.close();
+
+  const narrow = await browser.newPage({ viewport: { width: 320, height: 700 }, deviceScaleFactor: 1 });
+  narrow.on('pageerror', e => errors.push('narrow: ' + String(e)));
+  await ready(narrow);
+  const narrowFits = await narrow.evaluate(() =>
+    document.documentElement.scrollWidth <= window.innerWidth + 3);
+  assert.equal(narrowFits, true, 'Layout refinado não pode transbordar em 320px');
+  await narrow.screenshot({ path: output + '/celular-estreito.png', fullPage: true });
+  await narrow.close();
 
   assert.deepEqual(errors, [], 'Navegação sem exceções de JavaScript');
   console.log('E2E aprovado: RSS, editorias, pesquisa, arquivo Claude, celular e capturas.');
