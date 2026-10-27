@@ -40,14 +40,13 @@ jobs:
       - name: Geracao via API do Claude
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
           CLAUDE_MODEL: claude-haiku-5-5
         run: |
           if [ -z "$ANTHROPIC_API_KEY" ]; then
             echo 'API nao configurada: sem geracao, dados anteriores preservados.'
           else
-            if ! python scripts/claude_enrich.py; then
-              echo '::warning::Falha na API Claude; camada editorial anterior preservada.'
-            fi
+            python scripts/claude_enrich.py
           fi
       - name: Registrar resultado SOMENTE na branch em execucao
         run: |
