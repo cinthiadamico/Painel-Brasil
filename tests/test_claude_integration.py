@@ -51,6 +51,17 @@ class ClaudeAPITest(unittest.TestCase):
             ai.parse_response({"content": [{"type": "text", "text": "texto livre"}]},
                               [self.item])
 
+    def test_workspace_header_is_optional_and_validated(self):
+        import unittest.mock
+        with unittest.mock.patch.dict("os.environ", {"ANTHROPIC_WORKSPACE_ID": ""}):
+            header = ai.build_headers("test_key")
+            self.assertNotIn("anthropic-workspace-id", header)
+        with unittest.mock.patch.dict("os.environ", {"ANTHROPIC_WORKSPACE_ID": "wrkspc_0123Abc"}):
+            header = ai.build_headers("test_key")
+            self.assertEqual(header["anthropic-workspace-id"], "wrkspc_0123Abc")
+        with self.assertRaises(ValueError):
+            ai.build_headers("test_key", "https://example.org/evil")
+
     def test_api_http_diagnostic_does_not_expose_private_response(self):
         for code, kind in ((401, "authentication_error"),
                            (402, "billing_error"), (403, "permission_error"),
