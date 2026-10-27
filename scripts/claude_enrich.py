@@ -184,13 +184,24 @@ def parse_response(response, articles):
     return result
 
 
-def call_api(articles, key, model=MODEL, opener=urlopen):
-    body = json.dumps(request_payload(articles, model), ensure_ascii=False).encode("utf-8")
-    request = Request(API_URL, data=body, method="POST", headers={
-        "x-api-key": key,
+def build_headers(key, workspace_id=None):
+    headers = {
+        "Authorization": "Bearer " + key,
         "anthropic-version": API_VERSION,
         "content-type": "application/json",
-    })
+    }
+    workspace_id = (workspace_id if workspace_id is not None else
+                    os.environ.get("ANTHROPIC_WORKSPACE_ID", "")).strip()
+    if workspace_id:
+        if not re.fullmatch(r"wrkspc_[A-Za-z0-9]+", workspace_id):
+            raise ValueError("Identificador de workspace em formato inválido")
+        headers["anthropic-workspace-id"] = workspace_id
+    return headers
+
+
+def call_api(articles, key, model=MODEL, opener=urlopen):
+    body = json.dumps(request_payload(articles, model), ensure_ascii=False).encode("utf-8")
+    request = Request(API_URL, data=body, method="POST", headers=build_headers(key))
     try:
         with opener(request, timeout=60) as response:
             answer = json.loads(response.read(400_000).decode("utf-8"))
