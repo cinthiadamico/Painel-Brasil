@@ -1,9 +1,11 @@
 import datetime as dt
+import io
 import json
 import pathlib
 import sys
 import tempfile
 import unittest
+from urllib.error import HTTPError
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1] / "scripts"))
 import claude_enrich as ai
@@ -48,6 +50,17 @@ class ClaudeAPITest(unittest.TestCase):
         with self.assertRaises(ValueError):
             ai.parse_response({"content": [{"type": "text", "text": "texto livre"}]},
                               [self.item])
+
+    def test_api_http_error_includes_safe_diagnostic(self):
+        def fail_request(*args, **kwargs):
+            raise HTTPError(
+                ai.API_URL, 401, "Unauthorized", {},
+                io.BytesIO(b'{"error":{"message":"invalid x-api-key"}}'),
+            )
+
+        with self.assertRaisesRegex(
+                RuntimeError, r"Anthropic API HTTP 401: invalid x-api-key"):
+            ai.call_api([self.item], "example", opener=fail_request)
 
     def test_dry_run_no_api_call_and_missing_key_does_not_overwrite(self):
         with tempfile.TemporaryDirectory() as tmp:

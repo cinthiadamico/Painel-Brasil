@@ -11,8 +11,10 @@ import datetime as dt
 import json
 import os
 import re
+import sys
 from pathlib import Path
 import tempfile
+from urllib.error import HTTPError
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
@@ -145,8 +147,17 @@ def call_api(articles, key, model=MODEL, opener=urlopen):
         "anthropic-version": API_VERSION,
         "content-type": "application/json",
     })
-    with opener(request, timeout=60) as response:
-        answer = json.loads(response.read(400_000).decode("utf-8"))
+    try:
+        with opener(request, timeout=60) as response:
+            answer = json.loads(response.read(400_000).decode("utf-8"))
+    except HTTPError as exc:
+        try:
+            error = json.loads(exc.read(4_000).decode("utf-8")).get("error", {})
+            detail = error.get("message") if isinstance(error, dict) else None
+        except (AttributeError, UnicodeDecodeError, ValueError):
+            detail = None
+        detail = str(detail or exc.reason)[:300]
+        raise RuntimeError(f"Anthropic API HTTP {exc.code}: {detail}") from None
     return parse_response(answer, articles)
 
 
@@ -191,8 +202,12 @@ def main():
     args = parser.parse_args()
     try:
         print(json.dumps(generate(dry_run=args.dry_run), ensure_ascii=False))
-    except (OSError, ValueError, RuntimeError, json.JSONDecodeError):
-        print("Falha na geração editorial; saída anterior mantida.")
+    except (OSError, ValueError, RuntimeError, json.JSONDecodeError) as exc:
+        print(
+            f"Falha na geração editorial; saída anterior mantida "
+            f"({type(exc).__name__}: {exc}).",
+            file=sys.stderr,
+        )
         raise SystemExit(1) from None
 
 

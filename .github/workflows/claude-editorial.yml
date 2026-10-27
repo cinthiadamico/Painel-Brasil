@@ -45,7 +45,9 @@ jobs:
           if [ -z "$ANTHROPIC_API_KEY" ]; then
             echo 'API nao configurada: sem geracao, dados anteriores preservados.'
           else
-            python scripts/claude_enrich.py
+            if ! python scripts/claude_enrich.py; then
+              echo '::warning::Falha na API Claude; camada editorial anterior preservada.'
+            fi
           fi
       - name: Registrar resultado SOMENTE na branch em execucao
         run: |
