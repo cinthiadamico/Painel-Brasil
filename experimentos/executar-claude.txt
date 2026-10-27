@@ -8,3 +8,5 @@ Reexecucao diagnostica 2026-10-27: classificar HTTP e validacao de dados sem exp
 Validacao pos-configuracao de workspace em 2026-10-27: unica tentativa controlada, sem deploy.
 
 Teste apos cadastro do workspace confirmado pelo usuario, 2026-10-27. Unica execucao experimental, sem deploy.
+
+Nova tentativa unica solicitada pelo usuario em 2026-10-27: verificar saldo Anthropic e API; nenhuma publicacao.
