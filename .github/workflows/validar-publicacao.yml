@@ -1,0 +1,58 @@
+name: Validar candidato de publicacao (sem deploy)
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'site/index.html'
+      - 'site/lab.*'
+      - 'site/versao-anterior.html'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/validar-publicacao.yml'
+      - '.github/workflows/claude-editorial.yml'
+  push:
+    branches:
+      - preparacao/publicacao-layout-refinado-2026-10-27
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  qualidade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Testes das fontes, importacao e Claude (API simulada)
+        run: python -m unittest discover -s tests -v
+      - name: Validar Python e JavaScript
+        run: |
+          python -m compileall -q scripts
+          node --check site/lab.js
+          node --check tests/smoke_lab.mjs
+      - name: Validacao editorial local e gratuita
+        run: python scripts/claude_enrich.py --dry-run
+      - name: Validar pagina inicial em Chrome desktop e celular
+        run: |
+          npm install --no-save --no-package-lock --ignore-scripts playwright@1.56.1
+          python -m http.server 8000 --bind 127.0.0.1 --directory site >/tmp/painel-http.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill "$SERVER_PID" || true' EXIT
+          sleep 2
+          PREVIEW_URL=http://127.0.0.1:8000/index.html node tests/smoke_lab.mjs
+      - name: Capturas de tela para aprovacao (nao publica)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: painel-brasil-candidato-capturas
+          path: qa/screenshots/
+          retention-days: 14
+          if-no-files-found: ignore
+      - name: Pacote da versao candidata (nao publica)
+        uses: actions/upload-artifact@v4
+        with:
+          name: painel-brasil-candidato-site
+          path: site/
+          retention-days: 14
+          if-no-files-found: error
