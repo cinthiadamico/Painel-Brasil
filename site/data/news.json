@@ -1,10 +1,220 @@
 {
   "schema_version": 1,
-  "status": "atualizado",
-  "last_checked_at": "2026-10-27T00:58:34.235023+00:00",
-  "last_success_at": "2026-10-27T00:58:34.235023+00:00",
+  "status": "parcial",
+  "last_checked_at": "2026-10-27T01:51:23.166510+00:00",
+  "last_success_at": "2026-10-27T01:51:23.166510+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "f44d2837c0c7e188",
+      "title": "Chile informa que presidente José Kast comparecerá à posse de Lula - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: chile informa que presidente José Kast comparecerá à posse de Lula - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUdZTFI5VWllTnp0YWNrMnZXWHZpWkNNX0Y4ZGduMHB4am1kT2Iwd05TWEVaTVIzaHMtaFI1Vkw4bWoyM0ZhTngyVnlTS1pfNTNZYkZoS3owR3E3SGVTTzgxWnhWZ01KS3JFSkV2aGVDY19GZzNQUGtKT2FUeUhOdGQxYXN4S2oxTW42RWJqWXVsa0U2NXlWZ3Z0UzhvQVow?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T01:46:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "37d9a1ea8d578353",
+      "title": "Como a proibição das bets pelo governo Lula agrava o aperto financeiro dos clubes de futebol - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: como a proibição das bets pelo governo Lula agrava o aperto financeiro dos clubes de futebol. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2hkYm9CVGdCZHBzOUdVMU9WU0p2Yy1LMDVaZnFxUXY2Y1U0WnhWcHhKOExCNlluMXZLYVlEaXN4UWVDYWNUTV9CS3FNZk42dHM2bU1GRTBUZEh4Y1pUTVdqSjM1LWdXUkVkaXhHVmhSc2QyTV9JUE04OWF6SzQ2OVNlTEZsZGVtVmtneGUyUTJGdDUzd183eGh0al9aTVkyUkNSb3hEVjVTZGhDaE0xZ3dvRE1sZGY4RzluV254b25pbjlpMmZF?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-27T01:39:54+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "61d0cfd354d07bf4",
+      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-27T01:34:24+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8d5ac5c0443cc7dc",
+      "title": "A reação de Alckmin à fala de Trump sobre a eleição no Brasil",
+      "summary": "O veículo VEJA publicou uma atualização sobre: a reação de Alckmin à fala de Trump sobre a eleição no Brasil. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/a-reacao-de-alckmin-a-fala-de-trump-sobre-a-eleicao-no-brasil/",
+      "source": "VEJA",
+      "published_at": "2026-10-27T01:19:36+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9a8ee2ac59466442",
+      "title": "Fux mantém proibição de bets e convoca audiência com governo, setor de apostas e times de futebol",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: fux mantém proibição de bets e convoca audiência com governo, setor de apostas e times de futebol. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/fux-mantem-proibicao-de-bets-e-convoca-audiencia-com-governo-setor-de-apostas-e-times-de-futebol.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T01:18:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9699c7e20b7ebacc",
+      "title": "Vitória de Lula teve ineditismos com virada, volume de votos e idade do eleito",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: vitória de Lula teve ineditismos com virada, volume de votos e idade do eleito. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/vitoria-de-lula-teve-ineditismos-com-virada-volume-de-votos-e-idade-do-eleito.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T01:18:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0b152bbc072b4e50",
+      "title": "STF e TSE atrapalharam a eleição, diz especialista em direito eleitoral",
+      "summary": "O veículo VEJA publicou uma atualização sobre: sTF e TSE atrapalharam a eleição, diz especialista em direito eleitoral. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/stf-e-tse-atrapalharam-a-eleicao-diz-especialista-em-direito-eleitoral/",
+      "source": "VEJA",
+      "published_at": "2026-10-27T01:09:52+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b8815d2b1da320ac",
+      "title": "Lula vai iniciar quarto mandato com articulação de até 364 deputados - ICL Notícias",
+      "summary": "O veículo ICL Notícias publicou uma atualização sobre: lula vai iniciar quarto mandato com articulação de até 364 deputados - ICL Notícias. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92Q0hOX01Oa3dBZlJ3eW1RbUNyUEY2TVpIM3pMeHd4SDFFckd4ckZhVlNySVpzRlYySm9hbE45UWZCWWZhNFdsSDlyaGJQWHZVd1pfXzZSU1JKQ3JrTGMwWTVIYXZHcHNKbzV0NjZVcDJIMktn?oc=5",
+      "source": "ICL Notícias",
+      "published_at": "2026-10-27T01:08:31+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7dabd94bcf191646",
+      "title": "Mega-Sena não tem ganhador; prêmio acumula para R$ 305 milhões",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: mega-Sena não tem ganhador; prêmio acumula para R$ 305 milhões. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/mega-sena-nao-tem-ganhador-premio-acumula-para-r-305-milhoes",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-27T01:08:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2b98805ac8ca3f7c",
+      "title": "'Diferença de milhões de votos para Lula, com ou sem prorrogação da votação', escreve leitora sobre eleiçao",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Diferença de milhões de votos para Lula, com ou sem prorrogação da votação', escreve leitora sobre eleiçao. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/diferenca-de-milhoes-de-votos-para-lula-com-ou-sem-prorrogacao-da-votacao-escreve-leitora-sobre-eleicao.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f3bae89e9654aa4f",
+      "title": "Carta ao presidente reeleito",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: carta ao presidente reeleito. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/carta-ao-presidente-reeleito.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a32fa4af73155754",
+      "title": "Flávio Bolsonaro age bem ao desistir de atacar o pleito",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro age bem ao desistir de atacar o pleito. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/flavio-bolsonaro-age-bem-ao-desistir-de-atacar-o-pleito.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dc85fb0e82099132",
+      "title": "Um novo papel político para Lula",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: um novo papel político para Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/um-novo-papel-politico-para-lula.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2291877cfe79a577",
+      "title": "Mercado precifica a crise semeada por Lula",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mercado precifica a crise semeada por Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/10/mercado-precifica-a-crise-semeada-por-lula.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T01:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e4bdd04561a4de40",
+      "title": "Alcolumbre e Motta visitam Lula após reeleição e defendem diálogo entre Poderes - Gazeta do Povo",
+      "summary": "O veículo Gazeta do Povo publicou uma atualização sobre: alcolumbre e Motta visitam Lula após reeleição e defendem diálogo entre Poderes - Gazeta do Povo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOczFOcG8yRGZvenl5TmJTdmcxa2hRMDhnRzlHNG1UdnpwUjdIaHdJSTJOYkk5Ym01UjVvLUhJY2hqUjl3RXVKNW5aNWZhVEVNbzA2S3lCbW42LWxQV1JySUtqQVFXT2x0MUFrYzBaVERnTXRGVjJPM2hMSmdZVFU2eHdFNWw2eDE2UFlmSUxnSHZEZ1lUVEVZZ0IyQ2hZT0dCSzFpeW5rSFQ3N2xIXzhaNkFQdVFWSUo1eDlyZFpIaXJvUnZy?oc=5",
+      "source": "Gazeta do Povo",
+      "published_at": "2026-10-27T00:48:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "de899db9a81ee9ad",
       "title": "O nome surpreendente que Lula pode escolher como seu novo ministro",
@@ -62,34 +272,6 @@
       "archive": false
     },
     {
-      "id": "d953bbb74b31a2f9",
-      "title": "PL, partido de Flávio, reconhece vitória de Lula nas eleições",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: pL, partido de Flávio, reconhece vitória de Lula nas eleições. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/partido-de-flavio-pl-reconhece-vitoria-de-lula-nas-eleicoes",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-27T00:38:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "5ef750696084deb6",
-      "title": "Concurso público do TRF3 tem salário de até R$ 20 mil em MS e SP; saiba como se inscrever",
-      "summary": "O veículo G1 publicou uma atualização sobre: concurso público do TRF3 tem salário de até R$ 20 mil em MS e SP; saiba como se inscrever. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/26/trf3-lanca-concurso-publico-com-salario-de-ate-r-20-mil-em-ms-e-sp-saiba-como-se-inscrever.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T00:36:59+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "dbc5a06f4dc2cf43",
       "title": "Comissão criada pela ONU diz que forças de Israel promovem extermínio na Cisjordânia",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: comissão criada pela ONU diz que forças de Israel promovem extermínio na Cisjordânia. Consulte a reportagem para contexto, dados e declarações.",
@@ -97,34 +279,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-27T00:34:00+00:00",
       "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "37d9a1ea8d578353",
-      "title": "Como a proibição das bets pelo governo Lula agrava o aperto financeiro dos clubes de futebol - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: como a proibição das bets pelo governo Lula agrava o aperto financeiro dos clubes de futebol. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2hkYm9CVGdCZHBzOUdVMU9WU0p2Yy1LMDVaZnFxUXY2Y1U0WnhWcHhKOExCNlluMXZLYVlEaXN4UWVDYWNUTV9CS3FNZk42dHM2bU1GRTBUZEh4Y1pUTVdqSjM1LWdXUkVkaXhHVmhSc2QyTV9JUE04OWF6SzQ2OVNlTEZsZGVtVmtneGUyUTJGdDUzd183eGh0al9aTVkyUkNSb3hEVjVTZGhDaE0xZ3dvRE1sZGY4RzluV254b25pbjlpMmZF?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-27T00:31:44+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "623343ac99688810",
-      "title": "Nunes entrou na campanha de Flávio e vitória de Lula aumentou em SP, diz vereador do PT",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: nunes entrou na campanha de Flávio e vitória de Lula aumentou em SP, diz vereador do PT. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/nunes-entrou-na-campanha-de-flavio-e-vitoria-de-lula-aumentou-em-sp-diz-vereador-do-pt.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-27T00:30:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -146,20 +300,6 @@
       "archive": false
     },
     {
-      "id": "53b4e31c8b4e2810",
-      "title": "Os três erros que levaram Flávio Bolsonaro à derrota, segundo cientista político",
-      "summary": "O veículo VEJA publicou uma atualização sobre: os três erros que levaram Flávio Bolsonaro à derrota, segundo cientista político. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/os-tres-erros-que-levaram-flavio-bolsonaro-a-derrota-segundo-cientista-politico/",
-      "source": "VEJA",
-      "published_at": "2026-10-27T00:07:38+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "bd9f0dd1c5a0fc20",
       "title": "Mega-Sena 3075 acumula e prêmio vai a R$ 305 milhões; confira os números sorteados",
       "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena 3075 acumula e prêmio vai a R$ 305 milhões; confira os números sorteados. Consulte a reportagem para contexto, dados e declarações.",
@@ -167,20 +307,6 @@
       "source": "G1",
       "published_at": "2026-10-27T00:05:46+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cc374ab6e2c232eb",
-      "title": "Justiça alertou Prefeitura de SP sobre exigência de ampliar ônibus meses antes da eleição",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: justiça alertou Prefeitura de SP sobre exigência de ampliar ônibus meses antes da eleição. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/justica-alertou-prefeitura-de-sp-sobre-exigencia-de-ampliar-onibus-meses-antes-da-eleicao.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-27T00:00:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -230,44 +356,16 @@
       "archive": false
     },
     {
-      "id": "23cb3e88aa2182d0",
-      "title": "CNBB parabeniza Lula e pede atenção aos mais pobres",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: cNBB parabeniza Lula e pede atenção aos mais pobres. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/cnbb-parabeniza-lula-e-pede-atencao-aos-mais-pobres",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-26T23:52:00+00:00",
+      "id": "cb6639a1f7c00acf",
+      "title": "Após encontro com Lula, Motta diz que defenderá “harmonia entre os Poderes” - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: após encontro com Lula, Motta diz que defenderá “harmonia entre os Poderes” - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPazlpendGS2I4RHJoYWlBWWtNZzlpNkNPYW1DVl93NExkWHBFc01UdmpTWGRzTVZGQ1NfQ2E5X0pwZDBHWnhxVGtkRnZfS2ZrclI4cDlVSEVVb3JWZEYtMlYtb09vWEdEOVlNTkZYaERNakdrcHlHbjZicWdUMmpOY2luSm5GQmE4YmxBUUhYN3FQSURqdlJnTXVHbks1LXBTNnZfV0N1XzZQZw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-26T23:46:00+00:00",
       "category": "Política",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "dee142668a96d0a2",
-      "title": "Rio Verde registrou dois casos de agressão no domingo de eleições, e prefeitura alerta para 'sensação artificial de insegurança' após falsas ocorrências viralizarem",
-      "summary": "O veículo G1 publicou uma atualização sobre: rio Verde registrou dois casos de agressão no domingo de eleições, e prefeitura alerta para 'sensação artificial de insegurança' após falsas ocorrências vi. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/go/goias/noticia/2026/10/26/rio-verde-registrou-dois-casos-de-agressao-no-domingo-de-eleicoes-e-prefeitura-alerta-para-sensacao-artificial-de-inseguranca-apos-falsas-ocorrencias-viralizarem.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-26T23:49:01+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "12e7c905dc07bcd1",
-      "title": "'Não tenho estrutura emocional pra aguentar os deboches', diz Rico Melquiades após derrota de Flávio Bolsonaro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Não tenho estrutura emocional pra aguentar os deboches', diz Rico Melquiades após derrota de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/celebridades/2026/10/nao-tenho-estrutura-emocional-pra-aguentar-os-deboches-diz-rico-melquiades-apos-derrota-de-flavio-bolsonaro.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T23:43:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -300,12 +398,12 @@
       "archive": false
     },
     {
-      "id": "39013f229f66126f",
-      "title": "Reeleito, Lula reúne Alcolumbre e Motta no Alvorada - Correio Braziliense",
-      "summary": "O veículo Correio Braziliense publicou uma atualização sobre: reeleito, Lula reúne Alcolumbre e Motta no Alvorada - Correio Braziliense. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV01NMUs3aGlUd1NHX21tZzA1ZFEwY1gzRHQ1TUt0eFU5ZERkQVNOeTI5ejJZS2ZycHFXWUVaMlpYa1pUNkFaVEM5UXFGdFFMZXpZMUhVa3oxYlNKNUpDWjR1WDN1RHdzYkZTcFd1VDc0YzlSMm5xbUlFalIwczlTSldQMVJrMjNTRkR6andOY01lTTh1X2tZcWRVeDVpaVZhOG5NSTMyQm1ZRmFoc25LYzY3bFdUc2VjM1HSAb8BQVVfeXFMTzZuWWV2WTV0SE41SENSOGlDdkpBR3lHb1M4TF8zUHlPRS1qbDh1b3dVNlFDdzYxR21qQUNyT2g5U2F0dWRzZENzeHRfdWh5bG02ejJsMWZhdFk5bDlKTFFUTWZqdElxcS1BNjJwMXM3SkdwTWVRTkxtQkxYdEdZRWtpRWNrSVFDdl9kVXhUZDJCeGdNRURuaDNwTHd3eFh3NXpOYWt3VTdvMnhwUTFoY284Uk1rWFZ5WHBjSkhsLVk?oc=5",
-      "source": "Correio Braziliense",
-      "published_at": "2026-10-26T23:17:00+00:00",
+      "id": "d4b89fd4e12694b6",
+      "title": "Lula articula alianças no Alvorada com líderes do Congresso após reeleição - Agora Litoral",
+      "summary": "O veículo Agora Litoral publicou uma atualização sobre: lula articula alianças no Alvorada com líderes do Congresso após reeleição - Agora Litoral. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlZPVkpVR3RKSEZOckg1eE1IY055VGtfdkZMTDItS2RPNWdWTUR4M0RfRzVkSS0wUndJckNOLW94U2JmNG00UTMzcldFOE1wTkN1TlJfbElsZHFZNjhXdDZSS0tVZjg4YTJVTm1kbGRlc0N3STV2SHFKQWJlQzZUYzh5bXh6UDlPRl9rVnJCMUlJNXRpZEFVUTBSc25CeHh6N2dpNWwxcS1zMVdOcW0wZUR0dTQ?oc=5",
+      "source": "Agora Litoral",
+      "published_at": "2026-10-26T23:23:12+00:00",
       "category": "Eleições",
       "candidate": "lula",
       "election_type": "Articulação",
@@ -357,10 +455,10 @@
     },
     {
       "id": "7d75a11a47e5f6dc",
-      "title": "Lula terá que ampliar alianças com o Centrão diante de oposição fortalecida no Congresso - www.band.com.br",
-      "summary": "O veículo www.band.com.br publicou uma atualização sobre: lula terá que ampliar alianças com o Centrão diante de oposição fortalecida no Congresso - www.band.com.br. Consulte a reportagem para contexto, dados e declarações.",
+      "title": "Lula deve ampliar alianças com o Centrão diante de oposição fortalecida no Congresso - Band",
+      "summary": "O veículo Band publicou uma atualização sobre: lula deve ampliar alianças com o Centrão diante de oposição fortalecida no Congresso - Band. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX0wxTm80U3dvSDRxMHVyYUE5ZFhYN1Vna2x3Y3BoWjRudFFVakM1VEVIUUZKRnVESG4waW5HaUxsUlBTcHBhdFBFcmZRSFJmTjBnMi02WmFJQ2FoVHFhV0l1N0oyWGc4c1lndVl1SmNhbV9ES1Z4TWlMeFJCMjc1V3o0b1FJenAtMzl1OHNnc1JRYTVOTXNqTTFETkFUNXZBa3h1Z050cmZvcF9FclNGOXlvaV81NzN2M2ZNenV3?oc=5",
-      "source": "www.band.com.br",
+      "source": "Band",
       "published_at": "2026-10-26T22:48:00+00:00",
       "category": "Câmara e Senado",
       "candidate": null,
@@ -394,20 +492,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "61d0cfd354d07bf4",
-      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-26T22:44:39+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -464,20 +548,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2b026e5f426dcabe",
-      "title": "Lula perdeu nas três cidades fluminenses comandadas pelo PT - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula perdeu nas três cidades fluminenses comandadas pelo PT - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdEtHMDRqcDBuaWdLU1FhanM4aXdWc3VUTGhSdTUtWHZaUW9ld09TeGhkSWx2N3hLUVhYRWt4YVg5T1FScEtQVHU4eDdKekE3RVZ6LTBudEpic0Y4cmdTQUhJNjFLLTQ4VTJ5a3laeUdWZlBjX0NsS01wT1lGbDRJd1U2dE85S2xsdFlfbERRUjFTRUxLclE5WUQ2NHVEclpIZmZXV0I4UWR3WHJOOWc?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-26T22:07:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -902,13 +972,13 @@
       "archive": false
     },
     {
-      "id": "74c996d55ec5ea7b",
-      "title": "Das 7 promessas feitas por Lula após ser reeleito, 4 dependem do Congresso",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: das 7 promessas feitas por Lula após ser reeleito, 4 dependem do Congresso. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/10/das-7-promessas-feitas-por-lula-apos-ser-reeleito-4-dependem-do-congresso.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T21:00:00+00:00",
-      "category": "Câmara e Senado",
+      "id": "11dc2441c6d8ff52",
+      "title": "Globoplay inclui sportv no plano de entrada e muda diferenças entre assinaturas",
+      "summary": "O veículo G1 publicou uma atualização sobre: globoplay inclui sportv no plano de entrada e muda diferenças entre assinaturas. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/tecnologia/noticia/2026/10/26/globoplay-inclui-sportv-no-plano-de-entrada-e-muda-diferencas-entre-assinaturas.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-26T21:00:43+00:00",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -916,16 +986,16 @@
       "archive": false
     },
     {
-      "id": "c08a2a1c68a4a6b0",
-      "title": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: what to Know About Lula’s Election Victory in Brazil, and What Comes Next. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
-      "source": "The New York Times",
-      "published_at": "2026-10-26T20:55:24+00:00",
+      "id": "94358ab684fcf02e",
+      "title": "Após mínima histórica, aprovação de Trump sobe 1% e chega a 32% antes das eleições nos EUA - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: após mínima histórica, aprovação de Trump sobe 1% e chega a 32% antes das eleições nos EUA. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWWlsZ0ZzZHNZenRDcFFWSlcyYTRnejU3SE1xRkFpR0poeFZHMlEtVnZYZDNsNlNBTlNseEVHOExYRWVVSFBIVE5CbDN1SUpSbGRDOFFfN3BSbmZ6NjlrcjRUWTl3TmVRbXdNWUx1OE5PcjZvakMzX1JQamJUS1I3elBTS1d3RHRTUl9MX2ZrOGdzamN6Q2xiVThieVB3VzRkX09sekcyVG5MQWdKM3IyMVJUX2FNWUZkSXZYNk5yWHUtWU0waWdlZnpNUdIB2gFBVV95cUxPSUhUamp1b2pBX0FFX0Q0Tm5HTjVGd3U5YjlNaWNBZEtET2xqTHR5VWxwSll1YjFrUmRIWWRwdm5PWmRMamYwemhLWF85WEk4ai1zdTRxY3Z3cUI2Zng2dEkxcnJsbFBhakduRHBSajRGSGdNQ1JER1FkYVJOUWc5Y1dUWGkzdXQ0bGF1MHVXYkotbFJoRGtfblAwV3cza3EtMnVYanpXSDNfYWNaV2xiMkFsRkZuakFMcFBjSlRNcjZpYTZ3SFNrcjV4dFJTREd4T1NXVXJSTklSQQ?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-26T20:57:33+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1056,20 +1126,6 @@
       "archive": false
     },
     {
-      "id": "b42a0fa8f487eab4",
-      "title": "AO VIVO: Ibovespa desaba após circuit breaker e dólar dispara a R$ 5,60 com vitória de Lula - VEJA",
-      "summary": "O veículo VEJA publicou uma atualização sobre: aO VIVO: Ibovespa desaba após circuit breaker e dólar dispara a R$ 5,60 com vitória de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTgzR2RrVHI1QmtQcF9ueU8tTjdmV21XUjZfQW1MekxhYXpVSDN1MjZoMjJWQjVXTE1KTS1qWndMTnc5b19NMXVUMzdSRDNnaDJzZzkxRHlNNGFsZUp2RUVwNnVjc3l1bnFNa3FqWHYzMU1USXEyV05fbXplMUJUZ2RHSUNLdU41dUIzS01TdzVRcXVQTXZfT25GQk9aWWxCbUFTcDkxSmdjMVk?oc=5",
-      "source": "VEJA",
-      "published_at": "2026-10-26T19:58:21+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "3d79b4567380fcea",
       "title": "A reação de Flávio Bolsonaro, após ser proibido de deixar o país pelo STF",
       "summary": "O veículo VEJA publicou uma atualização sobre: a reação de Flávio Bolsonaro, após ser proibido de deixar o país pelo STF. Consulte a reportagem para contexto, dados e declarações.",
@@ -1196,48 +1252,6 @@
       "archive": false
     },
     {
-      "id": "2f6f191be5c0b6ce",
-      "title": "Prazo para empresas escolherem modelo do Simples acaba nesta sexta",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: prazo para empresas escolherem modelo do Simples acaba nesta sexta. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/prazo-para-empresas-escolherem-modelo-do-simples-acaba-nesta-sexta",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-26T18:22:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c204d6aa7e8771d9",
-      "title": "Prefeito de NY dá parabéns a Lula por vitória sobre Flávio Bolsonaro - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: prefeito de NY dá parabéns a Lula por vitória sobre Flávio Bolsonaro - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHh1bWFPUGkyeWZNQTVFVTE3NGN0UmF5WG1wS1F2NDdfczFjNnR6VTVSd1VqVk1LcWdyUFlfNUhWZ3AxOXpqdVJ5Y1NPUWJBcUJiZGNuVkpZbVVtVjJrM1p0NnZKYzRmSHlFTnp5NmoxNVZPVl9tc193RE04bWdUY0hQcjlOcE5fYlBidkY3UGk0b1VSLWRzTGF0dk1NQWVkdkY4?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-26T18:09:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9b868b266b77aa06",
-      "title": "Sâmia Bomfim pede a três ministros do STF apreensão do passaporte de Flávio Bolsonaro - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: sâmia Bomfim pede a três ministros do STF apreensão do passaporte de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQm8yU28xUk9PdVBBVEpqNFhTUFF3b3lrX19Yam53SFBXWmdad2Q2WEhmLS1NSzdZMTJud1o5RHF5eUZxSU1Cc1ByRjNJc1RETmdaZUMtdWdwVFlwVDNiTTBzZm9iN2RFWWRidzk3THBWZG5uQ3UzZUFzcGlxZDJFcVFiWG5WMWplUFpiZE5fWHh3RVBWRVFjOUFiNDNkdjVjWFA4NFZaSTVoY1hWbG11NjI1N2JSNmJEQVhTc21US0lZRXM1ODYwem16WDltOGFjUEhhRk5fYWZOQm5fVXU4OdIB7wFBVV95cUxNRWtBeHFnUkpSRDZyTlhoSXdEX0VxQlBHSkp2REM5Smg5NXl0VUZyYTFBRUc5QWFxNW9RemIzY0otcFgwdm16dkhWUHdhYU83OEd6T1dSbG9QS2tYeWZTOFpXT3JmWXFvUWkteFdvOFRXRUFHcjdkOHQzVkl0NW8wNXZkWnlqUHhmNUxjRV9DbEJ0anZVaVhQMmUxc3BubGhvdVVlb1FRMWdZY1hoaVNQX1Q2cklfdzU2YXg4SDJoRTRmRC1idHR2LWllUHlNOGFNQWJ6WUxBWWc3V3hlUkp3V2dxUGZDVkZLcVliWUU2SQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-26T18:04:39+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c5f0e889e48d2ef2",
       "title": "Após decisão do STF, Daniella Marques critica eleição “conturbada\" - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: após decisão do STF, Daniella Marques critica eleição “conturbada\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -1329,20 +1343,6 @@
       "source": "Estadão",
       "published_at": "2026-10-26T16:25:50+00:00",
       "category": "Endividamento",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3a9d4bfdefd01714",
-      "title": "Morgan Stanley projeta queda de 30% na Bolsa e dólar a R$ 5,70 após vitória de Lula - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: morgan Stanley projeta queda de 30% na Bolsa e dólar a R$ 5,70 após vitória de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbWo5YXZNWkoxa2hLSHFtNmctVDh5eUcxTUN5RE1kYmgxZHJMMkpSWFJCSEl1RV9WZkd6OW1LUDZMaDMwOTZ1Z1FpamY3LWcxbUVBSVZQOC1fTi1PLWxxTFhqOEF1OHM2Vm9haU9HYTVqVHB6QU1jdXljOXYxTnV1dk11Vl9VbUE2TExkMUFRejhVV3JtM2JqblM4dm10TnkyenZTRzFfN3o1SjJRekhpTmFzSGVMQWMwMFRIRkJzZHVyM0J0ckJESktIeFoyeU42ZWJ3XzJB0gHbAUFVX3lxTE5nNWhyVUtndnBUcEc2SzBfSVZ2dHlvSDFKbnZ0WVk2VHRRVFBKYkEyNE85X29KOVltQ3hjVUhPbGJwcVpzYkxWVTF0dEozZXpkRTZGX0ZBVG9xZGg5VkwxN0dCRG5KeHQtRi1QUlRrckxuM0F6Z0ppaFRjSWQ0bk1RUUNwVVJCVEZ3eTJ4SVRXcjJ3VElzNVNZVWQxa2JLNThaclRTaUNxOGVGbXhFYzFYOElvTHgzSWM5ZWpJcjByZkpXSDdwZEZnSXM3SE1SZEd1djcxclc4a1lNOA?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-26T16:15:00+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1462,34 +1462,6 @@
       "archive": false
     },
     {
-      "id": "c459d56921469aff",
-      "title": "Escola Tom Jobim abre quase mil vagas gratuitas para 2027",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: escola Tom Jobim abre quase mil vagas gratuitas para 2027. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/blogs/musica-em-letras/2026/10/escola-tom-jobim-abre-quase-mil-vagas-gratuitas-para-2027.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T13:00:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "176fc8194a472628",
-      "title": "Orçamento de 2027 será peça-chave para Lula corrigir rota no fiscal, diz ex-secretário do Tesouro - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: orçamento de 2027 será peça-chave para Lula corrigir rota no fiscal, diz ex-secretário do Tesouro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM1NfdmZEck1nQ3MxbkZ5dldHdUQxeUR6cExJYnUzcTJtUUlhOGprUzJyWGtqckd0NEJEQmFBa2VYY3FTMC1tdEd5b3FGUGU2Vzk0YkdyUWJaMFJCNEJIOVVCOWdQeVlYRThHZjR1VUJkeVJRQmxLS0FLaFF3LUVmUUd0OE1YWmJXTTQ5U21Qa1FUNmEtNEM4TlBVbGI1eVRidWY3d1p4VHI2XzgtU0ItZ3FRaFBzYWdUTjRQQkxyd1Btbkt0VzliMGx4YVo3VXZKZ1dMMWloUzFtVExzaVRUbFlR?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T12:21:00+00:00",
-      "category": "Endividamento",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c7f6189a9b661375",
       "title": "Áudio: Flávio Bolsonaro contesta resultado da eleição e anuncia pedido de anulação",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Flávio Bolsonaro contesta resultado da eleição e anuncia pedido de anulação. Consulte a reportagem para contexto, dados e declarações.",
@@ -1556,20 +1528,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7be01eaf92227e72",
-      "title": "O maior fracasso de Lula é não ter passado o bastão, e o PT não tem quem o suceda, diz professor de Columbia",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: o maior fracasso de Lula é não ter passado o bastão, e o PT não tem quem o suceda, diz professor de Columbia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/o-maior-fracasso-delula-e-nao-ter-passado-o-bastao-eo-pt-nao-tem-quem-o-suceda-diz-professor-de-columbia.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T02:19:00+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1684,12 +1642,55 @@
       "via_aggregator": false,
       "curated": false,
       "archive": false
+    },
+    {
+      "id": "d251490398bad210",
+      "title": "Estela Aranha libera propaganda de Flávio que liga Lula a aumento da violência e do endividamento - VEJA",
+      "summary": "O veículo VEJA publicou uma atualização sobre: estela Aranha libera propaganda de Flávio que liga Lula a aumento da violência e do endividamento. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPckVscWo4SnZnZi0yTjBFa0tVUXljVGItUkVRSUNRTXlzUDRVVXptSzRuajlrS3dfOTNwdVFPemEzQ2dSUzEwNFBBa2VuREJ2LVB1anZydEVnS3hHZzJSU2h3b2VlcjBNcFRTZlBtNE1sUG9FTW94QWJXVmFqdnFFeUpyYTlBVW4tUGhwd3MtLThyYzRiRmNWVVBPVWlYMHh2ZGtZNEZMZlpCcGx1VzBnZTZKb3dfMjRueTlRVFFnLWJ1OVBjUTZKYVhKSQ?oc=5",
+      "source": "VEJA",
+      "published_at": "2026-10-23T18:30:44+00:00",
+      "category": "Endividamento",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b989de561fe8054e",
+      "title": "Bruna Marquezine é confirmada no elenco da 3ª temporada de ‘Magnatas do Crime’ - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: bruna Marquezine é confirmada no elenco da 3ª temporada de ‘Magnatas do Crime’. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUjZ3UFUwQ1pFVVdIT0Z5aWN6amlrUDM2QlhFZ29qRU5CWEVSS0Z3cUFDaXBqajFGV3dwckJwZ1A4aWRwbEZnOWhGUDR0OEZNdHNxLXMzQW1YREx6amh5WTAzNEZSRm9kek1CRFQ3bWlyOGlqNlZkR242VWZMOHhfSjhnWGRadEI5UlYtTHZybGx6Q1YxV09Wck84V2VsVjgwSm1IWm5QVmVqbFd4Zk56bXNDRGxCakM2ejFtNFdJSTlWQdIBxwFBVV95cUxOYlB4V0JmQURULVBMb0NHNnc4eDZuYm1SeU1EbGNLeDM0RUc5VlFoOWNlV0xub2tLRlZnUWVDbEtxLUZDbTYyMmI2MERwZEpINHpBQVRwVHNFLWJPbEtjTDltbVhOclNGMi1pRUt2eDNmbG5zZUNlWkpWbWoxcnVNRGdKTGQ2ekJzTHRGc08zU3RMTFRndGJ1cDdTZzF5b0dFZTk1TDFjNlBUbXNkVVVpSlAyUGlyN25ZYUhzLTd4R2h0V09jWWF3?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-23T15:24:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "82d3870435ae9329",
+      "title": "Recife abrirá 34 creches no domingo para facilitar o voto dos pais",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: recife abrirá 34 creches no domingo para facilitar o voto dos pais. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/recife-abrira-34-creches-no-domingo-para-facilitar-o-voto-dos-pais",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-23T14:29:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
     }
   ],
   "source_health": {
     "G1": {
-      "status": "ok",
-      "items": 40
+      "status": "erro",
+      "items": 0,
+      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1701,7 +1702,7 @@
     },
     "VEJA": {
       "status": "ok",
-      "items": 9
+      "items": 11
     },
     "The New York Times": {
       "status": "ok",
@@ -1709,7 +1710,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1745,7 +1746,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 85
+      "items": 84
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1757,31 +1758,31 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 85
+      "items": 84
     },
     "Estadão": {
       "status": "ok",
-      "items": 59
+      "items": 57
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 63
+      "items": 62
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 72
+      "items": 70
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 78
+      "items": 80
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 52
+      "items": 30
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 31
+      "items": 62
     }
   },
   "notes": [
