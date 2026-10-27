@@ -14,3 +14,15 @@
 @media(max-width:960px){.dashboard{grid-template-columns:1fr}.side-column{grid-template-columns:repeat(2,minmax(0,1fr))}.archive-list .news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:650px){.layout{width:min(100% - 28px,1280px)}.topinner{align-items:flex-start;flex-direction:column;padding:14px 0}.brandmark{width:42px;height:42px;font-size:19px}.intro{grid-template-columns:1fr}.intro-aside{display:none}.intro h2{font-size:31px}.tools{flex-direction:column}.sort{justify-content:space-between}.news-grid,.side-column,.archive-list .news-grid{grid-template-columns:1fr}.section-heading h3{font-size:24px}.tabs{margin-right:-14px}}
 @media(prefers-color-scheme:dark){:root{background:#171f22;color:#e1e9e7}.topbar,.story,.sidebox,.tab,.search,.sort,.edition,.more{background:#202b2e;border-color:#344146;color:#e1e9e7}.mutedbox{background:#283638}.story h4 a,.ai-entry strong,.edition-button{color:#e1e9e7}.storyfooter,.ai-entry,.disclosure{border-color:#374548}.intro p:not(.eyebrow),.story .summary,.sidebox>p:not(.side-label),.side-intro{color:#abbab9}.intro-aside{background:#22373a;border-color:#355054}.search input,.sort select{color:#e1e9e7}.tab.active{background:#287780}.lab-ribbon{background:#314349}.notice{border-color:#455557;color:#acbab8}.story:hover{border-color:#659b95}}
+
+/* Pesquisa local nos registros históricos, sem carregamento global do arquivo. */
+.archive-search{margin:13px 0 8px}
+.archive-search label{display:flex;flex-direction:column;gap:6px;font-size:12px;font-weight:700;color:#3b646b}
+.archive-search input{display:block;width:100%;border:1px solid #cad9d5;background:#fff;color:#233b40;border-radius:8px;padding:11px 13px;font-size:13px}
+.archive-search input::placeholder{color:#899595}
+.sort select:disabled,.search input:disabled{cursor:not-allowed;opacity:.6}
+@media(prefers-color-scheme:dark){
+  .archive-search label{color:#c1d8d6}
+  .archive-search input{background:#203034;color:#eef5f3;border-color:#4a615f}
+  .archive-search input::placeholder{color:#b0bebd}
+}
