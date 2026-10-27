@@ -140,3 +140,31 @@ Corrigimos o módulo `scripts/claude_enrich.py` para reconhecer a variável
    o valor da chave ou o texto livre retornado pelo servidor.
 
 Documentação: https://platform.claude.com/docs/en/manage-claude/authentication
+
+## Direção visual aprovada para testes — editorial refinado (27/10/2026)
+
+A interface experimental em `site/lab.html` foi redesenhada com aparência
+editorial contemporânea. Não há dependência de imagens de notícias sem licença.
+
+- Identidade: papel claro (#f8f7f3), azul-petróleo (#193640),
+  verde-azulado (#2c6870), dourado discreto (#b78d54) e branco.
+- Tipografia: títulos em Newsreader e interface em DM Sans, com alternativas
+  locais do sistema quando as fontes externas não carregarem.
+- Masthead de portal, barra fixa de editorias, introdução com hierarquia
+  clara e métricas de fontes/assuntos calculadas do JSON RSS.
+- Primeiro card da visão geral em destaque editorial; demais manchetes
+  apresentam fonte, editoria, data e link original.
+- Perguntas geradas pela IA, contexto de transparência e acesso ao histórico
+  permanecem visualmente distintos do noticiário.
+- Na aba Arquivo, o conteúdo histórico ocupa a área principal
+  imediatamente, sem colunas irrelevantes nem lacunas na página.
+- Acessibilidade: navegação por teclado, botões com estado, foco visível,
+  redução de movimento quando solicitada e contraste de informações.
+- QA em Chrome: desktop (1365 px), celular (390 px) e celular estreito
+  (320 px); filtros, pesquisa, arquivo de 689 registros e captura automática.
+
+As capturas para revisão ficam no artifact `painel-brasil-capturas` dos
+testes GitHub Actions. A interface continua apenas na branch experimental.
+Antes de promover qualquer coisa para o site público, revisar uma edição
+com dados reais no desktop e no celular e aprovar o novo visual e a política
+editorial dos textos gerados por IA.
