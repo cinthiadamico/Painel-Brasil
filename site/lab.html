@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Painel Brasil | Laboratório editorial</title>
+  <meta name="description" content="Protótipo da nova organização do Painel Brasil: fontes, notícias, arquivo Claude e análise editorial experimental.">
+  <link rel="stylesheet" href="./lab.css">
+  <script src="./lab.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Ir para o conteúdo</a>
+  <div class="lab-ribbon">VERSÃO DE TESTE · Esta página não substitui o portal publicado</div>
+  <header class="topbar">
+    <div class="layout topinner">
+      <div class="brand"><span class="brandmark">PB</span>
+        <div><p class="eyebrow">Panorama nacional, com fontes</p>
+          <h1>Painel <em>Brasil</em></h1></div>
+      </div>
+      <div class="topstatus"><span class="signal" id="signal"></span><span id="status">Consultando a última coleta…</span></div>
+    </div>
+  </header>
+  <div class="layout">
+    <nav class="tabs" aria-label="Editorias">
+      <button class="tab active" data-view="geral" type="button">Visão geral</button>
+      <button class="tab" data-view="eleicoes" type="button">Eleições</button>
+      <button class="tab" data-view="politica" type="button">Política e governo</button>
+      <button class="tab" data-view="economia" type="button">Economia</button>
+      <button class="tab" data-view="congresso" type="button">Congresso</button>
+      <button class="tab" data-view="justica" type="button">STF e Justiça</button>
+      <button class="tab" data-view="social" type="button">Brasil</button>
+      <button class="tab" data-view="mundo" type="button">Mundo</button>
+      <button class="tab" data-view="arquivo" type="button">Arquivo Claude</button>
+    </nav>
+    <main id="main">
+      <section class="intro" aria-labelledby="heading">
+        <div>
+          <p class="eyebrow" id="overline">Edição experimental</p>
+          <h2 id="heading">Notícias do Brasil, com contexto e origem clara.</h2>
+          <p id="introText">Notícias recentes, perguntas editoriais produzidas por IA e conteúdo histórico do Claude. Cada conteúdo é identificado por sua origem e data.</p>
+        </div>
+        <div class="intro-aside">
+          <span>FONTES EM PRIMEIRO LUGAR</span>
+          <strong id="itemCount">—</strong>
+          <small>registros recentes no conjunto publicado</small>
+        </div>
+      </section>
+      <section class="tools" aria-label="Pesquisa e filtros">
+        <label class="search" for="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar por assunto, veículo ou palavra-chave"></label>
+        <label class="sort" for="sort"><span>Ordenar</span><select id="sort"><option value="date">Mais recentes</option><option value="source">Por fonte</option></select></label>
+      </section>
+      <div class="dashboard">
+        <section class="main-column" aria-labelledby="resultsTitle">
+          <div class="section-heading"><div><p class="eyebrow" id="resultsKicker">Manchetes rastreáveis</p><h3 id="resultsTitle">Em destaque</h3></div><span id="resultsCount"></span></div>
+          <div id="results" class="news-grid" aria-live="polite"><p class="notice">Carregando informações…</p></div>
+          <button id="more" class="more" type="button" hidden>Mostrar mais notícias</button>
+        </section>
+        <aside class="side-column">
+          <section class="sidebox" aria-labelledby="aiTitle">
+            <div class="side-label"><span class="violetdot"></span>PRODUZIDO POR IA</div>
+            <h3 id="aiTitle">Perguntas para acompanhar</h3>
+            <p class="side-intro">Quando a API estiver ativada, o Claude formula perguntas a partir de manchetes RSS, sem afirmar que verificou as reportagens.</p>
+            <div id="ai" class="ai-list"><p class="notice">Consultando informações editoriais…</p></div>
+            <p class="disclosure">As perguntas da IA não são notícias nem checagem independente. Verifique sempre a fonte original.</p>
+          </section>
+          <section class="sidebox mutedbox">
+            <p class="side-label">TRANSPARÊNCIA</p>
+            <h3>Como ler este painel</h3>
+            <p>Notícias RSS: títulos com links às fontes. Arquivos Claude: edições importadas, não verificadas. IA: perguntas editoriais que exigem confirmação.</p>
+            <div class="legend"><span><i class="dot newsdot"></i>RSS recente</span><span><i class="dot claudedot"></i>Claude histórico</span></div>
+          </section>
+        </aside>
+      </div>
+      <section id="archiveSection" class="archive" hidden aria-labelledby="archiveTitle">
+        <div class="section-heading"><div><p class="eyebrow">Memória documental</p><h3 id="archiveTitle">Edições e dias arquivados</h3></div></div>
+        <div id="archive" class="archive-content"><p class="notice">Carregando arquivo…</p></div>
+      </section>
+    </main>
+    <footer><strong>Painel Brasil</strong><span>Projeto editorial independente · dados de fontes públicas · laboratório não publicado</span><a href="./index.html">Abrir versão original</a></footer>
+  </div>
+</body>
+</html>
