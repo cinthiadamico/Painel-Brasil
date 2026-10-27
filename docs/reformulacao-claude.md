@@ -3,10 +3,15 @@
 ## Situação e isolamento
 
 Este experimento mora na branch teste/reformulacao-claude-api.
+A rotina de testes é automática a cada push relevante na branch de teste.
+A coleta RSS de produção continua independente; a geração Claude exige
+secret e gatilho intencional para rodar na branch de teste.
+Um agendamento diário para a integração editorial só ocorre após aprovação
+formal e merge do workflow na branch padrão.
 A branch main, o index.html original e o workflow de publicação original não são alterados.
 A nova interface é site/lab.html. Ela não é publicada automaticamente no GitHub Pages.
 
-A arquitetura mantém três origens separadas:
+A arquitetura mantém quatro origens separadas:
 
 1. site/data/news.json: manchetes e fontes RSS, atualizadas por scripts/update.py.
 2. site/arquivo/**/claude.json: edições HTML de Claude já importadas pelo
@@ -36,6 +41,11 @@ desativada. O JSON de exemplo é um estado desativado, não conteúdo inventado.
 Abrir HTML diretamente via file:// pode impedir o fetch de JSON.
 
 O workflow testar-reformulacao.yml valida Python e JavaScript sem chave API.
+A cada execução aprovada na branch de teste, produz também o artifact
+`painel-brasil-preview` para download na aba Actions (retenção de 14 dias).
+Descompacte-o e execute `python -m http.server 8000` a partir da pasta
+extraída, abrindo `/lab.html` no navegador. Este pacote NÃO é um deploy;
+os dados refletem o commit que originou aquela execução.
 
 ## Importar HTML e Artifacts
 
