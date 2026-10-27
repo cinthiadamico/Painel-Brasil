@@ -31,6 +31,22 @@ jobs:
           node --check site/lab.js
       - name: Validar selecao editorial sem acesso externo
         run: python scripts/claude_enrich.py --dry-run
+      - name: Testar interface em Chrome headless (desktop e celular)
+        run: |
+          npm install --no-save --no-package-lock --ignore-scripts playwright@1.56.1
+          python -m http.server 8000 --bind 127.0.0.1 --directory site >/tmp/painel-http.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill "$SERVER_PID" || true' EXIT
+          sleep 2
+          node tests/smoke_lab.mjs
+      - name: Capturas do laboratorio (somente artifact)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: painel-brasil-capturas
+          path: qa/screenshots/
+          retention-days: 14
+          if-no-files-found: ignore
       - name: Empacotar interface para revisao (sem deploy)
         uses: actions/upload-artifact@v4
         with:
