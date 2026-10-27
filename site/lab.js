@@ -47,7 +47,9 @@
     var head = el('div', 'storyhead');
     head.append(el('span', 'tag' + (historic ? ' archive-tag' : ''), historic ? 'Arquivo Claude' : item.category || 'Notícia'));
     head.append(el('span', 'when', historic ?
-      'Edição ' + (item.edition_date || 'não informada') : date(item.published_at, true)));
+      'Edição ' + (item.edition_date || 'não informada') +
+      (item.published_at ? ' · Publicação ' + date(item.published_at, false) : ' · Sem data confirmada') :
+      date(item.published_at, true)));
     box.append(head);
     var h = el('h4');
     if (safeLink(item.url)) appendLink(h, item.title || 'Notícia', item.url);
@@ -77,7 +79,7 @@
     area.replaceChildren();
     if (state.view === 'arquivo') {
       get('more').hidden = true;
-      area.append(notice('Selecione uma edição no Arquivo Claude abaixo. Conteúdo histórico não é apresentado como notícia recente.'));
+      area.append(notice('Selecione uma edição no Arquivo Claude abaixo. Cada edição tem sua própria busca, para não misturar registros históricos e notícias atuais.'));
       get('resultsCount').textContent = '';
       return;
     }
@@ -139,20 +141,40 @@
       var items = Array.isArray(data.items) ? data.items : [];
       var grid = el('div', 'news-grid');
       var amount = 15;
+      var searchBox = el('div', 'archive-search');
+      var searchLabel = el('label', '', 'Pesquisar nesta edição');
+      var searchInput = el('input');
+      searchInput.type = 'search';
+      searchInput.placeholder = 'Assunto, veículo, candidato ou palavra-chave';
+      searchInput.setAttribute('aria-label', 'Pesquisar registros da edição de ' + edition.day);
+      searchLabel.append(searchInput);
+      searchBox.append(searchLabel);
+      var count = el('p', 'archive-sub');
       function render() {
+        var query = searchInput.value.trim().toLocaleLowerCase('pt-BR');
+        var filteredItems = query ? items.filter(function (it) {
+          return [it.title, it.source, it.summary, it.category, it.candidate]
+            .filter(Boolean).join(' ').toLocaleLowerCase('pt-BR').includes(query);
+        }) : items;
+        count.textContent = filteredItems.length + ' de ' + items.length + ' registros';
         grid.replaceChildren();
-        items.slice(0, amount).forEach(function (it) {
+        if (!filteredItems.length) {
+          grid.append(notice('Nenhum registro encontrado nesta edição.'));
+        }
+        filteredItems.slice(0, amount).forEach(function (it) {
           grid.append(card(it, edition.historic));
         });
-        more.hidden = amount >= items.length;
+        more.hidden = amount >= filteredItems.length;
       }
+      searchInput.addEventListener('input', function () { amount = 15; render(); });
       var more = el('button', 'archive-more', 'Mostrar mais do arquivo');
       more.type = 'button';
       more.addEventListener('click', function () { amount += 15; render(); });
       body.replaceChildren(el('p', 'archive-sub',
-        items.length + ' registros. ' + (edition.historic ?
-        'Importação do Claude sem verificação jornalística independente.' :
-        'Manchetes RSS preservadas na data da coleta.')), grid, more);
+        edition.historic ?
+        'Edição histórica importada do Claude; texto não verificado de modo independente.' :
+        'Manchetes RSS preservadas na data da coleta, sem garantia de verificação.'), 
+        searchBox, count, grid, more);
       render();
     } catch (err) {
       body.replaceChildren(notice('Não foi possível abrir este arquivo. Verifique se a importação já foi executada.'));
@@ -190,6 +212,11 @@
       tab.setAttribute('aria-pressed', String(tab.dataset.view === view));
     });
     get('archiveSection').hidden = view !== 'arquivo';
+    get('search').disabled = view === 'arquivo';
+    get('search').placeholder = view === 'arquivo'
+      ? 'Use a pesquisa dentro de cada edição histórica'
+      : 'Buscar por assunto, veículo ou palavra-chave';
+    get('sort').disabled = view === 'arquivo';
     get('resultsKicker').textContent = categories[view].subtitle;
     get('resultsTitle').textContent = categories[view].title;
     get('overline').textContent = view === 'arquivo' ? 'Memória de edições' : 'Atualizações por fonte';
