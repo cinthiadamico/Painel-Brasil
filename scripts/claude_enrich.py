@@ -10,6 +10,7 @@ import argparse
 import datetime as dt
 import json
 import os
+import re
 from pathlib import Path
 import tempfile
 from urllib.parse import urlsplit
@@ -119,6 +120,12 @@ def parse_response(response, articles):
         question = str(entry.get("question", "")).strip()
         if (key not in available or key in seen or not 12 <= len(question) <= 190
                 or not question.endswith("?") or "\n" in question):
+            continue
+        # Rejeita números novos na pergunta: valores não presentes na manchete
+        # seriam especialmente perigosos em resultados eleitorais e economia.
+        numbers = set(re.findall(r"\b\d[\d.,]*\b", question))
+        given = set(re.findall(r"\b\d[\d.,]*\b", available[key]["title"]))
+        if numbers - given:
             continue
         seen.add(key)
         result.append({
