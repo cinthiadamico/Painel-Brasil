@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-27T14:55:01.980008+00:00",
+  "source_last_checked_at": "2026-10-27T14:54:51.216436+00:00",
+  "model": "claude-haiku-5-5",
+  "status": "generated",
+  "disclaimer": "Perguntas editoriais geradas por IA a partir de títulos RSS. Não são reportagens, checagens nem resultados oficiais.",
+  "entries": [
+    {
+      "id": "a9c6307f63c6bca3",
+      "title": "Deputada do PL no Rio é processada após pedir demissão de eleitores de Lula",
+      "url": "https://veja.abril.com.br/politica/deputada-do-pl-no-rio-e-processada-apos-pedir-demissao-de-eleitores-de-lula/",
+      "source": "VEJA",
+      "category": "Política",
+      "published_at": "2026-10-27T14:53:50+00:00",
+      "question": "Quais detalhes sobre o processo contra a deputada e o pedido de demissão de eleitores devem ser confirmados na fonte?",
+      "origin": "Claude API (pergunta editorial não verificada)",
+      "verified": false
+    },
+    {
+      "id": "1269fe9c8c36bf65",
+      "title": "Votes from Israel’s Arab citizens could help decide the election.",
+      "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections/votes-from-israels-arab-citizens-could-help-decide-the-election",
+      "source": "The New York Times",
+      "category": "Internacional",
+      "published_at": "2026-10-27T14:47:46+00:00",
+      "question": "Quais dados sobre o voto dos cidadãos árabes de Israel e seu peso na eleição devem ser confirmados na fonte?",
+      "origin": "Claude API (pergunta editorial não verificada)",
+      "verified": false
+    },
+    {
+      "id": "affce2d98d7b991d",
+      "title": "Projeto prevê GPS obrigatório em veículos de transporte escolar",
+      "url": "https://www.camara.leg.br/noticias/1313021-projeto-preve-gps-obrigatorio-em-veiculos-de-transporte-escolar",
+      "source": "Agência Câmara",
+      "category": "Câmara e Senado",
+      "published_at": "2026-10-27T14:46:00+00:00",
+      "question": "Em que etapa está o projeto que torna obrigatório o GPS em veículos de transporte escolar?",
+      "origin": "Claude API (pergunta editorial não verificada)",
+      "verified": false
+    },
+    {
+      "id": "c1e1ab878e13b72a",
+      "title": "Motorista preso por embriaguez após acidente que matou pai, mãe e três filhos no PR já tem registro anterior por fugir da polícia e dirigir sem ter CNH",
+      "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/27/motorista-preso-embriaguez-acidentematou-pai-mae-tres-filhos-parana.ghtml",
+      "source": "G1",
+      "category": "Segurança",
+      "published_at": "2026-10-27T14:33:11+00:00",
+      "question": "Quais informações sobre o histórico do motorista e a investigação do acidente no PR devem ser confirmadas?",
+      "origin": "Claude API (pergunta editorial não verificada)",
+      "verified": false
+    },
+    {
+      "id": "39e75c52632a20a1",
+      "title": "Governo enviará MP do Imposto Seletivo e renova subvenção ao diesel",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-enviara-mp-do-imposto-seletivo-e-renova-subvencao-ao-diesel",
+      "source": "Agência Brasil",
+      "category": "Economia",
+      "published_at": "2026-10-27T14:33:00+00:00",
+      "question": "Quando e como a MP do Imposto Seletivo e a renovação da subvenção ao diesel serão formalizadas?",
+      "origin": "Claude API (pergunta editorial não verificada)",
+      "verified": false
+    },
+    {
+      "id": "e5e74152f9a9d39c",
+      "title": "Dino manda PF apurar interferência externa no processo eleitoral",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/dino-manda-pf-apurar-interferencia-externa-no-processo-eleitoral",
+      "source": "Agência Brasil",
+      "category": "STF e Justiça",
+      "published_at": "2026-10-27T14:33:00+00:00",
+      "question": "Quais são os fundamentos e o alcance da determinação à PF sobre a suposta interferência externa?",
+      "origin": "Claude API (pergunta editorial não verificada)",
+      "verified": false
+    },
+    {
+      "id": "e5fab15f234e836e",
+      "title": "Estudante é preso após morder orelha de outro aluno dentro de escola técnica no interior de SP",
+      "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/27/estudante-e-preso-apos-morder-orelha-de-outro-aluno-dentro-de-escola-tecnica-no-interior-de-sp.ghtml",
+      "source": "G1",
+      "category": "Educação",
+      "published_at": "2026-10-27T14:28:36+00:00",
+      "question": "Quais circunstâncias da prisão do estudante na escola técnica devem ser confirmadas?",
+      "origin": "Claude API (pergunta editorial não verificada)",
+      "verified": false
+    },
+    {
+      "id": "6f828de8fcd6c9a6",
+      "title": "Avó e neta vão para hospital após serem feridas por rottweiler; tutor é autuado por lesão corporal",
+      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/27/avo-e-neta-vao-para-hospital-apos-rottweiler-no-meio-da-rua-tutor-e-autuado-por-lesao-corporal.ghtml",
+      "source": "G1",
+      "category": "Saúde",
+      "published_at": "2026-10-27T14:25:31+00:00",
+      "question": "Qual é o estado de saúde das vítimas e o andamento da autuação do tutor do cão?",
+      "origin": "Claude API (pergunta editorial não verificada)",
+      "verified": false
+    },
+    {
+      "id": "bc656969b2fd2e0a",
+      "title": "Ministério Público investiga morte de servidor após denúncia de falta de médico em pronto atendimento",
+      "url": "https://g1.globo.com/to/tocantins/noticia/2026/10/27/ministerio-publico-investiga-morte-de-servidor-apos-denuncia-de-falta-de-medico-em-pronto-atendimento.ghtml",
+      "source": "G1",
+      "category": "Governo federal",
+      "published_at": "2026-10-27T14:14:54+00:00",
+      "question": "Quais resultados da investigação do Ministério Público sobre a morte do servidor devem ser acompanhados?",
+      "origin": "Claude API (pergunta editorial não verificada)",
+      "verified": false
+    },
+    {
+      "id": "b75f2dea40b4b013",
+      "title": "Ministério da Gestão diz que ainda não está definido se haverá CNU em 2027; decisão dependerá do Orçamento",
+      "url": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/10/27/ministerio-da-gestao-ainda-nao-sabe-se-havera-cpnu-em-2027-decisao-depende-do-orcamento.ghtml",
+      "source": "G1",
+      "category": "Endividamento",
+      "published_at": "2026-10-27T14:03:19+00:00",
+      "question": "Quando será definido se haverá CNU em 2027 e como o Orçamento influencia essa decisão?",
+      "origin": "Claude API (pergunta editorial não verificada)",
+      "verified": false
+    }
+  ]
+}

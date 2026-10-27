@@ -1,10 +1,11 @@
 import datetime as dt
+import io
 import json
 import pathlib
 import sys
 import tempfile
 import unittest
-from unittest import mock
+from urllib.error import HTTPError
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1] / "scripts"))
 import claude_enrich as ai
@@ -50,6 +51,35 @@ class ClaudeAPITest(unittest.TestCase):
             ai.parse_response({"content": [{"type": "text", "text": "texto livre"}]},
                               [self.item])
 
+    def test_workspace_header_is_optional_and_validated(self):
+        import unittest.mock
+        with unittest.mock.patch.dict("os.environ", {"ANTHROPIC_WORKSPACE_ID": ""}):
+            header = ai.build_headers("test_key")
+            self.assertNotIn("anthropic-workspace-id", header)
+        with unittest.mock.patch.dict("os.environ", {"ANTHROPIC_WORKSPACE_ID": "wrkspc_0123Abc"}):
+            header = ai.build_headers("test_key")
+            self.assertEqual(header["anthropic-workspace-id"], "wrkspc_0123Abc")
+        with self.assertRaises(ValueError):
+            ai.build_headers("test_key", "https://example.org/evil")
+
+    def test_api_http_diagnostic_does_not_expose_private_response(self):
+        for code, kind in ((401, "authentication_error"),
+                           (402, "billing_error"), (403, "permission_error"),
+                           (429, "rate_limit_error")):
+            body = json.dumps({"error": {"type": kind, "message":
+                        "PRIVATE_TOKEN_123 should not appear"}}).encode()
+            def fail_request(*args, **kwargs):
+                raise HTTPError(ai.API_URL, code, "private reason", {},
+                                io.BytesIO(body))
+            with self.assertRaises(ai.ClaudeAPIError) as caught:
+                ai.call_api([self.item], "PRIVATE_TOKEN_123",
+                            opener=fail_request)
+            diagnostic = str(caught.exception)
+            self.assertEqual(caught.exception.code, code)
+            self.assertIn(kind, diagnostic)
+            self.assertNotIn("PRIVATE_TOKEN_123", diagnostic)
+            self.assertNotIn("private reason", diagnostic)
+
     def test_dry_run_no_api_call_and_missing_key_does_not_overwrite(self):
         with tempfile.TemporaryDirectory() as tmp:
             source = pathlib.Path(tmp) / "news.json"
@@ -61,23 +91,6 @@ class ClaudeAPITest(unittest.TestCase):
             with self.assertRaises(RuntimeError):
                 ai.generate(source, target, key="", now=self.now)
             self.assertEqual(target.read_text(encoding="utf-8"), "VERSAO ANTIGA")
-
-    def test_main_soft_fails_and_keeps_previous_output(self):
-        with tempfile.TemporaryDirectory() as tmp:
-            source = pathlib.Path(tmp) / "news.json"
-            target = pathlib.Path(tmp) / "claude-insights.json"
-            source.write_text(json.dumps({"items": []}), encoding="utf-8")
-            target.write_text("VERSAO ANTIGA", encoding="utf-8")
-            with mock.patch.object(ai, "SOURCE", source), \
-                    mock.patch.object(ai, "TARGET", target), \
-                    mock.patch.dict(ai.os.environ, {"ANTHROPIC_API_KEY": "k"}), \
-                    mock.patch.object(sys, "argv", ["claude_enrich.py"]):
-                ai.main()
-                self.assertEqual(target.read_text(encoding="utf-8"), "VERSAO ANTIGA")
-                source.unlink()
-                with self.assertRaises(SystemExit) as ctx:
-                    ai.main()
-                self.assertEqual(ctx.exception.code, 1)
 
     def test_api_generation_and_provenance(self):
         with tempfile.TemporaryDirectory() as tmp:

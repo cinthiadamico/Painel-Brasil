@@ -1,26 +1,15 @@
-name: Claude editorial experimental (sem deploy)
-
+name: Claude editorial - execucao manual (sem deploy)
+# Producao segura: sem agendamento diario nem disparo automatico em push.
 on:
   workflow_dispatch:
-  # Permite um teste intencional na branch: criar/alterar o arquivo-gatilho.
-  push:
-    branches:
-      - teste/reformulacao-claude-api
-    paths:
-      - 'experimentos/executar-claude.txt'
-  # Este agendamento só passa a rodar quando o workflow estiver na main.
-  schedule:
-    - cron: '43 10 * * *'
-
 permissions:
   contents: write
-
 concurrency:
-  group: claude-editorial-${{ github.ref_name }}
+  group: claude-editorial-manual-${{ github.ref_name }}
   cancel-in-progress: false
-
 jobs:
-  perguntas-editoriais:
+  gerar-manualmente:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -29,31 +18,28 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Validar antes de gerar
+      - name: Validacao sem API
         run: python -m unittest discover -s tests -v
-      - name: Importar exportacoes manuais disponiveis
-        run: |
-          python scripts/import_claude.py
-          python scripts/import_artifacts.py
-      - name: Atualizar referencias RSS
+      - name: Atualizar fontes RSS
         run: python scripts/update.py
-      - name: Geracao via API do Claude
+      - name: Gerar perguntas pela Claude API
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
           CLAUDE_MODEL: claude-haiku-5-5
         run: |
           if [ -z "$ANTHROPIC_API_KEY" ]; then
-            echo 'API nao configurada: sem geracao, dados anteriores preservados.'
-          else
-            python scripts/claude_enrich.py
+            echo '::error::ANTHROPIC_API_KEY nao configurada'
+            exit 1
           fi
-      - name: Registrar resultado SOMENTE na branch em execucao
+          python scripts/claude_enrich.py
+      - name: Persistir SOMENTE os dados gerados
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add site/data/news.json site/data/claude-insights.json site/arquivo
+          git add site/data/news.json site/data/claude-insights.json
           if ! git diff --cached --quiet; then
-            git commit -m 'chore: atualizar camada Claude experimental [skip ci]'
-            git push origin "HEAD:${GITHUB_REF_NAME}"
+            git commit -m 'chore: atualizar Claude sob demanda [skip ci]'
+            git push origin "HEAD:$GITHUB_REF_NAME"
           fi
-      # Propositalmente NAO inclui actions/deploy-pages.
+      # Sem deploy. A rotina normal de publicacao da main permanece independente.

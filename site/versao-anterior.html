@@ -1,0 +1,1516 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<meta name="claude:viewport-fit-sides" content="cover">
+<title>Painel Brasil</title>
+<style>
+  /* Layout: masthead with live status strip, an election context bar, then
+     a filterable grid of source-linked cards grouped into civic sections
+     (gazette-dashboard hybrid — scanned by category, not read top to bottom). */
+  :root{
+    --bg:#EAE7DC;
+    --surface:#FDFCF8;
+    --ink:#201C14;
+    --ink-dim:#6B6554;
+    --accent:#8A6324;
+    --accent-ink:#FFFCF4;
+    --line:#D9D3C0;
+
+    --cat-politica:#4A4D8C;
+    --cat-economia:#2F6B4F;
+    --cat-justica:#8C3B3B;
+    --cat-camara:#2E6B8C;
+    --cat-senado:#1F5C73;
+    --cat-intl:#2F7A7A;
+    --cat-saude:#A1436A;
+    --cat-edu:#6B4A8C;
+    --cat-seg:#A15E1F;
+    --cat-ruas:#3B6B5C;
+    --cand-lula:#A33B3B;
+    --cand-flavio:#2E5FA3;
+
+    --font-display:'Source Serif 4', Georgia, 'Times New Roman', serif;
+    --font-body:'IBM Plex Sans', -apple-system, 'Segoe UI', sans-serif;
+    --font-mono:'IBM Plex Mono', 'SF Mono', Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#15181A; --surface:#1C2023; --ink:#EDE8DC; --ink-dim:#9A9484;
+      --accent:#D6A94B; --accent-ink:#1A1405; --line:#30342F;
+      --cat-politica:#8B90E0; --cat-economia:#5FC08A; --cat-justica:#E08A8A;
+      --cat-camara:#6FB6E0; --cat-senado:#5FBCD6; --cat-intl:#5FCFC2;
+      --cat-saude:#E08AB0; --cat-edu:#B59BE0; --cat-seg:#E0A85F; --cat-ruas:#6FBFA6;
+      --cand-lula:#E08A8A; --cand-flavio:#7FABE0;
+      color-scheme:dark;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#15181A; --surface:#1C2023; --ink:#EDE8DC; --ink-dim:#9A9484;
+    --accent:#D6A94B; --accent-ink:#1A1405; --line:#30342F;
+    --cat-politica:#8B90E0; --cat-economia:#5FC08A; --cat-justica:#E08A8A;
+    --cat-camara:#6FB6E0; --cat-senado:#5FBCD6; --cat-intl:#5FCFC2;
+    --cat-saude:#E08AB0; --cat-edu:#B59BE0; --cat-seg:#E0A85F; --cat-ruas:#6FBFA6;
+    --cand-lula:#E08A8A; --cand-flavio:#7FABE0;
+    color-scheme:dark;
+  }
+
+  *{box-sizing:border-box;}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:var(--font-body);
+    padding-left:max(16px, env(safe-area-inset-left,0px));
+    padding-right:max(16px, env(safe-area-inset-right,0px));
+  }
+  body::before{
+    content:""; position:fixed; inset:0 0 auto; height:env(safe-area-inset-top,0px);
+    z-index:20; background:var(--surface);
+  }
+  a{color:var(--accent); text-decoration:none;}
+  a:hover{text-decoration:underline;}
+  a:focus-visible, button:focus-visible, .chip:focus-visible{outline:2px solid var(--accent); outline-offset:2px;}
+
+  .wrap{max-width:1040px; margin:0 auto; padding-block: 0 48px;}
+
+  /* masthead */
+  header.masthead{
+    position:sticky; top:env(safe-area-inset-top,0px); z-index:10;
+    background:var(--surface); border-bottom:1px solid var(--line);
+    padding-block:14px 12px; margin-bottom:22px;
+  }
+  .masthead-row{display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap;}
+  .masthead h1{
+    font-family:var(--font-display); font-size:clamp(1.5rem,5vw,2.1rem);
+    margin:0; letter-spacing:.2px; text-wrap:balance;
+  }
+  .masthead .kicker{
+    font-family:var(--font-mono); font-size:.68rem; letter-spacing:.12em; text-transform:uppercase;
+    color:var(--accent); display:block; margin-bottom:2px;
+  }
+  .live-status{
+    display:flex; align-items:center; gap:8px; font-family:var(--font-mono);
+    font-size:.72rem; color:var(--ink-dim); white-space:nowrap;
+  }
+  .live-dot{width:7px; height:7px; border-radius:50%; background:#3C9A5C; flex:0 0 auto;
+    box-shadow:0 0 0 0 rgba(60,154,92,.5); animation:pulse 2.4s ease-out infinite;}
+  @media (prefers-reduced-motion: reduce){ .live-dot{animation:none;} }
+  @keyframes pulse{
+    0%{box-shadow:0 0 0 0 rgba(60,154,92,.45);}
+    70%{box-shadow:0 0 0 6px rgba(60,154,92,0);}
+    100%{box-shadow:0 0 0 0 rgba(60,154,92,0);}
+  }
+
+  .filters{display:flex; gap:7px; flex-wrap:wrap; margin-top:12px;}
+  .chip{
+    font-family:var(--font-body); font-size:.78rem; font-weight:600;
+    border:1px solid var(--line); background:transparent; color:var(--ink-dim);
+    border-radius:999px; padding:5px 13px; cursor:pointer; transition:background .15s, color .15s, border-color .15s;
+  }
+  .chip[aria-pressed="true"]{background:var(--accent); color:var(--accent-ink); border-color:var(--accent);}
+  .chip:hover{border-color:var(--accent);}
+
+  /* election strip */
+  .race{
+    display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:1px;
+    background:var(--line); border:1px solid var(--line); border-radius:10px; overflow:hidden;
+    margin-bottom:28px;
+  }
+  .race-cell{background:var(--surface); padding:12px 14px;}
+  .race-cell .label{font-family:var(--font-mono); font-size:.64rem; text-transform:uppercase; letter-spacing:.08em; color:var(--ink-dim);}
+  .race-cell .value{font-family:var(--font-display); font-size:1.15rem; margin-top:3px; font-variant-numeric:tabular-nums;}
+  .race-cell .value b{color:var(--accent);}
+  .race-note{font-size:.78rem; color:var(--ink-dim); padding:10px 14px; grid-column:1/-1; background:var(--surface);}
+
+  /* hero */
+  .section-label{
+    font-family:var(--font-mono); font-size:.7rem; letter-spacing:.12em; text-transform:uppercase;
+    color:var(--ink-dim); margin:0 0 10px;
+  }
+  .hero-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:14px; margin-bottom:34px;}
+  .hero-card{
+    background:var(--surface); border:1px solid var(--line); border-radius:12px;
+    padding:18px; display:flex; flex-direction:column; gap:10px; min-width:0;
+  }
+  .hero-card h2{font-family:var(--font-display); font-size:1.2rem; line-height:1.3; margin:0; text-wrap:balance;}
+  .hero-card p{margin:0; color:var(--ink-dim); font-size:.9rem; line-height:1.55;}
+
+  /* category sections */
+  section.cat{margin-bottom:34px;}
+  .cat-head{display:flex; align-items:center; gap:9px; margin-bottom:14px;}
+  .cat-dot{width:11px; height:11px; border-radius:3px; flex:0 0 auto;}
+  .cat-head h2{font-family:var(--font-display); font-size:1.3rem; margin:0;}
+  .cat-count{font-family:var(--font-mono); font-size:.72rem; color:var(--ink-dim);}
+
+  .card-grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px;}
+  .cand-group{margin-bottom:16px;}
+  .cand-group:last-child{margin-bottom:0;}
+  .cand-label{font-family:var(--font-display); font-size:1.05rem; margin:0 0 10px; display:flex; align-items:center; gap:8px;}
+  .cand-label::before{content:""; width:10px; height:10px; border-radius:50%; background:currentColor; display:inline-block;}
+  .card-cand{border-left:3px solid; }
+  .card{
+    background:var(--surface); border:1px solid var(--line); border-radius:10px;
+    padding:14px 16px 15px; display:flex; flex-direction:column; gap:8px; min-width:0;
+  }
+  .card .tag-row{display:flex; align-items:center; justify-content:space-between; gap:8px;}
+  .card .tag{
+    font-family:var(--font-mono); font-size:.66rem; text-transform:uppercase; letter-spacing:.07em;
+    padding:2px 8px; border-radius:999px; color:var(--accent-ink); white-space:nowrap;
+  }
+  .card .time{font-family:var(--font-mono); font-size:.68rem; color:var(--ink-dim); white-space:nowrap;}
+  .card h3{font-family:var(--font-display); font-size:1.03rem; line-height:1.35; margin:0; text-wrap:balance;}
+  .card p{margin:0; font-size:.86rem; line-height:1.55; color:var(--ink-dim);}
+  .card .src{font-size:.78rem; margin-top:auto; padding-top:4px;}
+  .card .src a{font-weight:600;}
+
+  .context-note{
+    background:var(--surface); border:1px dashed var(--line); border-radius:10px;
+    padding:13px 16px; font-size:.84rem; color:var(--ink-dim); line-height:1.6; margin-top:12px;
+  }
+
+  footer{
+    border-top:1px solid var(--line); margin-top:10px; padding-top:18px;
+    font-size:.78rem; color:var(--ink-dim); line-height:1.7;
+  }
+  footer strong{color:var(--ink);}
+
+  [hidden]{display:none !important;}
+
+  @media (max-width:480px){
+    .masthead h1{font-size:1.4rem;}
+    .race-cell .value{font-size:1rem;}
+  }
+</style>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="masthead-row">
+      <div>
+        <span class="kicker">Edição de hoje</span>
+        <h1>Painel Brasil</h1>
+      </div>
+      <div class="live-status"><span class="live-dot" aria-hidden="true"></span><span id="updatedAt">Atualizado em 16 de outubro de 2026</span></div>
+    </div>
+    <nav class="filters" id="filters" aria-label="Filtrar por categoria">
+      <button class="chip" data-filter="todas" aria-pressed="true">Todas</button>
+      <button class="chip" data-filter="eleicoes" aria-pressed="false">Eleições</button>
+      <button class="chip" data-filter="ruas" aria-pressed="false">Brasil nas ruas</button>
+      <button class="chip" data-filter="politica" aria-pressed="false">Política</button>
+      <button class="chip" data-filter="economia" aria-pressed="false">Economia</button>
+      <button class="chip" data-filter="justica" aria-pressed="false">Justiça &amp; STF</button>
+      <button class="chip" data-filter="camara" aria-pressed="false">Câmara</button>
+      <button class="chip" data-filter="senado" aria-pressed="false">Senado</button>
+      <button class="chip" data-filter="intl" aria-pressed="false">Internacional</button>
+      <button class="chip" data-filter="saude" aria-pressed="false">Saúde</button>
+      <button class="chip" data-filter="edu" aria-pressed="false">Educação</button>
+      <button class="chip" data-filter="seg" aria-pressed="false">Segurança</button>
+    </nav>
+  </header>
+
+  <p class="section-label">Corrida presidencial — 2º turno</p>
+  <div class="race">
+    <div class="race-cell"><div class="label">1º turno (04/10)</div><div class="value">Flávio <b>47,03%</b></div></div>
+    <div class="race-cell"><div class="label">1º turno (04/10)</div><div class="value">Lula <b>45,16%</b></div></div>
+    <div class="race-cell"><div class="label">AtlasIntel (09/10, válidos)</div><div class="value">Flávio <b>52,8%</b> x Lula 47,2%</div></div>
+    <div class="race-cell"><div class="label">Quaest (14/10)</div><div class="value">Flávio <b>46%</b> x Lula 44%</div></div>
+    <div class="race-cell"><div class="label">Palver (15/10, válidos)</div><div class="value">Flávio <b>50%</b> x Lula 49%</div></div>
+    <div class="race-cell"><div class="label">Datafolha (15/10, válidos)</div><div class="value">Flávio <b>51%</b> x Lula 49%</div></div>
+    <div class="race-cell"><div class="label">Datafolha (15/10, total)</div><div class="value">Flávio <b>47%</b> x Lula 45%</div></div>
+    <div class="race-cell"><div class="label">Indexa/Broadcast (15/10, válidos)</div><div class="value">Flávio <b>51%</b> x Lula 49%</div></div>
+    <div class="race-cell"><div class="label">PoderData/Aya (16/10, válidos)</div><div class="value">Empate técnico: <b>50%</b> x 50%</div></div>
+    <div class="race-cell"><div class="label">Futura/100% Cidades (16/10, válidos)</div><div class="value">Flávio <b>50,8%</b> x Lula 49,2%</div></div>
+    <div class="race-cell"><div class="label">CNT/MDA (16/10, válidos)</div><div class="value">Flávio <b>50,5%</b> x Lula 49,5%</div></div>
+    <div class="race-note">Nenhum dos dois alcançou a maioria no 1º turno, o que levou a disputa ao 2º turno, marcado para o último domingo de outubro. A sequência de pesquisas mostra a vantagem de Flávio encolhendo: a diferença em votos válidos caiu de cerca de 5,6 pontos no AtlasIntel (9/10) para 2 pontos no Quaest (14/10), passando por apenas 1 ponto no Palver, no Datafolha e no Indexa/Broadcast (todos de 15/10) até o empate técnico de 50% a 50% apurado pelo PoderData/Aya nesta sexta (16/10) — resultado confirmado, ainda nesta sexta, por duas outras pesquisas dentro da margem de erro: Futura/100% Cidades (50,8% a 49,2%) e CNT/MDA (50,5% a 49,5%), ambas também de 16/10. A rodada do PoderData/Aya supera a mesma pesquisa feita em 13/10, quando o instituto ainda media Flávio na frente por 51% a 49%. A rodada do Datafolha (15/10) mediu rejeição: 46% rejeitam Lula e 44% rejeitam Flávio. Lula e Flávio confirmaram presença no primeiro debate do 2º turno, promovido pela Band, no domingo (18/10) — dia em que Flávio também terá ato de campanha, segundo o Poder360.</div>
+  </div>
+
+  <p class="section-label">Destaques</p>
+  <div class="hero-grid">
+    <article class="hero-card">
+      <h2>Congresso promulga o fim da escala 6x1 em cerimônia nesta manhã</h2>
+      <p>Lula e Janja chegaram ao Congresso por volta das 9h55 e, pouco depois das 10h, a sessão solene promulgou a PEC que extingue a escala 6x1 — aprovada no Senado em dois turnos, com apenas um voto contrário, do senador Hamilton Mourão —, ao lado da PEC 14/2021, que cria aposentadoria especial para agentes comunitários de saúde e de combate a endemias. O ato contou também com o presidente do Congresso, Davi Alcolumbre, e o presidente da Câmara, Hugo Motta.</p>
+      <div class="src"><a href="https://www.poder360.com.br/poder-congresso/congresso-promulga-pec-que-extingue-a-escala-de-trabalho-6-x-1/" target="_blank" rel="noopener">Poder360 →</a></div>
+    </article>
+    <article class="hero-card">
+      <h2>Após impasse sobre maioridade penal, Davi anuncia volta da PEC da Segurança à pauta</h2>
+      <p>Alcolumbre havia tirado a PEC da pauta na quinta (15/10) por falta de acordo sobre as emendas — Camilo Santana, líder do PT no Senado, protocolou emenda própria para reduzir a maioridade penal a 16 anos só em crimes hediondos, rompendo com o governo, enquanto a campanha de Flávio apresentou uma emenda mais ampla. Nesta sexta (16/10), porém, o presidente do Senado anunciou que o texto volta à pauta depois que os senadores chegarem a um acordo sobre essas emendas, sem citar data. Em entrevista à TV Globo, Lula já havia dito ser favorável, "como cidadão", a reduzir a penalidade em crimes hediondos, mas sem discutir o tema dentro dessa PEC.</p>
+      <div class="src"><a href="https://www12.senado.leg.br/noticias/videos/2026/10/pec-da-seguranca-voltara-a-pauta-apos-acordo-sobre-emendas-anuncia-davi" target="_blank" rel="noopener">Senado Notícias →</a></div>
+    </article>
+    <article class="hero-card">
+      <h2>TSE determina isonomia entre Lula e Flávio na IA da Meta, sob multa de R$ 500 mil</h2>
+      <p>Depois de testes mostrarem que a ferramenta de IA da Meta recusava gerar imagens com o termo "Lula 13" mas produzia normalmente montagens com "Flávio 22", o ministro Marco Aurélio Bellizze, do TSE, determinou que a empresa garanta tratamento igualitário às duas campanhas — proibindo reduzir a distribuição de publicações, bloquear recomendações ou restringir buscas sobre qualquer um dos dois candidatos, sob multa diária de R$ 500 mil em caso de descumprimento. Em exame preliminar, o ministro considerou ter havido falha na ferramenta de controle de comandos, mas disse não haver elementos de que a diferença de tratamento tenha sido deliberada ou sistemática.</p>
+      <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-determina-isonomia-apos-ia-da-meta-barrar-imagens-de-lula" target="_blank" rel="noopener">Agência Brasil →</a></div>
+    </article>
+    <article class="hero-card">
+      <h2>TRE-RJ proclama Douglas Ruas eleito no Rio; PSD segue com recurso no STF</h2>
+      <p>O partido de Eduardo Paes mantém no STF uma ADPF pedindo que a disputa ao governo do Rio seja refeita em 2º turno, mas o TRE-RJ já homologou por unanimidade, nesta quinta (15/10), a retotalização que exclui cerca de 274 mil votos de Anthony Garotinho — cuja candidatura fora indeferida, mas que continuou na urna — e proclamou Douglas Ruas (PL) eleito governador ainda no 1º turno. Com a exclusão, Ruas subiu de 49,27% para 50,88% dos votos válidos, e Paes, de 42,76% para 44,16%. O ministro Cristiano Zanin já havia negado um pedido semelhante de Paes em 8 de outubro, por entender que ainda cabiam recursos na Justiça Eleitoral.</p>
+      <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/psd-recorre-ao-stf-para-tentar-garantir-2o-turno-no-rio/" target="_blank" rel="noopener">Poder360 →</a></div>
+    </article>
+    <article class="hero-card">
+      <h2>Lula x Flávio: Sul Global ou EUA?</h2>
+      <p>No front de política externa, Lula reafirma aposta na aproximação com o Sul Global, enquanto Flávio Bolsonaro defende alinhamento mais próximo com Estados Unidos e Israel — uma divergência que deve marcar o 2º turno.</p>
+      <div class="src"><a href="https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/lula-defende-sul-global-flavio-quer-proximidade-com-eua-e-israel" target="_blank" rel="noopener">Agência Brasil →</a></div>
+    </article>
+    <article class="hero-card">
+      <h2>Lula e Flávio confirmam presença no 1º debate do 2º turno</h2>
+      <p>Depois de dizer que não iria, Flávio confirmou participação no debate da Band — promovido também por Estadão, Cultura, Gazeta, Jovem Pan e YouTube —, horas depois de Lula anunciar sua própria presença. O encontro, no domingo (18/10), é o primeiro frente a frente do segundo turno.</p>
+      <div class="src"><a href="https://www.cnnbrasil.com.br/eleicoes/flavio-confirma-ida-ao-debate-da-band/" target="_blank" rel="noopener">CNN Brasil →</a></div>
+    </article>
+    <article class="hero-card">
+      <h2>Netanyahu chama Brasil de "pequeno país" e cogita ir à posse de Flávio</h2>
+      <p>Durante um evento em Jerusalém, o premiê israelense relembrou sua ida à posse de Jair Bolsonaro em 2019 e disse que pode voltar ao país se Flávio for eleito — mais um gesto de líder estrangeiro próximo à família Bolsonaro, na esteira das falas recentes do argentino Javier Milei contra Lula.</p>
+      <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/netanyahu-chama-brasil-de-pequeno-pais-e-considera-ir-a-posse-de-flavio/" target="_blank" rel="noopener">Poder360 →</a></div>
+    </article>
+  </div>
+
+  <!-- ELEIÇÕES: LULA x FLÁVIO -->
+  <section class="cat" data-cat="eleicoes">
+    <div class="cat-head"><span class="cat-dot" style="background:var(--cand-lula)"></span><h2>Eleições 2026: Lula x Flávio</h2><span class="cat-count">36 matérias</span></div>
+    <div class="cand-group">
+      <h3 class="cand-label" style="color:var(--cand-lula)">Lula</h3>
+      <div class="card-grid">
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Fala</span><span class="time">15/10 · 23h12</span></div>
+          <h3>Lula se diz favorável a reduzir maioridade penal para hediondos</h3>
+          <p>Em entrevista à TV Globo, o presidente afirmou que, "como cidadão", é favorável a diminuir a penalidade para crimes hediondos, mas disse não querer discutir o tema dentro da PEC da Segurança em tramitação no Senado — mudança de tom em relação à posição histórica do PT sobre o assunto.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-seguranca-publica/lula-diz-ser-a-favor-de-reduzir-maioridade-penal-para-crimes-hediondos/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Proposta</span><span class="time">13/10</span></div>
+          <h3>Lula promete passe livre nos fins de semana e bolsa a universitários</h3>
+          <p>A poucos dias do 2º turno, o presidente anunciou uma PEC para garantir transporte público gratuito nos fins de semana, a ser financiado por emendas parlamentares, e prometeu uma bolsa de R$ 700 a universitários a partir de 2027.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/lula-promete-bolsa-de-r-700-a-universitarios-em-2027/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Apoiador</span><span class="time">Esta semana</span></div>
+          <h3>MDB amplia apoio a Lula com adesão de diretórios estaduais</h3>
+          <p>Dez diretórios estaduais do partido declararam apoio à candidatura de Lula no segundo turno, ampliando a base de sustentação da campanha fora do núcleo petista.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/10-diretorios-do-mdb-declaram-apoio-a-lula-no-2o-turno/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Articulação</span><span class="time">Esta semana</span></div>
+          <h3>Lula articula com o Centrão, mas Raquel Lyra mantém neutralidade</h3>
+          <p>A campanha petista busca apoios pessoais com lideranças do Centrão. A governadora de Pernambuco, Raquel Lyra, no entanto, não fechou posição com nenhum dos dois lados: evitou cravar apoio a Lula e cita apenas uma relação de confiança com o presidente, mesmo sendo cortejada também pela campanha de Flávio.</p>
+          <div class="src"><a href="https://www.cnnbrasil.com.br/eleicoes/raquel-lyra-nao-crava-palanque-de-lula-mas-cita-relacao-de-confianca/" target="_blank" rel="noopener">CNN Brasil</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Estratégia</span><span class="time">15/10 · 10h57</span></div>
+          <h3>Sem palanque de esquerda, Lula tenta atrair eleitor de direita contra Flávio</h3>
+          <p>Sem aliado de esquerda relevante no 2º turno, a campanha de Lula busca votos entre conservadores pragmáticos, mirando especialmente eleitores de Renan Santos e Augusto Cury — pesquisa Nexus/BTG apontou 41% dos eleitores de Cury e 30% dos de Santos abertos a votar em Lula. A deputada eleita Ana Elisa (PT-MG), que lidera a articulação, resume a tese: "a direita foi engolida pelo bolsonarismo".</p>
+          <div class="src"><a href="https://www.gazetadopovo.com.br/eleicoes/2026/ofensiva-de-lula-sobre-eleitores-de-direita-contra-flavio-segundo-turno/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Fala</span><span class="time">Esta semana</span></div>
+          <h3>Lula brinca que vai usar celular de Janja por falta de dinheiro</h3>
+          <p>Em vídeo divulgado por André Janones, administrador do canal "Exército de Lula" no WhatsApp, o presidente disse, em tom de brincadeira, que não tem dinheiro para comprar um celular novo e vai usar o aparelho da primeira-dama se o canal chegar a 5 milhões de inscritos — hoje com cerca de 4,4 milhões, depois de ter sido suspenso e reativado por decisões do TSE.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-nao-tem-dinheiro-para-comprar-celular-e-usara-o-de-janja/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Fala</span><span class="time">Esta semana</span></div>
+          <h3>Lula chama modelo de escola cívico-militar de "loucura"</h3>
+          <p>Em evento no Palácio do Planalto, o presidente criticou a adoção de escolas cívico-militares, dizendo haver "maluco para tudo" entre defensores do modelo — fala que contrasta com propostas de endurecimento na área de educação defendidas por aliados de Flávio.</p>
+          <div class="src"><a href="https://www.gazetadopovo.com.br/eleicoes/2026/lula-chama-escola-civico-militar-loucura-tem-maluco-pra-tudo/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Proposta</span><span class="time">15/10 · 08h30</span></div>
+          <h3>Lula propõe generalizar educação em tempo integral</h3>
+          <p>Como prioridade educacional do seu programa, o presidente defende levar a jornada integral — de pelo menos 35 horas semanais — a todas as etapas da educação básica, hoje presente em apenas 25,8% das matrículas. A proposta contrasta com o apoio de Flávio às escolas cívico-militares.</p>
+          <div class="src"><a href="https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/flavio-quer-escolas-militares-lula-propoe-ampliar-educacao-integral" target="_blank" rel="noopener">Agência Brasil</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Apoiador</span><span class="time">14/10 · 22h27</span></div>
+          <h3>Lula escreve carta a evangélicos citando fim das bets e escala 5x2</h3>
+          <p>Em carta divulgada pela Frente de Evangélicos pelo Estado de Direito, o presidente disse ter governado "com a proteção divina" e citou como gestos de proteção à família o fim da publicidade de apostas, a aprovação da escala 5x2 e o combate à violência contra a mulher.</p>
+          <div class="src"><a href="https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-reforca-compromisso-com-evangelicos-flavio-recebe-apoio-no-rs" target="_blank" rel="noopener">Agência Brasil</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Fala</span><span class="time">14/10 · 13h00</span></div>
+          <h3>Propaganda do PT compara Flávio a Fernando Collor</h3>
+          <p>Uma peça de campanha petista recriou um anúncio de 1987 e traçou paralelos entre os dois — início cedo na política, famílias tradicionais, casos de corrupção associados ao pai ou a aliados próximos e promessas de corte de privilégios — encerrando com o mote "às vezes, o futuro pode ser uma volta ao passado".</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/pt-recria-propaganda-sobre-hitler-e-compara-flavio-a-collor/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Articulação</span><span class="time">15/10</span></div>
+          <h3>Lindbergh diz que Flávio "ligou modo desespero" ao acionar o TSE</h3>
+          <p>Em vídeo nas redes, o deputado petista reagiu ao pedido de Flávio para que o TSE investigasse centrais sindicais e entidades como MST e UNE por suposta irregularidade no financiamento da campanha de Lula, classificando a iniciativa como tentativa de calar o movimento estudantil e sindical que apoia o presidente.</p>
+          <div class="src"><a href="https://www.metropoles.com/brasil/lindbergh-flavio-ligou-modo-desespero-ao-acionar-tse-contra-sindicatos" target="_blank" rel="noopener">Metrópoles</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Articulação</span><span class="time">13 a 15/10</span></div>
+          <h3>Campanha de Lula ataca mudança de posição de Flávio sobre a 6x1</h3>
+          <p>Um vídeo de campanha narrado por Wagner Moura questionou a PEC do Trabalho Flexível, do aliado de Flávio Rogério Marinho, evocando a época do pagamento por hora trabalhada e perguntando se é isso que o eleitor quer de volta. Na mesma linha, o deputado Reginaldo Lopes (PT-MG), autor da PEC do fim da 6x1, chamou a proposta de "escravidão moderna" e cobrou que Flávio explicasse por que votou a favor do fim da escala, por voto remoto, dias depois de ter criticado o texto.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-congresso/governistas-festejam-6-x-1-e-chamam-proposta-de-flavio-de-escravidao/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Apoiador</span><span class="time">14/10</span></div>
+          <h3>Erika Hilton cria "Tropa da Erika" para mobilizar apoiadores de Lula</h3>
+          <p>A deputada eleita lançou uma frente de mobilização voltada a reforçar o engajamento de apoiadores do presidente nas redes e nas ruas na reta final da campanha do 2º turno.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/erika-hilton-cria-tropa-da-erika-para-mobilizar-apoiadores/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Articulação</span><span class="time">15/10 · 23h26</span></div>
+          <h3>Campanha de Lula leva queixa contra a Meta a observadores internacionais</h3>
+          <p>Além de acionar o TSE, a campanha petista levou a observadores eleitorais internacionais sua reclamação de que a IA da Meta tratava as buscas sobre Lula de forma diferente das relacionadas a Flávio.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-reclama-da-meta-a-observadores-internacionais/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Articulação</span><span class="time">15/10</span></div>
+          <h3>Em sabatina na Globo, Lula associa Flávio à prisão de Canella</h3>
+          <p>Durante entrevista, o presidente citou a prisão do deputado estadual Márcio Canella (União-RJ), na Operação Unha e Carne, para questionar as alianças políticas de Flávio no Rio de Janeiro.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/lula-liga-flavio-a-canella-preso-pela-pf-durante-sabatina-na-globo/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Fala</span><span class="time">15/10</span></div>
+          <h3>"PCC e CV são terroristas", diz Lula sobre facções criminosas</h3>
+          <p>Na mesma sabatina, o presidente classificou as duas maiores facções do país como organizações terroristas para a comunidade brasileira, ao ser questionado sobre segurança pública.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/pcc-e-cv-sao-terroristas-para-a-comunidade-brasileira-diz-lula/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Fala</span><span class="time">15/10 · 22h18</span></div>
+          <h3>Lula diz que responsabilidade pelas dificuldades da campanha "é toda minha"</h3>
+          <p>Questionado sobre o desempenho abaixo do esperado no 1º turno, o presidente assumiu publicamente a responsabilidade pelos tropeços da campanha à reeleição, sem atribuí-los a aliados ou à conjuntura.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/a-responsabilidade-e-toda-minha-diz-lula-sobre-dificuldades-da-campanha/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Fala</span><span class="time">15/10 · 22h04</span></div>
+          <h3>Sobre relação com Washington, Lula diz que "quem deve estar preocupado conosco são os EUA"</h3>
+          <p>Em mais uma fala sobre política externa, o presidente inverteu o discurso de que o Brasil precisaria temer uma eventual pressão americana, no mesmo debate em que Flávio defende maior proximidade do país com os EUA e Israel.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-governo/quem-deve-estar-preocupado-conosco-sao-os-eua-diz-lula/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+      </div>
+    </div>
+    <div class="cand-group">
+      <h3 class="cand-label" style="color:var(--cand-flavio)">Flávio Bolsonaro</h3>
+      <div class="card-grid">
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Fala</span><span class="time">15/10 · 20h01</span></div>
+          <h3>"A picanha tá vindo de ônibus", ironiza Flávio sobre passe livre</h3>
+          <p>Em live de campanha com Nikolas Ferreira e Guilherme Derrite, Flávio reagiu ao anúncio do passe livre de Lula sugerindo que o dinheiro sairia de outras áreas — referência à promessa do presidente de ampliar o acesso à carne — e questionou se a medida será cumprida.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/a-picanha-ta-vindo-de-onibus-diz-flavio-apos-lula-prometer-passe-livre/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Proposta</span><span class="time">10/10</span></div>
+          <h3>Equipe econômica de Flávio estuda corte de até R$ 300 bi em gastos</h3>
+          <p>O grupo avalia substituir o arcabouço fiscal de 2023 por uma meta de dívida bruta sobre o PIB, cortar entre R$ 190 bi e R$ 300 bi em despesas via PEC e revogar cerca de 1.000 atos administrativos por decreto — propostas que, segundo a reportagem, ainda carecem de detalhamento e dependem do Congresso.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/lula-desafia-flavio-a-dizer-o-que-estara-no-corte-de-r-250-bilhoes/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Apoiador</span><span class="time">Esta semana</span></div>
+          <h3>Temer e pecuarista Wilson Grassi Júnior declaram apoio a Flávio</h3>
+          <p>Ao sinalizar simpatia pela candidatura, o ex-presidente Michel Temer se somou a apoios como o do empresário Wilson Grassi Júnior, que cobrou do candidato propostas para a causa animal.</p>
+          <div class="src"><a href="https://www.gazetadopovo.com.br/eleicoes/2026/wilson-grassi-junior-anuncia-apoio-a-flavio-bolsonaro-e-cobra-propostas-para-causa-animal/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Articulação</span><span class="time">08/10</span></div>
+          <h3>Flávio reúne 14 governadores aliados e corteja indecisos</h3>
+          <p>Em evento em Brasília, o candidato reuniu 14 governadores aliados e anunciou apoio formal de Podemos, Novo e da federação PP-União Brasil; o governador Ronaldo Caiado (PSD) apoia de forma individual. Flávio citou a governadora Raquel Lyra como exemplo de indecisa a conquistar e disse que "não tem eleição ganha".</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/flavio-reune-14-governadores-cita-raquel-lyra-e-acena-a-indecisos/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Proposta</span><span class="time">15/10</span></div>
+          <h3>Flávio promete criar "Ministério da Prosperidade" em inserção na TV</h3>
+          <p>Em propaganda eleitoral veiculada após a aprovação do fim da 6x1 no Senado, Flávio não comentou a mudança na jornada e, em vez disso, prometeu criar um Ministério da Prosperidade voltado a renda, crédito para empreendedores e ampliação do Bolsa Família, citando também a iniciativa ViraPix de devolução de parte de pagamentos.</p>
+          <div class="src"><a href="https://www.metropoles.com/brasil/na-tv-lula-exalta-fim-da-6x1-flavio-promete-ministerio-da-prosperidade" target="_blank" rel="noopener">Metrópoles</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Proposta</span><span class="time">14/10 · 21h09</span></div>
+          <h3>Flávio promete "guerra" ao tráfico e prosperidade por "40 anos"</h3>
+          <p>Em comício em Porto Alegre, Flávio prometeu declarar guerra ao tráfico de drogas a partir de janeiro de 2027, classificando traficantes como "narcoterroristas", e disse a moradores de áreas de domínio de facções que votem sem medo: "o voto é secreto". Repetiu também a promessa de reduzir a maioridade penal de 18 para 16 anos e de retomar obras de controle de enchentes no Rio Grande do Sul.</p>
+          <div class="src"><a href="https://www.gazetadopovo.com.br/eleicoes/2026/flavio-bolsonaro-promete-guerra-ao-trafico-e-prosperidade-por-40-anos/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Proposta</span><span class="time">15/10 · 08h30</span></div>
+          <h3>Flávio quer retomar e expandir escolas cívico-militares</h3>
+          <p>O candidato defende ampliar o modelo de escolas cívico-militares adotado no governo de Jair Bolsonaro, que combina gestão escolar com apoio de militares à disciplina, descrevendo a proposta como uma "escola que ensina, e não que doutrina".</p>
+          <div class="src"><a href="https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/flavio-quer-escolas-militares-lula-propoe-ampliar-educacao-integral" target="_blank" rel="noopener">Agência Brasil</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Apoiador</span><span class="time">14/10</span></div>
+          <h3>Flávio recebe apoio em Porto Alegre e promete obras no Sarandi</h3>
+          <p>Em agenda na capital gaúcha, o candidato se reuniu com apoiadores no centro da cidade e visitou o bairro Sarandi, prometendo retomar obras de recuperação após a enchente de 2024 e classificando a região como "abandonada" pelo governo federal.</p>
+          <div class="src"><a href="https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-reforca-compromisso-com-evangelicos-flavio-recebe-apoio-no-rs" target="_blank" rel="noopener">Agência Brasil</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Articulação</span><span class="time">14/10</span></div>
+          <h3>"Flaviômetro" passa a monitorar apoio de políticos a Flávio nas redes</h3>
+          <p>Uma ferramenta batizada de Flaviômetro passou a acompanhar publicações de políticos eleitos em apoio à candidatura de Flávio nas redes sociais, parte do esforço da campanha para mapear e ampliar sua base de apoio parlamentar.</p>
+          <div class="src"><a href="https://www.gazetadopovo.com.br/eleicoes/2026/flaviometro-monitora-atuacao-de-politicos-nas-redes-em-apoio-a-flavio-bolsonaro/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Apoiador</span><span class="time">14/10 · 23h02</span></div>
+          <h3>Eduardo Bolsonaro diz que Moraes "sairá do STF" com Flávio eleito</h3>
+          <p>Em evento em Washington, o ex-deputado autoexilado nos EUA — condenado pelo STF e com prisão determinada por Alexandre de Moraes — chamou o ministro de "câncer" a ser retirado da Corte e disse não enxergar Flávio governando com Moraes no tribunal, numa fala que associa a eleição do candidato a uma eventual mudança na composição do STF.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/com-flavio-presidente-moraes-estara-fora-do-stf-diz-eduardo/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Proposta</span><span class="time">14/10</span></div>
+          <h3>Líder do PL promete rediscutir jornada por horas trabalhadas em 2027</h3>
+          <p>Sóstenes Cavalcante (PL-RJ) disse que o partido tentará votar, já em 2027 e com Flávio eleito, uma PEC que permitiria ao trabalhador optar entre a CLT tradicional ou remuneração por horas efetivamente trabalhadas — proposta apresentada como alternativa "ainda melhor" à jornada de 40 horas aprovada na PEC do fim da 6x1, que o próprio Flávio passou a apoiar na reta final.</p>
+          <div class="src"><a href="https://www.gazetadopovo.com.br/economia/lider-do-pl-promete-votar-pec-das-horas-trabalhadas-em-2027-se-flavio-for-eleito/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Fala</span><span class="time">14/10 · 22h15</span></div>
+          <h3>Flávio vota a favor do fim da 6x1 por voto remoto, após ter criticado a PEC</h3>
+          <p>Ausente do plenário, o senador registrou voto remotamente a favor da PEC que acaba com a escala 6x1 — aprovada por 75 votos a 1 em cada turno —, dias depois de classificar o texto como mal formulado e prejudicial à economia. Ele mantém a defesa da PEC do Trabalho Flexível, do aliado Rogério Marinho, que permitiria negociar jornada e remuneração por hora entre empresas e trabalhadores.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-congresso/flavio-vota-a-favor-do-fim-da-6-x-1-apos-assinar-pec-do-trabalho-flexivel/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Apoiador</span><span class="time">15/10</span></div>
+          <h3>Empresário Luciano Hang declara voto em Flávio Bolsonaro</h3>
+          <p>O empresário catarinense, apoiador histórico da família Bolsonaro, declarou publicamente voto em Flávio contra Lula no 2º turno.</p>
+          <div class="src"><a href="https://revistaoeste.com/politica/luciano-hang-declara-voto-em-flavio-bolsonaro-contra-lula/" target="_blank" rel="noopener">Revista Oeste</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Estratégia</span><span class="time">16/10 · 06h00</span></div>
+          <h3>Flávio terá ato de campanha no mesmo dia do debate da Band</h3>
+          <p>A campanha de Flávio confirmou um ato de rua para o domingo (18/10), mesmo dia do primeiro debate do 2º turno — repetindo uma estratégia usada por Lula em 1989, de aparecer em comício em vez de priorizar o debate.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes/flavio-repete-lula-em-1989-e-tera-ato-de-campanha-em-dia-de-debate/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Apoiador</span><span class="time">13/10</span></div>
+          <h3>MDB nacional oficializa apoio majoritário a Flávio no 2º turno</h3>
+          <p>O presidente nacional do partido, Baleia Rossi, anunciou apoio majoritário a Flávio: 15 dos 27 diretórios estaduais declararam-se favoráveis à candidatura, enquanto os demais ficam livres para apoiar Lula ou adotar neutralidade — decisão que a reportagem descreve como sem consenso interno.</p>
+          <div class="src"><a href="https://www.metropoles.com/brasil/mdb-oficializara-apoio-majoritario-a-flavio-bolsonaro-nesta-terca-feira" target="_blank" rel="noopener">Metrópoles</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Fala</span><span class="time">15/10 · 22h28</span></div>
+          <h3>Flávio diz que PT vai "ter que aturar Bolsonaro" na Presidência</h3>
+          <p>Em ato de campanha em Capelinha (MG), ao lado de Nikolas Ferreira, Flávio disse que o PT terá de "aturar Bolsonaro" subindo a rampa do Planalto, afirmou que o evento marca o fim da "era" do PT e disse pretender dar continuidade ao projeto político do pai, o ex-presidente Jair Bolsonaro.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-pt-tera-de-aturar-bolsonaro-na-presidencia/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Articulação</span><span class="time">15/10 · 15h49</span></div>
+          <h3>Mãe de Flávio é escolhida suplente de deputado preso pela PF no Rio</h3>
+          <p>Levantamento mostrou que a mãe do candidato consta como suplente na chapa de Márcio Canella (União-RJ), deputado estadual eleito e preso dias antes na Operação Unha e Carne — mesmo caso que Lula citou em sabatina para questionar as alianças de Flávio no Rio.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/mae-de-flavio-foi-escolhida-como-suplente-de-canella-preso-pela-pf/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="eleicoes" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Articulação</span><span class="time">15/10 · 22h20</span></div>
+          <h3>Marinho, coordenador de Flávio, critica apoio da cúpula da AGU à reeleição de Lula</h3>
+          <p>O senador Rogério Marinho (PL-RN), que coordena a campanha de Flávio no Congresso, criticou publicamente integrantes da alta cúpula da Advocacia-Geral da União por manifestações de apoio à candidatura de Lula.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/marinho-critica-alta-cupula-da-agu-por-apoio-a-reeleicao-de-lula/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+      </div>
+    </div>
+    <p class="context-note">Para comparar lado a lado os planos de governo completos dos dois candidatos, veja esta reportagem do <a href="https://www.poder360.com.br/poder-eleicoes-2026/eleicoes-2026-compare-os-planos-de-governo-de-lula-e-flavio/" target="_blank" rel="noopener">Poder360</a>.</p>
+  </section>
+
+  <!-- BRASIL NAS RUAS: APOIO E OPOSIÇÃO PELOS ESTADOS -->
+  <section class="cat" data-cat="ruas">
+    <div class="cat-head"><span class="cat-dot" style="background:var(--cat-ruas)"></span><h2>Brasil nas ruas: apoio e oposição pelos estados</h2><span class="cat-count">8 matérias</span></div>
+    <div class="cand-group">
+      <h3 class="cand-label" style="color:var(--cand-lula)">Atos de apoio a Lula</h3>
+      <div class="card-grid">
+        <article class="card card-cand" data-cat="ruas" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Nacional · 24 capitais</span><span class="time">9 a 13/10</span></div>
+          <h3>Atos pela "virada" de Lula enchem ruas em ao menos 37 cidades</h3>
+          <p>Apoiadores fizeram caminhadas, mutirões e carreatas em 37 cidades de todas as regiões do país, incluindo 24 capitais. Os maiores atos foram na Av. Paulista e no Largo da Batata (SP) e em Copacabana e na Lapa (RJ), com eventos também em Brasília, Belo Horizonte, Salvador e Maceió. Novos atos já foram convocados para 18 de outubro.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/atos-pela-virada-de-lula-enchem-ruas-em-dezenas-cidades/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="ruas" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Rio de Janeiro</span><span class="time">12/10</span></div>
+          <h3>Ato pró-Lula ocupa a av. Atlântica, em Copacabana</h3>
+          <p>Apoiadores do presidente ocuparam trechos da orla de Copacabana, na zona sul do Rio, como parte da mobilização da campanha petista para ampliar apoio antes do 2º turno, em 25 de outubro, contra Flávio Bolsonaro.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/ato-pro-lula-ocupa-av-atlantica-em-copacabana-no-rio/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="ruas" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">São Paulo</span><span class="time">13/10 · 23h12</span></div>
+          <h3>"Acabou esquerda paz e amor": ato na Faria Lima endurece discurso</h3>
+          <p>No ato "A Luta Não Para", no Largo da Batata, discursos ficaram mais combativos contra a oposição. O deputado estadual eleito Leonardo Grandini (PT-SP) resumiu o novo tom: "chega de esquerda paz e amor".</p>
+          <div class="src"><a href="https://www.metropoles.com/sao-paulo/acabou-esquerda-paz-e-amor-ato-pro-lula-na-faria-lima-endurece-discurso" target="_blank" rel="noopener">Metrópoles</a></div>
+        </article>
+        <article class="card card-cand" data-cat="ruas" style="border-color:var(--cand-lula)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-lula)">Rio de Janeiro</span><span class="time">14/10 · 07h45</span></div>
+          <h3>Caetano Veloso convoca ato pela democracia no Rio</h3>
+          <p>O cantor convocou um ato-show de apoio a Lula e em defesa da democracia, marcado para o domingo (18/10) no Rio de Janeiro — mesmo dia de atos convocados pela campanha de Flávio em São Paulo.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/caetano-veloso-convoca-ato-show-pela-democracia-no-rio-no-domingo/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+      </div>
+    </div>
+    <div class="cand-group">
+      <h3 class="cand-label" style="color:var(--cand-flavio)">Atos de oposição / pró-Flávio</h3>
+      <div class="card-grid">
+        <article class="card card-cand" data-cat="ruas" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">MG, ES, BA, SP, AM, RJ</span><span class="time">11/10</span></div>
+          <h3>Flávio e Nikolas convocam atos em ao menos 14 cidades para a reta final</h3>
+          <p>Nikolas Ferreira (PL-MG) convocou o "Bloquinho 22", com atos entre 15 e 24 de outubro em cidades como Araçuaí, Vitória, Salvador, São Paulo, Manaus e Belo Horizonte, encerrando em Juiz de Fora e no Rio de Janeiro na véspera do 2º turno.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/flavio-e-nikolas-convocam-atos-para-a-reta-final-em-ao-menos-14-cidades/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="ruas" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">8 cidades</span><span class="time">14/10 · 23h34</span></div>
+          <h3>Flávio e aliados levam apoiadores às ruas em pelo menos 8 cidades</h3>
+          <p>Atos simultâneos de apoio a Flávio ocorreram em pelo menos oito cidades do país, parte da mobilização da campanha na última quinzena antes do 2º turno.</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/flavio-e-aliados-levam-apoiadores-as-ruas-em-cidades/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="ruas" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">São Paulo</span><span class="time">13/10 · 22h39</span></div>
+          <h3>Flávio, Tarcísio e Nunes convocam apoiadores para ato na Paulista</h3>
+          <p>Os três chamaram apoiadores para um ato no domingo (18/10), às 11h, na Av. Paulista — uma semana depois de a mesma avenida ter recebido um ato pró-Lula que ocupou sete quadras. Flávio chamou o evento de "uma grande festa".</p>
+          <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/flavio-tarcisio-e-nunes-convocam-apoiadores-para-ato-na-paulista/" target="_blank" rel="noopener">Poder360</a></div>
+        </article>
+        <article class="card card-cand" data-cat="ruas" style="border-color:var(--cand-flavio)">
+          <div class="tag-row"><span class="tag" style="background:var(--cand-flavio)">Minas Gerais</span><span class="time">14/10</span></div>
+          <h3>Agenda de Flávio em MG soma atos no interior e motociata em BH</h3>
+          <p>A campanha anunciou passagens por Capelinha (15/10) e Nanuque (16/10, sem presença confirmada do candidato), além de uma motociata em Belo Horizonte na véspera do 2º turno (24/10) — foco em reforçar regiões de Minas onde Lula venceu no 1º turno.</p>
+          <div class="src"><a href="https://www.metropoles.com/minas-gerais/agenda-de-flavio-em-mg-tem-atos-no-interior-e-motociata-em-bh-veja-locais" target="_blank" rel="noopener">Metrópoles</a></div>
+        </article>
+      </div>
+    </div>
+    <p class="context-note">Os dois lados convocaram novos atos para o próximo fim de semana (18/10) — Lula em São Paulo e no Rio, Flávio na Av. Paulista — às vésperas do primeiro debate do 2º turno, no mesmo domingo.</p>
+  </section>
+
+  <!-- POLÍTICA -->
+  <section class="cat" data-cat="politica">
+    <div class="cat-head"><span class="cat-dot" style="background:var(--cat-politica)"></span><h2>Política &amp; Governo</h2><span class="cat-count">14 matérias</span></div>
+    <div class="card-grid">
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Trabalho</span><span class="time">15/10 · 11h25</span></div>
+        <h3>CUT elogia fim da 6x1 como "vitória maiúscula"; CNI e Fiesp pedem revisão</h3>
+        <p>A central sindical classificou a aprovação da PEC como conquista histórica da classe trabalhadora. Já a CNI, pelo presidente Ricardo Alban, pediu ao Congresso que revise o texto, estimando que a mudança pode elevar os custos de produção em R$ 267,2 bilhões, reduzir o PIB em R$ 76,9 bilhões e pressionar os preços ao consumidor, com alta média de 6,2% — crítica à qual a Fiesp também aderiu, na mesma linha de alerta sobre o impacto da medida na indústria.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/cut-elogia-fim-da-massacrante-6x1-cni-quer-revisar-pec-aprovada" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Política</span><span class="time">14/10 · 22h02</span></div>
+        <h3>Entenda quando a jornada 6x1 deixa de valer</h3>
+        <p>Com a PEC aprovada no Senado, a Agência Brasil detalha o cronograma de transição até a nova jornada entrar em vigor nas empresas.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/fim-da-6x1-saiba-quando-entra-em-vigor-nova-jornada-de-trabalho" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Política</span><span class="time">14/10 · 18h29</span></div>
+        <h3>STF cobra acesso gratuito à Justiça Eleitoral</h3>
+        <p>O tribunal determinou que operadoras garantam acesso gratuito a sites e aplicativos da Justiça Eleitoral, medida pensada para o período decisivo do 2º turno.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/stf-cobra-cumprimento-de-acesso-gratuito-sites-da-justica-eleitoral" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Política</span><span class="time">13/10</span></div>
+        <h3>São Paulo prepara mais de 114 mil urnas</h3>
+        <p>O estado inicia a logística de preparação das urnas eletrônicas que serão usadas na votação do segundo turno.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/estado-de-sp-comeca-preparar-mais-de-114-mil-urnas-para-o-2o-turno" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Política</span><span class="time">14/10</span></div>
+        <h3>Governo regulamenta jogos eletrônicos</h3>
+        <p>O Executivo publicou regras que definem como o Marco Legal dos Jogos Eletrônicos passa a ser aplicado no país.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/conheca-detalhes-da-regulamentacao-dos-jogos-eletronicos-no-brasil" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Política</span><span class="time">14/10 · 22h11</span></div>
+        <h3>Veículos de imprensa publicam editorial pela democracia</h3>
+        <p>Um grupo de veículos independentes assinou um editorial conjunto defendendo a integridade do processo eleitoral em curso.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-editorial-veiculos-independentes-de-imprensa-defendem-democracia" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Segurança pública</span><span class="time">15 a 16/10</span></div>
+        <h3>Debate sobre maioridade penal trava, e depois destrava, a PEC da Segurança</h3>
+        <p>A CNBB se posicionou contra uma eventual redução da idade de responsabilização penal, ponto que dividiu a base do governo — inclusive entre senadores do próprio PT — e levou à retirada da PEC da pauta do Senado na quinta (15/10). Nesta sexta, Davi Alcolumbre anunciou que o texto volta a ser votado assim que houver acordo entre as emendas conflitantes sobre o tema.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/republica/com-debate-no-congresso-cnbb-afirma-ser-contra-reducao-da-maioridade-penal/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Segurança pública</span><span class="time">15/10</span></div>
+        <h3>Alckmin defende maioridade penal de 16 anos para crimes graves</h3>
+        <p>O vice-presidente se posicionou a favor de reduzir a maioridade penal a 16 anos especificamente para crimes graves, somando-se a Lula entre vozes do governo que admitem alguma redução pontual, mesmo com a resistência de parte da base e da CNBB.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/republica/alckmin-defende-maioridade-penal-de-16-anos-para-crimes-graves/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Eleições</span><span class="time">Esta semana</span></div>
+        <h3>Temer sinaliza apoio a Flávio Bolsonaro</h3>
+        <p>O ex-presidente teria demonstrado simpatia pela candidatura de Flávio Bolsonaro no 2º turno, gesto que alimentou especulações sobre articulações políticas entre os dois campos.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/republica/michel-temer-sinaliza-apoio-a-flavio-bolsonaro-e-gera-especulacoes-de-acordos/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Eleições</span><span class="time">Esta semana</span></div>
+        <h3>Apoio de Temer inflama debate sobre negociação política "fora dos autos"</h3>
+        <p>A sinalização de apoio do ex-presidente a Flávio reabriu a discussão pública sobre até que ponto articulações desse tipo equivaleriam a negociações informais entre campos políticos, tema que ganhou repercussão na imprensa nos dias seguintes ao gesto.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/republica/por-que-apoio-de-temer-a-flavio-inflama-debate-sobre-negociacao-fora-dos-autos/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Institucional</span><span class="time">15/10</span></div>
+        <h3>Rodrigo Pacheco toma posse como ministro do TCU</h3>
+        <p>O ex-presidente do Senado assumiu uma cadeira no Tribunal de Contas da União, órgão que neste momento também mapeia riscos fiscais para a análise das contas do governo Lula referentes a 2026.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/rodrigo-pacheco-toma-posse-como-ministro-do-tcu/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Governo</span><span class="time">15/10 · 11h30</span></div>
+        <h3>Governo lança "Rouanet Games" em aceno a eleitorado jovem</h3>
+        <p>Ao assinar o decreto que regulamenta o Marco Legal dos Jogos Eletrônicos, o Executivo passou a permitir que projetos de games capacitem recursos pela Lei Rouanet, além de abrir linhas de até R$ 200 milhões via Finep e R$ 100 milhões pela Lei do Audiovisual — medidas lidas como aceno de Lula ao público jovem após o resultado do 1º turno.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/republica/governo-anuncia-rouanet-games-em-aceno-de-lula-a-eleitorado-jovem/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Regulação</span><span class="time">Esta semana</span></div>
+        <h3>Governo pede fiscalização de seis jogos eletrônicos por semelhança com bets</h3>
+        <p>Dias depois de regulamentar o Marco Legal dos Jogos Eletrônicos e abrir crédito ao setor, o Executivo pediu que órgãos de defesa do consumidor avaliem seis jogos que, segundo o governo, teriam mecânicas parecidas com apostas de quota fixa — medida que busca separar o incentivo a games do combate às bets.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/vida-e-cidadania/governo-fiscalizacao-seis-jogos-eletronicos-semelhanca-bets/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="politica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-politica)">Partidos</span><span class="time">15/10</span></div>
+        <h3>União Brasil tem dois presidentes de diretórios presos em um mês</h3>
+        <p>Por ordem do ministro Alexandre de Moraes, a PF prendeu em 15/10, na 8ª fase da Operação Unha e Carne, o deputado estadual eleito e presidente do diretório fluminense Márcio Canella — apontado como articulador político de um esquema de lavagem via postos de combustível que teria movido R$ 7,6 bi — além do ex-secretário de Polícia Civil do Rio Marcus Amim e quatro inspetores; Milton Leite, líder do diretório municipal de SP, já havia se entregado em 18/9 na Operação Vectura Corrupta, por suposta ligação com o PCC — ambos negam as acusações.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/uniao-br-dois-presidentes-diretorios-presos/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- ECONOMIA -->
+  <section class="cat" data-cat="economia">
+    <div class="cat-head"><span class="cat-dot" style="background:var(--cat-economia)"></span><h2>Economia</h2><span class="cat-count">34 matérias</span></div>
+    <div class="card-grid">
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">STF</span><span class="time">14/10 · 08h09</span></div>
+        <h3>Zanin é sorteado relator de ação por preço mínimo mais alto do cigarro</h3>
+        <p>O ministro do STF ficou responsável por uma ação que pede elevação do preço mínimo do cigarro no país, tema com impacto tanto na saúde pública quanto na arrecadação tributária do setor.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/economia/zanin-e-sorteado-relator-de-acao-que-pede-aumento-no-preco-minimo-do-cigarro/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Clima</span><span class="time">14/10</span></div>
+        <h3>El Niño mais forte ameaça elevar custo de vida no país</h3>
+        <p>A intensificação do fenômeno climático deve pressionar a produção agrícola e os preços de alimentos e energia, somando-se a outros fatores que já vêm empurrando a inflação para cima em 2026.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/economia/intensificacao-do-el-nino-ameaca-aumentar-o-custo-de-vida-dos-brasileiros/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Economia</span><span class="time">13/10 · 18h57</span></div>
+        <h3>Dólar volta a fechar acima de R$ 5</h3>
+        <p>A moeda americana subiu 0,74% na véspera, revertendo parte do recuo das sessões anteriores.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-074-e-volta-fechar-acima-de-r-5" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Economia</span><span class="time">13/10 · 15h11</span></div>
+        <h3>FMI projeta PIB de 2,2% para o Brasil em 2026</h3>
+        <p>O Fundo Monetário Internacional revisou suas estimativas, mantendo o país entre os de crescimento moderado na região.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/fmi-preve-crescimento-de-22-do-pib-do-brasil-em-2026" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Economia</span><span class="time">13/10 · 11h28</span></div>
+        <h3>Mercado eleva previsão de inflação para 5,22%</h3>
+        <p>Analistas consultados pelo Banco Central revisaram para cima a expectativa de inflação para o fim de 2026.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/mercado-eleva-previsao-da-inflacao-para-522-em-2026" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Economia</span><span class="time">13/10 · 12h46</span></div>
+        <h3>Governo perdoa dívidas e lança pacote para MEIs</h3>
+        <p>O pacote de estímulo para microempreendedores individuais deve ter impacto fiscal estimado em R$ 3 bilhões, segundo a equipe econômica.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/perdao-de-dividas-de-meis-tera-impacto-de-r-3-bilhoes" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Economia</span><span class="time">13/10</span></div>
+        <h3>Confiança da indústria sobe em outubro, mas setor segue pessimista</h3>
+        <p>O ICEI da CNI subiu 1,3 ponto, para 46,2 — ainda abaixo da linha dos 50 pontos que separa otimismo de pessimismo pelo 22º mês seguido. O sub-índice de condições atuais, porém, caiu e chegou ao menor nível desde julho de 2020, puxado para baixo pela demanda fraca.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/confianca-da-industria-sobe-em-outubro-mas-setor-segue-pessimista" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Mercado</span><span class="time">15/10</span></div>
+        <h3>Dólar fecha a R$ 5,087 e Ibovespa cai 1,06% em dia de cautela</h3>
+        <p>A moeda americana subiu 1,15% na sessão de quinta-feira, e o Ibovespa recuou para 204.324 pontos, intensificando as perdas na última hora de negociação. Analistas atribuíram a cautela ao cenário eleitoral apertado e a possíveis medidas econômicas do governo, entre elas a PEC de tarifa zero no transporte aos fins de semana anunciada por Lula.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-115-e-fecha-r-509-em-dia-de-cautela" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Agropecuária</span><span class="time">15/10</span></div>
+        <h3>IBGE estima safra de grãos recorde em 2026: 354,5 milhões de toneladas</h3>
+        <p>A produção de cereais, leguminosas e oleaginosas deve crescer 2,4% sobre 2025, puxada pela soja (175 milhões de toneladas, alta de 5,4%) e pelo milho (143,3 milhões de toneladas). Já a produção de arroz deve cair 11,4% e a de trigo, 24%, com área plantada total 2% maior que no ano anterior.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ibge-estima-safra-de-graos-recorde-em-2026-3545-milhoes-de-toneladas" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Fiscal</span><span class="time">Esta semana</span></div>
+        <h3>Lula descarta corte de gastos e aposta em crescimento</h3>
+        <p>No debate sobre a dívida pública, o presidente defendeu que o crescimento da economia, e não um ajuste fiscal, é o caminho para equilibrar as contas do país.</p>
+        <div class="src"><a href="https://poder360.com.br/poder-eleicoes-2026/lula-defende-crescimento-contra-divida-e-descarta-corte-de-gastos" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Mercado</span><span class="time">Esta semana</span></div>
+        <h3>Perspectiva de vitória de Flávio atrai capital estrangeiro à B3</h3>
+        <p>Investidores estrangeiros injetaram cerca de R$ 13,1 bilhões na Bolsa brasileira em outubro, movimento que analistas associam à expectativa de um governo mais alinhado ao mercado.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/economia/capital-estrangeiro-b3-outubro/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Fiscal</span><span class="time">15/10</span></div>
+        <h3>TCU mapeia 30 riscos fiscais nas contas de Lula</h3>
+        <p>Levantamento aprovado pelo plenário do tribunal, relatado por Antonio Anastasia, lista riscos em cinco frentes — renúncias tributárias, despesas obrigatórias continuadas, Receita Corrente Líquida, relatórios de gestão fiscal e sistemas de controle — que vão orientar a fiscalização das contas de 2026, a ser analisada em 2027.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/tcu-mapeia-30-riscos-fiscais-contas-de-lula/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Estatais</span><span class="time">14/10</span></div>
+        <h3>TCU aponta falhas de gestão e de transparência na Casa da Moeda</h3>
+        <p>Auditoria identificou atividades deficitárias, concentração de inadimplência em poucos devedores, falhas em processos judiciais e ausência de editais em três leilões analisados. O tribunal deu 60 dias para a estatal apresentar plano de ação, sem apontar desvio de recursos.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/economia/tcu-falhas-gestao-dividas-contratos-casa-da-moeda/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Trabalho</span><span class="time">15/10</span></div>
+        <h3>CNM estima custo de R$ 6,6 bi/ano às prefeituras com o fim da 6x1</h3>
+        <p>Pesquisa da Confederação Nacional de Municípios, que ouviu 2,1 mil cidades (38,6% do total), projeta R$ 5,14 bi por ano com contratos terceirizados e R$ 1,49 bi com novos servidores — bem abaixo da estimativa de R$ 34,5 bi feita dias antes pela Finance Consultoria para a Frente Nacional dos Prefeitos, que usou outra metodologia.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/economia/prefeituras-custo-extra-5-bi-terceirizados-fim-da-escala-6x1/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Trabalho</span><span class="time">15/10</span></div>
+        <h3>Abrasel chama fim da 6x1 de "tragédia socioeconômica"</h3>
+        <p>A entidade do setor de bares e restaurantes estima alta de 20% nos custos com mão de obra, repasse aos preços e risco de pressão sobre inflação, juros e consumo.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/abrasel-fim-6x1-tragedia-socioeconomica/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Fintech</span><span class="time">Esta semana</span></div>
+        <h3>Cade aprova joint venture de Visa e Mastercard para stablecoin</h3>
+        <p>O órgão liberou sem ressalvas a Open Standard — união de Visa, Mastercard, Coinbase, Stripe e Shopify para criar a stablecoin Open USD, que não estará disponível no Brasil nesta primeira etapa.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/visa-mastercard-aval-cade-stablecoin/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Orçamento</span><span class="time">Esta semana</span></div>
+        <h3>Lula quer remanejar R$ 884,5 milhões do Orçamento</h3>
+        <p>O Executivo enviou ao Congresso 8 projetos para realocar verbas, com destaque para Angra 3 (R$ 290,1 milhões), Roraima (R$ 115 milhões) e R$ 420,8 milhões entre ministérios e operações financeiras.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/lula-quer-remanejar-r-8845-mi-do-orcamento/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Moradia</span><span class="time">Esta semana</span></div>
+        <h3>Aluguel sobe quase o dobro da inflação em 2026</h3>
+        <p>Pelo FipeZap, os aluguéis anunciados subiram 7,11% entre janeiro e setembro, contra 3,95% do IPCA no mesmo período — cerca de 1,8 vez a alta dos preços.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/aluguel-sobe-quase-dobro-inflacao-2026/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Publicidade</span><span class="time">Esta semana</span></div>
+        <h3>Globo mais que triplica ganhos com publicidade federal</h3>
+        <p>Dados da Secom levantados pela Veja mostram R$ 274,4 milhões pagos à emissora entre janeiro de 2023 e outubro de 2026 — alta de 228% frente aos quatro anos do governo Bolsonaro.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/globo-triplica-ganhos-publicidade-lula/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Indicador</span><span class="time">Esta semana</span></div>
+        <h3>Vulnerabilidade financeira das famílias sobe em 22 estados</h3>
+        <p>O Índice de Vulnerabilidade Financeira da FGV Ibre aumentou em 22 das 27 unidades da federação (81% do total) na comparação entre o 1º e o 2º trimestre de 2026.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/vulnerabilidade-financeira-familias-aumenta/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Inflação</span><span class="time">09/10</span></div>
+        <h3>IBGE: inflação sobe 0,82% em setembro</h3>
+        <p>O IPCA voltou a subir após recuar 0,32% em agosto; no acumulado do ano chegou a 3,95% e, em 12 meses, a 4,58%.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/ibge-inflacao-sobe-082-em-setembro/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Mercado</span><span class="time">07/10</span></div>
+        <h3>Estrangeiros entram com R$ 10 bi na Bolsa após 1º turno</h3>
+        <p>No primeiro pregão após a vitória de Flávio no 1º turno, o Ibovespa subiu 7,7% com a entrada de capital estrangeiro; bancos como J.P. Morgan e Morgan Stanley passaram a ver as ações do país com mais otimismo.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/investidores-estrangeiros-10-bi-bolsa-flavio/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Mercado</span><span class="time">06/10</span></div>
+        <h3>Bolsa bate recorde e dólar tem maior queda diária em 8 anos</h3>
+        <p>O Ibovespa subiu 7,70% e o dólar caiu 4,12%, para R$ 5,001, no pregão seguinte à liderança de Flávio no 1º turno — movimento ligado à aposta em mais disciplina fiscal.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/mercado-reage-a-vitoria-de-flavio-no-1o-turno/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Juros</span><span class="time">06/10</span></div>
+        <h3>Juros futuros despencam após liderança de Flávio</h3>
+        <p>Contratos futuros caíram até 97 pontos-base com a expectativa de menor risco fiscal e espaço para novos cortes da Selic sob um eventual governo Flávio.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/juros-futuros-despencam-apos-lideranca-de-flavio/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Regulação</span><span class="time">02/10</span></div>
+        <h3>BC bloqueia Pix, TED e boleto para depósitos em bets</h3>
+        <p>As Resoluções 595 a 597 regulamentam a MP 1.394, que proibiu a exploração e publicidade de apostas de quota fixa; os sistemas continuam liberados só para devolver valores aos apostadores.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/bc-bloqueia-pix-ted-e-boleto-para-bets/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Aviação</span><span class="time">14/10 · 17h07</span></div>
+        <h3>Gol suspende 6 rotas internacionais por alta do querosene</h3>
+        <p>A companhia aérea cancelou seis rotas internacionais em resposta à disparada do preço do combustível de aviação, movimento que se soma a outros ajustes do setor diante da alta de custos no período.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-infra/gol-suspende-6-rotas-internacionais-por-alta-do-querosene-de-aviacao/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Meio ambiente</span><span class="time">15/10 · 09h57</span></div>
+        <h3>MapBiomas: desmatamento na Amazônia é o menor em 41 anos</h3>
+        <p>Levantamento da rede MapBiomas apontou 693 mil hectares desmatados no bioma em 2025, o menor volume da série histórica iniciada em 1985. Mesmo assim, o estudo mostra que a área humanizada na Amazônia já soma 74,6 milhões de hectares, boa parte ocupada por pastagem.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/mapbiomas-amazonia-registra-menor-nivel-de-desmatamento-em-41-anos" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Varejo</span><span class="time">15/10</span></div>
+        <h3>Vendas do varejo sobem só 0,1% em agosto</h3>
+        <p>Dados do IBGE mostram leve alta nas vendas após queda de 0,8% em julho; no varejo ampliado, que inclui veículos e materiais de construção, houve recuo de 0,2% no mês, com destaque negativo para móveis e eletrodomésticos.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/vendas-no-comercio-varejista-tem-variacao-de-01-em-agosto" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Mercado</span><span class="time">16/10</span></div>
+        <h3>Petrobras chega a R$ 800 bi em valor de mercado, recorde histórico</h3>
+        <p>A estatal atingiu a maior capitalização de mercado de sua história, em meio à valorização recente de ações ligadas a commodities e ao movimento mais amplo de alta da Bolsa brasileira no período pré-2º turno.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/economia/petrobras-800-bilhoes-valor-de-mercado-bate-recorde-historico/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">TCU</span><span class="time">16/10</span></div>
+        <h3>TCU manda INSS revisar 101 mil benefícios do seguro-defeso de 2024</h3>
+        <p>A auditoria encontrou 56.827 benefícios com inconsistências de CPF e 44.421 com indícios de descumprimento de requisitos, como vínculo formal de emprego ativo, somando cerca de R$ 654 milhões já pagos; o tribunal estima um potencial máximo de até R$ 3,06 bi em pagamentos irregulares, mas ressalva que isso não comprova que todos os casos foram indevidos.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-economia/tcu-identifica-gasto-irregular-de-r-654-milhoes-com-seguro-defeso/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">FMI</span><span class="time">15/10 · 21h58</span></div>
+        <h3>FMI projeta Brasil de volta à 8ª maior economia do mundo em 2027</h3>
+        <p>Segundo o Fundo Monetário Internacional, o país deve fechar 2026 na 10ª posição, com PIB nominal estimado em US$ 2,655 trilhões, e subir para 8º lugar em 2027, com cerca de US$ 2,8 trilhões — na frente de Itália e Rússia —, mantendo essa posição projetada até 2031.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-economia/brasil-deve-voltar-a-ser-a-8a-maior-economia-do-mundo-em-2027-diz-fmi/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Atividade</span><span class="time">16/10</span></div>
+        <h3>Prévia do PIB sobe 0,3% em agosto, diz Banco Central</h3>
+        <p>O Índice de Atividade Econômica do Banco Central (IBC-Br), usado como termômetro antecedente do PIB, registrou alta de 0,3% em agosto, indicando certa resiliência da economia mesmo em meio às incertezas do período eleitoral.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-economia/previa-do-pib-sobe-03-em-agosto-de-2026-diz-bc/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Educação</span><span class="time">15/10 · 21h18</span></div>
+        <h3>Fim da 6x1 pode elevar mensalidades escolares em até 23%</h3>
+        <p>Reportagem sobre o impacto da nova jornada de trabalho no setor de educação privada estima repasse de custos às famílias de até 23% nas mensalidades, à medida que escolas recalculam escalas de professores e funcionários sob o novo regime.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-educacao/fim-da-6-x-1-pode-elevar-mensalidades-escolares-em-ate-23/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="economia">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-economia)">Fiscal</span><span class="time">Esta semana</span></div>
+        <h3>Economistas alertam que corte amplo de gastos afetaria área social</h3>
+        <p>Avaliando propostas como o corte de até R$ 300 bi em despesas estudado pela equipe de Flávio, economistas consultados pela imprensa apontam que um ajuste fiscal muito amplo tende a atingir também programas sociais, e não apenas despesas administrativas.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/corte-amplo-de-gastos-publicos-afetaria-area-social-dizem-economistas" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+    </div>
+    <p class="context-note"><strong>Contexto fiscal:</strong> a dívida pública bruta do governo geral gira em torno de 80% do PIB, e o mercado já elevou a projeção de déficit primário de 2026 para R$ 53,05 bilhões, segundo o boletim Prisma Fiscal — pano de fundo que explica por que medidas como o perdão de dívidas de MEIs e a revisão da PEC do 6x1 geram debate sobre impacto fiscal.</p>
+  </section>
+
+  <!-- JUSTIÇA / STF -->
+  <section class="cat" data-cat="justica">
+    <div class="cat-head"><span class="cat-dot" style="background:var(--cat-justica)"></span><h2>Justiça &amp; STF</h2><span class="cat-count">39 matérias</span></div>
+    <div class="card-grid">
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">STF/TSE</span><span class="time">14/10 · 15h35</span></div>
+        <h3>Zanin dá 48h para Anatel explicar falhas no acesso a serviços do TSE</h3>
+        <p>O ministro do STF determinou que a agência reguladora esclareça, em até 48 horas, falhas no acesso gratuito a sites e aplicativos da Justiça Eleitoral — cobrança que se soma à decisão do tribunal exigindo das operadoras o cumprimento dessa gratuidade no período decisivo do 2º turno.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/zanin-da-48h-para-anatel-explicar-falhas-no-acesso-a-servicos-do-tse/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">STF/TSE</span><span class="time">13/10 · 21h43</span></div>
+        <h3>TSE mantém veto a posts sobre crime organizado</h3>
+        <p>A corte eleitoral confirmou a proibição de publicações que associam Lula e Flávio Bolsonaro a facções criminosas.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-mantem-veto-posts-que-ligam-lula-e-flavio-ao-crime-organizado" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">STF/TSE</span><span class="time">13/10 · 11h58</span></div>
+        <h3>Vaivém do canal "Exército de Lula" no TSE</h3>
+        <p>O ministro Kassio Nunes Marques determinou a suspensão do canal de campanha por falta de registro; horas depois, o próprio ministro autorizou a reativação, após a campanha regularizar o cadastro exigido.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-kassio-autoriza-reativacao-do-canal-exercito-do-lula" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">Inquéritos</span><span class="time">13/10 · 19h05</span></div>
+        <h3>Operação Master: Fachin trata com a PF de citações a ministros</h3>
+        <p>O ministro do STF se reuniu com a Polícia Federal para discutir como conduzir referências a integrantes do tribunal que surgiram no inquérito.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/master-fachin-se-reune-com-pf-para-tratar-de-citacoes-ministros" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">Inquéritos</span><span class="time">14/10 · 09h46</span></div>
+        <h3>PGR se opõe ao afastamento do diretor-geral da PF</h3>
+        <p>A Procuradoria-Geral da República se manifestou contra a proposta de remoção de Andrei Rodrigues do comando da Polícia Federal.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/pgr-se-manifesta-contra-afastamento-de-diretor-geral-da-pf" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">14/10</span></div>
+        <h3>Campanhas trocam acusações no TSE</h3>
+        <p>A campanha de Flávio processou artistas e parlamentares por publicações contrárias; a de Lula recorreu à Justiça após a IA da Meta restringir buscas sobre o candidato.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/campanha-de-flavio-aciona-tse-contra-posts-de-artistas-e-deputados" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">15/10 · 20h26</span></div>
+        <h3>Bellizze determina isonomia da IA da Meta entre Lula e Flávio, sob multa de R$ 500 mil/dia</h3>
+        <p>Depois de a campanha de Lula apontar que a IA da Meta recusava gerar imagens com "Lula 13" mas liberava "Flávio 22", o ministro do TSE Marco Aurélio Bellizze determinou que a empresa trate as duas campanhas de forma igual — sem reduzir distribuição, bloquear recomendações ou restringir buscas sobre qualquer candidato —, com multa diária de R$ 500 mil em caso de descumprimento. Ele citou a proximidade do 2º turno (25/10) e o início, em 22/10, da vedação a novos conteúdos sintéticos na propaganda eleitoral.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-determina-isonomia-apos-ia-da-meta-barrar-imagens-de-lula" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">16/10 · 08h10</span></div>
+        <h3>Mendonça suspende propaganda de Lula com IA sobre milícias</h3>
+        <p>O ministro André Mendonça suspendeu peça do horário eleitoral da campanha de reeleição de Lula, exibida em 13/10, que associava relatos de extorsão e violência de milicianos a um discurso antigo de Flávio na Alerj, em 2007 — a pedido da campanha de Flávio, que pode cobrar multa de R$ 10 mil por nova exibição. Para o ministro, a peça atribuiu a Flávio, sem provas, uma acusação factual grave de vínculo com organizações criminosas, excedendo a crítica política; ele lembrou que o TSE já havia suspendido, por critério semelhante, uma propaganda de Flávio que associava Lula ao crime organizado.</p>
+        <div class="src"><a href="https://revistaoeste.com/politica/andre-mendonca-suspende-propaganda-de-lula-que-liga-flavio-a-milicias/" target="_blank" rel="noopener">Revista Oeste</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">15/10 · 08h24</span></div>
+        <h3>Justiça Eleitoral abre inquérito contra deputada eleita do PT a pedido de Flávio</h3>
+        <p>A pedido da campanha de Flávio, a Justiça Eleitoral de Minas Gerais determinou que a Polícia Federal apure posts da deputada eleita Ana Elisa (PT-MG) que associaram apoiadores de Flávio a uma proposta de retirar Nossa Senhora Aparecida do posto de padroeira do Brasil — pedido ligado a uma notícia falsa já desmentida, cuja origem é um projeto de lei arquivado de outro parlamentar, sem relação com Flávio. O juiz determinou a preservação dos posts, mas negou o pedido da campanha de proibir novas publicações da deputada, por considerá-lo genérico.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/justica-abre-investigacao-contra-ana-elisa-apos-acao-de-flavio/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">STF</span><span class="time">Esta semana</span></div>
+        <h3>Senadores eleitos debatem impeachment de ministros do STF</h3>
+        <p>Levantamentos da imprensa mostram que um grupo expressivo de senadores eleitos já declarou apoio à abertura de processos de impeachment contra ministros do STF a partir da legislatura que começa em 2027.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/eleicoes/2026/eles-se-comprometeram-com-impeachment-de-ministros-stf/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">15/10 · 09h20</span></div>
+        <h3>Mendonça suspende julgamento que pode derrubar sua própria decisão</h3>
+        <p>O ministro interrompeu a análise de um caso ligado a um vídeo da campanha de Lula depois que se formou, entre os demais ministros do TSE, maioria contrária a uma decisão que ele próprio havia tomado; o caso deve ir ao plenário físico da corte.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/mendonca-interrompe-julgamento-que-tem-maioria-para-derrubar-sua-decisao/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">Esta semana</span></div>
+        <h3>Rui Falcão (PT) pede afastamento de Nunes Marques do TSE</h3>
+        <p>O deputado petista protocolou pedido no STF para que o presidente do TSE seja afastado da Justiça Eleitoral, alegando parcialidade, em mais um capítulo de atritos entre a corte e as campanhas.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/eleicoes/2026/deputado-petista-pede-que-stf-afaste-nunes-marques-do-tse/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">15 a 16/10</span></div>
+        <h3>Corregedor do TSE nega pedido de Flávio contra sindicatos de Lula</h3>
+        <p>A campanha de Flávio havia pedido que a Justiça Eleitoral apurasse a atuação de sindicatos favoráveis a Lula e avaliasse a cassação da candidatura do presidente; na manhã desta sexta, o corregedor do TSE negou as medidas pedidas contra o suposto uso dos sindicatos na campanha petista.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/corregedor-do-tse-nega-medidas-contra-possivel-uso-de-sindicatos-na-campanha-de-lula/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">15/10</span></div>
+        <h3>TSE manda Flávio e aliados apagarem vídeo sobre ato pró-Lula</h3>
+        <p>O ministro Marco Aurélio Bellizze determinou que Flávio, Carlos Bolsonaro, Pablo Marçal e Rony Gabriel removam em 24h um vídeo, publicado por eles, que associava uma cena de consumo de pó branco ao ato de apoio a Lula na Av. Paulista. A imagem já circulava antes do ato e, segundo o ministro, foi usada fora de contexto.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/tse-manda-flavio-apagar-video-sobre-ato-pro-lula/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">15/10</span></div>
+        <h3>TSE forma maioria para remover fake news sobre Flávio e Nossa Senhora</h3>
+        <p>A corte manteve a ordem de retirada de posts que atribuem falsamente a Flávio Bolsonaro uma proposta de retirar Nossa Senhora Aparecida do posto de padroeira do Brasil. Mendonça preservou, à parte, uma publicação de humor de Antonio Tabet, por considerar haver dúvida razoável sobre seu caráter de piada.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/tse-forma-maioria-para-remover-fake-news-contra-flavio-sobre-nossa-senhora/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">STF</span><span class="time">15/10</span></div>
+        <h3>Flávio pede suspeição do ministro Dino por relação com Lula</h3>
+        <p>A defesa do senador argumenta que a relação política de décadas entre Flávio Dino e Lula compromete a imparcialidade do ministro em processos no STF que envolvem o presidente, a eleição e o próprio candidato do PL.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/flavio-pede-suspeicao-dino-por-relacao-lula/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">STF</span><span class="time">15/10</span></div>
+        <h3>Gilmar Mendes critica "vazamentos seletivos" em homenagem a Fachin</h3>
+        <p>Em discurso pelo 1º ano de Fachin na presidência do STF, Gilmar criticou vazamentos seletivos e o uso político-eleitoral de investigações, lembrando que isso não ocorria nos gabinetes durante a Lava Jato — fala que ganhou destaque em meio às tensões na Corte sobre o caso Banco Master.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/gilmar-critica-vazamentos-seletivos-a-fachin/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">15/10</span></div>
+        <h3>Flávio alega que Janones apagou 499 mensagens do canal petista</h3>
+        <p>A campanha de Flávio diz que a exclusão de conteúdos do canal "Exército do Lula" no WhatsApp dificultou a análise que poderia justificar sua suspensão; o corregedor do TSE já reativou o canal provisoriamente, e o caso aguarda decisão do plenário.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/campanha-de-flavio-diz-que-janones-apagou-499-mensagens/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">Eleitoral</span><span class="time">Esta semana</span></div>
+        <h3>Justiça proíbe servidor da Secom de Lula de postar sobre a eleição</h3>
+        <p>A Justiça Eleitoral do DF baniu, até o fim do pleito, publicações político-eleitorais de George Marques da Silva e Silva, da Secom, após ele republicar uma acusação falsa contra Flávio mesmo depois de retratação.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/justica-proibe-secom-de-lula-postar-eleicao/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">Eleitoral</span><span class="time">Esta semana</span></div>
+        <h3>MPF apura divulgação de plataforma de voto por Huck e pela Globo</h3>
+        <p>O MPF-RS investiga se houve infração eleitoral na divulgação da plataforma TemMeuVoto no Domingão com Huck, a partir de representação da deputada Fernanda Melchionna (PSOL-RS).</p>
+        <div class="src"><a href="https://claudiodantas.com.br/mpf-apura-divulgacao-de-plataforma-por-huck-e-globo/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">Banco Master</span><span class="time">Esta semana</span></div>
+        <h3>Áudio de sócio de Vorcaro liga Moraes a ex-banqueiro do Master</h3>
+        <p>Segundo áudios atribuídos ao cunhado e operador financeiro de Daniel Vorcaro, divulgados pela revista <em>piauí</em>, Moraes seria próximo do ex-banqueiro — alegação ainda não confirmada, que se soma a mensagens sobre um almoço de 2023 e um contrato entre o Master e o escritório da mulher do ministro.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/xandao-melhor-amigo-daniel-diz-socio-vorcaro/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">Banco Master</span><span class="time">15/10</span></div>
+        <h3>Globo demite executivo após mensagens associá-lo a banqueiro do Master</h3>
+        <p>O Grupo Globo desligou Frederic Kachar depois que mensagens reveladas indicaram uma relação dele com um banqueiro ligado ao caso Banco Master — mais um desdobramento corporativo da investigação sobre Daniel Vorcaro.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/republica/grupo-globo-demite-frederic-kachar-apos-mensagens-revelarem-relacao-com-banqueiro/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">STF</span><span class="time">15/10</span></div>
+        <h3>STF livra bancos de cobrança estimada em R$ 850 milhões</h3>
+        <p>A Corte decidiu a favor das instituições financeiras em ação sobre expurgos inflacionários, afastando uma cobrança que chegaria a R$ 850 milhões.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/economia/stf-livra-bancos-de-cobranca-estimada-em-860-milhoes/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TCU</span><span class="time">Esta semana</span></div>
+        <h3>Deputado aciona TCU por suposto uso da embaixada para ajudar Lulinha</h3>
+        <p>Sanderson (PL-RS) pede Tomada de Contas Especial para apurar se a embaixada brasileira em Madri cedeu pessoal e estrutura em benefício da família de Lula — suspeita apresentada pelo parlamentar, ainda não apurada.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/deputado-aciona-tcu-por-uso-embaixada-lulinha/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">Itamaraty</span><span class="time">Esta semana</span></div>
+        <h3>Embaixada em Madri teria ajudado na mudança de Lulinha</h3>
+        <p>Mensagens da lobista Roberta Luchsinger indicam que o então embaixador ofereceu apoio à mudança da família de Lulinha para Madri, com orientações sobre escolas; o Itamaraty confirma a ajuda do setor educacional, mas nega ter cedido veículo da embaixada.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/embaixada-em-madri-ajudou-mudanca-de-lulinha/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">Esta semana</span></div>
+        <h3>TSE manda Nikolas retirar post que distorceu fala de Lula</h3>
+        <p>A corte determinou a remoção de uma publicação que associou indevidamente, a conteúdo sobre crianças, uma fala de Lula que tratava, na realidade, de prevenção e exames de câncer de próstata.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/tse-manda-nikolas-retirar-publicacao-sobre-fala-de-lula/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">Esta semana</span></div>
+        <h3>TSE recusa 15 entidades estrangeiras como observadoras da eleição</h3>
+        <p>Entre os pedidos negados estão o Foro Madrid (ligado ao Vox espanhol), a portuguesa ADN, a argentina Transparencia Electoral e o Eurolat Global Democracy Forum.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/tse-entidades-conservadoras-observadoras/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">13/10 · 20h35</span></div>
+        <h3>Kassio reúne campanhas de Lula e Flávio para reduzir judicialização</h3>
+        <p>O presidente do TSE, Kassio Nunes Marques, reuniu representantes das duas campanhas depois que o número de ações na corte superou em mais de 200% o registrado nas eleições de 2022. O PT disse apoiar a redução de processos, desde que haja tratamento igual às duas chapas.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-reune-campanhas-de-lula-e-flavio-e-alerta-para-alta-de-acoes" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">14/10</span></div>
+        <h3>Entidade de servidores diz que remoção de posts por ordem do TSE é censura</h3>
+        <p>Depois de uma queixa da campanha de Flávio, a Justiça Eleitoral mandou remover publicações do Fórum das Entidades Nacionais dos Servidores Públicos Federais sobre o governo Bolsonaro, por considerá-las propaganda irregular. A entidade nega irregularidade e recorre da decisão.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/eleicoes-forum-de-servidores-publicos-denuncia-censura-na-internet" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">Eleitoral</span><span class="time">15/10 · 11h27</span></div>
+        <h3>Coligação de Ciro Gomes pede cassação da chapa de Elmano no Ceará</h3>
+        <p>A campanha derrotada no 1º turno aciona o TRE-CE alegando desequilíbrio no tempo de propaganda favorável ao governador reeleito Elmano de Freitas (PT), e pede a anulação da eleição estadual e nova votação. A campanha de Elmano nega irregularidade.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/eleicoes/2026/ceara/coligacao-de-ciro-gomes-pede-cassacao-de-elmano-e-novas-eleicoes-no-ceara/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TCU</span><span class="time">13/10</span></div>
+        <h3>TCU suspende julgamento das contas de 2025 do Banco Central</h3>
+        <p>A Segunda Câmara do tribunal atendeu a pedido do Ministério Público de Contas e suspendeu a análise, que seria aprovada com quitação plena pela área técnica, até o trânsito em julgado de um processo que apura possível omissão do BC na fiscalização do Banco Master antes da liquidação extrajudicial da instituição, em novembro de 2025.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-justica/tcu-suspende-julgamento-de-contas-do-bc-ate-apuracao-sobre-master/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">14/10 · 22h49</span></div>
+        <h3>MPF apura retirada de posts e perfis de campanha pelo X e pela Meta</h3>
+        <p>O órgão abriu apuração para entender critérios usados pelas duas plataformas na remoção de conteúdos e contas ligados à disputa presidencial, em mais um capítulo da discussão sobre moderação de conteúdo e tratamento das candidaturas de Lula e Flávio nas redes sociais.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/mpf-apura-retirada-de-posts-e-perfis-pelo-x-e-pela-meta/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">OAB</span><span class="time">14/10</span></div>
+        <h3>OAB-RJ vence recurso contra plataforma de petições feitas por IA</h3>
+        <p>A seccional obteve decisão na Justiça Federal proibindo a cobrança, pela plataforma Resolve Juizado, de petições iniciais geradas por inteligência artificial sem a participação de um advogado, por R$ 20 cada. A entidade argumenta que o serviço banaliza a atividade jurídica e expõe o cidadão a risco de orientação inadequada.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/oab-rio-ganha-acao-que-proibe-plataforma-de-oferecer-peticoes-com-ia" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">Trabalhista</span><span class="time">16/10</span></div>
+        <h3>TRT-10 homologa acordo: Casas Bahia pagará R$ 7.500 a demitidos</h3>
+        <p>O acordo, negociado pela CNTC após demissões em massa feitas pela rede em agosto, sem negociação prévia, logo depois do pedido de recuperação judicial, beneficia mais de 4.000 trabalhadores com R$ 7.500 cada — soma que supera R$ 30 milhões, sem contar outras verbas previstas.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-justica/casas-bahia-fecha-acordo-e-pagara-r-7-500-a-cada-trabalhador-demitido/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">Banco Master</span><span class="time">16/10</span></div>
+        <h3>Vorcaro nega fraude de R$ 12 bi no BRB em novo depoimento à PF</h3>
+        <p>Preso preventivamente na Papuda, em Brasília, o fundador do Banco Master chamou as acusações de "narrativa fantasiosa de fraude e prejuízo" e disse que as operações entre as instituições foram lícitas. O depoimento se insere na Compliance Zero, operação da PF sobre fraudes no Master que já está em sua 9ª fase; Vorcaro classificou a deflagração da ação como "açodada".</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-justica/em-depoimento-vorcaro-chama-fraude-no-brb-de-narrativa-fantasiosa/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">14/10 · 15h07</span></div>
+        <h3>TSE manda Flávio e Nikolas removerem vídeo com crianças contra Lula</h3>
+        <p>A corte eleitoral determinou a retirada de uma peça publicada por Flávio e por Nikolas Ferreira que usava imagens envolvendo crianças para atacar o presidente, mais um entre os diversos pedidos cruzados de remoção de conteúdo movidos pelas duas campanhas nesta semana.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-ordena-que-flavio-e-nikolas-removam-video-de-criancas-contra-lula" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">Bets</span><span class="time">14/10</span></div>
+        <h3>Ações sobre bets aumentam mais de 1.000% na Justiça do Rio</h3>
+        <p>O Tribunal de Justiça do Rio registrou salto de mais de dez vezes no número de processos relacionados a apostas de quota fixa, reflexo do aumento da regulação do setor e das medidas recentes do Banco Central contra pagamentos a casas de apostas.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/acoes-sobre-bets-aumentam-mais-de-1000-na-justica-do-rio" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">STF</span><span class="time">15/10 · 18h23</span></div>
+        <h3>STF declara inconstitucional cobrança do Funrural antes de 2018</h3>
+        <p>A Corte decidiu que a cobrança da contribuição previdenciária rural (Funrural) sobre produtores que não optaram pelo regime antes da lei de 2018 é inconstitucional, em julgamento sobre o tema que já vinha sendo discutido havia anos.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-justica/stf-declara-inconstitucional-cobranca-do-funrural-antes-de-2018/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="justica">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-justica)">TSE</span><span class="time">15/10 · 20h12</span></div>
+        <h3>TSE manda retirar postagem de Flávio sobre possível mesada a Lulinha</h3>
+        <p>A corte eleitoral determinou a remoção de uma publicação da campanha de Flávio que especulava sobre um suposto pagamento mensal da família de Lula ao filho Fernando (Lulinha), por entender haver insuficiência de provas para a acusação veiculada.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-retirar-postagem-de-flavio-sobre-possivel-mesada-a-lulinha/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- CÂMARA -->
+  <section class="cat" data-cat="camara">
+    <div class="cat-head"><span class="cat-dot" style="background:var(--cat-camara)"></span><h2>Câmara dos Deputados</h2><span class="cat-count">5 matérias</span></div>
+    <div class="card-grid">
+      <article class="card" data-cat="camara">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-camara)">Câmara</span><span class="time">14/10 · 19h44</span></div>
+        <h3>Câmara amplia limite do MEI e perdoa dívidas</h3>
+        <p>O plenário aprovou, de forma quase unânime, o novo teto de receita bruta para o MEI, somado a uma anistia de débitos tributários.</p>
+        <div class="src"><a href="https://www.camara.leg.br/noticias/1311288-camara-aprova-novo-limite-de-enquadramento-para-microempreendedor-individual-e-inclui-perdao-de-dividas" target="_blank" rel="noopener">Câmara Notícias</a></div>
+      </article>
+      <article class="card" data-cat="camara">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-camara)">Câmara</span><span class="time">14/10 · 21h29</span></div>
+        <h3>Câmara rejeita novo regime para socorrer bancos</h3>
+        <p>Deputados derrubaram a proposta que criaria um mecanismo específico para liquidar ou socorrer instituições financeiras em dificuldade.</p>
+        <div class="src"><a href="https://www.camara.leg.br/noticias/1311331-camara-rejeita-criacao-de-novo-regime-para-socorrer-ou-liquidar-bancos" target="_blank" rel="noopener">Câmara Notícias</a></div>
+      </article>
+      <article class="card" data-cat="camara">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-camara)">Câmara</span><span class="time">14/10 · 18h20</span></div>
+        <h3>Projeto cria marco regulatório para fintechs</h3>
+        <p>A proposta estabelece regras voltadas ao combate a fraudes e à lavagem de dinheiro no setor de tecnologia financeira.</p>
+        <div class="src"><a href="https://www.camara.leg.br/noticias/1306829-projeto-cria-marco-regulatorio-para-fintechs-com-foco-no-combate-a-fraudes-e-lavagem-de-dinheiro" target="_blank" rel="noopener">Câmara Notícias</a></div>
+      </article>
+      <article class="card" data-cat="camara">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-camara)">Câmara</span><span class="time">14/10</span></div>
+        <h3>60,62% dos deputados foram reeleitos — recorde histórico</h3>
+        <p>O índice é o maior desde a redemocratização, e partidos de centro já confirmaram que vão manter o bloco na próxima legislatura.</p>
+        <div class="src"><a href="https://www.camara.leg.br/noticias/1311223-percentual-de-deputados-federais-reeleitos-chega-a-6062-o-maior-desde-a-redemocratizacao-do-pais" target="_blank" rel="noopener">Câmara Notícias</a></div>
+      </article>
+      <article class="card" data-cat="camara">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-camara)">Saúde</span><span class="time">15/10 · 16h37</span></div>
+        <h3>Câmara aprova uso de exames de saúde privados em unidades do SUS</h3>
+        <p>O plenário aprovou projeto que permite que o paciente leve ao SUS exames já feitos na rede privada, evitando repetição de procedimentos, desde que o laudo atenda aos critérios técnicos exigidos pelo sistema público.</p>
+        <div class="src"><a href="https://www.camara.leg.br/noticias/1311598-camara-aprova-uso-de-exames-de-saude-privados-em-unidades-do-sus" target="_blank" rel="noopener">Câmara Notícias</a></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- SENADO -->
+  <section class="cat" data-cat="senado">
+    <div class="cat-head"><span class="cat-dot" style="background:var(--cat-senado)"></span><h2>Senado</h2><span class="cat-count">9 matérias</span></div>
+    <div class="card-grid">
+      <article class="card" data-cat="senado">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-senado)">Senado</span><span class="time">16/10 · 10h31</span></div>
+        <h3>Davi anuncia que PEC da Segurança volta à pauta após acordo sobre emendas</h3>
+        <p>Depois de tirar o texto da pauta na quinta (15/10) por impasse entre emendas conflitantes sobre maioridade penal — apresentadas por senadores do próprio PT e pela campanha de Flávio —, Alcolumbre disse nesta sexta que a PEC, já aprovada na CCJ, retorna ao plenário assim que os senadores fecharem acordo sobre essas emendas, sem data definida.</p>
+        <div class="src"><a href="https://www12.senado.leg.br/noticias/videos/2026/10/pec-da-seguranca-voltara-a-pauta-apos-acordo-sobre-emendas-anuncia-davi" target="_blank" rel="noopener">Senado Notícias</a></div>
+      </article>
+      <article class="card" data-cat="senado">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-senado)">Senado</span><span class="time">15/10 · 20h32</span></div>
+        <h3>Enamed vira exigência para exercer medicina; só falta sanção</h3>
+        <p>A medida provisória que institui o Enamed, exame nacional de avaliação da formação médica, como condição para o exercício da profissão passou por comissão mista, Câmara e Plenário do Senado no mesmo dia e agora segue apenas para sanção presidencial. A exigência vale para quem ingressou em cursos de medicina a partir de 19 de junho de 2026.</p>
+        <div class="src"><a href="https://www12.senado.leg.br/noticias/materias/2026/10/15/enamed-sera-obrigatorio-para-exercicio-da-medicina-aprova-senado" target="_blank" rel="noopener">Senado Notícias</a></div>
+      </article>
+      <article class="card" data-cat="senado">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-senado)">Senado</span><span class="time">14/10</span></div>
+        <h3>Fim da 6x1 marca a 2ª redução da jornada desde 1943</h3>
+        <p>Davi Alcolumbre conduziu a votação final que aprovou a mudança na jornada de trabalho, descrita por Hugo Motta como um esforço histórico e comparável apenas à criação da CLT.</p>
+        <div class="src"><a href="https://www.cnnbrasil.com.br/politica/fim-da-escala-6x1-marca-2a-reducao-da-jornada-desde-1943-veja-historico/" target="_blank" rel="noopener">CNN Brasil</a></div>
+      </article>
+      <article class="card" data-cat="senado">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-senado)">Senado</span><span class="time">15/10</span></div>
+        <h3>Ampliação do MEI e perdão de dívidas chega ao Senado</h3>
+        <p>Depois de aprovado na Câmara, o projeto que eleva para R$ 140 mil o teto de faturamento do MEI e perdoa débitos tributários passa a tramitar entre os senadores.</p>
+        <div class="src"><a href="https://www12.senado.leg.br/noticias/materias/2026/10/15/projeto-que-amplia-limite-do-mei-e-perdoa-dividas-chega-ao-senado" target="_blank" rel="noopener">Senado Notícias</a></div>
+      </article>
+      <article class="card" data-cat="senado">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-senado)">Comando do Senado</span><span class="time">Esta semana</span></div>
+        <h3>Disputa pela presidência do Senado toca o impeachment no STF</h3>
+        <p>Cotados para comandar a Casa a partir de 2027 já divergem publicamente sobre dar ou não prioridade a pedidos de impeachment contra ministros do STF, tema que ganhou força entre senadores recém-eleitos.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/derrite-rejeita-alcolumbre-e-diz-que-novo-presidente-do-senado-deve-priorizar-impeachment-no-stf/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="senado">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-senado)">Senado</span><span class="time">15/10</span></div>
+        <h3>Alcolumbre confirma promulgação do fim da 6x1 nesta sexta</h3>
+        <p>Depois da aprovação em segundo turno, o presidente do Senado anunciou que a promulgação da mudança na jornada de trabalho — junto da PEC da aposentadoria especial para agentes de saúde — ocorre nesta sexta-feira, dia 16 de outubro, em sessão solene com a presença prevista de Lula e de Hugo Motta.</p>
+        <div class="src"><a href="https://www.cnnbrasil.com.br/politica/alcolumbre-diz-que-pec-sobre-fim-da-6x1-sera-promulgada-nesta-sexta-16/" target="_blank" rel="noopener">CNN Brasil</a></div>
+      </article>
+      <article class="card" data-cat="senado">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-senado)">Oposição</span><span class="time">15/10</span></div>
+        <h3>Marinho acusa Alcolumbre de agir "a serviço do governo"</h3>
+        <p>O senador Rogério Marinho (PL-RN), líder da oposição e coordenador da campanha de Flávio, criticou a retirada da PEC da Segurança da pauta, em meio ao impasse sobre sua própria emenda, que reduziria a maioridade penal para 16 anos (14 em casos graves) — ponto em que o governo queria o texto aprovado sem alterações, para evitar que voltasse à Câmara.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/marinho-acusa-alcolumbre-servico-do-governo/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="senado">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-senado)">Oposição ao STF</span><span class="time">15/10 · 18h44</span></div>
+        <h3>Marcos do Val volta a criticar o STF em discurso no plenário</h3>
+        <p>O senador relatou bloqueio de redes sociais e de salário, uso de tornozeleira eletrônica e multas que atribui a decisões do STF desde os atos de 8 de janeiro de 2023, e disse ter pedido o afastamento do ministro Alexandre de Moraes de processos que o afetam.</p>
+        <div class="src"><a href="https://www12.senado.leg.br/noticias/materias/2026/10/15/marcos-do-val-critica-decisoes-do-stf-e-relata-restricoes-a-seu-mandato" target="_blank" rel="noopener">Senado Notícias</a></div>
+      </article>
+      <article class="card" data-cat="senado">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-senado)">Fiscal</span><span class="time">15/10 · 20h42</span></div>
+        <h3>Congresso analisa crédito extra de R$ 7,5 bi para subsidiar combustíveis</h3>
+        <p>A Medida Provisória 1.395/2026 cobre descontos dados em maio a produtores e importadores de diesel e derivados de petróleo para conter a alta de preços internacionais, usando excesso de arrecadação da União, já que o orçamento da ANP não foi suficiente.</p>
+        <div class="src"><a href="https://www12.senado.leg.br/noticias/audios/2026/10/congresso-analisa-mp-que-destina-r-7-5-bilhoes-para-subsidio-a-combustiveis" target="_blank" rel="noopener">Senado Notícias</a></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- INTERNACIONAL -->
+  <section class="cat" data-cat="intl">
+    <div class="cat-head"><span class="cat-dot" style="background:var(--cat-intl)"></span><h2>Internacional &amp; Geopolítica</h2><span class="cat-count">26 matérias</span></div>
+    <div class="card-grid">
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Internacional</span><span class="time">13/10 · 15h46</span></div>
+        <h3>Política externa divide os presidenciáveis</h3>
+        <p>Lula reforça a aposta no Sul Global como eixo da diplomacia brasileira, enquanto Flávio Bolsonaro defende maior proximidade com Estados Unidos e Israel.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/lula-defende-sul-global-flavio-quer-proximidade-com-eua-e-israel" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Argentina/EUA</span><span class="time">15/10</span></div>
+        <h3>Milei se encontra com Eduardo Bolsonaro nos EUA e critica Lula</h3>
+        <p>O presidente argentino se reuniu com Eduardo Bolsonaro em um evento em Washington do grupo "Liberdade e Democracia" e classificou Lula como "ditador comunista", em mais um gesto de apoio informal à candidatura de Flávio por parte de um chefe de Estado estrangeiro.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/mundo/milei-se-encontra-eduardo-eua-chama-lula-ditador-comunista/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Oriente Médio</span><span class="time">15/10</span></div>
+        <h3>Netanyahu chama Brasil de "pequeno país" e cogita ir à posse de Flávio</h3>
+        <p>Em evento em Jerusalém, o premiê israelense relembrou sua ida à posse de Jair Bolsonaro em 2019 e disse que pode retornar ao país se Flávio for eleito, reforçando o histórico de proximidade de Netanyahu com a família Bolsonaro.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-eleicoes-2026/netanyahu-chama-brasil-de-pequeno-pais-e-considera-ir-a-posse-de-flavio/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Colômbia</span><span class="time">13/10</span></div>
+        <h3>Protestos tomam a Colômbia após decreto de La Espriella</h3>
+        <p>Manifestações se intensificaram depois que o governo colombiano assinou um decreto que criminaliza determinadas formas de protesto social.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/colombia-vive-protestos-contra-o-governo-de-la-espriella" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Ártico</span><span class="time">13/10</span></div>
+        <h3>Trump anuncia exploração de petróleo na Groenlândia</h3>
+        <p>O anúncio americano levou a Dinamarca a declarar que qualquer exploração no território precisa respeitar a legislação dinamarquesa.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/trump-anuncia-exploracao-de-petroleo-e-gas-na-groenlandia" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Economia global</span><span class="time">13/10 · 09h24</span></div>
+        <h3>FMI reduz projeção de crescimento para a América Latina</h3>
+        <p>O fundo revisou para baixo as perspectivas regionais, em contraste com a manutenção de uma estimativa mais favorável para o Brasil isoladamente.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/fmi-reduz-projecoes-de-crescimento-para-america-latina" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">ONU</span><span class="time">14/10 · 09h20</span></div>
+        <h3>ONU aprova declaração sobre cooperação em pandemias</h3>
+        <p>Países-membros firmaram um texto conjunto para fortalecer a cooperação internacional na prevenção de futuras pandemias.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/pandemias-onu-aprova-declaracao-por-mais-cooperacao-entre-paises" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Imprensa internacional</span><span class="time">15/10</span></div>
+        <h3>Imprensa internacional destaca corrida apertada</h3>
+        <p>Agências e jornais internacionais, como Bloomberg e The Washington Post, descrevem a disputa entre Lula e Flávio Bolsonaro como tecnicamente empatada, repercutindo as mesmas pesquisas acompanhadas pela imprensa brasileira.</p>
+        <div class="src"><a href="https://www.bloomberg.com/news/articles/2026-10-15/bolsonaro-lula-in-tight-race-ahead-of-brazil-runoff-poll-shows" target="_blank" rel="noopener">Bloomberg</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Imprensa internacional</span><span class="time">16/10</span></div>
+        <h3>Imprensa estrangeira lê aprovação do fim da 6x1 como vitória de Lula</h3>
+        <p>Parte da cobertura internacional sobre a PEC aprovada no Senado enquadrou a mudança na jornada de trabalho como um ganho político para o presidente na reta final da campanha — leitura que convive com a cobertura, também internacional, de uma corrida tecnicamente empatada.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/imprensa-estrangeira-ve-vitoria-de-lula-em-aprovacao-do-fim-da-6x1" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Venezuela</span><span class="time">16/10</span></div>
+        <h3>Maduro e esposa se declaram inocentes de acusação de tortura</h3>
+        <p>O presidente venezuelano e a primeira-dama, Cilia Flores, negaram as acusações de tortura que respondem no país, em mais um capítulo das tensões políticas e jurídicas que envolvem o governo venezuelano.</p>
+        <div class="src"><a href="https://www.metropoles.com/mundo/maduro-e-esposa-se-declaram-inocentes-de-acusacao-de-torturas-na-venezuela" target="_blank" rel="noopener">Metrópoles</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Brasil</span><span class="time">15/10</span></div>
+        <h3>EUA: "queremos ver eleições livres e transparentes" no Brasil</h3>
+        <p>A porta-voz do Departamento de Estado, Amanda Roberson, respondeu assim a acusações do governo Lula de que Trump tentaria influenciar o 2º turno — acusações feitas sem provas após discurso na ONU.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/eua-queremos-eleicoes-livres-brasil/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Brasil</span><span class="time">Esta semana</span></div>
+        <h3>The Economist diz que a hegemonia do PT no Brasil acabou</h3>
+        <p>Em editorial, a revista descreve o país como "de direita agora" e prevê mais polarização e pressão sobre a democracia brasileira.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/the-economist-diz-que-era-do-pt-acabou/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Brasil</span><span class="time">02/10</span></div>
+        <h3>EUA suspendem atendimento consular na embaixada e consulados no Brasil</h3>
+        <p>A decisão foi justificada por "preocupações com a segurança", sem detalhar qual ameaça motivou a suspensão.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/eua-suspendem-embaixada-consulados-brasil/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">EUA</span><span class="time">01/10</span></div>
+        <h3>EUA indiciam 10 estrangeiros por voto ilegal em 2022 e 2024</h3>
+        <p>Entre os indiciados em Minnesota está um brasileiro; as acusações incluem votar sem ser cidadão americano e, em alguns casos, alegar falsamente cidadania para obter o título de eleitor.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/eua-indiciam-10-estrangeiros-por-voto-ilegal-nas-eleicoes-de-2022-e-2024/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">EUA</span><span class="time">30/09</span></div>
+        <h3>EUA passam a exigir redes sociais abertas de jornalistas que pedem visto</h3>
+        <p>Desde 1º de outubro, jornalistas estrangeiros que solicitam visto de trabalho nos EUA devem deixar seus perfis em redes sociais públicos, medida que o consulado em São Paulo diz servir à verificação de identidade.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/eua-redes-sociais-abertas-jornalistas-visto/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Ásia</span><span class="time">Esta semana</span></div>
+        <h3>Coreia do Norte exibe míssil com alcance até os EUA</h3>
+        <p>O país mostrou em museu militar o Hwasong-20, mísel intercontinental descrito como capaz de atingir o território americano.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/coreia-do-norte-exibe-missil-com-alcance-ate-os-eua/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">EUA</span><span class="time">Esta semana</span></div>
+        <h3>Trump cancela transmissão ao vivo de execução nos EUA</h3>
+        <p>O presidente recuou do plano de transmitir a execução de Nidal Hasan após resistência de republicanos, líderes religiosos e pesquisas mostrando maioria contrária à exibição.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/trump-transmissao-execucao-autor-massacre/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">América Latina</span><span class="time">Esta semana</span></div>
+        <h3>Trump envia 600 militares à América Latina, diz jornal</h3>
+        <p>Segundo o <em>New York Times</em>, soldados do Exército dos EUA foram enviados a Panamá, Colômbia e Honduras para exercícios conjuntos, no âmbito do combate a cartéis de drogas.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/trump-envia-600-militares-a-america-latina/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Oriente Médio</span><span class="time">Esta semana</span></div>
+        <h3>EUA avaliam maior bomba não nuclear contra instalações do Irã</h3>
+        <p>O uso da MOAB dependeria de ordem direta de Trump, após mais de seis meses de bombardeios e em meio à resistência pública; autoridades questionam sua eficácia contra o programa nuclear iraniano.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/eua-avaliam-usar-maior-bomba-nao-nuclear-ira/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Guerra na Ucrânia</span><span class="time">Esta semana</span></div>
+        <h3>Brasileiro filma míssil atingindo prédio em Kharkiv</h3>
+        <p>Lucas Candido, voluntário nas forças ucranianas, registrou um míssil, apontado como russo, atingindo as proximidades do prédio onde estava hospedado, após sirenes de alerta.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/brasileiro-missil-atingindo-predio-na-ucrania/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Oriente Médio</span><span class="time">Esta semana</span></div>
+        <h3>Copiloto esfaqueia piloto em voo entre Dubai e Tel Aviv</h3>
+        <p>O avião da Flydubai perdeu quase 14 mil pés antes de pousar com segurança na Arábia Saudita; Israel investiga como possível tentativa de atentado terrorista.</p>
+        <div class="src"><a href="https://claudiodantas.com.br/israel-investiga-terrorista-esfaquear-piloto/" target="_blank" rel="noopener">Claudio Dantas</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">UE/Rússia</span><span class="time">Esta semana</span></div>
+        <h3>Chefe da diplomacia da UE critica acordo de Trump para comprar diesel russo</h3>
+        <p>A representante de política externa do bloco chamou o entendimento entre Washington e Moscou de "presente a Putin", em meio às tensões europeias sobre as sanções ao petróleo russo durante a guerra na Ucrânia.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/mundo/chefe-da-diplomacia-da-ue-chama-acordo-de-trump-para-comprar-diesel-russo-de-presente-a-putin/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Guerra na Ucrânia</span><span class="time">Esta semana</span></div>
+        <h3>Putin diz que Zelensky "deveria ter previsto" retaliação russa</h3>
+        <p>O presidente russo atribuiu a ataques ucranianos a justificativa para a resposta de Moscou, reforçando o impasse diplomático em torno da guerra.</p>
+        <div class="src"><a href="https://www.metropoles.com/mundo/putin-diz-que-zelensky-deveria-ter-previsto-consequencias-de-ataques" target="_blank" rel="noopener">Metrópoles</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Protestos</span><span class="time">13 a 15/10</span></div>
+        <h3>Onda de protestos estudantis se espalha por oito países</h3>
+        <p>Estudantes foram às ruas por motivos distintos de ensino e custo de vida em Argentina, Albânia, França, Itália, Espanha, Portugal, Bélgica e Chile, com confrontos em alguns casos — na Argentina, contra cortes de verba universitária no governo Milei; na Albânia, pedindo a saída do premiê Edi Rama; na França e na Itália, por infraestrutura escolar e falta de professores.</p>
+        <div class="src"><a href="https://www.gazetadopovo.com.br/mundo/onda-de-protestos-estudantis-chega-a-novos-paises-e-provoca-confrontos-na-europa-e-na-america-do-sul/" target="_blank" rel="noopener">Gazeta do Povo</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Oriente Médio</span><span class="time">Esta semana</span></div>
+        <h3>Arábia Saudita acusa Irã de treinar houthis e fomentar guerra no Iêmen</h3>
+        <p>O governo saudita afirmou que Teerã mantém apoio militar à milícia houthi, alimentando o conflito iemenita, em mais um ponto de atrito entre as duas potências regionais do Oriente Médio.</p>
+        <div class="src"><a href="https://www.metropoles.com/mundo/arabia-saudita-acusa-ira-de-treinar-houthis-e-estimular-guerra-no-iemen" target="_blank" rel="noopener">Metrópoles</a></div>
+      </article>
+      <article class="card" data-cat="intl">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-intl)">Guerra na Ucrânia</span><span class="time">Esta semana</span></div>
+        <h3>Musk diz que velocidade da Starlink na Ucrânia cabe a decisão de Trump</h3>
+        <p>O empresário afirmou que caberá ao presidente americano decidir sobre eventuais ajustes na velocidade do serviço de internet por satélite usado pelas forças ucranianas, tema sensível para a capacidade operacional de Kiev na guerra contra a Rússia.</p>
+        <div class="src"><a href="https://www.metropoles.com/mundo/velocidade-da-starlink-na-ucrania-deve-ser-decidida-por-trump-diz-musk" target="_blank" rel="noopener">Metrópoles</a></div>
+      </article>
+    </div>
+    <p class="context-note"><strong>Pano de fundo comercial:</strong> o Brasil ainda opera sob tarifas adicionais dos EUA aplicadas a parte das exportações, enquanto o acordo Mercosul-União Europeia segue pendente de ratificação pelo Parlamento Europeu depois de concluídas as negociações técnicas — dois temas que tendem a reaparecer conforme o 2º turno avança.</p>
+  </section>
+
+  <!-- SAÚDE -->
+  <section class="cat" data-cat="saude">
+    <div class="cat-head"><span class="cat-dot" style="background:var(--cat-saude)"></span><h2>Saúde</h2><span class="cat-count">6 matérias</span></div>
+    <div class="card-grid">
+      <article class="card" data-cat="saude">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-saude)">Saúde</span><span class="time">Esta semana</span></div>
+        <h3>Morte de Netinho reabre atenção ao linfoma não Hodgkin</h3>
+        <p>O cantor morreu em decorrência do câncer, o que levou veículos de saúde a explicarem sintomas e tratamento da doença.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/entenda-o-linfoma-nao-hodgkin-cancer-que-causou-morte-de-netinho" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="saude">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-saude)">Saúde</span><span class="time">14/10</span></div>
+        <h3>Recuperação do papa segue conforme o esperado, diz Vaticano</h3>
+        <p>Após a cirurgia para retirada de um nódulo pulmonar associado a um adenocarcinoma, o Vaticano informou que Leão XIV se recupera dentro do previsto, atualizando o quadro sobre a cirurgia realizada dias antes.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/recuperacao-do-papa-ocorre-conforme-o-esperado-diz-vaticano" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="saude">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-saude)">Anvisa</span><span class="time">Esta semana</span></div>
+        <h3>Anvisa proíbe canetas emagrecedoras sem registro</h3>
+        <p>A agência também baniu suplementos alimentares de origem desconhecida comercializados pela internet, por risco à saúde do consumidor.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="saude">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-saude)">Anvisa</span><span class="time">Esta semana</span></div>
+        <h3>Anvisa aprova novo medicamento para lúpus</h3>
+        <p>O registro amplia as opções de tratamento disponíveis para pacientes com a doença autoimune no país.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-aprova-novo-medicamento-para-tratar-lupus" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="saude">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-saude)">Saúde ambiental</span><span class="time">13/10 · 20h14</span></div>
+        <h3>Fiocruz avalia impacto das queimadas na saúde indígena</h3>
+        <p>O estudo mira comunidades indígenas no Amazonas afetadas pela fumaça das queimadas registradas na região.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="saude">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-saude)">Anvisa</span><span class="time">16/10 · 09h10</span></div>
+        <h3>Anvisa proíbe bebida infantil à base de soja vendida pela internet</h3>
+        <p>A agência determinou a proibição da venda do produto por irregularidades identificadas no registro e na comercialização, parte de uma série recente de restrições da Anvisa a itens vendidos online sem a documentação exigida.</p>
+        <div class="src"><a href="https://www.poder360.com.br/poder-saude/anvisa-proibe-bebida-infantil-a-base-de-soja-por-irregularidades/" target="_blank" rel="noopener">Poder360</a></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- EDUCAÇÃO -->
+  <section class="cat" data-cat="edu">
+    <div class="cat-head"><span class="cat-dot" style="background:var(--cat-edu)"></span><h2>Educação</h2><span class="cat-count">4 matérias</span></div>
+    <div class="card-grid">
+      <article class="card" data-cat="edu">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-edu)">Educação</span><span class="time">Campanha</span></div>
+        <h3>Lula promete versão universitária do Pé-de-Meia</h3>
+        <p>Se reeleito, o presidente afirma que vai estender o programa de incentivo financeiro a estudantes também ao ensino superior.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-garante-versao-universitaria-do-pe-de-meia-caso-seja-reeleito" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="edu">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-edu)">Educação infantil</span><span class="time">Esta semana</span></div>
+        <h3>Rede pública inicia escolha de livros didáticos</h3>
+        <p>O processo de seleção de materiais para a educação infantil começou nesta semana nas escolas da rede pública.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/escolha-de-livros-didaticos-para-educacao-infantil-comeca-nesta-terca" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="edu">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-edu)">Pesquisa</span><span class="time">Esta semana</span></div>
+        <h3>82% rejeitam celular para crianças até 3 anos</h3>
+        <p>Levantamento mostra ampla rejeição popular ao uso de telas por crianças pequenas, reabrindo o debate sobre regras para escolas e famílias.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/pesquisa-mostra-que-82-sao-contra-criancas-de-ate-3-anos-com-celular" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="edu">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-edu)">Segurança</span><span class="time">08/10</span></div>
+        <h3>MEC pede investigação de ameaças a universidades</h3>
+        <p>O ministério vai solicitar apuração de ameaças feitas em redes sociais contra instituições de ensino superior.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/mec-ira-pedir-investigacao-de-ameacas-universidades-em-redes-sociais" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+    </div>
+  </section>
+
+  <!-- SEGURANÇA / GERAL -->
+  <section class="cat" data-cat="seg">
+    <div class="cat-head"><span class="cat-dot" style="background:var(--cat-seg)"></span><h2>Segurança &amp; Geral</h2><span class="cat-count">4 matérias</span></div>
+    <div class="card-grid">
+      <article class="card" data-cat="seg">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-seg)">Brasília</span><span class="time">14/10</span></div>
+        <h3>Teto de túnel da Câmara desaba parcialmente</h3>
+        <p>Parte da estrutura de um túnel de acesso ao Congresso cedeu, levando a vistorias de segurança no complexo.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/parte-do-teto-de-tunel-da-camara-desabou-nesta-quarta-feira" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="seg">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-seg)">Segurança pública</span><span class="time">14/10</span></div>
+        <h3>CCJ conclui votação da PEC da Segurança</h3>
+        <p>O texto avançou na comissão, mas depois ficou travado por impasse sobre maioridade penal e acabou retirado da pauta do plenário do Senado.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="seg">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-seg)">Trânsito</span><span class="time">Feriado</span></div>
+        <h3>Feriado de Aparecida tem 68 mortes nas estradas</h3>
+        <p>O balanço da Polícia Rodoviária Federal mostra o número de vítimas fatais registradas durante o feriadão.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/feriadao-de-nossa-senhora-aparecida-teve-68-mortes-nas-estradas" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+      <article class="card" data-cat="seg">
+        <div class="tag-row"><span class="tag" style="background:var(--cat-seg)">Investigação</span><span class="time">13/10 · 09h00</span></div>
+        <h3>Polícia apura ligação de agentes com facção</h3>
+        <p>Uma investigação em curso busca esclarecer o possível envolvimento de policiais com uma organização criminosa.</p>
+        <div class="src"><a href="https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/policia-investiga-ligacao-de-policiais-com-faccao-criminosa" target="_blank" rel="noopener">Agência Brasil</a></div>
+      </article>
+    </div>
+  </section>
+
+  <footer>
+    <p><strong>Sobre este painel:</strong> as matérias são resumidas com palavras próprias a partir de fontes oficiais e veículos de imprensa — nesta edição, Agência Brasil, Câmara dos Deputados (Câmara Notícias), Senado Federal (Senado Notícias), Poder360, Metrópoles, Gazeta do Povo, CNN Brasil, Revista Oeste, Claudio Dantas e Bloomberg — e cada card linka para a reportagem original na fonte. Nenhum resumo copia o texto original. G1, O Globo, Folha, Veja, Estadão e The New York Times não puderam ser acessados por este painel nesta rodada (acesso automatizado bloqueado nessas fontes).</p>
+    <p><strong>Frequência de atualização:</strong> a cobertura é reconstruída automaticamente a cada hora. Não existe atualização "instantânea" — pesquisa de notícias funciona por consulta, não por um fluxo contínuo — então o painel se aproxima do tempo real com reconsultas frequentes em vez de uma transmissão ao vivo.</p>
+  </footer>
+
+</div>
+
+<script>
+(function(){
+  var chips = document.querySelectorAll('.chip');
+  var sections = document.querySelectorAll('section.cat');
+
+  chips.forEach(function(chip){
+    chip.addEventListener('click', function(){
+      chips.forEach(function(c){ c.setAttribute('aria-pressed','false'); });
+      chip.setAttribute('aria-pressed','true');
+      var f = chip.getAttribute('data-filter');
+
+      sections.forEach(function(sec){
+        if(f === 'todas' || sec.getAttribute('data-cat') === f){
+          sec.hidden = false;
+        } else {
+          sec.hidden = true;
+        }
+      });
+
+      var hero = document.querySelector('.hero-grid');
+      var race = document.querySelector('.race');
+      var heroLabel = document.querySelectorAll('.section-label')[1];
+      if (hero) hero.hidden = (f !== 'todas');
+      if (heroLabel) heroLabel.hidden = (f !== 'todas');
+    });
+  });
+
+  try {
+    var now = new Date();
+    var fmt = new Intl.DateTimeFormat('pt-BR', { day:'2-digit', month:'long', year:'numeric', hour:'2-digit', minute:'2-digit', timeZone:'America/Sao_Paulo' });
+    document.getElementById('updatedAt').textContent = 'Atualizado em ' + fmt.format(now);
+  } catch(e) {}
+})();
+</script>
+
+<link rel="stylesheet" href="claude-live.css">
+<script defer src="arquivo-ui.js"></script>
+<script defer src="claude-live.js"></script>
+</body></html>

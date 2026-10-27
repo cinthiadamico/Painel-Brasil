@@ -11,8 +11,10 @@ import datetime as dt
 import json
 import os
 import re
+import sys
 from pathlib import Path
 import tempfile
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
@@ -25,6 +27,50 @@ MODEL = os.environ.get("CLAUDE_MODEL", "claude-haiku-5-5")
 MAX_ITEMS = 10
 MAX_AGE_HOURS = 48
 MAX_TOKENS = 1300
+
+
+class ClaudeAPIError(RuntimeError):
+    """Diagnóstico tipado; não inclui texto recebido da API nem chave."""
+    def __init__(self, code, category, hint):
+        self.code = code
+        self.category = category
+        self.hint = hint
+        super().__init__(f"HTTP {code}; categoria={category}; orientacao={hint}")
+
+
+def safe_http_error(exc):
+    code = int(getattr(exc, "code", 0) or 0)
+    category, message = "unknown_error", ""
+    try:
+        body = json.loads(exc.read(12_000).decode("utf-8"))
+        error = body.get("error", {})
+        if isinstance(error, dict):
+            allowed = {"authentication_error", "billing_error", "permission_error",
+                       "invalid_request_error", "not_found_error", "rate_limit_error",
+                       "api_error", "timeout_error", "overloaded_error"}
+            if error.get("type") in allowed:
+                category = error["type"]
+            message = str(error.get("message", "")).lower()
+    except (OSError, ValueError, UnicodeDecodeError, TypeError, AttributeError):
+        pass
+    hints = {
+        400: "revisar_requisicao_ou_limites_de_gastos",
+        401: "verificar_chave_no_anthropic_console",
+        402: "verificar_creditos_ou_faturamento",
+        403: "verificar_permissoes_e_workspace",
+        404: "verificar_modelo_ou_endpoint",
+        429: "limites_de_uso_atingidos",
+        500: "falha_temporaria_da_api",
+        504: "tempo_limite",
+        529: "sobrecarga_da_api"
+    }
+    hint = hints.get(code, "consultar_console")
+    if code == 400:
+        if "workspace" in message: hint = "verificar_workspace_da_chave"
+        elif any(x in message for x in ("credit", "billing", "spend")):
+            hint = "verificar_creditos_ou_limite_de_gastos"
+        elif "model" in message: hint = "verificar_modelo_configurado"
+    return ClaudeAPIError(code, category, hint)
 
 
 def iso_date(value):
@@ -138,15 +184,31 @@ def parse_response(response, articles):
     return result
 
 
-def call_api(articles, key, model=MODEL, opener=urlopen):
-    body = json.dumps(request_payload(articles, model), ensure_ascii=False).encode("utf-8")
-    request = Request(API_URL, data=body, method="POST", headers={
-        "x-api-key": key,
+def build_headers(key, workspace_id=None):
+    headers = {
+        "Authorization": "Bearer " + key,
         "anthropic-version": API_VERSION,
         "content-type": "application/json",
-    })
-    with opener(request, timeout=60) as response:
-        answer = json.loads(response.read(400_000).decode("utf-8"))
+    }
+    workspace_id = (workspace_id if workspace_id is not None else
+                    os.environ.get("ANTHROPIC_WORKSPACE_ID", "")).strip()
+    if workspace_id:
+        if not re.fullmatch(r"wrkspc_[A-Za-z0-9]+", workspace_id):
+            raise ValueError("Identificador de workspace em formato inválido")
+        headers["anthropic-workspace-id"] = workspace_id
+    return headers
+
+
+def call_api(articles, key, model=MODEL, opener=urlopen):
+    body = json.dumps(request_payload(articles, model), ensure_ascii=False).encode("utf-8")
+    request = Request(API_URL, data=body, method="POST", headers=build_headers(key))
+    try:
+        with opener(request, timeout=60) as response:
+            answer = json.loads(response.read(400_000).decode("utf-8"))
+    except HTTPError as exc:
+        raise safe_http_error(exc) from None
+    except URLError:
+        raise RuntimeError("falha_de_rede_ao_contatar_anthropic") from None
     return parse_response(answer, articles)
 
 
@@ -189,19 +251,17 @@ def main():
     parser.add_argument("--dry-run", action="store_true",
                         help="Testa seleção sem fazer chamadas nem alterar arquivos")
     args = parser.parse_args()
-    if not os.environ.get("ANTHROPIC_API_KEY") and not args.dry_run:
-        print("::error::ANTHROPIC_API_KEY não configurada (erro de configuração).")
-        raise SystemExit(1)
-    try:
-        json.loads(Path(SOURCE).read_text(encoding="utf-8"))
-    except (OSError, ValueError):
-        print(f"::error::Artefato base obrigatório ausente ou inválido: {SOURCE}")
-        raise SystemExit(1) from None
     try:
         print(json.dumps(generate(dry_run=args.dry_run), ensure_ascii=False))
-    except (OSError, ValueError, RuntimeError, json.JSONDecodeError):
-        print("::warning::Falha na geração editorial; fallback applied, "
-              "previous output kept (saída anterior mantida).")
+    except ClaudeAPIError as exc:
+        print(f"Falha na geração editorial: {exc}. Saída anterior mantida.",
+              file=sys.stderr)
+        raise SystemExit(1) from None
+    except (OSError, ValueError, RuntimeError, json.JSONDecodeError) as exc:
+        # Nunca exibir str(exc) de fontes externas nos logs.
+        print("Falha na geração editorial: tipo_local=" +
+              type(exc).__name__ + ". Saída anterior mantida.", file=sys.stderr)
+        raise SystemExit(1) from None
 
 
 if __name__ == "__main__":
