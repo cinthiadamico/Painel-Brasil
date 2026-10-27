@@ -1,10 +1,164 @@
 {
   "schema_version": 1,
   "status": "atualizado",
-  "last_checked_at": "2026-10-27T15:54:49.533007+00:00",
-  "last_success_at": "2026-10-27T15:54:49.533007+00:00",
+  "last_checked_at": "2026-10-27T16:16:40.437001+00:00",
+  "last_success_at": "2026-10-27T16:16:40.437001+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "e907749ecb38f498",
+      "title": "Moody’s vê ajuste fiscal gradual e dívida em alta no novo mandato de Lula",
+      "summary": "O veículo VEJA publicou uma atualização sobre: moody’s vê ajuste fiscal gradual e dívida em alta no novo mandato de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/economia/moodys-ve-ajuste-fiscal-gradual-e-divida-em-alta-no-novo-mandato-de-lula/",
+      "source": "VEJA",
+      "published_at": "2026-10-27T16:11:54+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e94372c66078a81a",
+      "title": "BC só vai atuar no câmbio em caso de disfuncionalidade do mercado, diz Galípolo após alta do dólar",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: bC só vai atuar no câmbio em caso de disfuncionalidade do mercado, diz Galípolo após alta do dólar. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/bc-so-vai-atuar-no-cambio-em-caso-de-disfuncionalidade-do-mercado-diz-galipolo-apos-alta-do-dolar.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T16:11:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "30efc9e72b11fd4b",
+      "title": "Governo buscará cumprir meta fiscal com diálogo, diz Durigan",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo buscará cumprir meta fiscal com diálogo, diz Durigan. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-buscara-cumprir-meta-fiscal-com-dialogo-diz-durigan",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-27T16:04:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e454a2639dc2581b",
+      "title": "Putin acusa UE e Otan de prolongar guerra na Ucrânia em meio a negociações",
+      "summary": "O veículo VEJA publicou uma atualização sobre: putin acusa UE e Otan de prolongar guerra na Ucrânia em meio a negociações. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/mundo/putin-acusa-ue-e-otan-de-prolongar-guerra-na-ucrania-em-meio-a-negociacoes/",
+      "source": "VEJA",
+      "published_at": "2026-10-27T16:03:47+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b2ba5cfa0b91d432",
+      "title": "Prefeito de São Miguel do Araguaia tem mandato cassado após atraso no pagamento de servidores",
+      "summary": "O veículo G1 publicou uma atualização sobre: prefeito de São Miguel do Araguaia tem mandato cassado após atraso no pagamento de servidores. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/go/goias/noticia/2026/10/27/prefeito-de-sao-miguel-do-araguaia-tem-mandato-cassado-apos-atraso-no-pagamento-de-servidores.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T16:00:10+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a8b679dfb65ecebc",
+      "title": "Anvisa amplia para cinco anos validade do implante contraceptivo; dispositivo é distribuído no SUS",
+      "summary": "O veículo G1 publicou uma atualização sobre: anvisa amplia para cinco anos validade do implante contraceptivo; dispositivo é distribuído no SUS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/saude/noticia/2026/10/27/anvisa-amplia-para-cinco-anos-implante-contraceptivo-dispositivo-e-distribuido-no-sus.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T15:57:59+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2fcdea3314bd70b0",
+      "title": "El Niño pode reduzir safra de soja do Brasil em 10%, projeta Serasa",
+      "summary": "O veículo G1 publicou uma atualização sobre: el Niño pode reduzir safra de soja do Brasil em 10%, projeta Serasa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/27/el-nino-pode-reduzir-safra-de-soja-do-brasil-em-10percent-projeta-serasa.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-27T15:57:25+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b465e4be99d0a2d4",
+      "title": "Governo Milei rejeita comentar vitória eleitoral de Lula",
+      "summary": "O veículo VEJA publicou uma atualização sobre: governo Milei rejeita comentar vitória eleitoral de Lula. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/mundo/governo-milei-rejeita-comentar-vitoria-eleitoral-de-lula/",
+      "source": "VEJA",
+      "published_at": "2026-10-27T15:56:20+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c07cc52c8d4a9cb0",
+      "title": "Argentina recusa se manifestar sobre vitória de Lula e diz que Milei 'não é hipócrita'",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: argentina recusa se manifestar sobre vitória de Lula e diz que Milei 'não é hipócrita'. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/argentina-recusa-se-manifestar-sobre-vitoria-de-lula-e-diz-que-milei-nao-e-hipocrita.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T15:55:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "99d2aec871071c40",
+      "title": "A aliado, Flávio Bolsonaro diz que está \"esfriando cabeça\", mas não responde se deixou Brasil - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: a aliado, Flávio Bolsonaro diz que está \"esfriando cabeça\", mas não responde se deixou Brasil - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWEk3QnBDanpqa2ZSYjFFc19QZGJlOE13QURHQ1h5VkJ1bGo1U2s0WVBET3Z5WDRMTFNVSGpMWmJrM2plSjR6WHNURUJpUXBBenQyLWc0Q1R4UFdEX3UwNGszWFg0M3lBS2dodm1KeXNHRE9uZmh2d0t1WW52aDZiVjdraC05Rlp6OXEyX0JpRUVJSDkzV2MtOGFfcV9kMmdWME5jRmxmcjBlcnM5VW9PSlFLa1dCWDFhYVRQMjJ4MA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T15:52:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4a6dec90ba8e103c",
+      "title": "Polícia Federal cancela passaportes de Flávio Bolsonaro",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: polícia Federal cancela passaportes de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policia-federal-cancela-passaportes-de-flavio-bolsonaro",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-27T15:52:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "7a8c22c830691905",
       "title": "Nova lei prevê multa de até R$ 11 mil para flanelinhas e pune reserva de vagas para veículos em Sorocaba",
@@ -44,6 +198,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f8c979cfd3f4e03c",
+      "title": "Renan Santos diz que suposta fuga de Flávio Bolsonaro era \"caminho natural\" - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: renan Santos diz que suposta fuga de Flávio Bolsonaro era \"caminho natural\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNci1DZlpSdVdOSXIxODJjTzdjTlVsckxUTDlQSWczVTk0ZGdSS1ZERW5pdndpRU9PdVhLZzIzZEVqRkk2ZFBfWFFzMWVNUUxMTzN1amdiNTJGUlo1VXVuR1JzdG94LW11NGt1WlJWYTRLMTk3LTBHSUpUTkNxYkloQnBrYjQ5Y0R3dlBza1p3SHk2cExxUFhHbE16U3BVaHdTVm1jTldVT2QybWs?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-27T15:46:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -160,6 +328,20 @@
       "archive": false
     },
     {
+      "id": "7c876c92f149d166",
+      "title": "Polícia investiga morte de engenheiro agredido em Santos",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: polícia investiga morte de engenheiro agredido em Santos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/policia-investiga-morte-de-engenheiro-agredido-em-santos",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-27T15:38:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "4fcde6e987bde053",
       "title": "Mercedes-Benz reduz previsão de lucro após queda de 31% nas vendas na China",
       "summary": "O veículo VEJA publicou uma atualização sobre: mercedes-Benz reduz previsão de lucro após queda de 31% nas vendas na China. Consulte a reportagem para contexto, dados e declarações.",
@@ -167,6 +349,20 @@
       "source": "VEJA",
       "published_at": "2026-10-27T15:37:47+00:00",
       "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "ba252436ab4e7520",
+      "title": "Para conter oscilações, Tesouro anuncia nova recompra de títulos",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: para conter oscilações, Tesouro anuncia nova recompra de títulos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/para-conter-oscilacoes-tesouro-anuncia-nova-recompra-de-titulos",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-27T15:36:00+00:00",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -188,34 +384,6 @@
       "archive": false
     },
     {
-      "id": "ba252436ab4e7520",
-      "title": "Para conter oscilações, Tesouro anuncia nova recompra de títulos",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: para conter oscilações, Tesouro anuncia nova recompra de títulos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/para-conter-oscilacoes-tesouro-anuncia-nova-recompra-de-titulos",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-27T15:36:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "f65d28b32550ab76",
-      "title": "Justiça torna réu homem acusado de matar companheira a facadas após discussão sobre post em rede social",
-      "summary": "O veículo G1 publicou uma atualização sobre: justiça torna réu homem acusado de matar companheira a facadas após discussão sobre post em rede social. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/27/justica-torna-reu-homem-acusado-de-matar-companheira-a-facadas-apos-discussao-sobre-post-em-rede-social.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T15:35:09+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "db3bbefeb418f2ff",
       "title": "Auxílio-moradia para vítimas de violência em Campinas supera total de 2025 em nove meses",
       "summary": "O veículo G1 publicou uma atualização sobre: auxílio-moradia para vítimas de violência em Campinas supera total de 2025 em nove meses. Consulte a reportagem para contexto, dados e declarações.",
@@ -223,20 +391,6 @@
       "source": "G1",
       "published_at": "2026-10-27T15:35:03+00:00",
       "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "9d9a2de189da2bdc",
-      "title": "Aliados de Flávio Bolsonaro são avisados de que ele fugiu do Brasil",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: aliados de Flávio Bolsonaro são avisados de que ele fugiu do Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/aliados-de-flavio-bolsonaro-sao-avisados-de-que-ele-saiu-do-brasil.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-27T15:35:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -272,34 +426,6 @@
       "archive": false
     },
     {
-      "id": "a3ab11a2e72f2b91",
-      "title": "PF investiga agressões e ameaças de envenenamento a indígenas em MS após eleição de Lula",
-      "summary": "O veículo G1 publicou uma atualização sobre: pF investiga agressões e ameaças de envenenamento a indígenas em MS após eleição de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/27/pf-investiga-agressoes-e-ameacas-de-envenenamento-a-indigenas-em-ms-apos-eleicao-de-lula.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T15:32:25+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "59344e6e6f1f8d4f",
-      "title": "O hino composto por dom Pedro 1º que Lula transformou em canção da vitória",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: o hino composto por dom Pedro 1º que Lula transformou em canção da vitória. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/o-hino-composto-por-dom-pedro-1o-que-lula-transformou-em-cancao-da-vitoria.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-27T15:32:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "9dc9c36f792232d4",
       "title": "MPSP instaura inquérito para investigar vereador Lucas Pavanato",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: mPSP instaura inquérito para investigar vereador Lucas Pavanato. Consulte a reportagem para contexto, dados e declarações.",
@@ -307,20 +433,6 @@
       "source": "Agência Brasil",
       "published_at": "2026-10-27T15:27:00+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c8cef97b65043648",
-      "title": "Flávio Bolsonaro não entrega passaporte no prazo",
-      "summary": "O veículo VEJA publicou uma atualização sobre: flávio Bolsonaro não entrega passaporte no prazo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/flavio-bolsonaro-nao-entrega-passaporte-no-prazo/",
-      "source": "VEJA",
-      "published_at": "2026-10-27T15:26:58+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -412,20 +524,6 @@
       "archive": false
     },
     {
-      "id": "402ef17371ea4961",
-      "title": "PF cancela passaportes de Flávio Bolsonaro, que está sumido - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: pF cancela passaportes de Flávio Bolsonaro, que está sumido - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1BiUmRSeTNhZWJoYW9QYnZxU0Q3MXhvZzFOQ1JxZGsxT19CMzdTVVh2SklHNGtOT2FIZjZHVFlBUHQ4Zms4eW9pVkhmekVwWk5mTkM0UWNZZlJmZkQzTUg5UDJkSjk1dC1GeTI4U3BWRHZCb1NtYV9GX1IweWEzd3ZJaXI4TXZ0RWg3a2pqcktnbTJfaExDTGRiTklxaHVRSzdIVlNtQll6UzhFSXhj?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-27T15:19:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b29e29e976c638da",
       "title": "Polícia Civil abre inquérito para investigar acidente com seis mortos e 15 feridos na PB",
       "summary": "O veículo G1 publicou uma atualização sobre: polícia Civil abre inquérito para investigar acidente com seis mortos e 15 feridos na PB. Consulte a reportagem para contexto, dados e declarações.",
@@ -436,6 +534,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d6a8ae28b3aaffd5",
+      "title": "Flávio Bolsonaro não entrega os passaportes à Polícia Federal no prazo determinado por Moraes - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: flávio Bolsonaro não entrega os passaportes à Polícia Federal no prazo determinado por Moraes. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV1dYYk80V3drb2oyLXdHWHdhVWxIUUxrV3hXZjFsVXJwZmhBZzA3OXlfM19pNHBDZjVIUUlIVTVmbXQ0SFB6M2ROWkNScjBLcUFTS0VUOXlLbW1XRDdlS0xKRFEwTDlxM05EMGZZbmVld2JTUGhqOXdMM1dJYkdPZXI5VnZtMGpBV3hYLVNfRDJGNTFWVEJ5NTYweGZLblY5aVZZb2phazkyQ3JKTEd6TzNKSU1tVTJaQVhibjN5enJzLXM2WU1NbWRqRVlKUnFsSUdTa2pBLS1hSVFkc0FsU282MEpfcTDSAfYBQVVfeXFMT19sTXctYVN0UkFXLUFWbjB1VUdSWTdjNkhUMVZQeXRpamJqN2VHUmVqZ3lNekVUcktUcW5nV0g0dF9MV0dJSHpVMldsXy1HYk9seFRRazR1V3I2dFF5QkxGYnFRRjlDcFdsTWhwdDhaYlVrbmZ2YnVTRFBwUnhNUUtIdHotVWVfaGYzamM0blpJdzVObFdfdEl4WHZEeXJjQ2tpbTZOc2hRcEg5RG02aGNoU3pLdm4yUXhpRkQ2RFp6a2VTZXVXRC1yVXFaU1VQeWtfUGw2djZUZGNweDkyQThycllpZy1lbXh6V3NPRkVzV25RMjFR?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-27T15:13:57+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -650,20 +762,6 @@
       "archive": false
     },
     {
-      "id": "c35e49aecde5693e",
-      "title": "A guerra anunciada de Lula contra a Meta de Mark Zuckerberg e outras big techs",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a guerra anunciada de Lula contra a Meta de Mark Zuckerberg e outras big techs. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/a-guerra-anunciada-de-lula-contra-a-meta-de-mark-zuckerberg-e-outras-big-techs/",
-      "source": "VEJA",
-      "published_at": "2026-10-27T14:36:44+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c1e1ab878e13b72a",
       "title": "Motorista preso por embriaguez após acidente que matou pai, mãe e três filhos no PR já tem registro anterior por fugir da polícia e dirigir sem ter CNH",
       "summary": "O veículo G1 publicou uma atualização sobre: motorista preso por embriaguez após acidente que matou pai, mãe e três filhos no PR já tem registro anterior por fugir da polícia e dirigir sem ter CNH. Consulte a reportagem para contexto, dados e declarações.",
@@ -762,16 +860,16 @@
       "archive": false
     },
     {
-      "id": "6f828de8fcd6c9a6",
-      "title": "Avó e neta vão para hospital após serem feridas por rottweiler; tutor é autuado por lesão corporal",
+      "id": "095dd782ba486f73",
+      "title": "Avó e neta vão para hospital após serem feridas por rottweiler; tutor é autuado por lesão corporal - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: avó e neta vão para hospital após serem feridas por rottweiler; tutor é autuado por lesão corporal. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/27/avo-e-neta-vao-para-hospital-apos-rottweiler-no-meio-da-rua-tutor-e-autuado-por-lesao-corporal.ghtml",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZGkyZnV3eDU3Nzg1NEpIdElha3pRRlRWNFRGTWtodFpkM3o5TXlOOWIwV0czNDhqSFpTQXZ3OU52NFRfaUp2bVJPUXNsSHdBMG42UWVnV1dDOG9DMnAtYmxVWWFzdnJ0SUF0RWFKYTlDUV9wVWNLY2U0VnpudWM3SEpPRWpIYm9MU0JxWURLczlEZTdVTGlUZXRMMWc2M0pMRVJsSkotZi15Y2pzR0Z1RzNOSTFuWENINS13aVhSRUZpWE8wcUFVWGNKZ01FckhqLVdDWEctZWtleW1UdWUxRjhUQ0l2eEJDNGfSAfgBQVVfeXFMTzlGQW5Pc3FYOWFwQW1mcFgwRXVuQ0tmMlUweXBOUUFxbWF4Tnlwc1l2UV9VU1BYdXBzOGFRZ3RwdllHcDRCV3FHekJSTW5tZ2t4VnFBYzkxbHgxMGVRQTFSNGNmWkxSc1VsTFhDSkJONWlkZkhZbVlIUHgzZDdfeW1oRU5VdmNBbzBZNDNIWFJXTU5TWVB1czhmbW1nNGRQUS05QzZLZm5aUnZ5a3Y5M3JCeXJQRWNUVkpsSjA4eHlQbV9HSVl6THV5Z1ZqZFhUSmlzdW1ieDhlRVZ1RzAxMkRaeEFMVTM2dWhwam1rZmgtaDRrZzNSR0Y?oc=5",
       "source": "G1",
       "published_at": "2026-10-27T14:25:31+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -930,20 +1028,6 @@
       "archive": false
     },
     {
-      "id": "bcda8dd2a1a6a2fe",
-      "title": "Executivo que apostou em Paralamas do Sucesso e Legião Urbana expõe em livro o equilíbrio delicado entre arte e comércio que rege a indústria do disco",
-      "summary": "O veículo G1 publicou uma atualização sobre: executivo que apostou em Paralamas do Sucesso e Legião Urbana expõe em livro o equilíbrio delicado entre arte e comércio que rege a indústria do disco. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/27/executivo-que-apostou-em-paralamas-do-sucesso-e-legiao-urbana-expoe-em-livro-o-equilibrio-delicado-entre-arte-e-comercio-que-rege-a-industria-do-disco.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-27T13:58:07+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "4aaaff34f8fb6b30",
       "title": "Projeto inclui psicopedagogos em equipes interdisciplinares das escolas públicas",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto inclui psicopedagogos em equipes interdisciplinares das escolas públicas. Consulte a reportagem para contexto, dados e declarações.",
@@ -1070,20 +1154,6 @@
       "archive": false
     },
     {
-      "id": "e1c663c2ff23ba71",
-      "title": "Juros disparam após reeleição de Lula. Onde investir na renda fixa agora? - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: juros disparam após reeleição de Lula. Onde investir na renda fixa agora?. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYnBpTW55TENaZ3BRV1FYZXQxRHZ0YmhZd2VQandWMFl2emxPaVZGZTN4WFJoRUN1OEY1Wl9HUzdTZXVUM2hkVFNDck53N2tqbjZVMmMzVUpEeXNDQ2NpdW44SlVPYk5ya3p1VEJ5VVZfRTBYWnJhOFpONi1MUHJjaDhHWXdLYXg2bWJlQllUaGhsYmM3WVdZSUZfYU5pblB6MHh2Nm9LaG9YNmNhcDFmYkdXNjdfek9OcmJtTUxaM0x2S1A4N1ZseTJn0gHPAUFVX3lxTE11a05SSFhwRTFoWHBsZmRjYzRac2NHUmNzNTE2RXhOcVNEVzlOZTdLYzlQU3MxY3BqOW1yN2s1eUYwRks2WE9rREVYcnhyTzVVLWQwcjBuZXZnOVkxWW1tWXFZWDJPa3VpSWllVkZSR3JRVTJBRjZOcFJqWVZWdk5mRHNRTlllaDZCdnBuNC1nT0EzY042TDBRN3pVazh1dVBHVmFjNU44TGE5YjhKVERtWDhpbWU0eXZMLTljWXQ4RTcybG5DcVBnYTM4VkZyRQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-27T13:12:33+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "56e87f51254415f9",
       "title": "Prefeitura de Salvador autorizou redução de viagens de ônibus na eleição, indica ofício enviado ao STF - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: prefeitura de Salvador autorizou redução de viagens de ônibus na eleição, indica ofício enviado ao STF. Consulte a reportagem para contexto, dados e declarações.",
@@ -1094,20 +1164,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fe60eea9ee04395c",
-      "title": "Dólar e juros futuros recuam após disparada com vitória de Lula; Bolsa oscila",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: dólar e juros futuros recuam após disparada com vitória de Lula; Bolsa oscila. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-queda-apos-disparada-com-vitoria-de-lula-juros-futuros-recuam.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-27T12:40:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1234,20 +1290,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3761076ab6c5c55f",
-      "title": "Confronto entre facções leva polícia a ocupar complexo em Volta Redonda (RJ)",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: confronto entre facções leva polícia a ocupar complexo em Volta Redonda (RJ). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/confronto-entre-faccoes-leva-policia-a-ocupar-complexo-em-volta-redonda-rj.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-27T09:57:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1462,20 +1504,6 @@
       "archive": false
     },
     {
-      "id": "48c14e4a8aa3294a",
-      "title": "Polícia de Portugal abre investigação sobre caso de brasileira agredida após votar em Lisboa",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia de Portugal abre investigação sobre caso de brasileira agredida após votar em Lisboa. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/policia-de-portugal-abre-investigacao-sobre-caso-de-brasileira-agredida-apos-votar-em-lisboa.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-26T21:29:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "2ddc444ccb532ba8",
       "title": "Após reeleição de Lula, Fiemg cobra controle de gastos do governo federal - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: após reeleição de Lula, Fiemg cobra controle de gastos do governo federal - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -1511,20 +1539,6 @@
       "source": "Senado Federal",
       "published_at": "2026-10-26T19:48:08+00:00",
       "category": "Endividamento",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "29b39c7a5f3a4e06",
-      "title": "Polícia investiga eleitora que fez saudação nazista no Rio",
-      "summary": "O veículo VEJA publicou uma atualização sobre: polícia investiga eleitora que fez saudação nazista no Rio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/brasil/policia-investiga-eleitora-que-fez-saudacao-nazista-no-rio/",
-      "source": "VEJA",
-      "published_at": "2026-10-26T19:45:33+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -1644,20 +1658,6 @@
       "archive": false
     },
     {
-      "id": "3fa42ef19355bd6c",
-      "title": "Cadu cita BR-304, terceira ponte e hospital metropolitano entre projetos para o RN - Agora RN",
-      "summary": "O veículo Agora RN publicou uma atualização sobre: cadu cita BR-304, terceira ponte e hospital metropolitano entre projetos para o RN - Agora RN. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkhwbjVsR3dHSU9YQ3NqV3l1VVBrTGFUTzlZTkpBczFmWUI4dVY4NmdsbE5Ca2x6SDF0R3l3TUNXZVdFQnFoTnJYWUt4cDVoU05VRkt2OGttNDI3RkFXZ1YxT0RtV0x2WnpOdS1jZnRsbFNWYWx5Vnh1dDZMTG5qbUtPQXNidThEN2gycF9xWWtCemxkNnNrNDdRRG1kSTEwaUdhbnlTV3NuS0tZVl8tNVJVZlY?oc=5",
-      "source": "Agora RN",
-      "published_at": "2026-10-26T02:14:23+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e38968d4bfac262a",
       "title": "Flávio Bolsonaro diz ser ‘impossível reconhecer resultado da eleição’ e que pedirá anulação - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: flávio Bolsonaro diz ser ‘impossível reconhecer resultado da eleição’ e que pedirá anulação. Consulte a reportagem para contexto, dados e declarações.",
@@ -1689,7 +1689,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 27
+      "items": 24
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1709,7 +1709,7 @@
     },
     "Agência Brasil": {
       "status": "ok",
-      "items": 2
+      "items": 4
     },
     "Agência Brasil · Política": {
       "status": "ok",
@@ -1717,7 +1717,7 @@
     },
     "Agência Brasil · Economia": {
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     "Agência Brasil · Educação": {
       "status": "ok",
@@ -1745,7 +1745,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 84
+      "items": 83
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1769,11 +1769,11 @@
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 72
+      "items": 71
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 79
+      "items": 77
     },
     "Eleições · Lula": {
       "status": "ok",
