@@ -116,6 +116,20 @@
       "archive": false
     },
     {
+      "id": "6ecde9a581cde283",
+      "title": "Democratas querem aproveitar desgaste de Trump para conseguir maioria na Câmara e no Senado",
+      "summary": "O veículo G1 publicou uma atualização sobre: democratas querem aproveitar desgaste de Trump para conseguir maioria na Câmara e no Senado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/27/democratas-querem-aproveitar-desgaste-de-trump-para-conseguir-maioria-na-camara-e-no-senado.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-28T02:01:58+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "df5986a9ed4945a3",
       "title": "What to Expect Now That Polls Are Closed in Israel",
       "summary": "O veículo The New York Times publicou uma atualização sobre: what to Expect Now That Polls Are Closed in Israel. Consulte a reportagem para contexto, dados e declarações.",
@@ -434,6 +448,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "933f023a1a584f49",
+      "title": "Promotor do MPSP é cotado para comandar ministério no governo Lula 4 - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: promotor do MPSP é cotado para comandar ministério no governo Lula 4 - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNDlGaUh1MzNWYzZIWFQ3cjFnU0oxZU5rbFlYTkh3bkI0d2RqTHQtNVNPTVNmS29sR1dwUXVPV2lhdVcwbWhLWmJ5Qng5YkNLU1NKT1NPWk5GYVFaajBIWGRVZVdWX05ZQ3V3TldHbkVYYkJUTnlLQ1BZdXIxNEZydTQ2Y04yQXhhUGtjTXU2LWNQVGt5WVdUdl96WUc4ZjFWYkFVZGZB?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-28T01:11:00+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1470,6 +1498,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6855cce5b0482dc5",
+      "title": "Coordenador de campanha de Flávio Bolsonaro diz desconhecer paradeiro do senador - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: coordenador de campanha de Flávio Bolsonaro diz desconhecer paradeiro do senador. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMTltSEwxZzBXRHY2TDFETVA5OHFxUlE0ZFByeDYxRE4tVzBUeHdiR1BRenBlR2ZoZU10c1hHSkpIT205ZjBoYlJhQU9aYUdlTDI0X2FIUmgtcnBoRm84NWxvT3F0ZHRUNmRNWnVpdzgzdDVPdUZCaGxuaXpndlNXb1NGU25fRGZYbDYtaWNXcWVOLVpacXUzY1FFdnBQay1wRENOdVVYWUxFbk1OR0M2QXh4bVdneFJGTTZvU0p6aTBYZld2SzctNml3?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T22:30:00+00:00",
+      "category": "Eleições",
+      "candidate": "flavio",
+      "election_type": "Fala",
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
