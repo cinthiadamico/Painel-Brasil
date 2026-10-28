@@ -1,10 +1,94 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-28T03:54:46.373807+00:00",
-  "last_success_at": "2026-10-28T03:54:46.373807+00:00",
+  "last_checked_at": "2026-10-28T04:54:58.063126+00:00",
+  "last_success_at": "2026-10-28T04:54:58.063126+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "09559f17b657d9db",
+      "title": "Mídia argentina diz que Flávio Bolsonaro só decolou agora para os EUA - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: mídia argentina diz que Flávio Bolsonaro só decolou agora para os EUA - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN0hLRHh3aFBpRXdSS0hkVThSZ2ZyOUZLaGs5X1FOcGlfUXZMMGZEZEN4MEtJNFFMSDVYRnZ2SDVzRUxaTHUzNEFVcFRtWjZpekwyTU04SHh4MktZdU5lOURCYVdqTVVJNVFIVHBRNzZHMHE2V2cyV09XS3c2b2JacVItVHlqajlOV3N6N2haUktLd3FiLXpyRUF6RHFoQ3pIeWpXYg?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-28T04:38:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "33fd354647cc859b",
+      "title": "Trump diz que vai respeitar resultado das eleições nos EUA \"se for honesta\" - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: trump diz que vai respeitar resultado das eleições nos EUA \"se for honesta\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUx0c3ktWFdhVXNUc0RfT0VjSWdzSFRmNnNlZF9YYWNSZmpsYTZjbGdZTXdWV2x2c3JtQWlFN2ctT0F6Mmhid095M1E5b3B5WjdDa2l4UDU0WlgxcHBUQmxiZ2VOdnh1aHZTQXhxOElvNXVET0dZQ0s0TmgzWmktS3hNVWlCVVhiSnRPZFdic19oNXhWVWQwUUpaNGNVdFk0YVZaNEpXSnRFdw?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-28T04:23:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4207bf5c590079d4",
+      "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "source": "The New York Times",
+      "published_at": "2026-10-28T04:03:25+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3ccd846001479b0e",
+      "title": "EUA dizem que concederão vistos a Flávio Bolsonaro e família - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: eUA dizem que concederão vistos a Flávio Bolsonaro e família. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ub19jWjhZLTQ3RlBGUGg3Y0phTGhsamtnWGRGc2lVMXEwR0hyYUtUSXBsOWVleVZCZERQRm9QLVl5d1l6S0ZUSEdsUTlQd2NBb0VZSWlZcGRKWklfSW5oelJPNWUxYjlzb2N4dFVTUGxmRDExTnfSAXtBVV95cUxOeWZDUjZMTndvY0s2Qk94QkUtU05RNkJER2RzbzQzZDg1eXc4dEdnclNwaEFJSW44SHRQRWxQc0I1VktzOHZzdnkySkZnbEUwX2MtQUl5NndxVnVGZUFfZ0F5VE5FTG1sQjhGWjlyNi1UdENwZVA3ek5oclE?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-28T04:03:12+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "064fc7651fb17802",
+      "title": "Flávio Bolsonaro estava escondido na Argentina e acaba de decolar para os EUA, diz canal argentino",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: flávio Bolsonaro estava escondido na Argentina e acaba de decolar para os EUA, diz canal argentino. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/flavio-bolsonaro-estava-escondido-na-argentina-e-acaba-de-decolar-para-os-eua-diz-canal-argentino.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-28T04:02:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "196ceacb105c3072",
+      "title": "Novas regras do vale‑refeição e alimentação: o que muda nos cartões a partir de novembro",
+      "summary": "O veículo G1 publicou uma atualização sobre: novas regras do vale‑refeição e alimentação: o que muda nos cartões a partir de novembro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/28/novas-regras-do-valerefeicao-e-alimentacao-o-que-muda-nos-cartoes-a-partir-de-novembro.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-28T04:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "72a343648ad51cb5",
       "title": "Deputada da Argentina pede explicações sobre entrada de Flávio no país - Metrópoles",
@@ -41,20 +125,6 @@
       "source": "G1",
       "published_at": "2026-10-28T03:00:00+00:00",
       "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "4207bf5c590079d4",
-      "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
-      "summary": "O veículo The New York Times publicou uma atualização sobre: israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
-      "source": "The New York Times",
-      "published_at": "2026-10-28T02:52:21+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -370,34 +440,6 @@
       "archive": false
     },
     {
-      "id": "282120fa59c6d57d",
-      "title": "Após Flávio ir para os Estados Unidos, relatora da CPI do 8/1 diz temer escalada golpista - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: após Flávio ir para os Estados Unidos, relatora da CPI do 8/1 diz temer escalada golpista. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNlQyWXc2SUJwWkxQelBNN21jVDAwMG9uWGZFU3A0bEpzMG90SW0tX0Q4OWlucFgwTURwN3RCSGdiNm40QzRvZkl5RHh6M0VyNUs3WXBzSmwwS1pDcnVZUnYxYlJuSDhhWkxJNGh1cXFoUXRHZHFsT1NpeDB2dUV5UklWeTd0MVQtTktfM1BJMHFEaC1aem4zZV8zWHhxVGJlQnVNOWVzNDF2Z1JFMHBoOG9fbU9nUVBkUHU5MS1GZG5xYUVoZ3c?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-28T01:16:16+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "25a487e7596c3f67",
-      "title": "Flávio Bolsonaro chega aos EUA, diz BBC",
-      "summary": "O veículo G1 publicou uma atualização sobre: flávio Bolsonaro chega aos EUA, diz BBC. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mundo/noticia/2026/10/27/flavio-bolsonaro-chega-aos-eua-diz-bbc.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-28T01:16:02+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d382465987888508",
       "title": "Mais um foco da doença de Newcastle é verificado em Santa Catarina - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: mais um foco da doença de Newcastle é verificado em Santa Catarina - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -492,20 +534,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "b48a8e6db04bf0c0",
-      "title": "Alexandre Frota sobre Flávio Bolsonaro nos EUA: “Até acabar a gestão Trump” - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: alexandre Frota sobre Flávio Bolsonaro nos EUA: “Até acabar a gestão Trump” - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXRHdnVMRTFmeWd5b2x1amtCVXludnRmZlZvc1JBM1lJbWI1RmUxNjJ3SEM1VUVidHlaajNQTEJEM2Y4dEFES19NeS12Q2g4YjV3a2JzbkxvNGN1b1hONm9ZWFVINUY2eXNGaDZ1TU5POFhhenVGM05uNXh3OVRDbUltYl9famwwVWZuX0Y1WlJINnpJY0pRU2ZiMzM2VFVLUWlmRVhMVUZiUlVWbmtEc3p3WlNsWVNfcUJBaV9vOA?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-28T00:12:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -762,20 +790,6 @@
       "archive": false
     },
     {
-      "id": "5de8c78e2c134da1",
-      "title": "Em comício no Texas, Trump volta a falar que eleição do Brasil foi fraudada - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: em comício no Texas, Trump volta a falar que eleição do Brasil foi fraudada - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmk5OFNuYS1pWmpyVWVBY0p0Tk5GclpXVjIxZXhrY0RIY2U5dWp0QTdrWWJfaEpYMm5FSkFRZkxYOXFibUFDalhLZzlYdlZQQnR0YzZLVzc2akw5dmNpVG5tY2V1ZHl5R3FoR0RpNWdzZWEwYWhRN0xpeTI2a3JIVEhCdWJIN01IOTVOWHRHRjN6VG1rNzhyY3MtSUtYWFlyd0FWRWtrWmFtajA?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-27T23:10:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "c486df8d16ad7409",
       "title": "Mulher sabia que era ilegal e mesmo assim decidiu fotografar urna no momento da votação e postar no WhatsApp, diz polícia",
       "summary": "O veículo G1 publicou uma atualização sobre: mulher sabia que era ilegal e mesmo assim decidiu fotografar urna no momento da votação e postar no WhatsApp, diz polícia. Consulte a reportagem para contexto, dados e declarações.",
@@ -842,20 +856,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "38364b60f3c9b426",
-      "title": "Polícia do Rio apura suposta encenação racista em ato pró-Flávio Bolsonaro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia do Rio apura suposta encenação racista em ato pró-Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/policia-do-rio-apura-suposta-encenacao-racista-em-ato-pro-flavio-bolsonaro.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-27T22:49:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -986,10 +986,10 @@
       "archive": false
     },
     {
-      "id": "69a2271e2716978d",
+      "id": "be49d2fe7f3e5f34",
       "title": "Tereza Cristina inicia campanha para presidir Senado e avançar com impeachment de ministros do STF - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: tereza Cristina inicia campanha para presidir Senado e avançar com impeachment de ministros do STF. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQWRKQXFRS1lnWFVFbWxzaTRUeHhEci1xdl9XRHNldmZhaU9FRUJhV1J2dXNyUWNSQ2NLek41RzNCRWdKeFJtZFVLTzRLV20wOFFWVkY4UWdITjdEZUNhSG1OUDRIZHptWmYxazQ3a3VOWktpZHZQTkpMM3RjZV9jdVNDcVdBZUtNbEVOekc5NUJoUlh3Q011S3JmeFpRQTdLV3VWcEdqQ0pzMHdRTUlGcmtaSDFPSzBfQXk0SzNFRmkyN1pvTTBEVXd3WUlIQm9PY2c5UV9kY1BKMTdHbk5sb3pGamotRTVw0gHuAUFVX3lxTE9tQWU4ODVidGtlT212X0p0WUViNFh3ZUF5d3FLc2Rab0lQa19GbEFTYzJOc0w3dVR1RUNXSmpyRmQzLWtqaWVTNXY3QnBjaXRoUzZMUVFzNEhsY0VqZ2hBbUk2ZXBFRDd1dlRyeUdwRWc4ZXhJMExZeVZMa1NISE9pQWVSNEdJeU1yNW5oRWViWEZ3TTVMQmMzcEo2S09rZzY3MUlCbkdiMTFhbGRZdFA0LTUtbG8teGswY1BLUnZDSDM4SXJzYTlxOWk0TThybVFqQXN3OTlxamV1bU5TUmRFWGZvQzJPNDhQM0RqUlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQWRKQXFRS1lnWFVFbWxzaTRUeHhEci1xdl9XRHNldmZhaU9FRUJhV1J2dXNyUWNSQ2NLek41RzNCRWdKeFJtZFVLTzRLV20wOFFWVkY4UWdITjdEZUNhSG1OUDRIZHptWmYxazQ3a3VOWktpZHZQTkpMM3RjZV9jdVNDcVdBZUtNbEVOekc5NUJoUlh3Q011S3JmeFpRQTdLV3VWcEdqQ0pzMHdRTUlGcmtaSDFPSzBfQXk0SzNFRmkyN1pvTTBEVXd3WUlIQm9PY2c5UV9kY1BKMTdHbk5sb3pGamotRTVw?oc=5",
       "source": "Estadão",
       "published_at": "2026-10-27T22:06:39+00:00",
       "category": "STF e Justiça",
@@ -1007,6 +1007,20 @@
       "source": "O GLOBO",
       "published_at": "2026-10-27T22:03:20+00:00",
       "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e2170f10df4a3ec9",
+      "title": "Justiça condena 3 PMs apontados como membros do 'Novo Escritório do Crime' a penas de até 63 anos de prisão - G1",
+      "summary": "O veículo G1 publicou uma atualização sobre: justiça condena 3 PMs apontados como membros do 'Novo Escritório do Crime' a penas de até 63 anos de prisão. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdE5td1UyQjd0NmdOWmthRHVNZEFkbkQ5ZnA5UDZ1c3FENUota2tGaHpoOGtEMlBYbWNCMW84WkN4R1lPWWRZZXJ3WWZBQWxQM05WMlJMd1lkM25WQWpvanJ4ZmNZMnU0b1VOdTB1Sy11YzlncENwc1BFTTJDVmFZNmkwTkpIbWZJWDQtYlFkR095azNjRE9wSVc4Z1JGbnpBeVlBMmhHWkhrVUFkR21sdUlOYk5JN0V5NHZLZE1JT2hvSGVNMmtxR3c0QnFEZjTSAd4BQVVfeXFMTzRiRDZNRlVQTEZBOVoyRGZMRXJJV3phb3lwbWVPMHRVa2xaSTlIMmVEdU5Lc0hOWUdRLXM0YUFINFl2QWZMRmZvNkhqRlZnLTBqaDNYNFRGWjNWWlhQS1NaREE3OXVKSTc5Nm9nMXYtemV0eURwRHVRQzFxRE9rQ0pPSk1OY2djSlo5NzA0Nnhsc3lieVhlaGszSWFxc3RBNTdTbkdfYm9aRkw0cXBVNm56eFVRSG1lSF9XSXFOUkxhN0JxTHBTbjRnSzN3R25YUnZDRDJhd3REeHY0SUl3?oc=5",
+      "source": "G1",
+      "published_at": "2026-10-27T21:58:58+00:00",
+      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1175,20 +1189,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-27T20:32:23+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ac8c833fafb8eada",
-      "title": "Agência de Comunicação - Cuidar do fio sem agredi-lo vira a nova aposta do mercado capilar - Estadão Blue Studio",
-      "summary": "O veículo Estadão Blue Studio publicou uma atualização sobre: agência de Comunicação - Cuidar do fio sem agredi-lo vira a nova aposta do mercado capilar. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNXzZaNXpfSmhtVkxxUmZqZHdmLVhKcG5DM1dWeDRSMElMeUhNckluTGZGTFU0dHB6ZnZMSWx5aElacWNSMHR2REdkWUR4UlRHQ045UlhSa0lUb1lHUHFBRExjRXJHZDA4SHVQcTZwWEdDNXptbnFqMTBDOFFBcE5fU0pNckdGTmhiQW9xc1oxeDdQRnpRUElMUFhYcFlMbDVqQVNEb2RxR3RZVGpSQmdjSTZobmJBaGZWQUZZQzlkT08zaFB2dmRqT1g4QVd4djI0?oc=5",
-      "source": "Estadão Blue Studio",
-      "published_at": "2026-10-27T20:22:01+00:00",
-      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1476,20 +1476,6 @@
       "archive": false
     },
     {
-      "id": "99ae0697d86e2198",
-      "title": "Anvisa amplia para cinco anos validade do implante contraceptivo; dispositivo é distribuído no SUS - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: anvisa amplia para cinco anos validade do implante contraceptivo; dispositivo é distribuído no SUS. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV043VUo5UURLOGpOUlRFVm9JRE5iZ05LYW8zcWZBUXY4aENzTTJwSG5HOExHTk1rbENmeG1TRXdLNkRxSkRHaDFfZ0w4cUJiZjZ2MEtzQ21zUXhSVklYR3N1ZDd1UkhyV1NYOUVlU2pna1JVLUZTdFZEbU9pSDRQeVdUVjZoMVFKWTd6WUMxRWQtNW03MnpoaEx1aGMzS2lEQ2RuRnZ3YXlfb0pDc3p2SDdYQzRGampnSVJPMEhkTHBNOHBEelBOUkJmdGV6WnA5d1ZJ0gHiAUFVX3lxTE1UVE13bHZEUHEyelhJbUdpRG91NlR6SW1pVGg5T0VmaW5ZZWdSMDNyLVdMeU1lVnZxQS1EYXQwTTloTmR4MVZELTlUcFFiajJ5dUVHSGV3c1daR3pZUmMxemdaMERsVGs3dlFJcmppM2txNTZtcW03azd3QUNuRnJlY05LUnB3TWxBMFRiME5qUGJtQmM1M1hZSGNHV2ktM2dpNFdIeHlqS1dpS1ZxT1ZRQmNEUi1mVUlWVDlGVXNlVEFjQk9ONjdQNFpuUTFsWC0yZjN3S0ptSHlHR1Y4UERLdkE?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-27T15:57:59+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "6c8560a580b222cc",
       "title": "Agência de Comunicação - Totens de autoatendimento reduzem filas na saúde - Estadão Blue Studio",
       "summary": "O veículo Estadão Blue Studio publicou uma atualização sobre: agência de Comunicação - Totens de autoatendimento reduzem filas na saúde. Consulte a reportagem para contexto, dados e declarações.",
@@ -1500,6 +1486,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "81e726e8400c3bf6",
+      "title": "Projeto muda regras para incorporação de novas tecnologias no SUS",
+      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto muda regras para incorporação de novas tecnologias no SUS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.camara.leg.br/noticias/1313222-projeto-muda-regras-para-incorporacao-de-novas-tecnologias-no-sus",
+      "source": "Agência Câmara",
+      "published_at": "2026-10-27T15:24:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1698,7 +1698,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 36
+      "items": 37
     },
     "VEJA": {
       "status": "ok",
@@ -1746,11 +1746,11 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 77
+      "items": 76
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 39
+      "items": 41
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1762,7 +1762,7 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 63
+      "items": 61
     },
     "G1 · Busca alternativa": {
       "status": "ok",
@@ -1770,7 +1770,7 @@
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 72
+      "items": 71
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1778,11 +1778,11 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 31
+      "items": 57
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 64
+      "items": 62
     }
   },
   "notes": [
