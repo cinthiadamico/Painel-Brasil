@@ -1,10 +1,52 @@
 {
   "schema_version": 1,
   "status": "parcial",
-  "last_checked_at": "2026-10-28T02:54:47.694257+00:00",
-  "last_success_at": "2026-10-28T02:54:47.694257+00:00",
+  "last_checked_at": "2026-10-28T03:54:46.373807+00:00",
+  "last_success_at": "2026-10-28T03:54:46.373807+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "72a343648ad51cb5",
+      "title": "Deputada da Argentina pede explicações sobre entrada de Flávio no país - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: deputada da Argentina pede explicações sobre entrada de Flávio no país - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS1VTbUc0VXBYVm9wNmdtdkxPTHpiTXJwWUpmN2lhU3I3NUk0clZPdG1jcjJ4RW9NV2ZfWXFrTV8zVlBHaER3dE1rU0VfQjFFZ0Z6bkU0ZlQtTm1uX0tPUTBwMHlmLVRCZ2tGMFFpbEJKVHo2SXRmcUJOLXZMVmxmclpfQmtfUTdmOFlPLVlFWVRjVzJSSVlFR2UxVWFKSUxkR2NZSkFn?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-28T03:35:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3bee61143b85d578",
+      "title": "Apuração em andamento em Israel mostra partido de Netanyahu à frente com 22,2% dos votos",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: apuração em andamento em Israel mostra partido de Netanyahu à frente com 22,2% dos votos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/apuracao-em-andamento-em-israel-mostra-partido-de-netanyahu-a-frente-com-222-dos-votos.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-28T03:12:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a65aec1a09c65ea6",
+      "title": "Mega-Sena pode pagar R$ 320 milhões nesta quarta-feira; g1 transmite ao vivo",
+      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena pode pagar R$ 320 milhões nesta quarta-feira; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/28/mega-sena-pode-pagar-r-320-milhoes-nesta-quarta-feira-g1-transmite-ao-vivo.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-28T03:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "4207bf5c590079d4",
       "title": "Israel Election Live Updates: Rivals Strike Tone of Triumph, but Outcome Is Far From Clear",
@@ -48,6 +90,20 @@
       "archive": false
     },
     {
+      "id": "9f14a2ec70a8200b",
+      "title": "Fuga de Flávio abre disputa pelo comando da oposição e aliados de Lula temem novo 8 de Janeiro - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: fuga de Flávio abre disputa pelo comando da oposição e aliados de Lula temem novo 8 de Janeiro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRGdadkRnTzFqSHRwQXNVNFREZ0xkMWp3VzRuTUdWeFl2MDJPVkFiSHotaGJ3N0MzOHJZdGFJSnRkVm84NTRXd1F0RnoxOHVTRi1uRHZram4yems1eGxjMC1HdFBYcTJvLUlzSnRZX0RqTGR0LXhKQXIxU3UtZVZZdUNpQnFaMkFBM1c0dmwwTm1TU0RZdXZDWEtNWmo4QUhkem1CaDFPb29hNkNxSGhqamtSNzAyLWxRaEtsaWJNU1Zhb0V3RURlMWlaY2RWSUgt?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-28T02:36:33+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "9cf75ac7a9f842b6",
       "title": "MPF arquiva denúncia de Nikolas Ferreira contra redator da lei das bets",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: mPF arquiva denúncia de Nikolas Ferreira contra redator da lei das bets. Consulte a reportagem para contexto, dados e declarações.",
@@ -58,6 +114,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3312afbd905f104a",
+      "title": "Conmebol recebe defesa do Estudiantes e aguarda parecer de tribunal antes de julgamento do caso Rojo - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: conmebol recebe defesa do Estudiantes e aguarda parecer de tribunal antes de julgamento do caso Rojo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPLTVGZlEycWJVaE01M2huTWRHVkxvNTdYeUw5MlJjR3VuWk5oTklvOTh5MXpHSUIyOGtKUGV0RkZHRkZwM2pFb1NqMWlPeHZNUHNXcHloZzhpWXFsNE9UWTc5aV91eUZ2VGpaRnNvODNmVTZsZGl6Y3NGREJmYlMzWWxadjZ6T29sUkJvOC1CN2lkOFBxaEN1c1ppS1dNVV8yR0ZManBkaWRCMGV4VVRtenN1cVA4NE1TNE9NVEw3WV9vVnppVTlScDdScHA3OWpIVWFHOXpuMDBfbmhfWURjWlRqY1pHSjNyb3hqUWVwYzNNb2tVVmNuR0xB0gGIAkFVX3lxTE9wMmxjTUxvX04wNlhCWTlBU240bTBkc09hT0dWY19UelkzQjlkcG5WWElvVmhMM0VPTENibTdIMWtIZ3ZfNDU2d19ob2ZHMVJ1cERHYTREdmctbDNoLS1BQjNFU1k2WlJmT3hHdkhLTFRiOWlYcTRtOWQ0QXVKZkNzeE1uQW9SbWV3dkI3OWo5amFzVEpvQ0w2N001MEl0XzVyamJ1bU11SWlwNXdqdGluTUw2WUdVbU10cldrWXpSY0xKUWFwVExYSnV0OWhWOTFWNW5FTzVNUGNQVGJlTEVRdzVMN2M4empXTmlMRnhwbkR2b2NDV2lHdHhhcG9OYWQtOTNtVmJfZA?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-28T02:16:14+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -244,34 +314,6 @@
       "archive": false
     },
     {
-      "id": "e43d8095fe07eb28",
-      "title": "Bolsonaristas divulgam listas de boicote a empresas e falam em demitir petistas após reeleição de Lula",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: bolsonaristas divulgam listas de boicote a empresas e falam em demitir petistas após reeleição de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/bolsonaristas-divulgam-listas-de-boicote-a-empresas-e-falam-em-demitir-petistas-apos-reeleicao-de-lula.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-28T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "319f582bae346b04",
-      "title": "Revolta contra a arrogância da extrema direita começou no Brasil",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: revolta contra a arrogância da extrema direita começou no Brasil. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/rui-tavares/2026/10/revolta-contra-a-arrogancia-da-extrema-direita-comecou-no-brasil.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-28T02:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "2dfa3ffd1d7c187d",
       "title": "Meta volta a censurar posts do Estadão após jornal entrar com ação no TSE - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: meta volta a censurar posts do Estadão após jornal entrar com ação no TSE. Consulte a reportagem para contexto, dados e declarações.",
@@ -405,20 +447,6 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-28T01:00:00+00:00",
       "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "573aa1ac19c24f40",
-      "title": "Leitores comentam fuga de Flávio Bolsonaro para os EUA",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: leitores comentam fuga de Flávio Bolsonaro para os EUA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/10/leitores-comentam-fuga-de-flavio-bolsonaro-para-os-eua.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-28T01:00:00+00:00",
-      "category": "Internacional",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -776,6 +804,20 @@
       "archive": false
     },
     {
+      "id": "d05be962777b1c0b",
+      "title": "Após forte alta, preço do trigo recua no mercado internacional",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: após forte alta, preço do trigo recua no mercado internacional. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/vaivem/2026/10/apos-forte-alta-preco-do-trigo-recua-no-mercado-internacional.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T23:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "190cf9290d183a17",
       "title": "A piada no Supremo sobre a fuga de Flávio Bolsonaro para os EUA - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: a piada no Supremo sobre a fuga de Flávio Bolsonaro para os EUA - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -800,6 +842,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "38364b60f3c9b426",
+      "title": "Polícia do Rio apura suposta encenação racista em ato pró-Flávio Bolsonaro",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: polícia do Rio apura suposta encenação racista em ato pró-Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/policia-do-rio-apura-suposta-encenacao-racista-em-ato-pro-flavio-bolsonaro.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-27T22:49:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -842,20 +898,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "54a87c9c55de1cbf",
-      "title": "Alckmin diz que fuga de Flávio Bolsonaro para os EUA é \"incompreensível\" - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: alckmin diz que fuga de Flávio Bolsonaro para os EUA é \"incompreensível\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2NrNDN6VE1wUXhkbVlzYlYtZ00xSDVCelNZcVNra2ZscjV6NHVjckt0X2xjbTNNaTc1UXhsZV9mUHVZRmVGZFhPX3FwUFdTbXVaWGREdS1JQ24zRHAtNm9FWnBzQ3RVcUxwdGZtOE1IVW1SREZGZHF0X2pMa21xNDZKWm15TzkyYW9tMUs1LTBhMXpsOUFOb2VBbnMtM1dfMWFtVGVzOA?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-27T22:39:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1182,20 +1224,6 @@
       "archive": false
     },
     {
-      "id": "a36047a3995e97d5",
-      "title": "Juros altos e dólar em disparada: o que esperar do crédito em 2027?",
-      "summary": "O veículo VEJA publicou uma atualização sobre: juros altos e dólar em disparada: o que esperar do crédito em 2027?. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/economia/juros-altos-e-dolar-em-disparada-o-que-esperar-do-credito-em-2027/",
-      "source": "VEJA",
-      "published_at": "2026-10-27T19:00:18+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d4a47bb4318d6b45",
       "title": "Medida fiscal em discussão pode elevar em ao menos 20% base passível para cortes no Orçamento e tem costura política avançada - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: medida fiscal em discussão pode elevar em ao menos 20% base passível para cortes no Orçamento e tem costura política avançada. Consulte a reportagem para contexto, dados e declarações.",
@@ -1220,20 +1248,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0a993fb0cdde40a8",
-      "title": "A fala de ministro de Lula que deve deixar o mercado ainda mais contrariado por vitória do petista",
-      "summary": "O veículo VEJA publicou uma atualização sobre: a fala de ministro de Lula que deve deixar o mercado ainda mais contrariado por vitória do petista. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/a-fala-de-ministro-de-lula-que-deve-deixar-o-mercado-ainda-mais-contrariado-por-vitoria-do-petista/",
-      "source": "VEJA",
-      "published_at": "2026-10-27T18:30:56+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1476,20 +1490,6 @@
       "archive": false
     },
     {
-      "id": "4a6dec90ba8e103c",
-      "title": "Polícia Federal cancela passaportes de Flávio Bolsonaro",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: polícia Federal cancela passaportes de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policia-federal-cancela-passaportes-de-flavio-bolsonaro",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-27T15:52:00+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "6c8560a580b222cc",
       "title": "Agência de Comunicação - Totens de autoatendimento reduzem filas na saúde - Estadão Blue Studio",
       "summary": "O veículo Estadão Blue Studio publicou uma atualização sobre: agência de Comunicação - Totens de autoatendimento reduzem filas na saúde. Consulte a reportagem para contexto, dados e declarações.",
@@ -1527,20 +1527,6 @@
       "category": "Eleições",
       "candidate": "lula",
       "election_type": "Apoiador",
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7146f1f7bea2c8c5",
-      "title": "Sergio Moro anuncia Aparecida de Fátima Gavioli para a Secretaria da Educação do Paraná - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: sergio Moro anuncia Aparecida de Fátima Gavioli para a Secretaria da Educação do Paraná. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYVNzZHBYdVg2T0hYcXEwSTVOSUZmWEVtVzJ4dk5HMGEtWWUxMmRuUS1LNDZseVB3Y3NMb0s0al8zaVh5X1hZSHdUODRyRXltNW4wa1RZOXpWdmUwZzg0UklySHVpN055Yjlzc3M3Z2FSOEsxMmlUV3dxZWQ1eHBtSVVxb0x0SkFWVERTdmN5bVJUV3FmV2NFREh4QkhWRWVJTFY1Z193UkNJWmFj0gG7AUFVX3lxTE1aS1RCZHdUOGl3dFJRTmtGbTlQWE8xUVZxcDhVZWxseFprRktLd2NpazBFTkFnOENVT3BTOUJPeENma3JQQklqUXdCQzBYZ21Id0RvVW5ydTlKcDhVLXVwcWlDb0duR1ZxSnV0ZmhCUjE2SjdoUkgySmRCQy03ODRqZ2JNbm5xSkVWZTlESkVqdDh0bGdoaHVlbHJhdDluNGVoZHliUFd3ODNyekdqY01WaVNFZU9iVFgxRTQ?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-27T13:50:31+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
       "via_aggregator": true,
       "curated": false,
       "archive": false
@@ -1658,6 +1644,20 @@
       "archive": false
     },
     {
+      "id": "8c359ed6a2cbbf19",
+      "title": "Reeleito, Lula precisa remanejar R$ 20 bilhões do Orçamento para bondades - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: reeleito, Lula precisa remanejar R$ 20 bilhões do Orçamento para bondades - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWjFkVm96cmI4cC1PM2NtSzBEM2dzbExSNWpLX3NIM2E4alJ2V2JmaWE3TkJTWDI4NHloYUp5WFVqeWZDVExscHhSdTBmcmVCTUhFM05VZ0xIYk9oZVB3ejR4UGJkckpNX3kybHpCUElWSTIxcF9SZ0hKajI0d1JTWng2MjMxRE11VzQ0ZjBsNDZGcnNENTNNcmlKdlh4akMyMUFuVXVkM24?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-26T13:39:00+00:00",
+      "category": "Endividamento",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "c7f6189a9b661375",
       "title": "Áudio: Flávio Bolsonaro contesta resultado da eleição e anuncia pedido de anulação",
       "summary": "O veículo Senado Federal publicou uma atualização sobre: áudio: Flávio Bolsonaro contesta resultado da eleição e anuncia pedido de anulação. Consulte a reportagem para contexto, dados e declarações.",
@@ -1698,7 +1698,7 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 35
+      "items": 36
     },
     "VEJA": {
       "status": "ok",
@@ -1746,7 +1746,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 80
+      "items": 77
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1762,11 +1762,11 @@
     },
     "Estadão": {
       "status": "ok",
-      "items": 59
+      "items": 63
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 53
+      "items": 51
     },
     "Folha · Busca alternativa": {
       "status": "ok",
@@ -1774,11 +1774,11 @@
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 76
+      "items": 75
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 30
+      "items": 31
     },
     "Eleições · Flávio": {
       "status": "ok",
