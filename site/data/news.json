@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "status": "parcial",
-  "last_checked_at": "2026-10-28T08:59:14.916377+00:00",
-  "last_success_at": "2026-10-28T08:59:14.916377+00:00",
+  "status": "atualizado",
+  "last_checked_at": "2026-10-28T09:57:20.324392+00:00",
+  "last_success_at": "2026-10-28T09:57:20.324392+00:00",
   "coverage_window_hours": 168,
   "items": [
     {
@@ -11,7 +11,231 @@
       "summary": "O veículo The New York Times publicou uma atualização sobre: rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
       "source": "The New York Times",
-      "published_at": "2026-10-28T08:49:42+00:00",
+      "published_at": "2026-10-28T09:55:24+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8392fed6d793e868",
+      "title": "Colisão entre dois trens de alta velocidade na Espanha deixa 10 mortos - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: colisão entre dois trens de alta velocidade na Espanha deixa 10 mortos - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFNFaUJ1bUc3R0JWN0EyRFQ1bUVQQ0NFb1EyMFVXRHcxOHIyV3l6S19icjl6QlJmS3pjTk83aFR0UTZTTHVzWWdPdmVuWkVDUDhTLTFxNnpSWWtiam1fdGFwQVF4RDJmVTd6ekZvZ29kS0tKb0tpdjdBTmVzdTdvR2tzRUtjNEZLM20zcFFJRFhudXpJRlBTV3Badk1pSHFid1E?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-28T09:53:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "81e95a2ee0e963d5",
+      "title": "Ataque com facas fere policial na Embaixada de Israel em Belgrado",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ataque com facas fere policial na Embaixada de Israel em Belgrado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/10/ataque-com-facas-fere-policial-na-embaixada-de-israel-em-belgrado.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-28T09:39:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "3b3fb3ebefa69a1a",
+      "title": "Argentina diz que Flávio Bolsonaro e família entraram no país na noite de terça e foram para o Equador",
+      "summary": "O veículo VEJA publicou uma atualização sobre: argentina diz que Flávio Bolsonaro e família entraram no país na noite de terça e foram para o Equador. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/politica/argentina-diz-que-flavio-bolsonaro-e-familia-entraram-no-pais-na-noite-de-terca-e-foram-para-o-equador/",
+      "source": "VEJA",
+      "published_at": "2026-10-28T09:37:25+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "429c18bbfeee472e",
+      "title": "'Senhores' e 'escravas': polícia desmantela rede de exploração sexual de meninas que gravava abusos para manter vítimas sob ameaça",
+      "summary": "O veículo G1 publicou uma atualização sobre: 'Senhores' e 'escravas': polícia desmantela rede de exploração sexual de meninas que gravava abusos para manter vítimas sob ameaça. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/28/operacao-de-combate-a-rede-de-exploracao-sexual-de-menores-no-rj.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-28T09:33:53+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cf737302f5e8cada",
+      "title": "Justiça condena empresas e empresários a devolver R$ 1,4 milhão desviados em projeto industrial no MA",
+      "summary": "O veículo G1 publicou uma atualização sobre: justiça condena empresas e empresários a devolver R$ 1,4 milhão desviados em projeto industrial no MA. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/28/justica-condena-empresas-e-empresarios-a-devolver-r-14-milhao-desviados-em-projeto-industrial-no-ma.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-28T09:30:01+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b83e0546a17a753d",
+      "title": "Família Aguiar: Justiça marca data da primeira audiência do caso dos três familiares desaparecidos no RS",
+      "summary": "O veículo G1 publicou uma atualização sobre: família Aguiar: Justiça marca data da primeira audiência do caso dos três familiares desaparecidos no RS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/28/familia-aguiar-justica-audiencia.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-28T09:14:45+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0d30d49d2010fd04",
+      "title": "Advogado ligado a Trump disse que Flávio Bolsonaro estava nos EUA desde 3ª - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: advogado ligado a Trump disse que Flávio Bolsonaro estava nos EUA desde 3ª - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUE4bEdZSUFPR3dTanlOSkdsOFlZUjhaMU9BYkRTemdNZ2lkZmJzMVZKcWl0Y2VuRGlrQlBKcThnSE5YN2huX280Q0F1OTlzdGZVWVBkN2F2LURjRTBIdnk3V3pEYjQtQ3AyanNOU1ZKRUpMRWJ1MGpwZ0tOQ05jNWhsNVZubmVsQUQ1ek4tTkMtb1lMWklNdUE5T2lfNmszT3ROUTRpdUF3M0U?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-28T09:10:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c1ef827db38c50b9",
+      "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: the Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-28T09:05:55+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "4ca5105bd0e8ca3c",
+      "title": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
+      "summary": "O veículo The New York Times publicou uma atualização sobre: rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
+      "source": "The New York Times",
+      "published_at": "2026-10-28T09:04:43+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9e73028e4ef0d6bd",
+      "title": "Avião que Flávio teria embarcado pousa no Equador e deve ir aos EUA - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: avião que Flávio teria embarcado pousa no Equador e deve ir aos EUA - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSC1RdXZPUzlfU0xkSzlxaElkT0cxZjRTVktPcTZqcDdhZlQtR3V6cUNieTFOeVFoWndvUERQOUdmbGduZ3RvN2tBalFfcHBDQzl2eG5yMnFfV2NITXl0cUk4TWo2cUc1NThfX1Q2REVOUjdsV1lrT1hMc1RGYkMyUGI1cWtzeThkc1E2dUtFT21IVnFETGFkUzJ0eC0wZVlL?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-28T09:02:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6143b4651f49014a",
+      "title": "O grande dilema de Lula ao começar a organizar seu novo mandato no Planalto",
+      "summary": "O veículo VEJA publicou uma atualização sobre: o grande dilema de Lula ao começar a organizar seu novo mandato no Planalto. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://veja.abril.com.br/brasil/o-grande-dilema-de-lula-ao-comecar-a-organizar-seu-novo-mandato-no-planalto/",
+      "source": "VEJA",
+      "published_at": "2026-10-28T09:01:49+00:00",
+      "category": "Governo federal",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b181d2dd5c48e5a5",
+      "title": "Qual o futuro de Flávio Bolsonaro? - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: qual o futuro de Flávio Bolsonaro? - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNFZ4WG9Pa09LRjIzeUoyMzNvMWpwR19nV0J3cVZ6SmhYWTRCZkc3ZkdBZ3pLd0Fzb2F3eFdHVU52RzNpUVBkV1Rld25EMjlURE9UM3ItbUtMUGF1b2dVTG9CSmNrZzdjN1FycTBBTjB3MGxiYkdRd2RRZ05FdTU3dkZfNW56SHBITkRMTA?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "5bbab26106e85eaa",
+      "title": "Defensoria pede bloqueio de R$ 2 milhões da Prefeitura de Belém após Hospital Pio XII suspender atendimento pelo SUS",
+      "summary": "O veículo G1 publicou uma atualização sobre: defensoria pede bloqueio de R$ 2 milhões da Prefeitura de Belém após Hospital Pio XII suspender atendimento pelo SUS. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pa/para/noticia/2026/10/28/defensoria-pede-bloqueio-de-r-2-milhoes-da-prefeitura-de-belem-apos-hospital-pio-xii-suspender-atendimento-pelo-sus.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "012aa65389783c84",
+      "title": "Câncer de mama: Especialista do AC explica sinais e cuidados para identificar a doença",
+      "summary": "O veículo G1 publicou uma atualização sobre: câncer de mama: Especialista do AC explica sinais e cuidados para identificar a doença. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/ac/acre/noticia/2026/10/28/cancer-de-mama-especialista-do-ac-explica-sinais-e-cuidados-para-identificar-a-doenca.ghtml",
+      "source": "G1",
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2904ef958052c5d9",
+      "title": "Celebração de Lula em carro chinês é novo retrato da indústria automotiva nacional",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: celebração de Lula em carro chinês é novo retrato da indústria automotiva nacional. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/eduardosodre/2026/10/celebracao-de-lula-em-carro-chines-e-novo-retrato-da-industria-automotiva-nacional.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-28T09:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "725ee4c8eda86fe3",
+      "title": "Flávio Bolsonaro cruza fronteira argentina e segue para o Equador",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: flávio Bolsonaro cruza fronteira argentina e segue para o Equador. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/flavio-bolsonaro-cruza-fronteira-argentina-e-segue-para-o-equador",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-28T09:00:00+00:00",
       "category": "Internacional",
       "candidate": null,
       "election_type": null,
@@ -34,13 +258,55 @@
       "archive": false
     },
     {
+      "id": "572e390895275a99",
+      "title": "Análise | Moraes é validado por eleição de Lula, dobra aposta e tenta acuar Congresso - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: análise | Moraes é validado por eleição de Lula, dobra aposta e tenta acuar Congresso. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQlVhRS13OGhyZVlNRldHUlRpenBCOUJrZWlyaTdJaWcwYnNUeFVzZnJFYXRQZXZwZGI3d25fRXpVUl95U3U2WmhMRFpTS1czNGxfeUp0alhVb21Od0F1Q2FhbGJPM1h3VDJaUzdoNy1VM3hxTWk3NU1TX0FqVG00TzVUWGRWT3liWkdnYURBcnV6ZWlWcTVlWGwwajlmSmJSSTY1dm1CS2RVMks3UFJGNWtPSnF6MEItTTAyNUNJemhvUTh1UG1TWkNoNUVSTWRVZFJR?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-28T08:39:12+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2c98fed6f3913820",
+      "title": "Governo Lula precisa correr para enviar MP do ‘imposto do pecado’ para que possa valer em fevereiro - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: governo Lula precisa correr para enviar MP do ‘imposto do pecado’ para que possa valer em fevereiro. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORjVNLTdpQmtka3I1SjlRUlVDTzNXMlV3VHZ4bVZsV3RUU1YxNVZKVGhtLXcwUUpBT0Q4YVQ4WmdLd2dpOGFMWkFNdlBDTVdOSnJCREl2cFNoTDNINjhLQUJELUpYd041aXB1TWpsYzgxYWxBM1ZjRDNfNWY3dkp1WUowVFB0WGZEU2J5QkdCVkhKYjg0NjVQV3drZXBWZWhyZG1xN2plc2hyaEFfeUJmLUtLNU95RDNJUDhMVFdwdWR4N2tkeS14b2FXYWlvcDg?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-28T08:39:12+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9c10c9352c276f83",
+      "title": "Equipe de Lula estuda criar piso salarial da PM com ajuda federal, mas restrição fiscal é desafio - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: equipe de Lula estuda criar piso salarial da PM com ajuda federal, mas restrição fiscal é desafio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTEZLTkJiOWV0MmkwRThHU3pDeE9oRlFkLXcxdkprbGo1eVBlNWRTVWY2OWY4X2IzQm9lcHc0cHZKdlJZN29qcG1yLTkwOTEzQ25FUWxHZTkyTm1QVFgySXFKRXFoV002ZjVKQ2ZhWFFuZ0FJaUZvYnlqNDlNM3R0Z2J5ZTVrX3FLTkloMDZaT3ltdnIzMUlkT2dNVEI5OExWMEdJQk5GVXdCZDdxcHg2Yk13T3RLSFItenBmaDhNS2IwbUd3WnItSGNydUpTQ2Vab0RWQzBR?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-28T08:39:12+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "c11313bd8e6e1847",
       "title": "Argentina diz que Flávio Bolsonaro entrou no país e viajou para o Equador - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: argentina diz que Flávio Bolsonaro entrou no país e viajou para o Equador - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3dqTjlVZjllVEVDazB2UVVJTTR6QkppajVrSjZORjNCN2J6N0lQZHFTYnhwVVVEY3JFSGxMSmdHNTVhQnkzRUwzR09SbGhlbTVTUmFfQWxYQ3haQkFJTmZkaUtwSDJBa2N4a2Y1R1hvRjJOaHVIQlhnY1NqdVg4UVNSNGhFRDdNSTlZOHJFWEY4WW9GeGdrRE8yaEc1aVktelNReTBuYVo5UQ?oc=5",
       "source": "Metrópoles",
       "published_at": "2026-10-28T08:39:00+00:00",
-      "category": "Internacional",
+      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -118,34 +384,6 @@
       "archive": false
     },
     {
-      "id": "4093536900f715bb",
-      "title": "Secretário-adjunto de Guarujá pede exoneração após posts contra a contratação de eleitores de Lula",
-      "summary": "O veículo G1 publicou uma atualização sobre: secretário-adjunto de Guarujá pede exoneração após posts contra a contratação de eleitores de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/28/secretario-adjunto-de-guaruja-pede-exoneracao-apos-posts-contra-a-contratacao-de-eleitores-de-lula.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-28T08:16:32+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c318fe6df2558725",
-      "title": "TikTok bane conta que transmitiu ao vivo agressão que matou engenheiro após ato pró-Lula",
-      "summary": "O veículo G1 publicou uma atualização sobre: tikTok bane conta que transmitiu ao vivo agressão que matou engenheiro após ato pró-Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/28/tiktok-bane-conta-que-transmitiu-ao-vivo-agressao-que-matou-engenheiro-apos-ato-pro-lula.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-28T08:16:07+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "87e4dbd1e4aa4895",
       "title": "Eleições nos EUA: MAPAS vão mostrar apuração em tempo real",
       "summary": "O veículo G1 publicou uma atualização sobre: eleições nos EUA: MAPAS vão mostrar apuração em tempo real. Consulte a reportagem para contexto, dados e declarações.",
@@ -174,20 +412,6 @@
       "archive": false
     },
     {
-      "id": "f2972c40a307e891",
-      "title": "Governo renova subsídio ao diesel; por que o agro é tão vulnerável à alta do combustível?",
-      "summary": "O veículo G1 publicou uma atualização sobre: governo renova subsídio ao diesel; por que o agro é tão vulnerável à alta do combustível?. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/28/por-que-o-agro-e-tao-vulneravel-a-alta-do-diesel.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-28T08:00:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "06d67ba79a1e0865",
       "title": "Estudante reprovado no ensino médio é denunciado por apresentar histórico falso para se matricular em universidade federal",
       "summary": "O veículo G1 publicou uma atualização sobre: estudante reprovado no ensino médio é denunciado por apresentar histórico falso para se matricular em universidade federal. Consulte a reportagem para contexto, dados e declarações.",
@@ -202,13 +426,13 @@
       "archive": false
     },
     {
-      "id": "d5f5b738a8c59bc4",
-      "title": "Podcast discute reações e impactos iniciais da fuga de Flávio Bolsonaro",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: podcast discute reações e impactos iniciais da fuga de Flávio Bolsonaro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/podcasts/2026/10/podcast-discute-reacoes-e-impactos-iniciais-da-fuga-de-flavio-bolsonaro.shtml",
-      "source": "Folha de S.Paulo",
+      "id": "f2972c40a307e891",
+      "title": "Governo renova subsídio ao diesel; por que o agro é tão vulnerável à alta do combustível?",
+      "summary": "O veículo G1 publicou uma atualização sobre: governo renova subsídio ao diesel; por que o agro é tão vulnerável à alta do combustível?. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/28/por-que-o-agro-e-tao-vulneravel-a-alta-do-diesel.ghtml",
+      "source": "G1",
       "published_at": "2026-10-28T08:00:00+00:00",
-      "category": "Política",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -230,20 +454,6 @@
       "archive": false
     },
     {
-      "id": "91291654fc7f1cea",
-      "title": "Governo Lula espera escalada de tensão com EUA após fuga de Flávio - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: governo Lula espera escalada de tensão com EUA após fuga de Flávio - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcU9xUmRucHBGOGQyeHVrOThuMXd5MXhuNVVlZThBM1ZadFVQY2RqTVZxSW9pbVZhWlhrbTFwLWZYSGVQMTNzYVF5cF9Da210akF0V0VTMGRqemNubUhiUmltTERGVTBkekJ4cmZ2UnRsOEpqaEhFYm5HRTMwUm5BdzVDTzBZV1Rqc0VKRU1mc2UtWUd1cHJmcTZfT1NTYmtnR0E?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-28T07:30:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ff50069001369ff9",
       "title": "Sem Flávio, como oposição e Centrão se reorganizarão a partir de 2027 - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: sem Flávio, como oposição e Centrão se reorganizarão a partir de 2027 - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -258,55 +468,13 @@
       "archive": false
     },
     {
-      "id": "73d5a601d6b22d92",
-      "title": "Flávio vai aos EUA em meio a momento eleitoral delicado para Trump - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio vai aos EUA em meio a momento eleitoral delicado para Trump - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlJwV1YweVRRV2dpRm5Yb3g2S1ZsdGkxTVlqSXZpSGxVbmt4a05SQnoxRThTQmk5TzREV2NydF9nS2FaNngtTjhwM1B0U0oxN1pTODRrUnZ2S3p6d1dNRzlMV3E1SDJvRzhJUHQxcXVsOHpmZWcxdnRvR0NuWGlQSXNOd1I2eExyVG54RjdKQ0h3YzFGWllZNDNuMHNVejdRLTVB?oc=5",
-      "source": "Metrópoles",
+      "id": "aa61735158f40edc",
+      "title": "Ibovespa hoje: decisão sobre juros nos EUA entra no radar após sequência de quedas da Bolsa - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: ibovespa hoje: decisão sobre juros nos EUA entra no radar após sequência de quedas da Bolsa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTUhoN1ZzY1NjSW1ESmdDVnBrUUUtcENuUFpJS3dZR0t6blpzZS1rQS1NYjJlYWxabndyUWFPUHhiWHZPTWE2UlRua0ZXMzZab3FLSDVLalA1SEM2bkdGT3hMMG9wTUtsc01ib1Z4VlNCZmcxUU1DbGJieEVBYzhiUkUtVFFRcTdOOVNaZ2EzbHloaU5Ob0wwSHJfMFZjQzBBbUE4VlVTZjNkYV83eWhKRUQyU3AxbEJqamRJeUZVSngxcW4ybjN6d2dTZ3JodWdVLUJFNFVELUZteGtEeG93T0U0Z9IB6AFBVV95cUxPam1HMTd6NWNaWi0zNnpKVEQteTk5OGlvY3NXY3lqWHdfcVhLa051NlJsSEZJNEtHN1RXRm5uVFdRemczNnRnRG1fODE2ek5KcUM2RXUtZzNmSWpRTEpWc2tlVm5OLVhhVGp1OGtrd1VUVTFzdmpVX3Q1YXgzSUhHZU40TXo3ckIxaTd5Z205ZUVCZVZoZk4xSm1SSW5aWWRyX0hjcmFMSTNwYmFBaC1nSWlDN3JFakxWNzk4OEVhQmltWVh4S0RLVVU3U1F3emhGVWhqdWpnMWQwVUZsa211eUVVdDlTN2VW?oc=5",
+      "source": "Estadão",
       "published_at": "2026-10-28T07:30:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3cdee67a18bebb7f",
-      "title": "Mulher que foi barriga solidária do irmão deve receber salário-maternidade, decide Justiça no RS",
-      "summary": "O veículo G1 publicou uma atualização sobre: mulher que foi barriga solidária do irmão deve receber salário-maternidade, decide Justiça no RS. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/28/mulher-barriga-solidaria-irmao-receber-salario-maternidade-decide-justica-rs.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-28T07:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e5b52e29160b7998",
-      "title": "Bloqueio de bens, prisão preventiva e rastreamento da rota de fuga: PF avalia próximos passos após Flávio deixar o país - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: bloqueio de bens, prisão preventiva e rastreamento da rota de fuga: PF avalia próximos passos após Flávio deixar o país. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZEQ3VXV6RWktQnZkRm5ZYkxSUUdpUUJ5dWgteGFnSzl4dzhuRkRvbWpGMDhNM2dSUjFraXJINzVJSDB2aXRteWJnRWE4dkVBTkZ5X1QtRUE0bzlpQ3dtcC15RWNRTXRUeDdsNjMtX3I5X19uLUtQLURYRjhqcGtKalpoeGFYWXhqRG9CSE5kemh0dURZSWQ2REdIVzFNODcyTEFwdDduQnVmRmN2NzY2TkF1OV9yM1FoaHJXeGQwblBBMUQ5XzA2cVUtV0NoY0pncVJ6YzVwdW5fN3JJRTdObHNEME5HZk0tcGZtNDlUVkJOZFA5WTY2R0NJTlU5UjRWQ3JLTXhvd9IBlgJBVV95cUxOZ25JYlpBdTRLZ041UEw2VEREVWxsa3V6Y19zSWtMMlJqNjZlZXNrS0ZIaGxKa0FtTDhvTDBld2c5NUdqRzJYa0Y2VjNwaE5NTk5ld2RINE5CenBTNVNxQnNCcEhuTXF5TzJ0czNGZXowV25OVkhZQmViZG5GMHk2UGxmU24wQTE4S3d2RWgtaWgxZng2Q3lHN1RRdGFlcWU4NXZIWFpFQTNUX3BYclRVSmlfOE93NWloQnp1blA1OW1UWHdaaDdPN3FURFJTeDlXUlhoUzNRN0RLa1Y0VlV0RWxpMVdad280R2xoLXpfU0NOS2NwY2FFcWQ3cWdUUnpzenRlMlhwcnN2X01IQ0RyM2kxTVUyQQ?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-10-28T07:30:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7a515f463f41e543",
-      "title": "Na esteira da fuga de Flávio, Tarcísio, Valdemar e Michelle miram no futuro - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: na esteira da fuga de Flávio, Tarcísio, Valdemar e Michelle miram no futuro - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0QxZ1I2aFFBYzVZQUFSb1Z0NU11SzNXTlBJZnJGa2hZMlBOVm12U3l4U3lRbmlPcTYxQjNZNU9waVVxN2p3STdDVFJUcFowZUUxMXVJaDVXdVlzVUtCbzdHdWtCZXpwYUs1SGRnR3JCNlVjcDU2THluTEc3bEFHVzFJeTFoLW10TE1wUkpwaElPZHBEOVJEMlJCTDZLcEdad1phaGozVHhQeXc?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-28T07:00:00+00:00",
-      "category": "Política",
+      "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -398,62 +566,6 @@
       "archive": false
     },
     {
-      "id": "c54c3d89c3a8b129",
-      "title": "Netanyahu pode continuar no poder mesmo se perder as eleições em Israel - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: netanyahu pode continuar no poder mesmo se perder as eleições em Israel - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX0FNQzg2aHNOaUhzaXhuYlR4aW95NFJqNzFpbzEyVVhEdXR4UU1XWHlrdDZNZWwwZGF3ajgxR1pocGFhZWFUQk9HZmxfVkppLVpyN0RqMW1YU21zak1Wb19wd0tXakgxamRkOWJwTU1RTkl6R3F2NzFoLWhBWEhxX2lVeUIydHluSjJKUDJIUTNLV2t0XzI5TmtQTFBOS1JGTWVYYzJmVQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-28T07:00:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "39fa3e899e432280",
-      "title": "Imprensa internacional repercute saída de Flávio Bolsonaro do Brasil após derrota nas eleições; veja - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: imprensa internacional repercute saída de Flávio Bolsonaro do Brasil após derrota nas eleições; veja. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVM1R29HTExTZFNpTkM1eW9PUWhaOG9KX3VLTkRHekNDa2tpU1JEVGpmV2tfdXNjUTNoNXhJT3BvTkFXTTVRcks5Z01lOE1HZ0d0WTdwckhrZVExLTBZZFl2NFNIVUY0d2ZsYnoybDcwY3VvMzQ4QjNGeUR3eU1oSS1scUdDMy0yZkEySG1UWGlCZk4xV1AzLVBmU093cFAySXRPSHVWTjJVbE84VUxiUGNKZGxZRmVOMzFsUNIBwgFBVV95cUxPanZhMlJUbllTdVFDaFJ1Q2RVaklhdTdRbmpmQ0VRb2Rac3FsYzlaV3RLVTdBc0FiUEFWNnUyLS1QNGh5SEZZUVktcnZjQUZKdVFDLUtsMkw1OTFiRUZ4c0hlRE1OdU84aUlPS2tmakktaDNaODJNZmlVc1FVRmNpbUw0cmlZSU9QbU45SF9DRThIWVZiM2c5Z1J5Tl83M3lDa254TVVMZEl4Rk1lcEVHUmxnTk1NYTVLbXIxWXdyTW9aQQ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-28T06:51:42+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3ccd846001479b0e",
-      "title": "EUA dizem que concederão vistos a Flávio Bolsonaro e família - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: eUA dizem que concederão vistos a Flávio Bolsonaro e família. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ub19jWjhZLTQ3RlBGUGg3Y0phTGhsamtnWGRGc2lVMXEwR0hyYUtUSXBsOWVleVZCZERQRm9QLVl5d1l6S0ZUSEdsUTlQd2NBb0VZSWlZcGRKWklfSW5oelJPNWUxYjlzb2N4dFVTUGxmRDExTnfSAXtBVV95cUxOeWZDUjZMTndvY0s2Qk94QkUtU05RNkJER2RzbzQzZDg1eXc4dEdnclNwaEFJSW44SHRQRWxQc0I1VktzOHZzdnkySkZnbEUwX2MtQUl5NndxVnVGZUFfZ0F5VE5FTG1sQjhGWjlyNi1UdENwZVA3ek5oclE?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-10-28T06:48:12+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c1fe7138d7383c78",
-      "title": "Flávio não tinha impedimento para entrar na Argentina, diz governo de Milei - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: flávio não tinha impedimento para entrar na Argentina, diz governo de Milei - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWtvR2F6dmlXWXB1Vm5fTTc2SlVoOWNranFDN1VRMzI2SVlGVXIwWU9Nd1o0Q3NodWN6YjhLUWNZMThScmNSR0xJOGtoQ25UeEpIY2R1eExqTGRhUUVZbVByZWZWYjktMlhscTZvTVpfTWF4NHdWWXREQko2dUg0Rnd3WndjSkhqT193al9PZUwySkwxMjdRVlI5cmN0S1hRVlZkOFlhcFo5RzQ?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-28T06:18:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f056bdbe0d102af4",
       "title": "LISTA: veja os 6 carros de até R$ 100 mil que consomem menos combustível",
       "summary": "O veículo G1 publicou uma atualização sobre: lISTA: veja os 6 carros de até R$ 100 mil que consomem menos combustível. Consulte a reportagem para contexto, dados e declarações.",
@@ -482,10 +594,10 @@
       "archive": false
     },
     {
-      "id": "47b2505b1cce5524",
-      "title": "Anthropic se prepara para um dos maiores IPOs da história; veja ranking",
-      "summary": "O veículo G1 publicou uma atualização sobre: anthropic se prepara para um dos maiores IPOs da história; veja ranking. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/economia/noticia/2026/10/28/anthropic-maiores-ipos.ghtml",
+      "id": "52d00a6a1bbb749b",
+      "title": "Políticos e influenciadores incentivam demissão e boicote a quem votou em Lula; MPT aponta violações",
+      "summary": "O veículo G1 publicou uma atualização sobre: políticos e influenciadores incentivam demissão e boicote a quem votou em Lula; MPT aponta violações. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/28/politicos-e-influenciadores-incentivam-demissao-e-boicote-a-quem-votou-em-lula-mpt-aponta-violacoes.ghtml",
       "source": "G1",
       "published_at": "2026-10-28T06:00:00+00:00",
       "category": "Economia",
@@ -496,58 +608,16 @@
       "archive": false
     },
     {
-      "id": "b5bbf93e56cbba53",
-      "title": "Câncer em situações de crise: como preparar o SUS para garantir a continuidade do cuidado à população?",
-      "summary": "O veículo G1 publicou uma atualização sobre: câncer em situações de crise: como preparar o SUS para garantir a continuidade do cuidado à população?. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/saude/noticia/2026/10/28/cancer-em-situacoes-de-crise-como-preparar-o-sus-para-garantir-a-continuidade-do-cuidado-a-populacao.ghtml",
+      "id": "47b2505b1cce5524",
+      "title": "Anthropic se prepara para um dos maiores IPOs da história; veja ranking",
+      "summary": "O veículo G1 publicou uma atualização sobre: anthropic se prepara para um dos maiores IPOs da história; veja ranking. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/economia/noticia/2026/10/28/anthropic-maiores-ipos.ghtml",
       "source": "G1",
-      "published_at": "2026-10-28T05:00:40+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "196ceacb105c3072",
-      "title": "Novas regras do vale‑refeição e alimentação: o que muda nos cartões a partir de novembro",
-      "summary": "O veículo G1 publicou uma atualização sobre: novas regras do vale‑refeição e alimentação: o que muda nos cartões a partir de novembro. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/28/novas-regras-do-valerefeicao-e-alimentacao-o-que-muda-nos-cartoes-a-partir-de-novembro.ghtml",
-      "source": "G1",
-      "published_at": "2026-10-28T04:00:00+00:00",
+      "published_at": "2026-10-28T06:00:00+00:00",
       "category": "Economia",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7b0d7c84e80514c1",
-      "title": "Crise climática causa danos cada vez maiores à saúde e exige emergência sanitária global, apontam cientistas - G1",
-      "summary": "O veículo G1 publicou uma atualização sobre: crise climática causa danos cada vez maiores à saúde e exige emergência sanitária global, apontam cientistas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSXY3WDJsQmNVNng2RWI3aDNrSUJQZEM0SUxSMklITktiMklUUy1VS05WUmZFdGRGRHJmVE9PUndTM2RlQ3gyTDBoRVZUWnZvNUpOdnByV08zaVg0SjZYTEVWV2pldlhsdURrUjFEZkl0aFhxRHN2UXNDRWRWbmhGd2ppSWhFX1BYUHRKcHlzZ01JN3JnZEZDQnhTV0FTb1RuX3Y0RHZaN2F5UVpHN21zb0wwYldXLTdrb2tHRE9LdGF4U1JTai1wYVFLRXMzdTg3UTU2eTRIUHBIdEFlR0ZWUVZvVk02THJQbjNzbzNfNlFpVDRvVWFLVWtTa9IBigJBVV95cUxQMEIyZVNyc2VpVnYxc0RNQVc3bHc4dzdSdHFSR3o5LVBHN0JRcWc3al9uVVZCZGw2dnVxejZyVk04X2pfc0tadWkwUFZiS1dyMklMeWxrelJUNXNhekg2WkdpS2ZSU1ZGUWdISEtSaElBVWpsT2tXV3Q4a1VNbEdMOUZuRFk1TERmRXBaMjgtS2Vyemp4TTZRUm1MSnpTbXpwWlFsRHV5VldjeUFuV1ZzSERNSVh5Y2tXNklnVHJ2cVVXZzQySXRTaS1rOGl6Z1dFcDdyT3hmS1B2M19RTzlNZ1BlSTN5VWx4NENZdlFqcnB4TTc0TElIRE5nMy1aQTQxc1loRFVOOEp3Zw?oc=5",
-      "source": "G1",
-      "published_at": "2026-10-28T03:00:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "66f62b134cb84ca6",
-      "title": "Três ganhadores dividem prêmio principal da Lotofácil 3815. Veja resultado - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: três ganhadores dividem prêmio principal da Lotofácil 3815. Veja resultado - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3dlcmhCSkVEX004a1dkV2pjWnE0R29FWTU2Unk0eDY2bmlVNS1ZQ3dtMS1fWDR0SjZiVVBwZGVUYXkwSWNnVmRKYW5uRXhlRWxKOGM0SkR4dTZzTDVtcFYyQVoxQ1FSajRsNU05dHRpak1UZ1BRTWVFWndHVzcwMUVzWHBtWFRidjdVdE1Mb0YybElJaXJ5NWpjZWVSWjNIREpZSW5LbGRnb0U?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-10-28T02:13:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -706,6 +776,20 @@
       "archive": false
     },
     {
+      "id": "7522a8be3afa45bd",
+      "title": "TSE decide que PSOL fez votos suficientes para superar a cláusula de barreira - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: tSE decide que PSOL fez votos suficientes para superar a cláusula de barreira. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVJwRWUzZmJCMC1TNHBDaUhGeU41aVpzUUxEblNCSEZvQnNNZ1c4TUlDbFVXQWJHLUpneUY3QXpnUFBtbXJGQ3V4eGNQQWM2QTV5aFJUWXc5YW8teG5ZWlI4Uk41NXpnRUpvQTJmOXFqSzFXNFhPYzhsbWljSjdyZmFGSjA2UTV1ei1PRlRjVVhSQkhSSnNZYzhBZUNTMXMzanI5akpfMnBzLTRpUjVTd041dEtnS1dpX0x1NFg3UGZJT08tb0pJ0gHMAUFVX3lxTE1CXzI3R3l5NTE1dTNGZ2M1NGVUYktMWUhkWWFzeHhsdEdGdThlQ3JyWDQ0dXBoRDlWckxoVDR0WENGYUZmcy03Zy1FZ3pyQzdsb09ZbXhocE5DQUZKNS1ES2w0Wl9sNmpxdEk1ODJuV1k3SFp1UWFzazJISFhGMFczUmJ2WkdTalc4SklJbkcwZ096NDM0TzFzUmJqa3FON0ZzNjJoSC1Vd2F5QXB2eUx3bWtRTk81eEU1OWczaHBVX0NMNkd6dWYyLUNsVA?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-28T00:47:14+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "5500e9ed93363bb4",
       "title": "Câmara aprova apoio financeiro a produtores de cana-de-açúcar no Nordeste",
       "summary": "O veículo Agência Câmara publicou uma atualização sobre: câmara aprova apoio financeiro a produtores de cana-de-açúcar no Nordeste. Consulte a reportagem para contexto, dados e declarações.",
@@ -818,16 +902,16 @@
       "archive": false
     },
     {
-      "id": "f9ac1ee1a1391e56",
-      "title": "Grupo fez live agredindo engenheiro que morreu em Santos; polícia identifica suspeitos",
+      "id": "37cdc0c4143d8d4b",
+      "title": "Grupo fez live agredindo engenheiro que morreu em Santos; polícia identifica suspeitos - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: grupo fez live agredindo engenheiro que morreu em Santos; polícia identifica suspeitos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/10/grupo-fez-live-agredindo-engenheiro-em-santos-nao-vou-sossegar-enquanto-nao-for-feita-justica-diz-pai.shtml",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTndGQmIyeGUweHJRZVAxMHFOb29WSHg4b3NVOVB4UDFjMWRXUjRhSk9ZSmp5WGtpSUxxNEs5XzBjdk5Za2ozMFVqa0k1SlBPVGtpZ0VEWFVMTDE2U3ZQZFZEQVBJMXVNNnFneEVfZ3ZvZzVsVm1hWEZQVHllSHVCVWtNbmRmQXhETmwzazVmMVBWaXhkRmtmXzRxS0xzWGUxMFZBQWNVU04xRnpNNEVwMXFRajZKcWFiNUdKcExINkdWam5ILXZVaDIxcnlXclZzVXQyUnRDeDFZWlBDVXlaUUNUWVk3a2RvZWxn?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-27T23:22:00+00:00",
       "category": "Segurança",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1056,20 +1140,6 @@
       "archive": false
     },
     {
-      "id": "aa5c10be9ef3396c",
-      "title": "Projeto prevê política de cuidado continuado para pessoas com deficiência de alta dependência",
-      "summary": "O veículo Agência Câmara publicou uma atualização sobre: projeto prevê política de cuidado continuado para pessoas com deficiência de alta dependência. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://www.camara.leg.br/noticias/1310568-projeto-preve-politica-de-cuidado-continuado-para-pessoas-com-deficiencia-de-alta-dependencia",
-      "source": "Agência Câmara",
-      "published_at": "2026-10-27T21:42:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ba9948532ff19e6f",
       "title": "Summit Saúde 2026: Inteligência artificial deve transformar rotina dos hospitais em três frentes - Estadão",
       "summary": "O veículo Estadão publicou uma atualização sobre: summit Saúde 2026: Inteligência artificial deve transformar rotina dos hospitais em três frentes. Consulte a reportagem para contexto, dados e declarações.",
@@ -1161,34 +1231,6 @@
       "source": "O GLOBO",
       "published_at": "2026-10-27T20:32:23+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "7c0017841c37a7fe",
-      "title": "TSE contabiliza 34,3 mil votos após as 17h no 2º turno das eleições",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: tSE contabiliza 34,3 mil votos após as 17h no 2º turno das eleições. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-contabiliza-menos-de-35-mil-votos-apos-as-17h-no-2-turno",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-27T20:13:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "98babb4311852488",
-      "title": "Promotor Gakiya diz que, se for convidado, aceitará ser ministro da Segurança Pública de Lula - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: promotor Gakiya diz que, se for convidado, aceitará ser ministro da Segurança Pública de Lula. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSFB6c19QdUp3QnlHZ1I3ZjZOb2RzVDJ6eVE2NU1CZmpnd0p2bkxvR1E4b0Z2VXFiQS04V2FramlTVnBpWWlGb1h5ZVdjbk1FMWJSbFZOWGpCVTNoUV9US0t0dEpwR0plRW1DTllkTk1EZkFtYVZQTUdHd25hRjgwRDhSVk5nd2ExRWNzWW1TdVFscGFydzdKZThwWW9nU3haZjdmQjJid3lnb3ZHR2ZkYlJla2lUZ1pFdXJDZG5ncndVQW1SR0w0dHBVa1cyeGlZbmdSSVFSZ3BOS0gyTWc?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-10-27T19:48:00+00:00",
-      "category": "Segurança",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1434,20 +1476,6 @@
       "archive": false
     },
     {
-      "id": "30efc9e72b11fd4b",
-      "title": "Governo buscará cumprir meta fiscal com diálogo, diz Durigan",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo buscará cumprir meta fiscal com diálogo, diz Durigan. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-buscara-cumprir-meta-fiscal-com-dialogo-diz-durigan",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-27T16:04:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "6c8560a580b222cc",
       "title": "Agência de Comunicação - Totens de autoatendimento reduzem filas na saúde - Estadão Blue Studio",
       "summary": "O veículo Estadão Blue Studio publicou uma atualização sobre: agência de Comunicação - Totens de autoatendimento reduzem filas na saúde. Consulte a reportagem para contexto, dados e declarações.",
@@ -1462,20 +1490,6 @@
       "archive": false
     },
     {
-      "id": "f4ae4f1e0af203d4",
-      "title": "Governo prorroga por um mês subvenção de R$ 2,12 ao diesel",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: governo prorroga por um mês subvenção de R$ 2,12 ao diesel. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/governo-prorroga-por-um-mes-subvencao-de-r-212-ao-diesel",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-27T15:41:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "e50934a1a9d4387b",
       "title": "Ministro da articulação política diz que ajuste fiscal não está em discussão e não é prioridade de Lula - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ministro da articulação política diz que ajuste fiscal não está em discussão e não é prioridade de Lula. Consulte a reportagem para contexto, dados e declarações.",
@@ -1486,20 +1500,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "ba252436ab4e7520",
-      "title": "Para conter oscilações, Tesouro anuncia nova recompra de títulos",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: para conter oscilações, Tesouro anuncia nova recompra de títulos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/para-conter-oscilacoes-tesouro-anuncia-nova-recompra-de-titulos",
-      "source": "Agência Brasil",
-      "published_at": "2026-10-27T15:36:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1525,20 +1525,6 @@
       "source": "Estadão Blue Studio",
       "published_at": "2026-10-27T15:01:54+00:00",
       "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e7c8fa02864f3c75",
-      "title": "Camilo Santana é cotado para ser ministro da Casa Civil no quarto mandato de Lula - URB News",
-      "summary": "O veículo URB News publicou uma atualização sobre: camilo Santana é cotado para ser ministro da Casa Civil no quarto mandato de Lula - URB News. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYl9qeFBuWTd3MzlkRFl5ZVloWXY3NGRJUFZ6ZVhXVW1Ub1NMODJsZ1k5UXh1ZTJFSDhFM3hUWmpjRk13RnJBRlYxcVNHdWFtZ2h5aXc0b3BLcEVQREZrQzk0T09WM3V6c1VjR1U4cF9rX0Z2cTJ3bW9TbXFtUW5GMDQ4V0lWSmhxQmR3VlZmUkZfZ0F2S1BrNVBRTDY3V1czNXM1bGtReUcybDl3SkVnM0VLaEJOX1k?oc=5",
-      "source": "URB News",
-      "published_at": "2026-10-27T14:14:00+00:00",
-      "category": "Governo federal",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1611,6 +1597,20 @@
       "category": "Eleições",
       "candidate": "lula",
       "election_type": "Fala",
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8c081faa634f8491",
+      "title": "Anvisa proíbe venda de picolé com melatonina e suplemento de proteína",
+      "summary": "O veículo Agência Brasil publicou uma atualização sobre: anvisa proíbe venda de picolé com melatonina e suplemento de proteína. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/anvisa-proibe-venda-de-picole-com-melatonina-e-suplemento-de-proteina",
+      "source": "Agência Brasil",
+      "published_at": "2026-10-26T21:40:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
       "via_aggregator": false,
       "curated": false,
       "archive": false
@@ -1689,16 +1689,15 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 25
+      "items": 28
     },
     "G1 · Economia": {
-      "status": "erro",
-      "items": 0,
-      "detail": "ParseError: not well-formed (invalid token): line 1, column 0"
+      "status": "ok",
+      "items": 97
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 41
+      "items": 40
     },
     "VEJA": {
       "status": "ok",
@@ -1750,7 +1749,7 @@
     },
     "Metrópoles · Mundo": {
       "status": "ok",
-      "items": 45
+      "items": 48
     },
     "Metrópoles · Política": {
       "status": "ok",
@@ -1758,19 +1757,19 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 85
+      "items": 87
     },
     "Estadão": {
       "status": "ok",
-      "items": 58
+      "items": 56
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 54
+      "items": 52
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 75
+      "items": 78
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
@@ -1778,7 +1777,7 @@
     },
     "Eleições · Lula": {
       "status": "ok",
-      "items": 57
+      "items": 31
     },
     "Eleições · Flávio": {
       "status": "ok",
