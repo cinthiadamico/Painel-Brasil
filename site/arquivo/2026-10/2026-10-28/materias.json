@@ -4,6 +4,20 @@
   "claude_original": false,
   "items": [
     {
+      "id": "9facdcf0c0d67195",
+      "title": "Lula planeja criar Ministério do Idoso em quarto mandato - Pleno.News",
+      "summary": "O veículo Pleno.News publicou uma atualização sobre: lula planeja criar Ministério do Idoso em quarto mandato - Pleno.News. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFdqYWM1S0x5cHpoT1QxNGJxMjZ3Q1JIN0N2VWF6aTJjTXpPNDJSVGxBNWpXaVJzeEw1V0I1VjNON292Nl9iVHMwbDQzeU1mWEEtRTJrY2hidS1lSjJVLTNaTE52TGVJVVVrRWhiNnJTdWIzWG5pVDk4bU1kTXFVak9sQjdYQVpYbzdQemhDUHg0YnpfN1JSRmJLZEp1R2RRNU56OGwtemnSAbABQVVfeXFMUFp6Xy1lWmdJcUFXWm9tMjV0XzdIY2liQWZyVUhILXEtQ0QyRkJnZFREWTNDZ2JjMVFLc2gyR1IzZWVpVGx2aUJtdnVhWUZZLTdGQUhMeWhtZHEwTkdsbUJ1WlhEcjk4aUFtenpzVDE1YUNVcDBXRENLRFRlWVFRM1NFdGZaU0VpNzFvbnBMRFpacjhISlYtQmIxQjBPLVRqM2hZOWk0YTRVOHJ1MVBBM1Q?oc=5",
+      "source": "Pleno.News",
+      "published_at": "2026-10-29T02:35:00+00:00",
+      "category": "Eleições",
+      "candidate": "lula",
+      "election_type": "Proposta",
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "056609a3149bec44",
       "title": "Senado aprova aumento de adicional de fronteira para R$ 191 por dia - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: senado aprova aumento de adicional de fronteira para R$ 191 por dia - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -606,6 +620,34 @@
       "archive": false
     },
     {
+      "id": "528e414185584bd1",
+      "title": "Presidente do TSE diz que eleições ocorreram em ‘absoluta normalidade’ após carta de Flávio - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: presidente do TSE diz que eleições ocorreram em ‘absoluta normalidade’ após carta de Flávio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMXlTWjdCLS1ZVU5veV93Y19HVXZEc1NkQlhKQjBHNFBqQXZxeDlpOHZsOFVTdGxrbkFuY0J0d2lPRTZfazVXQmo0Z2pFbzA1OHpYTDhFM1VHN0x3NGF3aFBqZnlyOTNJdVBCbDl4c1ZnMHMzZnJJWUcxZ3A2Zk9laWVaMkxGNzV0Y1k4NWdFcTBITmlSMXVMeFlNRDBjVlNndURIQ2dZeVl6RE5MbTQ4YTJQWjJ1Wm4zeEdQT2tXODVPa05aQmhOb0pvejZlY1E?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-28T23:07:26+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "8fbca09f2b8a5c10",
+      "title": "Mercado já virou a página da eleição, diz Solange Srour, sobre carta golpista de Flávio - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: mercado já virou a página da eleição, diz Solange Srour, sobre carta golpista de Flávio. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWG5DallmRXBMd1dCTXdHbmZMSzdGc0dPU1BHREdrRnFrUE9RNDNOVC1iUUlZWDlEekpXVlZkR0ItOC1vZ1RVWm9BYWhOM0REdDhETDlCb29fYU5VeDlOZ1dZcWFNWEtVUnM4X1Z4NW55WmJ5aFhfOEdZY3R0amM2RlhyY3IzQ21kN0NsNXZKUS1tUm9BU3RyOG03aWJIUzYtX2xpU2NZSjJ3WW02bWlwOTdHem01U0RMMW9yTmYyVENYRWR3cTRlcTVn?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-10-28T23:07:26+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "ae84178d93b71c1d",
       "title": "Parlamentar do PSOL pede que Flávio Bolsonaro seja investigado por crime de lesa-pátria",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: parlamentar do PSOL pede que Flávio Bolsonaro seja investigado por crime de lesa-pátria. Consulte a reportagem para contexto, dados e declarações.",
@@ -1064,6 +1106,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f6782fb67037e33e",
+      "title": "Após carta de teor golpista de Flávio, presidente do TSE defende resultado das urnas e diz que analisará contestações - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: após carta de teor golpista de Flávio, presidente do TSE defende resultado das urnas e diz que analisará contestações. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNmN6d2g0MjVDdGtBNG82RjA3N2J1VnVEeWttYnl5N3JUYzJ5ZlNjQnlxdF9uWHRodUUzNkNTUF9adHJiNVE3bzl4ZXdQVEkyTDJvUFdRS1N2VlE4WTc2NmFEVDJuNDdLaEV3eEJzTDZaMnFIdm1GM1Q5OEpxc0RwS0Jxem5MbXZZbzVPZU1Zemw4b0RTRUFlTFpqOHU2WW5WWG1WenpiM1VmOFRlaTJUM3A5aWU4MC16SUFfNGZSUjdGV3VEbGZnUEtFaC0tRGZ2UlphWi1HVmJ3MzlDaDhBRDlJRWR2a2JlbXVsc0NLejNuY3R3MVpKZ1V6UUo2Q2UzS3BvblFyTHM1cjVpUTJZOUpNYTBFbEFr0gGnAkFVX3lxTFBva0tEYVFGTnRSSDk1bXpLYWZBdW1BX1pvTVJVNHlCV294aHZreDQ4cnNIRDFLRnN5VlhON0lYanY5MkEwVUlEajlCYnl1S0RncXlHclo1dFpYWDVTSHYyWmdEZmNmRld3amd5MG5qcWJBN3FicEZFNnBESDdMemRibGVUYW9tVUJmMzFUeTlBVFVnaU1HV2lNc3l6MHFqVjl0bkVnT1c4bkYweS1XeVJBU0dXdDB4azRUOEFQNGJTTHZ5UFBKNEJydl9yVGxtaTkyTUhhOS1iOXJfT2hLZDVoQWNQd1k3bmtvZzBRNWQyRi1jTTRidGg3QkkwOUY3R01ic2V3Y3J6ekloVk1MQ3pMa0xBUDZCUEgxZlFxbUkyTmVZeC1oVm8?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-10-28T22:23:21+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1736,6 +1792,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "b57c505ade2a6c55",
+      "title": "Estudantes de medicina da Unisa, em SP, ofendem apoiadores de Lula e bolsistas após resultado eleitoral - Folha de S.Paulo",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: estudantes de medicina da Unisa, em SP, ofendem apoiadores de Lula e bolsistas após resultado eleitoral. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNckN5SUstSndlTzhPRlp2TXNWZTZpZTkxZjdvbnNwaGdkMS16a3pOb1FGMTBQZkVObl9tM1pZbEZaMklGREZUdnMyZTEyYUZhRWc5aUJScm1VdEY2WEFkbFlQOGJXZ3NuVzdnMXljdHBDTHVfam1ZLVdnSWlkQ0ZHTzdrbGNIZkJDbXVwV2ljOF9iNmJxWUJUM1NJd1ItTFc1QS1NTVhLQTBoTXRfVzRuekUtNDM2RVkzM1ducHVtZEp6RXBWUzJhVF9xaUxnVDNucXlCZlpPS3hDUEVfSzdETW9iV1V4N1A1Ymc?oc=5",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-28T19:58:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
