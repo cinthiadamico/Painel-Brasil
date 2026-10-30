@@ -4,6 +4,34 @@
   "claude_original": false,
   "items": [
     {
+      "id": "98fac8ef039ac076",
+      "title": "Alcolumbre viu excesso em ordem para apreensão de passaporte de Flávio e procurou STF para reclamar",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: alcolumbre viu excesso em ordem para apreensão de passaporte de Flávio e procurou STF para reclamar. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-viu-excesso-em-ordem-para-apreensao-de-passaporte-de-flavio-e-procurou-stf-para-reclamar.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-30T02:00:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "41ca1aa25cff056d",
+      "title": "Bancos privados aumentam taxas do crédito da casa própria em resposta à alta nos juros futuros",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: bancos privados aumentam taxas do crédito da casa própria em resposta à alta nos juros futuros. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/bancos-privados-aumentam-taxas-do-credito-da-casa-propria-em-resposta-a-alta-nos-juros-futuros.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-10-30T02:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "4701fea5b9afde35",
       "title": "Justiça do Trabalho manda Meta remover publicações que incentivam demissão por causa do voto",
       "summary": "O veículo G1 publicou uma atualização sobre: justiça do Trabalho manda Meta remover publicações que incentivam demissão por causa do voto. Consulte a reportagem para contexto, dados e declarações.",
@@ -1348,6 +1376,20 @@
       "archive": false
     },
     {
+      "id": "58276f970e381770",
+      "title": "Comissão aprova acessibilidade para exames de prevenção ao câncer em mulheres com deficiência",
+      "summary": "O veículo Agência Câmara publicou uma atualização sobre: comissão aprova acessibilidade para exames de prevenção ao câncer em mulheres com deficiência. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.camara.leg.br/noticias/1314742-comissao-aprova-acessibilidade-para-exames-de-prevencao-ao-cancer-em-mulheres-com-deficiencia",
+      "source": "Agência Câmara",
+      "published_at": "2026-10-29T20:17:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
       "id": "b77ec953075951bd",
       "title": "Vacina contra meningite: cobertura no grupo de 11 a 14 anos é de 67,1%, diz novo painel - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: vacina contra meningite: cobertura no grupo de 11 a 14 anos é de 67,1%, diz novo painel. Consulte a reportagem para contexto, dados e declarações.",
@@ -1439,6 +1481,20 @@
       "source": "Folha de S.Paulo",
       "published_at": "2026-10-29T20:00:00+00:00",
       "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cd437e4d84283e5b",
+      "title": "Comissão aprova acessibilidade em páginas de escolas na internet",
+      "summary": "O veículo Agência Câmara publicou uma atualização sobre: comissão aprova acessibilidade em páginas de escolas na internet. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://www.camara.leg.br/noticias/1314930-comissao-aprova-acessibilidade-em-paginas-de-escolas-na-internet",
+      "source": "Agência Câmara",
+      "published_at": "2026-10-29T20:00:00+00:00",
+      "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
