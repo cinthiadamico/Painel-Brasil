@@ -5,8 +5,16 @@
       "month": "2026-11",
       "days": [
         {
+          "date": "2026-11-02",
+          "count": 30,
+          "claude_count": 0,
+          "claude_original": false,
+          "path": "arquivo/2026-11/2026-11-02/materias.json",
+          "claude_path": null
+        },
+        {
           "date": "2026-11-01",
-          "count": 185,
+          "count": 200,
           "claude_count": 0,
           "claude_original": false,
           "path": "arquivo/2026-11/2026-11-01/materias.json",
