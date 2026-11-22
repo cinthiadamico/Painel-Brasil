@@ -1,10 +1,402 @@
 {
   "schema_version": 1,
-  "status": "parcial",
-  "last_checked_at": "2026-11-21T23:15:50.716120+00:00",
-  "last_success_at": "2026-11-21T23:15:50.716120+00:00",
+  "status": "atualizado",
+  "last_checked_at": "2026-11-22T03:15:15.339823+00:00",
+  "last_success_at": "2026-11-22T03:15:15.339823+00:00",
   "coverage_window_hours": 168,
   "items": [
+    {
+      "id": "e4e837fd3a105898",
+      "title": "Macaé realiza etapa anual de vacinação contra a brucelose em bezerras",
+      "summary": "O veículo G1 publicou uma atualização sobre: macaé realiza etapa anual de vacinação contra a brucelose em bezerras. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/22/macae-realiza-etapa-anual-de-vacinacao-contra-a-brucelose-em-bezerras.ghtml",
+      "source": "G1",
+      "published_at": "2026-11-22T03:03:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0d9b5575907caa2b",
+      "title": "Mega-Sena 3089 pode pagar R$ 45 milhões neste domingo; g1 transmite ao vivo",
+      "summary": "O veículo G1 publicou uma atualização sobre: mega-Sena 3089 pode pagar R$ 45 milhões neste domingo; g1 transmite ao vivo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/22/mega-sena-3089-pode-pagar-r-45-milhoes-neste-domingo-g1-transmite-ao-vivo.ghtml",
+      "source": "G1",
+      "published_at": "2026-11-22T03:00:01+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d9bc9d4f3f9cd8f8",
+      "title": "PEC da Segurança: como uma guarda civil municipal pode virar polícia e o que muda para a população",
+      "summary": "O veículo G1 publicou uma atualização sobre: pEC da Segurança: como uma guarda civil municipal pode virar polícia e o que muda para a população. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/11/22/pec-da-seguranca-como-uma-guarda-civil-municipal-pode-virar-policia.ghtml",
+      "source": "G1",
+      "published_at": "2026-11-22T03:00:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "984357326a8d1479",
+      "title": "Maioria das cidades terá dificuldade para criar polícia municipal, diz deputado",
+      "summary": "O veículo G1 publicou uma atualização sobre: maioria das cidades terá dificuldade para criar polícia municipal, diz deputado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/11/22/exigencias-policia-municipal-prefeituras.ghtml",
+      "source": "G1",
+      "published_at": "2026-11-22T03:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "18eb017cd45d5a65",
+      "title": "Câmara deve votar projeto de ajuste fiscal nesta segunda",
+      "summary": "O veículo G1 publicou uma atualização sobre: câmara deve votar projeto de ajuste fiscal nesta segunda. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/politica/noticia/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda.ghtml",
+      "source": "G1",
+      "published_at": "2026-11-22T03:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "38214c7c9c8de1c1",
+      "title": "Na UTI, Michelle diz que Jair Bolsonaro está sem febre e com \"cara boa\" - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: na UTI, Michelle diz que Jair Bolsonaro está sem febre e com \"cara boa\" - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM29UYm90Rnk3SmF1UFZaNFd1YVRfSl9CLUdrWllHQ2dLelJYMGhJMUZ2Z2dTZmdFWU5mbWk3LTVXM1d0QVpxVmxJd0NoVWkxaENndGg2TGozY3d5bDVWUGpTd0xId1RsNEtMMV9IdlY5cWl6R0x3aElXRm1NeXhWcWlOY0xXWk9DaVNFM1BMdTdzem9ZWVBKY0k3VWZIMlZ5YmVqZQ?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-11-22T02:53:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "a01f48793fb00e02",
+      "title": "Governo reconhece calamidade em Tupanciretã (RS) e prevê ações emergenciais - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: governo reconhece calamidade em Tupanciretã (RS) e prevê ações emergenciais - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHk2VVFyaTRSMDNyUDRFOXhtOG5USGIxb2lSZUthWmlBdDFTYUVMbTVnNFQwZ3hpV1pvdHF2VnpZM2FxTUdVcnJvd2R4Z2xRQjFoUWM2a0lmOXpKb0s0RkxYQy1HWmtWdkdGOFNRTlVRVEV2dE9FMmFzMkluMjJMYjlYdnBtUnRsSkhtZy1kSm9GaU1QblBPT25XOG1yOEdxWFZjYkQ5ejFSOFk?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-11-22T02:01:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "96a2e4d16d06148e",
+      "title": "Ministério das Mulheres vai criar política de proteção contra violência política de gênero e raça",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: ministério das Mulheres vai criar política de proteção contra violência política de gênero e raça. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/ministerio-das-mulheres-vai-criar-politica-de-protecao-contra-violencia-politica-de-genero-e-raca.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T02:00:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "32c40183f521a685",
+      "title": "Os riscos políticos do ajuste fiscal",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: os riscos políticos do ajuste fiscal. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/os-riscos-politicos-do-ajuste-fiscal.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T02:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "9f47d3a084aba7b4",
+      "title": "Petróleo na Foz do Amazonas impõe desafio logístico à Petrobras com transporte de gente e equipamentos",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: petróleo na Foz do Amazonas impõe desafio logístico à Petrobras com transporte de gente e equipamentos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petroleo-na-foz-do-amazonas-impoe-desafio-logistico-a-petrobras-com-transporte-de-gente-e-equipamentos.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T02:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "6efeeb9d62ac28bc",
+      "title": "Entorno branco e masculino de Lula dificulta uma ministra negra no STF, diz ex-ministra do TSE",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: entorno branco e masculino de Lula dificulta uma ministra negra no STF, diz ex-ministra do TSE. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/entorno-branco-e-masculino-de-lula-dificulta-uma-ministra-negra-no-stf-diz-ex-ministra-do-tse.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T02:00:00+00:00",
+      "category": "STF e Justiça",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "124dff5048e83115",
+      "title": "Eisenkot convida partido de Netanyahu para negociar coalizão em Israel",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: eisenkot convida partido de Netanyahu para negociar coalizão em Israel. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/eisenkot-convida-partido-de-netanyahu-para-negociar-coalizao-em-israel.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T02:00:00+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "28c6dfb91204fd58",
+      "title": "Prorrogação do IPI será prioridade da equipe econômica após avanço do plano Moretti",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: prorrogação do IPI será prioridade da equipe econômica após avanço do plano Moretti. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/prorrogacao-do-ipi-sera-prioridade-da-equipe-economica-apos-avanco-do-plano-moretti.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T02:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "7e4665daa30f609d",
+      "title": "O que Lula 4 deve fazer para intensificar proteção e mobilidade social",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: o que Lula 4 deve fazer para intensificar proteção e mobilidade social. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/ilustrissima/2026/11/o-que-lula-4-deve-fazer-para-intensificar-protecao-e-mobilidade-social.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T02:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "34ddc2c2cc1fb33e",
+      "title": "Pesquisa Focus e a política monetária",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: pesquisa Focus e a política monetária. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/11/pesquisa-focus-e-a-politica-monetaria.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T02:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d8790edf6738c245",
+      "title": "Governo Lula avalia enviar projeto próprio para limitar supersalários na administração pública",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo Lula avalia enviar projeto próprio para limitar supersalários na administração pública. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/governo-lula-avalia-enviar-projeto-proprio-para-limitar-supersalarios-na-administracao-publica.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T02:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "cade6a8bac436f72",
+      "title": "Centros de dados de IA nos EUA poluem mais que países inteiros, aponta estudo",
+      "summary": "O veículo G1 publicou uma atualização sobre: centros de dados de IA nos EUA poluem mais que países inteiros, aponta estudo. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/centros-de-dados-de-ia-nos-eua-poluem-mais-que-paises-inteiros-aponta-estudo.ghtml",
+      "source": "G1",
+      "published_at": "2026-11-22T01:52:55+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "92d46bdaef253274",
+      "title": "Novos ataques aumentam a preocupação de países europeus com a guerra na Ucrânia",
+      "summary": "O veículo G1 publicou uma atualização sobre: novos ataques aumentam a preocupação de países europeus com a guerra na Ucrânia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/novos-ataques-aumentam-a-preocupacao-de-paises-europeus-com-a-guerra-na-ucrania.ghtml",
+      "source": "G1",
+      "published_at": "2026-11-22T01:45:11+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "f77112d32dd8f0ae",
+      "title": "O B.O. da IA na segurança pública",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: o B.O. da IA na segurança pública. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/alexandra-moraes-ombudsman/2026/11/o-bo-da-ia-na-seguranca-publica.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T01:30:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "e5af0301905e6c5f",
+      "title": "Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta do ano com dois meses de antecedência",
+      "summary": "O veículo G1 publicou uma atualização sobre: brasil recebe 7,5 milhões de turistas estrangeiros e supera meta do ano com dois meses de antecedência. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/brasil-recebe-75-milhoes-de-turistas-estrangeiros-e-supera-meta-do-ano-com-dois-meses-de-antecedencia.ghtml",
+      "source": "G1",
+      "published_at": "2026-11-22T01:29:23+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "026144c278b61652",
+      "title": "Cidade nos EUA se prepara para marés gigantescas; prefeito pede que moradores estoquem comida e reconsiderem viagens",
+      "summary": "O veículo G1 publicou uma atualização sobre: cidade nos EUA se prepara para marés gigantescas; prefeito pede que moradores estoquem comida e reconsiderem viagens. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/mundo/noticia/2026/11/21/cidade-nos-eua-se-prepara-para-mares-gigantescas-prefeito-pede-que-moradores-estoquem-comida-e-reconsiderem-viagens.ghtml",
+      "source": "G1",
+      "published_at": "2026-11-22T01:24:02+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "dd94b04c5cc4a0c0",
+      "title": "Passagens de tornados no Paraná deixam mais de 50 mil casas sem energia",
+      "summary": "O veículo G1 publicou uma atualização sobre: passagens de tornados no Paraná deixam mais de 50 mil casas sem energia. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/passagens-de-tornados-no-parana-deixam-mais-de-50-mil-casas-sem-energia.ghtml",
+      "source": "G1",
+      "published_at": "2026-11-22T01:10:38+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "1061647bf6248760",
+      "title": "Michelle chega a Brasília após viagem e visita Jair Bolsonaro em hospital - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: michelle chega a Brasília após viagem e visita Jair Bolsonaro em hospital - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFVwcUhSLU5hUGhYOHA0VFA5RGpWM1pBLTNUbng2SUhtQ3U2akVqbjdLOERwVHNzTWJWTUFoOUdMTk1IYkp2SlhiMmMtWldKMUxRZ2t4SWlfSVZWc0RNdzhYWkQxeVUxVGJ3STBxb3ZxcGNGNWhfbjM0TldnTzNia2ZrY3lJd0NGclp6LXgyUjhxR1dCTjh2eUVqUUdPZ1lfZHFleVhNZjNPSlU?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-11-22T01:08:00+00:00",
+      "category": "Saúde",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fff360f6c9978101",
+      "title": "Plano fiscal mostra que Lula ainda aposta em remendos",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: plano fiscal mostra que Lula ainda aposta em remendos. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/opiniao/2026/11/plano-fiscal-mostra-que-lula-ainda-aposta-em-remendos.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T01:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "aaeb6341d423cffc",
+      "title": "'Mercado financeiro é chantagista por natureza', diz leitor sobre pressão econômica a Lula 4",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: 'Mercado financeiro é chantagista por natureza', diz leitor sobre pressão econômica a Lula 4. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/mercado-financeiro-e-chantagista-por-natureza-diz-leitor-sobre-pressao-economica-a-lula-4.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-22T01:00:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "59e85915a0199862",
+      "title": "Comitiva do governo chega a Tupanciretã para ajuda humanitária após chuvas. - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: comitiva do governo chega a Tupanciretã para ajuda humanitária após chuvas. - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXdhekRMR3VxSWdGWnp6Ui1FUnUxQjVBX0VEN1J6UDFDWXYzZjdrbThQZHVzRUczZkc1TnFGb1k2TnlRZWU2MVNaQjItdkxQSGYwRnNGMUp0UTBGT3BVajhEZ1BGT0FaanRiSHRPZ2VFQU1vaU5TODBrbEVCMW9Falplb1ZWOWtRNHh0T2VaZnNoVGtJcUpGYTI1VVgtM3BpUmI3NmFRZDNwSXFI?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "category": "Política",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "fafb3d72be503ed7",
+      "title": "Como diminuir a desigualdade racial no país? Leitores citam melhorias na educação e letramento racial",
+      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: como diminuir a desigualdade racial no país? Leitores citam melhorias na educação e letramento racial. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/paineldoleitor/2026/11/como-diminuir-a-desigualdade-racial-no-pais-leitores-citam-melhorias-na-educacao-e-letramento-racial.shtml",
+      "source": "Folha de S.Paulo",
+      "published_at": "2026-11-21T23:30:00+00:00",
+      "category": "Educação",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "57c250b0d28bd29b",
+      "title": "Petrolina terá mutirão para regularizar Tarifa Social de energia a partir de segunda (23)",
+      "summary": "O veículo G1 publicou uma atualização sobre: petrolina terá mutirão para regularizar Tarifa Social de energia a partir de segunda (23). Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/21/mutirao-tarifa-social-petrolina.ghtml",
+      "source": "G1",
+      "published_at": "2026-11-21T23:17:05+00:00",
+      "category": "Internacional",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
     {
       "id": "f39c9f7c34769692",
       "title": "Bolsonaro está sem tornozeleira eletrônica e terá segurança 24h no hospital - Metrópoles",
@@ -48,34 +440,6 @@
       "archive": false
     },
     {
-      "id": "1d35e73ec2c002d3",
-      "title": "Mutirão de empregos tem 770 vagas em 40 empresas de Juiz de Fora; veja oportunidades",
-      "summary": "O veículo G1 publicou uma atualização sobre: mutirão de empregos tem 770 vagas em 40 empresas de Juiz de Fora; veja oportunidades. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mg/zona-da-mata/concursos-e-emprego/noticia/2026/11/21/mutirao-de-empregos-tem-770-vagas-em-40-empresas-de-juiz-de-fora-veja-oportunidades.ghtml",
-      "source": "G1",
-      "published_at": "2026-11-21T22:50:13+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "fc49e3e754511ed6",
-      "title": "Governo Trump divulga documentos sobre supostos rastros do Pé-Grande",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo Trump divulga documentos sobre supostos rastros do Pé-Grande. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/governo-trump-divulga-documentos-sobre-supostos-rastros-do-pe-grande.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-21T22:18:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "753f1c9b52aa1ed2",
       "title": "Amigos afirmam que professor espancado no Centro do Rio apresenta sinais de reação",
       "summary": "O veículo G1 publicou uma atualização sobre: amigos afirmam que professor espancado no Centro do Rio apresenta sinais de reação. Consulte a reportagem para contexto, dados e declarações.",
@@ -83,20 +447,6 @@
       "source": "G1",
       "published_at": "2026-11-21T22:09:49+00:00",
       "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "01160f0f1ca96b2f",
-      "title": "Juíza do TRE-AM é reeleita para presidência de colégio nacional de ouvidores eleitorais",
-      "summary": "O veículo G1 publicou uma atualização sobre: juíza do TRE-AM é reeleita para presidência de colégio nacional de ouvidores eleitorais. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/21/juiza-do-tre-am-e-reeleita-para-presidencia-de-colegio-nacional-de-ouvidores-eleitorais.ghtml",
-      "source": "G1",
-      "published_at": "2026-11-21T22:07:17+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -146,20 +496,6 @@
       "archive": false
     },
     {
-      "id": "4ccd459e5eaa52da",
-      "title": "Após dois acidentes na Cachoeira da Campanha, moradores pedem mais segurança na RJ-134",
-      "summary": "O veículo G1 publicou uma atualização sobre: após dois acidentes na Cachoeira da Campanha, moradores pedem mais segurança na RJ-134. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/21/apos-dois-acidentes-na-cachoeira-da-campanha-moradores-pedem-mais-seguranca-na-rj-134.ghtml",
-      "source": "G1",
-      "published_at": "2026-11-21T21:36:19+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "93f60752761ccc86",
       "title": "Operação para prender Chapo Isidro deixou quatro militares mortos no México - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: operação para prender Chapo Isidro deixou quatro militares mortos no México - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -188,48 +524,6 @@
       "archive": false
     },
     {
-      "id": "adfffd4153f71fee",
-      "title": "Estrondos e abalos em Barretos: prefeitura instala gabinete de crise para identificar origem de tremores",
-      "summary": "O veículo G1 publicou uma atualização sobre: estrondos e abalos em Barretos: prefeitura instala gabinete de crise para identificar origem de tremores. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/21/estrondos-e-abalos-em-barretos-prefeitura-instala-gabinete-de-crise-para-identificar-origem-de-tremores.ghtml",
-      "source": "G1",
-      "published_at": "2026-11-21T21:19:56+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "2af2d03d2f31f2bb",
-      "title": "Tiroteio durante perseguição policial assusta pessoas em cruzamento de Belém",
-      "summary": "O veículo G1 publicou uma atualização sobre: tiroteio durante perseguição policial assusta pessoas em cruzamento de Belém. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pa/para/noticia/2026/11/21/tiroteio-durante-perseguicao-policial-assusta-pessoas-em-cruzamento-de-belem.ghtml",
-      "source": "G1",
-      "published_at": "2026-11-21T21:15:49+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a75e753de89e5bc9",
-      "title": "Mulheres respondem por mais de 11 mil negócios, 47% do total em Presidente Prudente",
-      "summary": "O veículo G1 publicou uma atualização sobre: mulheres respondem por mais de 11 mil negócios, 47% do total em Presidente Prudente. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/21/mulheres-respondem-por-mais-de-11-mil-negocios-47percent-do-total-em-presidente-prudente.ghtml",
-      "source": "G1",
-      "published_at": "2026-11-21T21:10:05+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "16a29e036d6b0805",
       "title": "O ministro de Lula que decepcionou e pode ser trocado por antecessora",
       "summary": "O veículo VEJA publicou uma atualização sobre: o ministro de Lula que decepcionou e pode ser trocado por antecessora. Consulte a reportagem para contexto, dados e declarações.",
@@ -237,20 +531,6 @@
       "source": "VEJA",
       "published_at": "2026-11-21T21:01:20+00:00",
       "category": "Governo federal",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "c01eafae5c8f4703",
-      "title": "Resultados de canetas emagrecedoras em crianças pequenas dividem médicos sobre riscos",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: resultados de canetas emagrecedoras em crianças pequenas dividem médicos sobre riscos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/equilibrioesaude/2026/11/resultados-de-canetas-emagrecedoras-em-criancas-pequenas-dividem-medicos-sobre-riscos.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-21T21:00:00+00:00",
-      "category": "Política",
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
@@ -286,20 +566,6 @@
       "archive": false
     },
     {
-      "id": "31d1880b3a56d89a",
-      "title": "Brasil pode virar polo global de data centers, projeta The Economist",
-      "summary": "O veículo VEJA publicou uma atualização sobre: brasil pode virar polo global de data centers, projeta The Economist. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/economia/brasil-pode-virar-polo-global-de-data-centers-projeta-the-economist/",
-      "source": "VEJA",
-      "published_at": "2026-11-21T20:51:23+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "0b5dd9b667c6e3ca",
       "title": "UFS abre concurso público para professor com salário de R$ 26,3 mil",
       "summary": "O veículo G1 publicou uma atualização sobre: uFS abre concurso público para professor com salário de R$ 26,3 mil. Consulte a reportagem para contexto, dados e declarações.",
@@ -310,6 +576,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "d23f531b9a5f6437",
+      "title": "Captura de líder de cartel no México desencadeia onda de violência no estado de Sinaloa - Estadão",
+      "summary": "O veículo Estadão publicou uma atualização sobre: captura de líder de cartel no México desencadeia onda de violência no estado de Sinaloa. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMVpUUGR2Y05TY2NLOENHbV9sSVozc2t6Q0JpNmFLcFpWUHhBOTUycHpRbmpQZ2JNUHZCamlTUUV2MGR4anZ0WGFuQmNUVnJUSEhaLTIxQ0F5YjdldjhVMlZlMVVDTi1oTDZ1SUJsV3ppMFo3ekhmVjA5WnpMY2szRGVqQnduQy04c2JOX1hBLUdEMXFrUkZ1YjdFNFpQeGxsMjRjNWJVTldkeGx5NEExOWJMamNJaUsySjNidVBRd1RWMmhTSFcxZNIBzgFBVV95cUxNVWdEd19vdXpCUkJKdU4zZm1JQ1lGdEJoaDlHdFhFeUQxcHVxQVF2RUtYbkMySWo4eUNkYm9wdS1qUnlrMlNzbW9wSHd2TFp1cDNfbXVmYTV4VjJGVmt6c0djeERGMVYzVXBnYTA5bWpIa2RSbjZXSThGbHdSbDY3dGl2ZGtIM053R0RZSzA0SVpiNkFFTDgyNW54dnlNaXdrdklPOEtheFJSanpISHVyS3JTTE9hUURGSThrZXFONElCSDRDQjRGOXIteGRiZw?oc=5",
+      "source": "Estadão",
+      "published_at": "2026-11-21T20:33:00+00:00",
+      "category": "Segurança",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -426,48 +706,6 @@
       "archive": false
     },
     {
-      "id": "642df99f2f37f757",
-      "title": "COP31 passa do prazo e termina sem acordo sobre combustíveis fósseis - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: cOP31 passa do prazo e termina sem acordo sobre combustíveis fósseis - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1JWSC1GYUNFcEFhTWI4MXpkc3JNejNubnMxaDNFMTM2TkI5SjF0MzdPOUdodHc0YXdGWW9vQ2tLdTZkRTlSQ2M2bkZQNUN3S3RRZEptZzB4UVlMMkdYbS1hVGxiajhpajJDMWowdnJHcWxEcmtQdW56cm5May1CaWgwZjhLUWZ5MllhdGRaTnVZckg1SUJLbWhDcHo5Q3owbERj?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-11-21T19:39:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "79905559030662d3",
-      "title": "Manifestantes marcham em Lisboa contra aumento no custo de vida",
-      "summary": "O veículo Agência Brasil publicou uma atualização sobre: manifestantes marcham em Lisboa contra aumento no custo de vida. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/manifestantes-marcham-em-lisboa-contra-aumento-no-custo-de-vida",
-      "source": "Agência Brasil",
-      "published_at": "2026-11-21T19:30:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "cdfc3dbce1e7c3d4",
-      "title": "Novo Enamed se aproxima de exames aplicados nos EUA e em outros países",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: novo Enamed se aproxima de exames aplicados nos EUA e em outros países. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/educacao/2026/11/novo-enamed-se-aproxima-de-exames-aplicados-nos-eua-e-em-outros-paises.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-21T19:00:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "b5d33e3cbd79e18d",
       "title": "Bolsonaro está na na UTI, estável e sem previsão de alta, diz hospital",
       "summary": "O veículo VEJA publicou uma atualização sobre: bolsonaro está na na UTI, estável e sem previsão de alta, diz hospital. Consulte a reportagem para contexto, dados e declarações.",
@@ -496,10 +734,10 @@
       "archive": false
     },
     {
-      "id": "7765da6003f6ef54",
+      "id": "98ab5fe53381030e",
       "title": "Em uma semana, ao menos 10 corpos são encontrados pela polícia na capital e Grande SP - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: em uma semana, ao menos 10 corpos são encontrados pela polícia na capital e Grande SP. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObFU4LXA2ek5CNHdId1JHX1J3S1FleklvRXF0b1dIbkhCTzVuQXQtYUpjSVdDQWNIWm94bUphOWx6ZDg5TFYzY08xOXZEdXU0Rmw3Ujh0dUVhaWlIZDY1S0JabGxNdUFXbXFoZVpZYlQ2T2pJNU5pZjlPck1LVGpKNXE5R1U0RktKdjNVVm5EQTE5V2tIUHBlRVJHeHpHLXB3LVhQNFpVUDlyRTdSd2JPQ1F1bTZscXYtb0lUa1Y4MmJTYVkwMXhSVFR0LVdoMUNUbmdrcXF4bUp6ZEXSAeoBQVVfeXFMTjRhdnBfUkpqSGY4dS1iLWRKNjhmdmEza3BJYUd2WDNjRTJIdThRWGRlS0MzWW94d1NJZE5VdWtPT3VTT2VYbW9CcUNCbVdHLWZEM2M4QXA1Q1BZV2t4Mm9SVVM0U0tIS29xQjdBR0RQOG1yQmRXNWN0V3JDSnJkYktjZWVub0Uwbm9YQWIxSE5vdnNGZXRzNTBwSzFfdmE3LUZLcFJocFZaeUx0cmVlSVppUnNZSWxhTEY2NDZrQzJrMXNOd004WGlRMS1odGFWU0lEcWYyMjRaY1gydkxRWHZMSHZyUEZveVRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObFU4LXA2ek5CNHdId1JHX1J3S1FleklvRXF0b1dIbkhCTzVuQXQtYUpjSVdDQWNIWm94bUphOWx6ZDg5TFYzY08xOXZEdXU0Rmw3Ujh0dUVhaWlIZDY1S0JabGxNdUFXbXFoZVpZYlQ2T2pJNU5pZjlPck1LVGpKNXE5R1U0RktKdjNVVm5EQTE5V2tIUHBlRVJHeHpHLXB3LVhQNFpVUDlyRTdSd2JPQ1F1bTZscXYtb0lUa1Y4MmJTYVkwMXhSVFR0LVdoMUNUbmdrcXF4bUp6ZEU?oc=5",
       "source": "G1",
       "published_at": "2026-11-21T18:01:01+00:00",
       "category": "Segurança",
@@ -538,48 +776,6 @@
       "archive": false
     },
     {
-      "id": "dfad4c0cce4bb8e4",
-      "title": "Sacos para cadáveres e guerra contra o wokismo: os primeiros 100 dias do novo presidente da Colômbia",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: sacos para cadáveres e guerra contra o wokismo: os primeiros 100 dias do novo presidente da Colômbia. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/11/sacos-para-cadaveres-e-guerra-contra-o-wokismo-os-primeiros-100-dias-do-novo-presidente-da-colombia.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-21T17:36:00+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "3aa435a8160630f9",
-      "title": "Criança morre de sarampo na Virgínia e EUA chegam a doze mortes pela doença em 2026",
-      "summary": "O veículo VEJA publicou uma atualização sobre: criança morre de sarampo na Virgínia e EUA chegam a doze mortes pela doença em 2026. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/saude/crianca-morre-de-sarampo-na-virginia-e-eua-chegam-a-doze-mortes-pela-doenca-em-2026/",
-      "source": "VEJA",
-      "published_at": "2026-11-21T17:33:20+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "17ff0ac0864e42a3",
-      "title": "Sem previsão de alta, Bolsonaro está na UTI e é alimentado por sonda - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: sem previsão de alta, Bolsonaro está na UTI e é alimentado por sonda - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVDBjbnZoNC1KQ0ExbXluV1p0T2V3Qk53dEc0dFF1X1hlbG9tWk1LQldqdlFfbHl6NUExMnUyUzlpN0xTT0VOSFlSYXZva1dnOG9NeVN3Q2lSZ1UxMFdVa2tVcHhMZVhibVo1SERQNHktWHRZYnpBZDgteExyZTJiMVRPa3FoNDBfSzVJNm5tV0NFRVR0RWRiOFg1UUZkUzd2V09B?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-11-21T17:25:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "cdc294f70a3e8a02",
       "title": "Tem Solução: Racismo ambiental e desigualdade no mercado de trabalho revelam desafios enfrentados pela população negra - G1",
       "summary": "O veículo G1 publicou uma atualização sobre: tem Solução: Racismo ambiental e desigualdade no mercado de trabalho revelam desafios enfrentados pela população negra. Consulte a reportagem para contexto, dados e declarações.",
@@ -590,34 +786,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "a0e8cb3e29ceabbe",
-      "title": "Joe Wallach, um dos executivos que participaram da inauguração da Globo, morre aos 103 anos",
-      "summary": "O veículo G1 publicou uma atualização sobre: joe Wallach, um dos executivos que participaram da inauguração da Globo, morre aos 103 anos. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/11/21/joe-wallach-morre-aos-103-anos.ghtml",
-      "source": "G1",
-      "published_at": "2026-11-21T16:56:54+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0e84e154fbaa590e",
-      "title": "Justiça mantém prisão de professor suspeito de estuprar aluna de 12 anos em escola de Cuité, na PB",
-      "summary": "O veículo G1 publicou uma atualização sobre: justiça mantém prisão de professor suspeito de estuprar aluna de 12 anos em escola de Cuité, na PB. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/21/justica-mantem-prisao-de-professor-suspeito-de-estuprar-aluna-de-12-anos-em-cuite-na-pb.ghtml",
-      "source": "G1",
-      "published_at": "2026-11-21T16:46:40+00:00",
-      "category": "Educação",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -650,16 +818,16 @@
       "archive": false
     },
     {
-      "id": "8b7ae22d8d0e7abe",
-      "title": "Os rivais de Davi Alcolumbre na disputa para emplacar o novo ministro do STF",
+      "id": "daf11845fd3d7365",
+      "title": "Os rivais de Davi Alcolumbre na disputa para emplacar o novo ministro do STF - VEJA",
       "summary": "O veículo VEJA publicou uma atualização sobre: os rivais de Davi Alcolumbre na disputa para emplacar o novo ministro do STF. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://veja.abril.com.br/politica/os-rivais-de-davi-alcolumbre-na-disputa-para-emplacar-o-novo-ministro-do-stf/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbWNsdTFsaWo1bThsRU54MUdIamF2cFJDM3RZdndfWjFhNUdtNnN6TzROVXFGZVlEYWFfcFc5REk0UmtKY05kNUlHUWpjWG96WnljTVVSWmVrcTJGTk5KamNxb1B1Wkt2Zl9ieXpaZ0h6ZTUyR0Y3c0NzcW52bVVUanYxZmw1bU54X3p4SDczMHU1NHMwd0VVeVlPR052R1Z5YVNzVXI2TXNZT1lEa1BpSWxB?oc=5",
       "source": "VEJA",
       "published_at": "2026-11-21T16:43:04+00:00",
       "category": "STF e Justiça",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -674,34 +842,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "14ec08e12dddac12",
-      "title": "Hackers atacaram FBI e Departamento de Agricultura dos EUA, dizem TVs americanas - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: hackers atacaram FBI e Departamento de Agricultura dos EUA, dizem TVs americanas. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFZxTldPUXQzZmN6a1lmU3RCOHo3N1AzWmtxd3dPY2NNSHBNVDVYcHJqTjR0bmtndmxKdXFiZnFJZzdleEJualBaSFVuRkVpQmh5eVB0YVhEQ3h4bUZ5NVpKWjdCR3FPbG1RbmhqWTQtalp0Ylg5WW9KRUN5c203SDllLUlqX1poVGZEUUFsSTc3bU9URHdVcmhoa2FZLUpfMFVj?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-21T16:31:42+00:00",
-      "category": "Internacional",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "67e8b8dbf66712a6",
-      "title": "Lula confirma Janja na coordenação da posse e promete “cair na farra” - Metrópoles",
-      "summary": "O veículo Metrópoles publicou uma atualização sobre: lula confirma Janja na coordenação da posse e promete “cair na farra” - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWkRTSEVOX3FVX0VrMXI4NFpKN1JQTlhXeEJaTTFaLXVHQTg0bkg4SXVOaGRBeEZ5aEgyZGNfZGJXMFFxanFxQ25OclJtQTJxbmJ3ckFJdWtUaXZEZkx1UlpfdFNBQ3ZQcTBqWUJOWElid1duWlZraTlkVE9Lcm9mVm93Y0FlY1d6bTZYcjBLZHBQMy1VUlJlZ0ROVkNoR2JkRjEw?oc=5",
-      "source": "Metrópoles",
-      "published_at": "2026-11-21T16:26:00+00:00",
-      "category": "Política",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -776,20 +916,6 @@
       "archive": false
     },
     {
-      "id": "dbcaa706066a28ee",
-      "title": "Polícia ouve mulher que estava com turista americano em casa noturna antes dele ser perseguido e morto a tiros no Rio",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia ouve mulher que estava com turista americano em casa noturna antes dele ser perseguido e morto a tiros no Rio. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/21/investigacao-turista-estrangeiro-morto-centro-rio.ghtml",
-      "source": "G1",
-      "published_at": "2026-11-21T15:01:21+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "fe6b21952ad84f1e",
       "title": "Gonet analisa relatórios sobre ministros do STF pressionado por sua relação com Vorcaro",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: gonet analisa relatórios sobre ministros do STF pressionado por sua relação com Vorcaro. Consulte a reportagem para contexto, dados e declarações.",
@@ -818,48 +944,6 @@
       "archive": false
     },
     {
-      "id": "2f77965df0188b48",
-      "title": "Turista perseguido e morto na Lapa: polícia tenta identificar vítima e autores do crime; veja o que falta esclarecer - O GLOBO",
-      "summary": "O veículo O GLOBO publicou uma atualização sobre: turista perseguido e morto na Lapa: polícia tenta identificar vítima e autores do crime; veja o que falta esclarecer. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOczg5N3hRNk1LQXVfYW81RkYwbVZIN0xYSXNiNEk5VTlJWWo5Y1BSTzFTdDVnYVVDMTA3SFlPMkNwS3pONDhhblFnNU80NjMyMFVwRlRDQ2VHaEc1Z1phQVREMi13dXotVG85MVNxS3hmcU1TNzBNRXIyNW5LQkZ3TXR5cDhtc2V0NkRQc2JReDAtNGg5Y0hHcHZUaFlBZThlS1BwUFpoSkdVZzNNNEliNG5TT0xXN2R6Y2k4M0dCRVlsWWxoSW81WGR1SnNrMVZTUkl5S2dSeTVyMXJUdEkyb29yTlp0Um90NjMwZDJ2emFZeE1hWFhjbmpKb0HSAYsCQVVfeXFMT09KVmNUbHdmNGpYMV9DQm9qWF8zODNIXzFPYndNaU9KLU9VbHVGQ3Bzd1p2RkpFVW1LWmEtOUNhTUliSzlRNjdEREp2UVk3M3QxSThwa3NyTkVfdzI5YW1zS0dZNXl5UHBDS1JrMlVZMnhOM3lZTHZGVVBIbzdCZGs4V3JfUE56enFYVEpobjZicGNTTl9iRVZLeTVEajlLdExwNllwOFVuTUo1RUc4Wmd5WHN0VklIYUFVSjJqdTNBVnEwMWlveWdJTDNPeXhySW9STmRJWU1sZVBMVFhNbFBWRnMyaFFQZWpCVXQ4Sy11UkdJcE1ZOXlhaFBsVnZRS1J4TXVpSEs0RE9n?oc=5",
-      "source": "O GLOBO",
-      "published_at": "2026-11-21T14:46:57+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d631af8f227a4946",
-      "title": "Polícia Civil investiga morte de homem encontrado em clínica clandestina de idosos em Campo Limpo Paulista",
-      "summary": "O veículo G1 publicou uma atualização sobre: polícia Civil investiga morte de homem encontrado em clínica clandestina de idosos em Campo Limpo Paulista. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/21/policia-civil-investiga-morte-de-homem-encontrado-em-clinica-clandestina-de-idosos-em-campo-limpo-paulista.ghtml",
-      "source": "G1",
-      "published_at": "2026-11-21T14:37:08+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "054ad78208ca57b1",
-      "title": "Corpo de jovem é encontrado em estrada de terra com sinais de violência em Várzea Grande (MT)",
-      "summary": "O veículo G1 publicou uma atualização sobre: corpo de jovem é encontrado em estrada de terra com sinais de violência em Várzea Grande (MT). Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/21/corpo-de-jovem-e-encontrado-em-estrada-de-terra-com-sinais-de-violencia-em-varzea-grande-mt.ghtml",
-      "source": "G1",
-      "published_at": "2026-11-21T14:29:59+00:00",
-      "category": "Segurança",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "0322ca5c3bff2414",
       "title": "PP oferece a Lula base fiel no Congresso e apoio a Alcolumbre - TV Sim Brasil",
       "summary": "O veículo TV Sim Brasil publicou uma atualização sobre: pP oferece a Lula base fiel no Congresso e apoio a Alcolumbre - TV Sim Brasil. Consulte a reportagem para contexto, dados e declarações.",
@@ -874,16 +958,16 @@
       "archive": false
     },
     {
-      "id": "e1cf79e24355d3d0",
-      "title": "Moraes autoriza visita de filhos de Bolsonaro no hospital; ex-presidente está na UTI",
+      "id": "a9b5ec0448472c4d",
+      "title": "Moraes autoriza visita de filhos de Bolsonaro no hospital; ex-presidente está na UTI - Folha de S.Paulo",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: moraes autoriza visita de filhos de Bolsonaro no hospital; ex-presidente está na UTI. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/defesa-de-bolsonaro-pede-para-moraes-autorizar-visitas-diarias-de-filhos-no-hospital.shtml",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVm9qS3Rtd1NlX21fUmRJMnJrT0NYVVNnelZYQTVPRXpxSXFramdfOXRPTW1UQVp2VVdzRDl3LWhKY3k0TmhreVZiOTZ4UHJ4M3M0UHZ3U0lDTHVkTzFPMTlMcVhMdVlpRThNMXdFay16ZzZ2eGd2SzREdWh4VXF6ank4UGNZQVFZWE1ZVUFlb0FmTzc5VXVQcnlfaE1KNVBEcmNER25FU3hCaTFvcXByM2tJLUREY1kyZEIxM1FiN053dm9jVGM3LTczeVdLNjA?oc=5",
       "source": "Folha de S.Paulo",
       "published_at": "2026-11-21T13:59:00+00:00",
       "category": "Saúde",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1014,20 +1098,6 @@
       "archive": false
     },
     {
-      "id": "ad87097f5c725c2a",
-      "title": "Bolsonaro segue em UTI em estado estável, mas sem previsão de alta, informa hospital - Estadão",
-      "summary": "O veículo Estadão publicou uma atualização sobre: bolsonaro segue em UTI em estado estável, mas sem previsão de alta, informa hospital. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSnNlY2pyQjl3cmZ3dUphMDJqR1VPUUFBY0Z0Y0x5bzh6N1Y3cGdlRk4xeURVVHpFRzg2VktVQnpJdlNCVy1wek1KeWZJbnowX3EzMzJtUzRtOFZnekkzWEVpZW5RT01vc3VQME95YWRBTE1lb25WSXlPR0ZFUFBQRmpSb1M4NnNpMUZTdDBGNG5BUdIBlwFBVV95cUxNUnNJXzFwcTJwZ1RoNlptOGNteXNza1JrLWZVTld1cHVuanhyVUZtX3AzaGJKczhlSWNOYmJzT2ROSGlMaDZRZnEyUURBekwtZ2VzbVc4T2J1dm9sYTBIcktYMDRUR0FiLU51ZDFYc1hDbnRNN0t6Y2h6eDdBNGR3aHdBZEthcnpHMmpuSklrYi0wb3hIU0xJ?oc=5",
-      "source": "Estadão",
-      "published_at": "2026-11-21T10:28:00+00:00",
-      "category": "Saúde",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "2f6c4f9194bebc93",
       "title": "Projeto de lei que pode comprometer remuneração de artistas e compositores avança na Câmara - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: projeto de lei que pode comprometer remuneração de artistas e compositores avança na Câmara. Consulte a reportagem para contexto, dados e declarações.",
@@ -1056,20 +1126,6 @@
       "archive": false
     },
     {
-      "id": "8e87671a7e2c9777",
-      "title": "Senadores ainda defendem PEC que regulamenta fim da 6x1, apesar de decreto e portarias do governo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: senadores ainda defendem PEC que regulamenta fim da 6x1, apesar de decreto e portarias do governo. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/senadores-ainda-defendem-pec-que-regulamenta-fim-da-6x1-apesar-de-decreto-e-portarias-do-governo.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-21T09:00:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "f1301e5aa1dc1211",
       "title": "'Carros voadores': ministério fará consulta pública sobre a chegada dos eVTOLs no Brasil - O GLOBO",
       "summary": "O veículo O GLOBO publicou uma atualização sobre: 'Carros voadores': ministério fará consulta pública sobre a chegada dos eVTOLs no Brasil. Consulte a reportagem para contexto, dados e declarações.",
@@ -1091,34 +1147,6 @@
       "source": "O GLOBO",
       "published_at": "2026-11-21T07:00:00+00:00",
       "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "e162a2593589a669",
-      "title": "Câmara envia ao Senado projeto que revoga Lei de Alienação Parental - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: câmara envia ao Senado projeto que revoga Lei de Alienação Parental. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0tLNkpwU0FaaWdBMmhMTVJ1TGRQWkdlZjcxbFZtX3FlLTNoY1k4cHZyZWY5NEIzNnBDdjRSQ1NHU0JkMFh5SXd5d0gzaklabEJPNDV3NUNwWkJ1VjFsUlBPTEo3ckRfbXh1NjNCT3pUcUtnem1zb2h6N1B0QTc4czN0akstQXJjRmRqSjA3THhrYzVOZml6SF9MYmFKX1F4NHk0Q0RnbHdjZ2JnbGhjRVBidWE0WnZu?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-21T07:00:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "d46610d151a280f1",
-      "title": "Comissão do PT que organiza posse de Lula avalia transferir gastos de festival para governo e criar feriado - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: comissão do PT que organiza posse de Lula avalia transferir gastos de festival para governo e criar feriado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQ2pPX1g4RXRPM2YxQ3hEa2gwS3dFREt4ZS1WLVhkd3M2emxMZDF1U29Eam5DZVh1RlJxX2lRU0U2cXkzNkMxR3dkYUJNQkZzdHdtcUg5dW9HME92Y0xZNXoxU3B4azJSb1JOVDVfdXRVeEtBZmtkenlfQjlBVks3NHkwVFdnTXNuMVBBTnRkaUhQVDhZeEtQYS0yWXYyemVkZmVOU0dyS2hRYUdmcUZKY2c3SFJOU2Q1bDhYOGx0Y0tkYi1Qa0twTG0xWGZnM01nSFNaTzhsWFRfNVNkX05xUnJ3aHJHTFdjYlEzQVh3?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-21T07:00:00+00:00",
-      "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
@@ -1182,20 +1210,6 @@
       "archive": false
     },
     {
-      "id": "848acbcb598ec38e",
-      "title": "Lula perde tempo brigando com o mercado",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: lula perde tempo brigando com o mercado. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/lula-perde-tempo-brigando-com-o-mercado.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-20T23:00:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "d1031e34f25f6630",
       "title": "Tarcísio de Freitas aciona o STF para visitar Jair Bolsonaro em meio a acusação de traição a Flávio",
       "summary": "O veículo VEJA publicou uma atualização sobre: tarcísio de Freitas aciona o STF para visitar Jair Bolsonaro em meio a acusação de traição a Flávio. Consulte a reportagem para contexto, dados e declarações.",
@@ -1224,20 +1238,6 @@
       "archive": false
     },
     {
-      "id": "13d10e6f281792cf",
-      "title": "Não vejo problema, mas não resolve a questão, diz Gilmar sobre abertura de sigilo do STF no caso Master - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: não vejo problema, mas não resolve a questão, diz Gilmar sobre abertura de sigilo do STF no caso Master. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX1hZWFozWEpXUGZEU1dkU2c4UW9rY0FFS2RuMWZjUjE1TEE1UGw1YXhGU2VMd0tVVzFLV01ZTXhnc0dHeHF5b05hM1FldHhFbjRWVnVhTkMyZkJjYzl1TjdUZElCel93Y05FSHhVMFNUZF8zWGpmWmNUZ2hjSm55azNJaFNleUpkUHVhOFBSbEx3YkhlRkpRd1dDdGo2eFg3Q2NSeE1nbVJYOHM1LXZjZ09WY2lJYm1FdTQySFdYQTI4NzhxQ3c4a29CSlhNMEYyUktZNlFWSnE3X2ZNaDRMc25aTzhNQQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-20T22:15:00+00:00",
-      "category": "STF e Justiça",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "ef7dbec7942e13ba",
       "title": "PP leva ao PT proposta a Lula que coloca Aguinaldo em ministério - Sony Lacerda",
       "summary": "O veículo Sony Lacerda publicou uma atualização sobre: pP leva ao PT proposta a Lula que coloca Aguinaldo em ministério - Sony Lacerda. Consulte a reportagem para contexto, dados e declarações.",
@@ -1262,20 +1262,6 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
-      "id": "0a8a5dc6dc8ef17b",
-      "title": "Alice Huang, suspeita de espionagem na Nvidia, tem parentes ligados à indústria militar da China",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: alice Huang, suspeita de espionagem na Nvidia, tem parentes ligados à indústria militar da China. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/alice-huang-suspeita-de-espionagem-na-nvidia-tem-parentes-ligados-a-industria-militar-da-china.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-20T21:12:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
       "curated": false,
       "archive": false
     },
@@ -1350,20 +1336,6 @@
       "archive": false
     },
     {
-      "id": "a52a63b84efdbc5a",
-      "title": "Michelle Bolsonaro disse ficar feliz por ter uma mulher candidata no Senado, afirma Tereza Cristina",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: michelle Bolsonaro disse ficar feliz por ter uma mulher candidata no Senado, afirma Tereza Cristina. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/poder/2026/11/michelle-bolsonaro-disse-ficar-feliz-por-ter-uma-mulher-candidata-no-senado-afirma-tereza-cristina.shtml",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-20T16:37:00+00:00",
-      "category": "Câmara e Senado",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": false,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "a9b24cbd0c59df2d",
       "title": "Trabalhadores e estudantes protestam por salários e serviços na Itália",
       "summary": "O veículo Agência Brasil publicou uma atualização sobre: trabalhadores e estudantes protestam por salários e serviços na Itália. Consulte a reportagem para contexto, dados e declarações.",
@@ -1420,20 +1392,6 @@
       "archive": false
     },
     {
-      "id": "aa7605cf434ea481",
-      "title": "Black Friday nos EUA coloca gastos do consumidor no foco em mercado abalado pela IA - Folha de S.Paulo",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: black Friday nos EUA coloca gastos do consumidor no foco em mercado abalado pela IA. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclppbWlNSzZxUTAwQnBPby1XN2VHcUg3Qzd6eXRLbHRGZ2UzN2ZvOHVaRUl5cVllUFZ3SlBibVNLaVBweG9MQm5KRUU2NjVDcklHYWs1dTN1emx5d1h5ZFZ1ZUdzWk1tbFRjaE5jUUxWSTZzZGQyeTdCamdjSGdiZEZkVjNxLTNvRi01Z3FCSzM4MUxzT1NnSkdEZlNqdDhxZDhUWFpINlZtRFlGVTQzUTdGX2xGakFJazQzM3pPMmo4aVFoX1VlLUlZandvcnJW?oc=5",
-      "source": "Folha de S.Paulo",
-      "published_at": "2026-11-20T13:05:00+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "7715573b70852873",
       "title": "Greve reúne milhares de trabalhadores e estudantes em protestos na Itália - Metrópoles",
       "summary": "O veículo Metrópoles publicou uma atualização sobre: greve reúne milhares de trabalhadores e estudantes em protestos na Itália - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
@@ -1476,16 +1434,44 @@
       "archive": false
     },
     {
-      "id": "9c6233545987beae",
-      "title": "Governo ainda precisa encontrar espaço no Orçamento para R$ 20 bi de promessas de campanha, diz IFI",
-      "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: governo ainda precisa encontrar espaço no Orçamento para R$ 20 bi de promessas de campanha, diz IFI. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-ainda-precisa-encontrar-espaco-no-orcamento-para-r-20-bi-de-promessas-de-campanha-diz-ifi.shtml",
-      "source": "Folha de S.Paulo",
+      "id": "27dda322f2262de9",
+      "title": "Senadores propõem prorrogar suspensão da dívida do RS por até 12 meses - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: senadores propõem prorrogar suspensão da dívida do RS por até 12 meses - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGNTNnoyaEFNbWxWLW15UmljbnhfcWFhZTB0a3pkak1uTENYQjNDTzZ6VjFkSTNTakxral8zNmYzQmlULWhsVjZLRnhDRnN3ZFNLNnZrMjZ0SWk1RUtHYTd6Y0VSSEZEZmtmWEd0M1l1d1JfQ0FRRXpNV09UcmphaGRYTmd5WE5TRkxmOVd0djdXeXRZMDlsbk55R2Q3UHdpT1lvZ3VYc2ZEX2JidjVWMW9PU0k1d1FaY1dIRw?oc=5",
+      "source": "Metrópoles",
       "published_at": "2026-11-20T07:00:00+00:00",
-      "category": "Endividamento",
+      "category": "Câmara e Senado",
       "candidate": null,
       "election_type": null,
-      "via_aggregator": false,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "0b94bdafbc55417d",
+      "title": "Os dois votos do PL que Rogério Marinho já considera perdidos na disputa pela presidência do Senado - O GLOBO",
+      "summary": "O veículo O GLOBO publicou uma atualização sobre: os dois votos do PL que Rogério Marinho já considera perdidos na disputa pela presidência do Senado. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQkVVcjBWU0F6NjRVREN3aWhvd1J2OF9xQ1VIQWllbkpET0R3RThYd04yVnVVM2d2TDRxNThTZGdEemw5ejVPX1VuSm96RHdiTmExZTYwNFg4a1Fqc0tVVmVKeE1QQ1BnWU02Y21MbzRwOEVscmVNZ0ZDeWRmMmNkdVB6bmV5Z1p4aWpYQWptQXFBdVExc2ZzNy1ibE85czRyUzBPeWtfOEpFTE04Q3hIZFF6M1BKNEZ0QVBlVXRnc1FtTTFnMXM2eHJPN1pWbjdLcFNzVU5UbnI5S1ZObWs4VGdqQkcwblRSSGtBMnlOcUtocEXSAYICQVVfeXFMUFJYX3ozdEFpR29fd2xwVllHN2dZbUxWWXdtY1A0N2tSWUZHajJVOExIWUIxWEN0S0s0N1ZUT0ZpdE84UlplRFdnbEtyWjVfU1pFMnZ1WmRWSWo0WjEtWmx5MkV2MXVwQzZoQWl2SkxOc0ZEcjJzVlMza2NvZG9XTjExZk9GX3oxUVZSdFhzT0ZsVVhoNUNaYkJGRTJtMS1GS3ZWLTdsd21obFV3a0g2eGMwd1NOc0dkUHRmZEtLSDV5bjN4MnVPTF9fQzBrRmdoV3p6Zzlqc1Znd3g1ZG8xdGJmUjF4Z3hfYzRqc0JqUDFfeHgyWXdnM3Q0Vno5SjFuN29R?oc=5",
+      "source": "O GLOBO",
+      "published_at": "2026-11-20T07:00:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "2636de45bb07bc1f",
+      "title": "Senado terá recorde de parlamentares negros em 2027; Câmara sofrerá redução - Metrópoles",
+      "summary": "O veículo Metrópoles publicou uma atualização sobre: senado terá recorde de parlamentares negros em 2027; Câmara sofrerá redução - Metrópoles. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjcxV1o2bmZvVlYwbVc2SG9MODExWUI0bTFBS19fbHNBcklMZjlxQnlrVFRDZ0FaSUZrMWs5alQwdmNsU2pwLTU4TXktYklGTDBmRDEzQVFpX2lnU1hVMy1uNTV1Zk9fM3BDOTh2TFc3cWJ0ay1HcHowYzJleHprNFJPazFja2MySU1kYUFiS2I5YWJCVTlUejZiTEh2UDgwdTY0Tl82WlVOSTFV?oc=5",
+      "source": "Metrópoles",
+      "published_at": "2026-11-20T05:30:00+00:00",
+      "category": "Câmara e Senado",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
@@ -1675,7 +1661,7 @@
   "source_health": {
     "G1": {
       "status": "ok",
-      "items": 15
+      "items": 22
     },
     "G1 · Economia": {
       "status": "ok",
@@ -1683,11 +1669,11 @@
     },
     "Folha de S.Paulo": {
       "status": "ok",
-      "items": 27
+      "items": 32
     },
     "VEJA": {
       "status": "ok",
-      "items": 10
+      "items": 9
     },
     "The New York Times": {
       "status": "ok",
@@ -1722,9 +1708,8 @@
       "items": 10
     },
     "Agência Câmara": {
-      "status": "erro",
-      "items": 0,
-      "detail": "URLError: <urlopen error timed out>"
+      "status": "ok",
+      "items": 20
     },
     "Agência Senado": {
       "status": "ok",
@@ -1732,7 +1717,7 @@
     },
     "Metrópoles · Brasil": {
       "status": "ok",
-      "items": 30
+      "items": 32
     },
     "Metrópoles · Mundo": {
       "status": "ok",
@@ -1744,23 +1729,23 @@
     },
     "O Globo": {
       "status": "ok",
-      "items": 45
+      "items": 41
     },
     "Estadão": {
       "status": "ok",
-      "items": 18
+      "items": 13
     },
     "G1 · Busca alternativa": {
       "status": "ok",
-      "items": 26
+      "items": 21
     },
     "Folha · Busca alternativa": {
       "status": "ok",
-      "items": 34
+      "items": 32
     },
     "VEJA · Busca alternativa": {
       "status": "ok",
-      "items": 43
+      "items": 40
     },
     "Eleições · Lula": {
       "status": "ok",
@@ -1768,7 +1753,7 @@
     },
     "Eleições · Flávio": {
       "status": "ok",
-      "items": 19
+      "items": 18
     }
   },
   "notes": [
