@@ -368,20 +368,6 @@
       "archive": false
     },
     {
-      "id": "c9f6e69051d97490",
-      "title": "Alice Huang, caso de ex-CEO da Nvidia, conectava empresas e abastecia mercado clandestino de chips - c-level.folha.uol.com.br",
-      "summary": "O veículo c-level.folha.uol.com.br publicou uma atualização sobre: alice Huang, caso de ex-CEO da Nvidia, conectava empresas e abastecia mercado clandestino de chips - c-level.folha.uol.com.br. Consulte a reportagem para contexto, dados e declarações.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNkRmc3lmSFhaSXFWQVo4b1hzYVJ5Y0dYeGU1dEZDTld0c0txakl5Ynh4VkZQR25yS0ZZTmYtSWMxMFVmWnRoZ1IyQTRWQmdxYm93RjQyZjJWR0N3TXRMVG13UHkzVkc0T3VDRWpQVVVFQ3pheFhEZTdVaTc1S3NFNGpxd1ZwMlNLRURnaE9YYjJwLWN5bEdiMExUSTF5TG5lOFQ3dUItakxyMlQwSUFqcnJLSXUxSnhzV29FMUx6M3RRNmhib0ZQdXNHR29tc19yeGRmajZRbHRWMERyUWtr?oc=5",
-      "source": "c-level.folha.uol.com.br",
-      "published_at": "2026-11-21T23:00:24+00:00",
-      "category": "Economia",
-      "candidate": null,
-      "election_type": null,
-      "via_aggregator": true,
-      "curated": false,
-      "archive": false
-    },
-    {
       "id": "47f0c11c3e9e9cc7",
       "title": "OAB-SP alerta STF que pejotização pode gerar perdas de R$ 200 bi por ano",
       "summary": "O veículo Folha de S.Paulo publicou uma atualização sobre: oAB-SP alerta STF que pejotização pode gerar perdas de R$ 200 bi por ano. Consulte a reportagem para contexto, dados e declarações.",
@@ -714,6 +700,20 @@
       "candidate": null,
       "election_type": null,
       "via_aggregator": false,
+      "curated": false,
+      "archive": false
+    },
+    {
+      "id": "c9f6e69051d97490",
+      "title": "Alice Huang, caso de ex-CEO da Nvidia, conectava empresas e abastecia mercado clandestino de chips - c-level.folha.uol.com.br",
+      "summary": "O veículo c-level.folha.uol.com.br publicou uma atualização sobre: alice Huang, caso de ex-CEO da Nvidia, conectava empresas e abastecia mercado clandestino de chips - c-level.folha.uol.com.br. Consulte a reportagem para contexto, dados e declarações.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNkRmc3lmSFhaSXFWQVo4b1hzYVJ5Y0dYeGU1dEZDTld0c0txakl5Ynh4VkZQR25yS0ZZTmYtSWMxMFVmWnRoZ1IyQTRWQmdxYm93RjQyZjJWR0N3TXRMVG13UHkzVkc0T3VDRWpQVVVFQ3pheFhEZTdVaTc1S3NFNGpxd1ZwMlNLRURnaE9YYjJwLWN5bEdiMExUSTF5TG5lOFQ3dUItakxyMlQwSUFqcnJLSXUxSnhzV29FMUx6M3RRNmhib0ZQdXNHR29tc19yeGRmajZRbHRWMERyUWtr?oc=5",
+      "source": "c-level.folha.uol.com.br",
+      "published_at": "2026-11-21T20:16:00+00:00",
+      "category": "Economia",
+      "candidate": null,
+      "election_type": null,
+      "via_aggregator": true,
       "curated": false,
       "archive": false
     },
